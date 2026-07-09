@@ -1,1 +1,0 @@
-Farmaneva urun gorselleri
