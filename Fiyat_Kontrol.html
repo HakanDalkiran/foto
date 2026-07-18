@@ -46,6 +46,7 @@ label.kl{display:flex;gap:3px;align-items:center;font-size:10px;color:#789;flex:
 <header><h1>💰 Farmaneva Fiyat Kontrol</h1>
 <input id=q type=search placeholder="Ürün / barkod ara..." oninput=filtrele()>
 <label class=f><input type=checkbox id=s0 checked onchange=filtrele()> Stok 0'ları gizle</label>
+<label class=f><input type=checkbox id=se onchange=filtrele()> 🔒 Sadece elleme</label>
 <button class="btn btnx" onclick=disaAktar()>⬇️ Dışa Aktar</button>
 <button class=btn onclick=temizle()>Sıfırla</button>
 <span class=say id=ozet></span></header>
@@ -77,17 +78,17 @@ function satir(u){
    <div class=info><div class=ad>${esc(u.ad)}</div><div class=alt>${u.b} <span class="roz ${u.stok?'':'yok'}">${u.stok?u.stok+' adet':'stok yok'}</span></div></div>
    <div class=fx>${inp}</div><button class=frm title="Alış'tan formülle hesapla" onclick=formul("${u.b}")>⚙</button>
    <label class=kl title="İşaretli ürün liste-bazlı toplu güncellemeden korunur (stok/fiyat değişmez, stok sıfırlanmaz). Elle düzenleme serbest."><input type=checkbox ${kf(u)?'checked':''} onchange=kilitle("${u.b}",this.checked)>🔒 elleme</label></div>`}
-function uygunMu(k,q,g){return k.dataset.ad.includes(q)&&(!g||+k.dataset.s>0)}
+function uygunMu(k,q,g,e){return k.dataset.ad.includes(q)&&(!g||+k.dataset.s>0)&&(!e||k.classList.contains('kilitli'))}
 function render(){
   const L=document.getElementById('liste');L.innerHTML='';
   let i=0;
   (function blok(){
-    const q=document.getElementById('q').value.toLowerCase(),g=document.getElementById('s0').checked;
+    const q=document.getElementById('q').value.toLowerCase(),g=document.getElementById('s0').checked,e=document.getElementById('se').checked;
     const bas=L.children.length;let h='';
     for(let n=0;n<150&&i<DATA.length;n++,i++)h+=satir(DATA[i]);
     L.insertAdjacentHTML('beforeend',h);
     for(let j=bas;j<L.children.length;j++){const k=L.children[j];
-      if(!uygunMu(k,q,g))k.style.display='none'}
+      if(!uygunMu(k,q,g,e))k.style.display='none'}
     if(i<DATA.length)setTimeout(blok,0);
     else{sayim();degsay()}
   })()}
@@ -95,7 +96,9 @@ function buyut(e){document.getElementById('bi').src=e.src;document.getElementByI
 function kilitle(b,ac){let u=DATA.find(x=>x.b==b);
   if(!!ac===!!u.e)delete kilit[b];else kilit[b]=ac?1:0;
   kaydet();
-  let el=document.querySelector('.u[data-b="'+b+'"]');if(el)el.classList.toggle('kilitli',!!ac);degsay()}
+  let el=document.querySelector('.u[data-b="'+b+'"]');if(el)el.classList.toggle('kilitli',!!ac);
+  if(document.getElementById('se').checked)filtrele();
+  degsay()}
 function degis(el){let b=el.dataset.b,k=el.dataset.k,u=DATA.find(x=>x.b==b),val=el.value;
   deg[b]=deg[b]||{};
   if(val===u.f[k]){delete deg[b][k];if(!Object.keys(deg[b]).length)delete deg[b]}else deg[b][k]=val;
@@ -113,8 +116,8 @@ function formul(b){let u=DATA.find(x=>x.b==b);
   // satırı yeniden çiz
   let el=document.querySelector('.u[data-b="'+b+'"]');if(el){let t=document.createElement('div');t.innerHTML=satir(u);el.replaceWith(t.firstChild)}
   degsay()}
-function filtrele(){let q=document.getElementById('q').value.toLowerCase(),g=document.getElementById('s0').checked;
-  document.querySelectorAll('.u').forEach(k=>{k.style.display=uygunMu(k,q,g)?'':'none'});sayim()}
+function filtrele(){let q=document.getElementById('q').value.toLowerCase(),g=document.getElementById('s0').checked,e=document.getElementById('se').checked;
+  document.querySelectorAll('.u').forEach(k=>{k.style.display=uygunMu(k,q,g,e)?'':'none'});sayim()}
 function sayim(){let n=0;document.querySelectorAll('.u').forEach(k=>{if(k.style.display!=='none')n++});
   document.getElementById('ozet').textContent=n+' / '+DATA.length+' ürün'}
 function degsay(){let nk=DATA.filter(kf).length;
