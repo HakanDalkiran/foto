@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Farmaneva | 4 urun | uretim 2026-08-07 11:38:04 -->
+<Products>
+  <Product>
+    <Product_code>TEST0001</Product_code>
+    <Barcode>9990000000011</Barcode>
+    <Name>TEST 1 - Alan Eslemesi Denemesi</Name>
+    <Brand>TESTMARKA</Brand>
+    <Tax>10</Tax>
+    <Stock>7</Stock>
+    <Miad>01/06/2027</Miad>
+    <Price1>101.11</Price1>
+    <Price2>102.22</Price2>
+    <Price3>103.33</Price3>
+    <Price4>104.44</Price4>
+    <Price5>105.55</Price5>
+    <Price6>106.66</Price6>
+    <Price7>107.77</Price7>
+    <Price8>108.88</Price8>
+    <CurrencyType>TRL</CurrencyType>
+  </Product>
+  <Product>
+    <Product_code>TEST0002</Product_code>
+    <Barcode>9990000000028</Barcode>
+    <Name>TEST 2 - KDV 1 ve Miadsiz</Name>
+    <Brand>TESTMARKA</Brand>
+    <Tax>1</Tax>
+    <Stock>13</Stock>
+    <Miad>Miadsız Ürün</Miad>
+    <Price1>201.11</Price1>
+    <Price2>202.22</Price2>
+    <Price3>203.33</Price3>
+    <Price4>204.44</Price4>
+    <Price5>205.55</Price5>
+    <Price6>206.66</Price6>
+    <Price7>207.77</Price7>
+    <Price8>208.88</Price8>
+    <CurrencyType>TRL</CurrencyType>
+  </Product>
+  <Product>
+    <Product_code>TEST0003</Product_code>
+    <Barcode>9990000000035</Barcode>
+    <Name>TEST 3 - Stok Sifir</Name>
+    <Brand>TESTMARKA</Brand>
+    <Tax>20</Tax>
+    <Stock>0</Stock>
+    <Miad>01/12/2026</Miad>
+    <Price1>301.11</Price1>
+    <Price2>302.22</Price2>
+    <Price3>303.33</Price3>
+    <Price4>304.44</Price4>
+    <Price5>305.55</Price5>
+    <Price6>306.66</Price6>
+    <Price7>307.77</Price7>
+    <Price8>308.88</Price8>
+    <CurrencyType>TRL</CurrencyType>
+  </Product>
+  <Product>
+    <Product_code>TEST0004</Product_code>
+    <Barcode>9990000000042</Barcode>
+    <Name>TEST 4 - Yuksek Stok</Name>
+    <Brand>TESTMARKA</Brand>
+    <Tax>10</Tax>
+    <Stock>250</Stock>
+    <Miad>01/03/2028</Miad>
+    <Price1>401.11</Price1>
+    <Price2>402.22</Price2>
+    <Price3>403.33</Price3>
+    <Price4>404.44</Price4>
+    <Price5>405.55</Price5>
+    <Price6>406.66</Price6>
+    <Price7>407.77</Price7>
+    <Price8>408.88</Price8>
+    <CurrencyType>TRL</CurrencyType>
+  </Product>
+</Products>
