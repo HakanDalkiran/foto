@@ -15443,8 +15443,8 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
-<Miad>01/01/2028</Miad>
+<Stock>223</Stock>
+<Miad>01/09/2026</Miad>
 <Price>725.90</Price>
 <Price2>1102.64</Price2>
 <Price3>798.49</Price3>
@@ -15668,7 +15668,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>53</Stock>
 <Miad>01/03/2027</Miad>
 <Price>925.00</Price>
 <Price2>1375.11</Price2>
@@ -16233,7 +16233,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -18856,16 +18856,16 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Boyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>204.90</Price>
-<Price2>389.66</Price2>
-<Price3>225.39</Price3>
-<Price4>229.49</Price4>
-<Price5>229.49</Price5>
-<Price6>229.49</Price6>
-<Price7>389.66</Price7>
-<Price8>389.66</Price8>
+<Price>144.90</Price>
+<Price2>307.55</Price2>
+<Price3>159.39</Price3>
+<Price4>162.29</Price4>
+<Price5>162.29</Price5>
+<Price6>162.29</Price6>
+<Price7>307.55</Price7>
+<Price8>307.55</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-nutrisse-yogun-besleyici-kalici-krem-sac-boyasi-altin-kahverengi-4-3-8812.jpg</Image1>
@@ -33017,7 +33017,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Form & Diyet]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>01/04/2028</Miad>
 <Price>639.90</Price>
 <Price2>984.95</Price2>
@@ -43916,7 +43916,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>56</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>334.90</Price>
 <Price2>567.56</Price2>
@@ -59773,7 +59773,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>87</Stock>
+<Stock>86</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1498.90</Price>
 <Price2>2160.49</Price2>
@@ -62029,14 +62029,14 @@
 <Tax>20</Tax>
 <Stock>76</Stock>
 <Miad>01/01/2028</Miad>
-<Price>579.60</Price>
-<Price2>902.43</Price2>
-<Price3>637.56</Price3>
-<Price4>649.15</Price4>
-<Price5>649.15</Price5>
-<Price6>649.15</Price6>
-<Price7>902.43</Price7>
-<Price8>902.43</Price8>
+<Price>578.90</Price>
+<Price2>901.47</Price2>
+<Price3>636.79</Price3>
+<Price4>648.37</Price4>
+<Price5>648.37</Price5>
+<Price6>648.37</Price6>
+<Price7>901.47</Price7>
+<Price8>901.47</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -62079,14 +62079,14 @@
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>01/08/2028</Miad>
-<Price>583.89</Price>
-<Price2>908.30</Price2>
-<Price3>642.28</Price3>
-<Price4>653.96</Price4>
-<Price5>653.96</Price5>
-<Price6>653.96</Price6>
-<Price7>908.30</Price7>
-<Price8>908.30</Price8>
+<Price>583.69</Price>
+<Price2>908.03</Price2>
+<Price3>642.06</Price3>
+<Price4>653.73</Price4>
+<Price5>653.73</Price5>
+<Price6>653.73</Price6>
+<Price7>908.03</Price7>
+<Price8>908.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -65598,7 +65598,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>184.90</Price>
 <Price2>362.29</Price2>
