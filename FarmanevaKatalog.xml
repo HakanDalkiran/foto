@@ -25750,7 +25750,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Baskül]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>3799.90</Price>
 <Price2>5309.41</Price2>
@@ -32789,7 +32789,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>63.90</Price>
 <Price2>196.70</Price2>
@@ -50029,16 +50029,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>01/02/2027</Miad>
-<Price>545.45</Price>
-<Price2>855.70</Price2>
-<Price3>600.00</Price3>
-<Price4>610.90</Price4>
-<Price5>610.90</Price5>
-<Price6>610.90</Price6>
-<Price7>855.70</Price7>
-<Price8>855.70</Price8>
+<Stock>398</Stock>
+<Miad>Miadsız Ürün</Miad>
+<Price>449.90</Price>
+<Price2>724.94</Price2>
+<Price3>494.89</Price3>
+<Price4>503.89</Price4>
+<Price5>503.89</Price5>
+<Price6>503.89</Price6>
+<Price7>724.94</Price7>
+<Price8>724.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-2-devam-sutu-400-gr-10382.jpg</Image1>
@@ -52177,16 +52177,16 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>01/07/2030</Miad>
-<Price>366.90</Price>
-<Price2>611.35</Price2>
-<Price3>403.59</Price3>
-<Price4>410.93</Price4>
-<Price5>410.93</Price5>
-<Price6>410.93</Price6>
-<Price7>611.35</Price7>
-<Price8>611.35</Price8>
+<Stock>69</Stock>
+<Miad>01/09/2026</Miad>
+<Price>344.90</Price>
+<Price2>581.25</Price2>
+<Price3>379.39</Price3>
+<Price4>386.29</Price4>
+<Price5>386.29</Price5>
+<Price6>386.29</Price6>
+<Price7>581.25</Price7>
+<Price8>581.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sudocrem-bebek-bakim-kremi-125-gr-10455.jpg</Image1>
@@ -57049,8 +57049,8 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>01/12/2028</Miad>
+<Stock>2</Stock>
+<Miad>01/12/2026</Miad>
 <Price>1343.00</Price>
 <Price2>1947.15</Price2>
 <Price3>1477.30</Price3>
@@ -61490,14 +61490,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>01/02/2029</Miad>
-<Price>688.90</Price>
-<Price2>1052.01</Price2>
-<Price3>757.79</Price3>
-<Price4>771.57</Price4>
-<Price5>771.57</Price5>
-<Price6>771.57</Price6>
-<Price7>1052.01</Price7>
-<Price8>1052.01</Price8>
+<Price>729.90</Price>
+<Price2>1108.12</Price2>
+<Price3>802.89</Price3>
+<Price4>817.49</Price4>
+<Price5>817.49</Price5>
+<Price6>817.49</Price6>
+<Price7>1108.12</Price7>
+<Price8>1108.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -61811,14 +61811,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>01/04/2029</Miad>
-<Price>699.96</Price>
-<Price2>1067.15</Price2>
-<Price3>769.96</Price3>
-<Price4>783.96</Price4>
-<Price5>783.96</Price5>
-<Price6>783.96</Price6>
-<Price7>1067.15</Price7>
-<Price8>1067.15</Price8>
+<Price>728.80</Price>
+<Price2>1106.61</Price2>
+<Price3>801.68</Price3>
+<Price4>816.26</Price4>
+<Price5>816.26</Price5>
+<Price6>816.26</Price6>
+<Price7>1106.61</Price7>
+<Price8>1106.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -62447,7 +62447,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>1</Stock>
 <Miad>01/05/2029</Miad>
 <Price>197.90</Price>
 <Price2>380.08</Price2>
@@ -62519,7 +62519,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>82</Stock>
+<Stock>77</Stock>
 <Miad>01/05/2029</Miad>
 <Price>284.40</Price>
 <Price2>498.45</Price2>
@@ -65578,7 +65578,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>184.90</Price>
 <Price2>362.29</Price2>
