@@ -4267,7 +4267,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/12/2026</Miad>
 <Price>587.90</Price>
 <Price2>913.79</Price2>
@@ -10771,8 +10771,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>40</Stock>
+<Miad>01/09/2027</Miad>
 <Price>439.90</Price>
 <Price2>711.25</Price2>
 <Price3>483.89</Price3>
@@ -15443,7 +15443,7 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>1</Tax>
-<Stock>223</Stock>
+<Stock>224</Stock>
 <Miad>01/09/2026</Miad>
 <Price>725.90</Price>
 <Price2>1102.64</Price2>
@@ -66398,7 +66398,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>959.90</Price>
 <Price2>1422.87</Price2>
