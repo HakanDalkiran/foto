@@ -17870,7 +17870,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>121.90</Price>
 <Price2>276.07</Price2>
@@ -63699,8 +63699,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>01/11/2028</Miad>
+<Stock>1</Stock>
+<Miad>01/10/2026</Miad>
 <Price>778.00</Price>
 <Price2>1173.94</Price2>
 <Price3>855.80</Price3>
@@ -65137,7 +65137,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>7</Stock>
 <Miad>01/10/2027</Miad>
 <Price>817.90</Price>
 <Price2>1228.55</Price2>
@@ -65762,7 +65762,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>30</Stock>
+<Stock>31</Stock>
 <Miad>01/01/2027</Miad>
 <Price>1149.90</Price>
 <Price2>1682.89</Price2>
