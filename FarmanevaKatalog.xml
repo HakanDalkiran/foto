@@ -32508,7 +32508,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>141.40</Price>
 <Price2>302.76</Price2>
@@ -39551,8 +39551,8 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
-<Miad>01/11/2026</Miad>
+<Stock>0</Stock>
+<Miad>01/11/2027</Miad>
 <Price>174.90</Price>
 <Price2>348.60</Price2>
 <Price3>192.39</Price3>
@@ -65549,7 +65549,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>58</Stock>
 <Miad>01/11/2026</Miad>
 <Price>328.80</Price>
 <Price2>559.21</Price2>
