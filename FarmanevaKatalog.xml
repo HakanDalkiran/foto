@@ -12875,7 +12875,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>18</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -55033,7 +55033,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>01/12/2026</Miad>
 <Price>257.90</Price>
 <Price2>462.19</Price2>
@@ -59773,7 +59773,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>88</Stock>
+<Stock>87</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1498.90</Price>
 <Price2>2160.49</Price2>
