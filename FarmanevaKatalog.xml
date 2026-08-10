@@ -1270,7 +1270,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>88</Stock>
+<Stock>89</Stock>
 <Miad>01/10/2026</Miad>
 <Price>149.90</Price>
 <Price2>314.39</Price2>
@@ -62467,7 +62467,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>01/11/2026</Miad>
 <Price>197.90</Price>
 <Price2>380.08</Price2>
@@ -66872,7 +66872,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>122</Stock>
+<Stock>123</Stock>
 <Miad>01/02/2027</Miad>
 <Price>532.90</Price>
 <Price2>838.52</Price2>
@@ -67034,7 +67034,7 @@
 <category><![CDATA[Göz Çevresi Bakımı]]></category>
 <subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
