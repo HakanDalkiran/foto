@@ -54,7 +54,7 @@
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
 <Stock>0</Stock>
-<Miad>01/10/2026</Miad>
+<Miad>01/10/2028</Miad>
 <Price>453.64</Price>
 <Price2>730.06</Price2>
 <Price3>499.00</Price3>
@@ -69,26 +69,24 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/activebee-supplements-active-plus-demir-bisglisinat-vitamin-c-multifer-30-kapsul-7725.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/activebee-supplements-active-plus-demir-bisglisinat-vitamin-c-multifer-30-kapsul-7726.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/activebee-supplements-active-plus-demir-bisglisinat-vitamin-c-multifer-30-kapsul-7727.jpg</Image4>
-<Description><![CDATA[<section class="product-description">
-<p><strong>Activebee Supplements Active Plus Demir Bisglisinat &amp; Vitamin C Multifer 30 Kapsül</strong>, demir bisglisinat ve C vitamini içeren bir gıda takviyesidir. Günlük demir alımını desteklemek isteyen yetişkinler için kapsül formunda hazırlanmıştır.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Her kapsülde demir bisglisinat formunda 17 mg demir içerir</li>
-<li>100 mg C vitamini ile formülü desteklenmiştir</li>
-<li>Bisglisinat, biyoyararlanımı yüksek demir formları arasında yer alır</li>
-<li>Demir, normal enerji oluşum metabolizmasına katkıda bulunur</li>
-<li>Kırmızı kan hücrelerinin ve hemoglobinin normal oluşumunu destekler</li>
-<li>Vücutta normal oksijen taşınmasına katkı sağlar</li>
-<li>C vitamini bağışıklık sisteminin normal fonksiyonuna katkıda bulunur</li>
-<li>Kolay yutulabilir kapsül formundadır</li>
-<li>30 kapsüllük ambalajı ile yaklaşık bir aylık kullanım sunar</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinlerin günde 1 kapsülü, tercihen yemekle birlikte bir bardak su ile alması önerilir. Kesin kullanım şekli ve doz için ambalaj üzerindeki talimatları izleyin.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Önerilen günlük dozu aşmayın. Hamilelik, emzirme dönemi ile hastalık veya ilaç kullanımı durumunda doktorunuza danışın. Çocukların ulaşamayacağı yerde, serin ve kuru ortamda saklayın.</p>
-<p>Günlük demir desteğini pratik bir kapsül formunda arayanlar Activebee Multifer'i Farmaneva güvencesiyle temin edebilir.</p>
-</section>]]></Description>
+<Description><![CDATA[<SECTION class=product-description>
+<P><STRONG>Activebee Supplements Active Plus Demir Bisglisinat &amp; Vitamin C Multifer 30 Kapsül</STRONG>, demir bisglisinat ve C vitamini içeren bir gıda takviyesidir. Günlük demir alımını desteklemek isteyen yetişkinler için kapsül formunda hazırlanmıştır.</P>
+<H2>Öne Çıkan Özellikler</H2>
+<UL>
+<LI>Her kapsülde demir bisglisinat formunda 17 mg demir içerir</LI>
+<LI>100 mg C vitamini ile formülü desteklenmiştir</LI>
+<LI>Bisglisinat, biyoyararlanımı yüksek demir formları arasında yer alır</LI>
+<LI>Demir, normal enerji oluşum metabolizmasına katkıda bulunur</LI>
+<LI>Kırmızı kan hücrelerinin ve hemoglobinin normal oluşumunu destekler</LI>
+<LI>Vücutta normal oksijen taşınmasına katkı sağlar</LI>
+<LI>C vitamini bağışıklık sisteminin normal fonksiyonuna katkıda bulunur</LI>
+<LI>Kolay yutulabilir kapsül formundadır</LI>
+<LI>30 kapsüllük ambalajı ile yaklaşık bir aylık kullanım sunar</LI></UL>
+<H2>Nasıl Kullanılır?</H2>
+<P>Yetişkinlerin günde 1 kapsülü, tercihen yemekle birlikte bir bardak su ile alması önerilir. Kesin kullanım şekli ve doz için ambalaj üzerindeki talimatları izleyin.</P>
+<H2>Uyarılar</H2>
+<P>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Önerilen günlük dozu aşmayın. Hamilelik, emzirme dönemi ile hastalık veya ilaç kullanımı durumunda doktorunuza danışın. Çocukların ulaşamayacağı yerde, serin ve kuru ortamda saklayın.</P>
+<P>Günlük demir desteğini pratik bir kapsül formunda arayanlar Activebee Multifer'i Farmaneva güvencesiyle temin edebilir.</P></SECTION>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00003]]></Product_code>
@@ -394,31 +392,29 @@
 <Price>487.90</Price>
 <Price2>776.94</Price2>
 <Price3>536.69</Price3>
-<Price4>546.45</Price4>
-<Price5>546.45</Price5>
-<Price6>546.45</Price6>
+<Price4>464.00</Price4>
+<Price5>464.00</Price5>
+<Price6>464.00</Price6>
 <Price7>776.94</Price7>
 <Price8>776.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/alcon-systane-hydration-goz-damlasi-10-ml-7738.jpg</Image1>
-<Description><![CDATA[<section class="product-description">
-<p><strong>Systane Hydration Göz Damlası 10 ml</strong>, kuru göze bağlı yanma, batma, kuruluk ve tahriş hissinin giderilmesine yardımcı olan yoğun nemlendirici göz damlasıdır. HP-Guar ve sodyum hiyalüronat içeren formülü göz yüzeyinde nemlendirici bir tabaka oluşturmaya yardımcı olur.</p>
-<h2>Ürün Özellikleri</h2>
-<ul>
-<li>Polietilen glikol 400 ve propilen glikol içeren kayganlaştırıcı formüle sahiptir.</li>
-<li>HP-Guar ve sodyum hiyalüronat içerir.</li>
-<li>Koruyucu içermeyen çoklu doz formundadır.</li>
-<li>Kontakt lens kullanıcılarının bakım rutinine uygundur.</li>
-<li>10 ml şişede sunulur.</li>
-<li>Dengeli beslenmeyi tamamlayıcı olarak kullanılabilir.</li>
-</ul>
-<h2>Kullanım Şekli</h2>
-<p>Elleri yıkadıktan sonra başınızı geriye eğin ve alt göz kapağını hafifçe aşağı çekin. İhtiyaç duyulan göze 1-2 damla uygulayın ve birkaç kez göz kırpın. Damlalık ucunu göze, parmağa veya herhangi bir yüzeye değdirmeyin.</p>
-<h2>Önemli Bilgilendirme</h2>
-<p>Yalnızca göze damlatmak içindir. Ürünün rengi veya görünümü değişirse kullanmayın. Sürekli rahatsızlık, görme değişikliği, aşırı sulanma veya kızarıklık oluşursa kullanımı bırakıp göz doktoruna danışın. Açıldıktan sonraki kullanım süresi için ambalaj talimatını izleyin.</p>
-<p>Düzenli kullanım planlayanlar için Farmaneva'da orijinaliyle hazır.</p>
-</section>]]></Description>
+<Description><![CDATA[<SECTION class=product-description>
+<P><STRONG>Systane Hydration Göz Damlası 10 ml</STRONG>, kuru göze bağlı yanma, batma, kuruluk ve tahriş hissinin giderilmesine yardımcı olan yoğun nemlendirici göz damlasıdır. HP-Guar ve sodyum hiyalüronat içeren formülü göz yüzeyinde nemlendirici bir tabaka oluşturmaya yardımcı olur.</P>
+<H2>Ürün Özellikleri</H2>
+<UL>
+<LI>Polietilen glikol 400 ve propilen glikol içeren kayganlaştırıcı formüle sahiptir.</LI>
+<LI>HP-Guar ve sodyum hiyalüronat içerir.</LI>
+<LI>Koruyucu içermeyen çoklu doz formundadır.</LI>
+<LI>Kontakt lens kullanıcılarının bakım rutinine uygundur.</LI>
+<LI>10 ml şişede sunulur.</LI>
+<LI>Dengeli beslenmeyi tamamlayıcı olarak kullanılabilir.</LI></UL>
+<H2>Kullanım Şekli</H2>
+<P>Elleri yıkadıktan sonra başınızı geriye eğin ve alt göz kapağını hafifçe aşağı çekin. İhtiyaç duyulan göze 1-2 damla uygulayın ve birkaç kez göz kırpın. Damlalık ucunu göze, parmağa veya herhangi bir yüzeye değdirmeyin.</P>
+<H2>Önemli Bilgilendirme</H2>
+<P>Yalnızca göze damlatmak içindir. Ürünün rengi veya görünümü değişirse kullanmayın. Sürekli rahatsızlık, görme değişikliği, aşırı sulanma veya kızarıklık oluşursa kullanımı bırakıp göz doktoruna danışın. Açıldıktan sonraki kullanım süresi için ambalaj talimatını izleyin.</P>
+<P>Düzenli kullanım planlayanlar için Farmaneva'da orijinaliyle hazır.</P></SECTION>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00011]]></Product_code>
@@ -4530,7 +4526,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>26</Stock>
 <Miad>01/11/2027</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -33326,40 +33322,38 @@
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>01/01/2026</Miad>
+<Miad>01/01/2029</Miad>
 <Price>271.82</Price>
 <Price2>481.24</Price2>
 <Price3>299.00</Price3>
-<Price4>184.99</Price4>
-<Price5>304.44</Price5>
-<Price6>304.44</Price6>
+<Price4>198.00</Price4>
+<Price5>198.00</Price5>
+<Price6>198.00</Price6>
 <Price7>481.24</Price7>
 <Price8>481.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-iron-max-17-mg-30-tablet-9498.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-iron-max-17-mg-30-tablet-9499.jpg</Image2>
-<Description><![CDATA[<section class="product-description">
-<p><strong>Nutraxin Iron Max 17 mg 30 Tablet</strong>, bisglisinat formunda demiri C vitamini, B6, folik asit ve B12 vitamini ile birleştiren tablet formunda bir takviye edici gıdadır. Günlük demir alımını yardımcı besin öğeleriyle birlikte desteklemek isteyen yetişkinler için tasarlanmıştır.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Tablet başına 17 mg demir (bisglisinat formunda) içerir</li>
-<li>Kontrollü salınımlı demir formu</li>
-<li>80 mg C vitamini ile desteklenir</li>
-<li>C vitamini demirin normal emilimine katkıda bulunur</li>
-<li>2 mg B6 vitamini içerir</li>
-<li>200 mcg folik asit ile formüle edilmiştir</li>
-<li>50 mcg B12 vitamini içerir</li>
-<li>Şeker, tuz, maya, nişasta, glüten, soya, mısır ve süt ürünü içermez</li>
-<li>Sentetik koruyucu ve tatlandırıcı kullanılmamıştır</li>
-<li>Günde tek tablet ile pratik kullanım</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler için günde 1 tabletin bol su ile alınması önerilir. Kesin doz ve kullanım süresi için ürün ambalajındaki yönergeleri esas alın.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın, dengeli beslenmenin yerine geçmez; hamilelik, emzirme veya ilaç kullanımı durumunda hekiminize danışın.</p>
-<p>Farmaneva, günlük demir desteği arayanlara Nutraxin Iron Max'i sunar.</p>
-</section>]]></Description>
+<Description><![CDATA[<SECTION class=product-description>
+<P><STRONG>Nutraxin Iron Max 17 mg 30 Tablet</STRONG>, bisglisinat formunda demiri C vitamini, B6, folik asit ve B12 vitamini ile birleştiren tablet formunda bir takviye edici gıdadır. Günlük demir alımını yardımcı besin öğeleriyle birlikte desteklemek isteyen yetişkinler için tasarlanmıştır.</P>
+<H2>Öne Çıkan Özellikler</H2>
+<UL>
+<LI>Tablet başına 17 mg demir (bisglisinat formunda) içerir</LI>
+<LI>Kontrollü salınımlı demir formu</LI>
+<LI>80 mg C vitamini ile desteklenir</LI>
+<LI>C vitamini demirin normal emilimine katkıda bulunur</LI>
+<LI>2 mg B6 vitamini içerir</LI>
+<LI>200 mcg folik asit ile formüle edilmiştir</LI>
+<LI>50 mcg B12 vitamini içerir</LI>
+<LI>Şeker, tuz, maya, nişasta, glüten, soya, mısır ve süt ürünü içermez</LI>
+<LI>Sentetik koruyucu ve tatlandırıcı kullanılmamıştır</LI>
+<LI>Günde tek tablet ile pratik kullanım</LI></UL>
+<H2>Nasıl Kullanılır?</H2>
+<P>Yetişkinler için günde 1 tabletin bol su ile alınması önerilir. Kesin doz ve kullanım süresi için ürün ambalajındaki yönergeleri esas alın.</P>
+<H2>Uyarılar</H2>
+<P>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın, dengeli beslenmenin yerine geçmez; hamilelik, emzirme veya ilaç kullanımı durumunda hekiminize danışın.</P>
+<P>Farmaneva, günlük demir desteği arayanlara Nutraxin Iron Max'i sunar.</P></SECTION>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00771]]></Product_code>
@@ -41647,9 +41641,9 @@
 <Price>817.90</Price>
 <Price2>1228.55</Price2>
 <Price3>899.69</Price3>
-<Price4>916.05</Price4>
-<Price5>916.05</Price5>
-<Price6>916.05</Price6>
+<Price4>768.00</Price4>
+<Price5>768.00</Price5>
+<Price6>768.00</Price6>
 <Price7>1228.55</Price7>
 <Price8>1228.55</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -62463,7 +62457,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>6</Stock>
 <Miad>01/05/2029</Miad>
 <Price>197.90</Price>
 <Price2>380.08</Price2>
@@ -65594,7 +65588,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>184.90</Price>
 <Price2>362.29</Price2>
