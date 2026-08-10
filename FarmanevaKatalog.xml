@@ -19021,14 +19021,14 @@
 <Tax>1</Tax>
 <Stock>24</Stock>
 <Miad>01/09/2028</Miad>
-<Price>509.90</Price>
-<Price2>807.05</Price2>
-<Price3>560.89</Price3>
-<Price4>571.09</Price4>
-<Price5>571.09</Price5>
-<Price6>571.09</Price6>
-<Price7>807.05</Price7>
-<Price8>807.05</Price8>
+<Price>548.90</Price>
+<Price2>860.42</Price2>
+<Price3>603.79</Price3>
+<Price4>614.77</Price4>
+<Price5>614.77</Price5>
+<Price6>614.77</Price6>
+<Price7>860.42</Price7>
+<Price8>860.42</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/generica-sidefer-damla-30-ml-8821.jpg</Image1>
@@ -39551,7 +39551,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>1</Stock>
 <Miad>01/11/2027</Miad>
 <Price>174.90</Price>
 <Price2>348.60</Price2>
@@ -43916,7 +43916,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>334.90</Price>
 <Price2>567.56</Price2>
