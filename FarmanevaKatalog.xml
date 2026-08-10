@@ -9505,7 +9505,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>16</Stock>
 <Miad>01/01/2029</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
@@ -16352,8 +16352,8 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>01/04/2028</Miad>
+<Stock>1</Stock>
+<Miad>01/04/2027</Miad>
 <Price>129.90</Price>
 <Price2>287.02</Price2>
 <Price3>142.89</Price3>
@@ -25450,16 +25450,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>32</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>675.00</Price>
-<Price2>1032.99</Price2>
-<Price3>742.50</Price3>
-<Price4>756.00</Price4>
-<Price5>756.00</Price5>
-<Price6>756.00</Price6>
-<Price7>1032.99</Price7>
-<Price8>1032.99</Price8>
+<Price>764.90</Price>
+<Price2>1156.02</Price2>
+<Price3>841.39</Price3>
+<Price4>856.69</Price4>
+<Price5>856.69</Price5>
+<Price6>856.69</Price6>
+<Price7>1156.02</Price7>
+<Price8>1156.02</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-as-35w-koldan-olcer-konusan-tansiyon-aleti-9166.jpg</Image1>
@@ -32496,7 +32496,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>141.40</Price>
 <Price2>302.76</Price2>
@@ -66461,8 +66461,8 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>01/09/2028</Miad>
+<Stock>1</Stock>
+<Miad>01/05/2028</Miad>
 <Price>978.90</Price>
 <Price2>1448.87</Price2>
 <Price3>1076.79</Price3>
@@ -68504,7 +68504,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>01/02/2029</Miad>
 <Price>1208.90</Price>
 <Price2>1763.63</Price2>
