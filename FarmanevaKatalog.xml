@@ -2820,7 +2820,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>31</Stock>
+<Stock>32</Stock>
 <Miad>01/01/2027</Miad>
 <Price>424.90</Price>
 <Price2>690.73</Price2>
@@ -12875,7 +12875,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>17</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -39551,7 +39551,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>6</Stock>
 <Miad>01/11/2027</Miad>
 <Price>174.90</Price>
 <Price2>348.60</Price2>
@@ -61112,7 +61112,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>5</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>188.90</Price>
 <Price2>367.76</Price2>
@@ -62029,14 +62029,14 @@
 <Tax>20</Tax>
 <Stock>76</Stock>
 <Miad>01/01/2028</Miad>
-<Price>597.30</Price>
-<Price2>926.66</Price2>
-<Price3>657.03</Price3>
-<Price4>668.98</Price4>
-<Price5>668.98</Price5>
-<Price6>668.98</Price6>
-<Price7>926.66</Price7>
-<Price8>926.66</Price8>
+<Price>579.60</Price>
+<Price2>902.43</Price2>
+<Price3>637.56</Price3>
+<Price4>649.15</Price4>
+<Price5>649.15</Price5>
+<Price6>649.15</Price6>
+<Price7>902.43</Price7>
+<Price8>902.43</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -62395,7 +62395,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Vücut İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>24</Stock>
 <Miad>01/03/2029</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -62468,7 +62468,7 @@
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
-<Miad>01/05/2029</Miad>
+<Miad>01/11/2026</Miad>
 <Price>197.90</Price>
 <Price2>380.08</Price2>
 <Price3>217.69</Price3>
@@ -67551,8 +67551,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>01/07/2027</Miad>
+<Stock>1</Stock>
+<Miad>01/06/2029</Miad>
 <Price>459.90</Price>
 <Price2>738.62</Price2>
 <Price3>505.89</Price3>
