@@ -11663,27 +11663,25 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-ato-probiyotik-balm-kuru-ciltler-icin-230-ml-8458.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-ato-probiyotik-balm-kuru-ciltler-icin-230-ml-8459.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-ato-probiyotik-balm-kuru-ciltler-icin-230-ml-8460.jpg</Image3>
-<Description><![CDATA[<section class="product-description">
-<p><strong>Dermoskin Ato Probiyotik Balm Kuru Ciltler İçin 230 ml</strong>, probiyotik-prebiyotik karışımı ve seramid kompleksi içeren, kuru ve hassas ciltlere yönelik nemlendirici bir balmdır. Cildin doğal mikrobiyom dengesini korumayı hedefleyen formülü, çok kuru ve kaşıntıya eğilimli ciltlere bakım yapmak isteyenler için geliştirilmiştir.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Ecoskin probiyotik-prebiyotik karışımı içerir</li>
-<li>Seramid kompleksiyle cilt bariyerini destekler</li>
-<li>Niacinamide (B3 vitamini) içerir</li>
-<li>Hyaluronik asit ile nem desteği sağlar</li>
-<li>Panthenol ve E vitamini içerir</li>
-<li>İpeksi dokusuyla hızla emilir</li>
-<li>Cildin doğal mikrobiyom dengesini korumayı hedefler</li>
-<li>Paraben, boya, SLES ve parfüm içermez</li>
-<li>Çocuklar ve yetişkinler için uygundur</li>
-<li>230 ml hacimli ekonomik ambalaj</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Temizlenmiş cilde günde bir veya iki kez ince bir tabaka halinde uygulayın. Özellikle kuruluk hissedilen bölgelerde düzenli kullanım önerilir. Kesin kullanım bilgisi için ürün ambalajındaki talimatları inceleyin.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanım içindir; göz ile temasından kaçının, temas durumunda bol su ile durulayın. Ciltte tahriş oluşması halinde kullanımı bırakın ve çocukların erişemeyeceği yerde saklayın.</p>
-<p>Farmaneva güvencesiyle sunulan bu ürün, kuru ciltlerin günlük bakım rutini için pratik bir seçenektir.</p>
-</section>]]></Description>
+<Description><![CDATA[<SECTION class=product-description>
+<P><STRONG>Dermoskin Ato Probiyotik Balm Kuru Ciltler İçin 230 ml</STRONG>, probiyotik-prebiyotik karışımı ve seramid kompleksi içeren, kuru ve hassas ciltlere yönelik nemlendirici bir balmdır. Cildin doğal mikrobiyom dengesini korumayı hedefleyen formülü, çok kuru ve kaşıntıya eğilimli ciltlere bakım yapmak isteyenler için geliştirilmiştir.</P>
+<H2>Öne Çıkan Özellikler</H2>
+<UL>
+<LI>Ecoskin probiyotik-prebiyotik karışımı içerir</LI>
+<LI>Seramid kompleksiyle cilt bariyerini destekler</LI>
+<LI>Niacinamide (B3 vitamini) içerir</LI>
+<LI>Hyaluronik asit ile nem desteği sağlar</LI>
+<LI>Panthenol ve E vitamini içerir</LI>
+<LI>İpeksi dokusuyla hızla emilir</LI>
+<LI>Cildin doğal mikrobiyom dengesini korumayı hedefler</LI>
+<LI>Paraben, boya, SLES ve parfüm içermez</LI>
+<LI>Çocuklar ve yetişkinler için uygundur</LI>
+<LI>230 ml hacimli ekonomik ambalaj</LI></UL>
+<H2>Nasıl Kullanılır?</H2>
+<P>Temizlenmiş cilde günde bir veya iki kez ince bir tabaka halinde uygulayın. Özellikle kuruluk hissedilen bölgelerde düzenli kullanım önerilir. Kesin kullanım bilgisi için ürün ambalajındaki talimatları inceleyin.</P>
+<H2>Uyarılar</H2>
+<P>Yalnızca haricen kullanım içindir; göz ile temasından kaçının, temas durumunda bol su ile durulayın. Ciltte tahriş oluşması halinde kullanımı bırakın ve çocukların erişemeyeceği yerde saklayın.</P>
+<P>Farmaneva güvencesiyle sunulan bu ürün, kuru ciltlerin günlük bakım rutini için pratik bir seçenektir.</P></SECTION>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00270]]></Product_code>
@@ -14469,7 +14467,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Dökülme Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>0</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1474.90</Price>
 <Price2>2127.65</Price2>
@@ -41602,14 +41600,14 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
-<Miad>01/04/2026</Miad>
+<Stock>7</Stock>
+<Miad>01/01/2030</Miad>
 <Price>324.09</Price>
 <Price2>552.77</Price2>
 <Price3>356.50</Price3>
-<Price4>362.98</Price4>
-<Price5>362.98</Price5>
-<Price6>362.98</Price6>
+<Price4>380.00</Price4>
+<Price5>366.00</Price5>
+<Price6>366.00</Price6>
 <Price7>552.77</Price7>
 <Price8>552.77</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -41617,26 +41615,24 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/osteocare-30-tablet-10005.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/osteocare-30-tablet-10006.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/osteocare-30-tablet-10007.jpg</Image3>
-<Description><![CDATA[<section class="product-description">
-<p><strong>Osteocare 30 Tablet</strong>, kalsiyum, magnezyum, çinko ve D vitamini başta olmak üzere kemik metabolizmasında rol oynayan mineralleri bir arada sunan takviye edici gıdadır. Kemik ve diş sağlığını normal düzeyde desteklemek isteyen yetişkinlere yönelik günlük bir formüldür.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Kalsiyum, magnezyum, çinko ve D vitamini içeren dengeli kemik desteği formülü</li>
-<li>Magnezyum, D vitamini ve çinko normal kemiklerin korunmasına katkıda bulunur</li>
-<li>Kalsiyum ve magnezyum normal kas fonksiyonuna katkı sağlar</li>
-<li>Kalsiyum, magnezyum ve D vitamini normal dişlerin korunmasına yardımcı olur</li>
-<li>Bakır, bor ve selenyum gibi ek eser elementlerle desteklenmiş içerik</li>
-<li>Günlük kullanıma uygun tablet formu</li>
-<li>30 tabletlik pratik ambalaj</li>
-<li>Özellikle 11 yaş ve üzeri yetişkinler için uygun</li>
-<li>Dengeli beslenmeyi tamamlayıcı günlük destek</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinlerde genellikle günde 2 tablet suyla birlikte alınması önerilir. Kesin doz ve kullanım süresi için ürün ambalajındaki yönergeleri ve kullanım kılavuzunu dikkate alın.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır, ilaç değildir; hastalıkların tedavisi veya önlenmesi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın, dengeli ve çeşitli beslenmenin yerini tutmaz; hamilelik, emzirme veya düzenli ilaç kullanımında hekiminize danışın.</p>
-<p>Farmaneva güvencesiyle kemik sağlığınıza yönelik günlük desteği evinize taşır.</p>
-</section>]]></Description>
+<Description><![CDATA[<SECTION class=product-description>
+<P><STRONG>Osteocare 30 Tablet</STRONG>, kalsiyum, magnezyum, çinko ve D vitamini başta olmak üzere kemik metabolizmasında rol oynayan mineralleri bir arada sunan takviye edici gıdadır. Kemik ve diş sağlığını normal düzeyde desteklemek isteyen yetişkinlere yönelik günlük bir formüldür.</P>
+<H2>Öne Çıkan Özellikler</H2>
+<UL>
+<LI>Kalsiyum, magnezyum, çinko ve D vitamini içeren dengeli kemik desteği formülü</LI>
+<LI>Magnezyum, D vitamini ve çinko normal kemiklerin korunmasına katkıda bulunur</LI>
+<LI>Kalsiyum ve magnezyum normal kas fonksiyonuna katkı sağlar</LI>
+<LI>Kalsiyum, magnezyum ve D vitamini normal dişlerin korunmasına yardımcı olur</LI>
+<LI>Bakır, bor ve selenyum gibi ek eser elementlerle desteklenmiş içerik</LI>
+<LI>Günlük kullanıma uygun tablet formu</LI>
+<LI>30 tabletlik pratik ambalaj</LI>
+<LI>Özellikle 11 yaş ve üzeri yetişkinler için uygun</LI>
+<LI>Dengeli beslenmeyi tamamlayıcı günlük destek</LI></UL>
+<H2>Nasıl Kullanılır?</H2>
+<P>Yetişkinlerde genellikle günde 2 tablet suyla birlikte alınması önerilir. Kesin doz ve kullanım süresi için ürün ambalajındaki yönergeleri ve kullanım kılavuzunu dikkate alın.</P>
+<H2>Uyarılar</H2>
+<P>Takviye edici gıdadır, ilaç değildir; hastalıkların tedavisi veya önlenmesi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın, dengeli ve çeşitli beslenmenin yerini tutmaz; hamilelik, emzirme veya düzenli ilaç kullanımında hekiminize danışın.</P>
+<P>Farmaneva güvencesiyle kemik sağlığınıza yönelik günlük desteği evinize taşır.</P></SECTION>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00957]]></Product_code>
@@ -66398,7 +66394,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>959.90</Price>
 <Price2>1422.87</Price2>
