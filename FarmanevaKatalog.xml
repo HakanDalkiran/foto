@@ -17275,7 +17275,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>79.90</Price>
 <Price2>218.59</Price2>
@@ -25537,16 +25537,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>41</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>639.90</Price>
-<Price2>984.95</Price2>
-<Price3>703.89</Price3>
-<Price4>716.69</Price4>
-<Price5>716.69</Price5>
-<Price6>716.69</Price6>
-<Price7>984.95</Price7>
-<Price8>984.95</Price8>
+<Price>698.90</Price>
+<Price2>1065.69</Price2>
+<Price3>768.79</Price3>
+<Price4>782.77</Price4>
+<Price5>782.77</Price5>
+<Price6>782.77</Price6>
+<Price7>1065.69</Price7>
+<Price8>1065.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-as-55g-dijital-bilekten-olcer-konusan-tansiyon-aleti-9171.jpg</Image1>
@@ -39537,8 +39537,8 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>01/11/2027</Miad>
+<Stock>2</Stock>
+<Miad>01/11/2026</Miad>
 <Price>174.90</Price>
 <Price2>348.60</Price2>
 <Price3>192.39</Price3>
