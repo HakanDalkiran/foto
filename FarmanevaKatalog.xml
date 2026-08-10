@@ -141,16 +141,16 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>30</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>1246.90</Price>
-<Price2>1815.63</Price2>
-<Price3>1371.59</Price3>
-<Price4>1396.53</Price4>
-<Price5>1396.53</Price5>
-<Price6>1396.53</Price6>
-<Price7>1815.63</Price7>
-<Price8>1815.63</Price8>
+<Price>1298.90</Price>
+<Price2>1886.79</Price2>
+<Price3>1428.79</Price3>
+<Price4>1454.77</Price4>
+<Price5>1454.77</Price5>
+<Price6>1454.77</Price6>
+<Price7>1886.79</Price7>
+<Price8>1886.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aerochamber-mavi-agizlikli-7731.jpg</Image1>
@@ -9388,33 +9388,31 @@
 <Price>171.90</Price>
 <Price2>344.50</Price2>
 <Price3>189.09</Price3>
-<Price4>192.53</Price4>
-<Price5>192.53</Price5>
-<Price6>192.53</Price6>
+<Price4>138.97</Price4>
+<Price5>138.97</Price5>
+<Price6>138.97</Price6>
 <Price7>344.50</Price7>
 <Price8>344.50</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/corega-gun-boyu-guclu-tutus-dis-protez-yapistirici-8323.jpg</Image1>
-<Description><![CDATA[<section class="product-description">
-<p><strong>Corega Gün Boyu Güçlü Tutuş Diş Protez Yapıştırıcı</strong>, diş protezinin diş etine sıkıca tutunmasını sağlayan, gün boyu güçlü tutuş sunan bir protez yapıştırıcı kremdir. Protezini gün boyu güvenle ve konforla kullanmak isteyenler için tasarlanmıştır.</p>
-<h2>Corega Diş Protez Yapıştırıcı Özellikleri</h2>
-<ul>
-<li>Gün boyu süren güçlü tutuş sağlar.</li>
-<li>Yiyecek parçacıklarının protez altına girmesini önlemeye yardımcı olur.</li>
-<li>Esnek dokusuyla protez ile diş eti arasında yumuşak bir bariyer oluşturur.</li>
-<li>Protezin kaymasını önleyerek konfor sağlar.</li>
-<li>Yiyecek artıklarını engelleyerek ağız hijyeninin korunmasına katkıda bulunur.</li>
-<li>Günlük kullanıma uygundur.</li>
-<li>Pratik tüp ambalajda sunulur ve günlük kullanıma uygundur.</li>
-<li>Sağlıklı bir yaşam tarzının destekleyicisi olarak düşünülebilir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Temiz ve kuru proteze küçük noktalar hâlinde az miktarda krem uygulayın, protezi yerleştirip birkaç saniye bastırın. Günde bir kez kullanım genellikle yeterlidir.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca harici (ağız) kullanım içindir. Tavsiye edilen miktarı aşmayın. Tahriş hâlinde kullanımı bırakın. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Protezi için gün boyu güçlü bir tutuş arayanlar Corega Yapıştırıcı'yı Farmaneva'da bulabilir.</p>
-</section>]]></Description>
+<Description><![CDATA[<SECTION class=product-description>
+<P><STRONG>Corega Gün Boyu Güçlü Tutuş Diş Protez Yapıştırıcı</STRONG>, diş protezinin diş etine sıkıca tutunmasını sağlayan, gün boyu güçlü tutuş sunan bir protez yapıştırıcı kremdir. Protezini gün boyu güvenle ve konforla kullanmak isteyenler için tasarlanmıştır.</P>
+<H2>Corega Diş Protez Yapıştırıcı Özellikleri</H2>
+<UL>
+<LI>Gün boyu süren güçlü tutuş sağlar.</LI>
+<LI>Yiyecek parçacıklarının protez altına girmesini önlemeye yardımcı olur.</LI>
+<LI>Esnek dokusuyla protez ile diş eti arasında yumuşak bir bariyer oluşturur.</LI>
+<LI>Protezin kaymasını önleyerek konfor sağlar.</LI>
+<LI>Yiyecek artıklarını engelleyerek ağız hijyeninin korunmasına katkıda bulunur.</LI>
+<LI>Günlük kullanıma uygundur.</LI>
+<LI>Pratik tüp ambalajda sunulur ve günlük kullanıma uygundur.</LI>
+<LI>Sağlıklı bir yaşam tarzının destekleyicisi olarak düşünülebilir.</LI></UL>
+<H2>Nasıl Kullanılır?</H2>
+<P>Temiz ve kuru proteze küçük noktalar hâlinde az miktarda krem uygulayın, protezi yerleştirip birkaç saniye bastırın. Günde bir kez kullanım genellikle yeterlidir.</P>
+<H2>Uyarılar</H2>
+<P>Yalnızca harici (ağız) kullanım içindir. Tavsiye edilen miktarı aşmayın. Tahriş hâlinde kullanımı bırakın. Çocukların erişemeyeceği yerde saklayın.</P>
+<P>Protezi için gün boyu güçlü bir tutuş arayanlar Corega Yapıştırıcı'yı Farmaneva'da bulabilir.</P></SECTION>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00218]]></Product_code>
@@ -40845,13 +40843,13 @@
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>20</Tax>
 <Stock>11</Stock>
-<Miad>01/01/2026</Miad>
+<Miad>01/01/2029</Miad>
 <Price>167.85</Price>
 <Price2>338.95</Price2>
 <Price3>184.64</Price3>
-<Price4>187.99</Price4>
-<Price5>187.99</Price5>
-<Price6>187.99</Price6>
+<Price4>199.00</Price4>
+<Price5>199.00</Price5>
+<Price6>199.00</Price6>
 <Price7>338.95</Price7>
 <Price8>338.95</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -40860,25 +40858,23 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-9962.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-9963.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-9964.jpg</Image4>
-<Description><![CDATA[<section class="product-description">
-<p><strong>Orzax Cosakondrin Kompleks Jel 100 ml</strong>, glukozamin, kondroitin, MSM, hyalüronik asit ve bitkisel yağlar içeren, cilde masajla uygulanan aromatik bir jeldir. Eklem bölgelerinde ferahlatıcı bir bakım için haricen kullanmak isteyenlere yöneliktir.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Glukozamin sülfat ve kondroitin sülfat içerir</li>
-<li>MSM (metilsülfonilmetan) ve hyalüronik asit</li>
-<li>Boswellia serrata ve arnika ekstresi</li>
-<li>Kâfur ve mentol ile ferahlatıcı etki</li>
-<li>Zencefil, okaliptüs, lavanta ve karanfil yağları</li>
-<li>Kapsaisin içerir</li>
-<li>Cilde masajla kolay uygulama</li>
-<li>100 ml pratik tüp</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>İlgili bölgeye ince bir tabaka halinde uygulayın ve emilene kadar masaj yapın; genellikle günde iki kez kullanılır. Uygulama sonrası ellerinizi yıkayın. Kesin kullanım için ambalaj üzerindeki yönergeleri inceleyin.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanım içindir; göz, mukoza ve açık yaralarla temasından kaçının. Tahriş oluşması durumunda kullanımı bırakın. Hamilelik, emzirme dönemi ve mevcut rahatsızlıklarda kullanım öncesi hekiminize danışın.</p>
-<p>Farmaneva, günlük bakımınıza eşlik eden güvenilir ürünleri özenle sizlere sunar.</p>
-</section>]]></Description>
+<Description><![CDATA[<SECTION class=product-description>
+<P><STRONG>Orzax Cosakondrin Kompleks Jel 100 ml</STRONG>, glukozamin, kondroitin, MSM, hyalüronik asit ve bitkisel yağlar içeren, cilde masajla uygulanan aromatik bir jeldir. Eklem bölgelerinde ferahlatıcı bir bakım için haricen kullanmak isteyenlere yöneliktir.</P>
+<H2>Öne Çıkan Özellikler</H2>
+<UL>
+<LI>Glukozamin sülfat ve kondroitin sülfat içerir</LI>
+<LI>MSM (metilsülfonilmetan) ve hyalüronik asit</LI>
+<LI>Boswellia serrata ve arnika ekstresi</LI>
+<LI>Kâfur ve mentol ile ferahlatıcı etki</LI>
+<LI>Zencefil, okaliptüs, lavanta ve karanfil yağları</LI>
+<LI>Kapsaisin içerir</LI>
+<LI>Cilde masajla kolay uygulama</LI>
+<LI>100 ml pratik tüp</LI></UL>
+<H2>Nasıl Kullanılır?</H2>
+<P>İlgili bölgeye ince bir tabaka halinde uygulayın ve emilene kadar masaj yapın; genellikle günde iki kez kullanılır. Uygulama sonrası ellerinizi yıkayın. Kesin kullanım için ambalaj üzerindeki yönergeleri inceleyin.</P>
+<H2>Uyarılar</H2>
+<P>Yalnızca haricen kullanım içindir; göz, mukoza ve açık yaralarla temasından kaçının. Tahriş oluşması durumunda kullanımı bırakın. Hamilelik, emzirme dönemi ve mevcut rahatsızlıklarda kullanım öncesi hekiminize danışın.</P>
+<P>Farmaneva, günlük bakımınıza eşlik eden güvenilir ürünleri özenle sizlere sunar.</P></SECTION>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00940]]></Product_code>
@@ -60050,8 +60046,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>01/12/2027</Miad>
+<Stock>3</Stock>
+<Miad>01/02/2027</Miad>
 <Price>663.90</Price>
 <Price2>1017.80</Price2>
 <Price3>730.29</Price3>
