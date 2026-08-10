@@ -16276,7 +16276,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>139.90</Price>
 <Price2>300.70</Price2>
@@ -16363,7 +16363,7 @@
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
 <Stock>1</Stock>
-<Miad>01/04/2028</Miad>
+<Miad>01/04/2027</Miad>
 <Price>129.90</Price>
 <Price2>287.02</Price2>
 <Price3>142.89</Price3>
@@ -17204,7 +17204,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>91.70</Price>
 <Price2>234.74</Price2>
@@ -21118,7 +21118,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>32</Stock>
+<Stock>31</Stock>
 <Miad>01/12/2027</Miad>
 <Price>1299.00</Price>
 <Price2>1886.93</Price2>
@@ -39593,7 +39593,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>147</Stock>
+<Stock>146</Stock>
 <Miad>01/02/2028</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -45988,7 +45988,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>12</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>152.00</Price>
 <Price2>317.26</Price2>
@@ -46030,7 +46030,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>141.75</Price>
 <Price2>303.23</Price2>
@@ -46116,7 +46116,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>152.00</Price>
 <Price2>317.26</Price2>
@@ -60388,7 +60388,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>278</Stock>
+<Stock>277</Stock>
 <Miad>01/01/2028</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -66482,7 +66482,7 @@
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
-<Miad>01/09/2028</Miad>
+<Miad>01/05/2028</Miad>
 <Price>978.90</Price>
 <Price2>1448.87</Price2>
 <Price3>1076.79</Price3>
