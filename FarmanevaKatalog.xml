@@ -8322,7 +8322,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>79</Stock>
+<Stock>80</Stock>
 <Miad>01/05/2030</Miad>
 <Price>69.90</Price>
 <Price2>204.91</Price2>
@@ -10210,7 +10210,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Pudra]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>19</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>149.90</Price>
 <Price2>314.39</Price2>
@@ -12875,7 +12875,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>16</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -15443,8 +15443,8 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>1</Tax>
-<Stock>224</Stock>
-<Miad>01/09/2026</Miad>
+<Stock>5</Stock>
+<Miad>01/01/2028</Miad>
 <Price>725.90</Price>
 <Price2>1102.64</Price2>
 <Price3>798.49</Price3>
@@ -58878,7 +58878,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>01/01/2029</Miad>
 <Price>948.90</Price>
 <Price2>1407.82</Price2>
@@ -59576,7 +59576,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>47</Stock>
+<Stock>46</Stock>
 <Miad>01/12/2028</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -60388,7 +60388,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>274</Stock>
+<Stock>277</Stock>
 <Miad>01/01/2028</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -60413,7 +60413,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>159</Stock>
+<Stock>158</Stock>
 <Miad>01/09/2028</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -60786,7 +60786,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>01/04/2029</Miad>
 <Price>149.50</Price>
 <Price2>313.84</Price2>
@@ -62467,7 +62467,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad>01/05/2029</Miad>
 <Price>197.90</Price>
 <Price2>380.08</Price2>
