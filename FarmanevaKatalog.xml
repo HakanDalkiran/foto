@@ -141,7 +141,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>30</Stock>
+<Stock>8</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1298.90</Price>
 <Price2>1886.79</Price2>
@@ -11601,7 +11601,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>60</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>319.00</Price>
 <Price2>545.80</Price2>
@@ -11947,7 +11947,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Vücut Losyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>136</Stock>
+<Stock>137</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>149.00</Price>
 <Price2>313.16</Price2>
@@ -12867,7 +12867,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>16</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -15658,7 +15658,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>53</Stock>
+<Stock>54</Stock>
 <Miad>01/03/2027</Miad>
 <Price>925.00</Price>
 <Price2>1375.11</Price2>
@@ -35116,7 +35116,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>8</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1643.90</Price>
 <Price2>2358.93</Price2>
@@ -39579,7 +39579,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>145</Stock>
+<Stock>146</Stock>
 <Miad>01/02/2028</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -59556,7 +59556,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>46</Stock>
+<Stock>47</Stock>
 <Miad>01/12/2028</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -60047,7 +60047,7 @@
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
 <Stock>3</Stock>
-<Miad>01/02/2027</Miad>
+<Miad>01/12/2027</Miad>
 <Price>663.90</Price>
 <Price2>1017.80</Price2>
 <Price3>730.29</Price3>
@@ -60368,7 +60368,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>276</Stock>
+<Stock>277</Stock>
 <Miad>01/01/2028</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -62447,7 +62447,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>12</Stock>
 <Miad>01/05/2029</Miad>
 <Price>197.90</Price>
 <Price2>380.08</Price2>
