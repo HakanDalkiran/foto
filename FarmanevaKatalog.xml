@@ -53411,7 +53411,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad>01/12/2028</Miad>
 <Price>892.90</Price>
 <Price2>1331.18</Price2>
@@ -66398,7 +66398,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>959.90</Price>
 <Price2>1422.87</Price2>
@@ -67598,7 +67598,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>0</Stock>
 <Miad>01/06/2029</Miad>
 <Price>389.90</Price>
 <Price2>642.83</Price2>
