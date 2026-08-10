@@ -2820,7 +2820,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>37</Stock>
+<Stock>30</Stock>
 <Miad>01/01/2027</Miad>
 <Price>424.90</Price>
 <Price2>690.73</Price2>
@@ -10986,7 +10986,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>01/01/2028</Miad>
 <Price>1524.90</Price>
 <Price2>2196.08</Price2>
@@ -63258,7 +63258,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
-<Stock>16</Stock>
+<Stock>3</Stock>
 <Miad>01/09/2028</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -63528,7 +63528,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>01/03/2029</Miad>
 <Price>198.90</Price>
 <Price2>381.44</Price2>
@@ -63699,7 +63699,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>01/11/2028</Miad>
 <Price>778.00</Price>
 <Price2>1173.94</Price2>
@@ -65435,7 +65435,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>2</Stock>
 <Miad>01/05/2027</Miad>
 <Price>1089.00</Price>
 <Price2>1599.55</Price2>
