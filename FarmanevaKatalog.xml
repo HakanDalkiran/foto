@@ -9388,9 +9388,9 @@
 <Price>171.90</Price>
 <Price2>344.50</Price2>
 <Price3>189.09</Price3>
-<Price4>138.97</Price4>
-<Price5>138.97</Price5>
-<Price6>138.97</Price6>
+<Price4>192.53</Price4>
+<Price5>192.53</Price5>
+<Price6>192.53</Price6>
 <Price7>344.50</Price7>
 <Price8>344.50</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -9505,7 +9505,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>18</Stock>
 <Miad>01/01/2029</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
