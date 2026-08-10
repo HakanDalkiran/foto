@@ -12875,7 +12875,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>14</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -35629,7 +35629,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1449.00</Price>
 <Price2>2092.21</Price2>
@@ -36686,7 +36686,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>786.45</Price>
 <Price2>1185.51</Price2>
@@ -41730,7 +41730,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>33</Stock>
+<Stock>31</Stock>
 <Miad>01/06/2028</Miad>
 <Price>179.00</Price>
 <Price2>354.21</Price2>
@@ -62029,14 +62029,14 @@
 <Tax>20</Tax>
 <Stock>76</Stock>
 <Miad>01/01/2028</Miad>
-<Price>579.60</Price>
-<Price2>902.43</Price2>
-<Price3>637.56</Price3>
-<Price4>649.15</Price4>
-<Price5>649.15</Price5>
-<Price6>649.15</Price6>
-<Price7>902.43</Price7>
-<Price8>902.43</Price8>
+<Price>597.30</Price>
+<Price2>926.66</Price2>
+<Price3>657.03</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
