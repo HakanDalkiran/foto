@@ -2820,7 +2820,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>30</Stock>
+<Stock>0</Stock>
 <Miad>01/01/2027</Miad>
 <Price>424.90</Price>
 <Price2>690.73</Price2>
@@ -12875,7 +12875,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>16</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -53368,7 +53368,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>7</Stock>
 <Miad>01/12/2027</Miad>
 <Price>383.90</Price>
 <Price2>634.62</Price2>
@@ -67598,7 +67598,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>11</Stock>
 <Miad>01/06/2029</Miad>
 <Price>389.90</Price>
 <Price2>642.83</Price2>
