@@ -11642,7 +11642,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>70</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>465.45</Price>
 <Price2>746.22</Price2>
@@ -11685,7 +11685,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>80</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -13450,7 +13450,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El & Ayak Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>8</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>544.55</Price>
 <Price2>854.47</Price2>
@@ -37623,7 +37623,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>85</Stock>
+<Stock>86</Stock>
 <Miad>01/12/2028</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
