@@ -50029,16 +50029,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>398</Stock>
-<Miad>Miadsız Ürün</Miad>
-<Price>449.90</Price>
-<Price2>724.94</Price2>
-<Price3>494.89</Price3>
-<Price4>503.89</Price4>
-<Price5>503.89</Price5>
-<Price6>503.89</Price6>
-<Price7>724.94</Price7>
-<Price8>724.94</Price8>
+<Stock>0</Stock>
+<Miad>01/02/2027</Miad>
+<Price>545.45</Price>
+<Price2>855.70</Price2>
+<Price3>600.00</Price3>
+<Price4>610.90</Price4>
+<Price5>610.90</Price5>
+<Price6>610.90</Price6>
+<Price7>855.70</Price7>
+<Price8>855.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-2-devam-sutu-400-gr-10382.jpg</Image1>
@@ -66904,7 +66904,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
