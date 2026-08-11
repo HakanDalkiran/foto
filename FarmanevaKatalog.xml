@@ -12300,16 +12300,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>792.18</Price>
-<Price2>1193.35</Price2>
-<Price3>871.40</Price3>
-<Price4>887.24</Price4>
-<Price5>887.24</Price5>
-<Price6>887.24</Price6>
-<Price7>1193.35</Price7>
-<Price8>1193.35</Price8>
+<Price>548.90</Price>
+<Price2>860.42</Price2>
+<Price3>603.79</Price3>
+<Price4>614.77</Price4>
+<Price5>614.77</Price5>
+<Price6>614.77</Price6>
+<Price7>860.42</Price7>
+<Price8>860.42</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-be-bright-likit-fondoten-medium-spf50-33-ml-8492.jpg</Image1>
@@ -52266,16 +52266,16 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
-<Price>645.38</Price>
-<Price2>992.45</Price2>
-<Price3>709.92</Price3>
-<Price4>722.83</Price4>
-<Price5>722.83</Price5>
-<Price6>722.83</Price6>
-<Price7>992.45</Price7>
-<Price8>992.45</Price8>
+<Stock>12</Stock>
+<Miad>01/05/2030</Miad>
+<Price>738.90</Price>
+<Price2>1120.43</Price2>
+<Price3>812.79</Price3>
+<Price4>827.57</Price4>
+<Price5>827.57</Price5>
+<Price6>827.57</Price6>
+<Price7>1120.43</Price7>
+<Price8>1120.43</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sudocrem-bebek-bakim-kremi-400-gr-10461.jpg</Image1>
