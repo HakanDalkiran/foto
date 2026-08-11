@@ -2733,14 +2733,14 @@
 <Tax>1</Tax>
 <Stock>85</Stock>
 <Miad>01/11/2026</Miad>
-<Price>669.65</Price>
-<Price2>1025.67</Price2>
-<Price3>736.62</Price3>
-<Price4>750.01</Price4>
-<Price5>750.01</Price5>
-<Price6>750.01</Price6>
-<Price7>1025.67</Price7>
-<Price8>1025.67</Price8>
+<Price>597.90</Price>
+<Price2>927.48</Price2>
+<Price3>657.69</Price3>
+<Price4>669.65</Price4>
+<Price5>669.65</Price5>
+<Price6>669.65</Price6>
+<Price7>927.48</Price7>
+<Price8>927.48</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/argivit-master-fish-oil-epa-ve-dha-iceren-balik-yagi-150-ml-7871.jpg</Image1>
@@ -3671,7 +3671,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>01/02/2029</Miad>
 <Price>884.90</Price>
 <Price2>1320.24</Price2>
@@ -11687,14 +11687,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>458.90</Price>
-<Price2>737.25</Price2>
-<Price3>504.79</Price3>
-<Price4>513.97</Price4>
-<Price5>513.97</Price5>
-<Price6>513.97</Price6>
-<Price7>737.25</Price7>
-<Price8>737.25</Price8>
+<Price>456.90</Price>
+<Price2>734.52</Price2>
+<Price3>502.59</Price3>
+<Price4>511.73</Price4>
+<Price5>511.73</Price5>
+<Price6>511.73</Price6>
+<Price7>734.52</Price7>
+<Price8>734.52</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-ato-probiyotik-krem-50-ml-8461.jpg</Image1>
@@ -12867,7 +12867,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -37623,7 +37623,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>86</Stock>
+<Stock>85</Stock>
 <Miad>01/12/2028</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -38758,16 +38758,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>5</Stock>
 <Miad>01/10/2027</Miad>
-<Price>327.90</Price>
-<Price2>557.98</Price2>
-<Price3>360.69</Price3>
-<Price4>367.25</Price4>
-<Price5>367.25</Price5>
-<Price6>367.25</Price6>
-<Price7>557.98</Price7>
-<Price8>557.98</Price8>
+<Price>367.25</Price>
+<Price2>611.83</Price2>
+<Price3>403.98</Price3>
+<Price4>411.32</Price4>
+<Price5>411.32</Price5>
+<Price6>411.32</Price6>
+<Price7>611.83</Price7>
+<Price8>611.83</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-methyl-b12-sprey-1000-mg-10-ml-eski-ambalaj-9859.jpg</Image1>
@@ -39579,7 +39579,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>146</Stock>
+<Stock>144</Stock>
 <Miad>01/02/2028</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -44636,7 +44636,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>3049.90</Price>
 <Price2>4283.04</Price2>
@@ -59556,7 +59556,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>43</Stock>
+<Stock>44</Stock>
 <Miad>01/12/2028</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -59680,7 +59680,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>58</Stock>
+<Stock>54</Stock>
 <Miad>01/03/2029</Miad>
 <Price>499.90</Price>
 <Price2>793.36</Price2>
@@ -59753,7 +59753,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>84</Stock>
+<Stock>82</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1498.90</Price>
 <Price2>2160.49</Price2>
@@ -60946,14 +60946,14 @@
 <Tax>20</Tax>
 <Stock>18</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>184.90</Price>
-<Price2>362.29</Price2>
-<Price3>203.39</Price3>
-<Price4>207.09</Price4>
-<Price5>207.09</Price5>
-<Price6>207.09</Price6>
-<Price7>362.29</Price7>
-<Price8>362.29</Price8>
+<Price>197.90</Price>
+<Price2>380.08</Price2>
+<Price3>217.69</Price3>
+<Price4>221.65</Price4>
+<Price5>221.65</Price5>
+<Price6>221.65</Price6>
+<Price7>380.08</Price7>
+<Price8>380.08</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rocs-baby-0-3-yas-dis-fircasi-11327.jpg</Image1>
@@ -62009,14 +62009,14 @@
 <Tax>20</Tax>
 <Stock>77</Stock>
 <Miad>01/01/2028</Miad>
-<Price>579.60</Price>
-<Price2>902.43</Price2>
-<Price3>637.56</Price3>
-<Price4>649.15</Price4>
-<Price5>649.15</Price5>
-<Price6>649.15</Price6>
-<Price7>902.43</Price7>
-<Price8>902.43</Price8>
+<Price>597.30</Price>
+<Price2>926.66</Price2>
+<Price3>657.03</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -62059,14 +62059,14 @@
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>01/08/2028</Miad>
-<Price>583.90</Price>
-<Price2>908.32</Price2>
-<Price3>642.29</Price3>
-<Price4>653.97</Price4>
-<Price5>653.97</Price5>
-<Price6>653.97</Price6>
-<Price7>908.32</Price7>
-<Price8>908.32</Price8>
+<Price>624.70</Price>
+<Price2>964.15</Price2>
+<Price3>687.17</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -62519,7 +62519,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>55</Stock>
 <Miad>01/05/2029</Miad>
 <Price>284.40</Price>
 <Price2>498.45</Price2>
