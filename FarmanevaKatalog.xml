@@ -16352,7 +16352,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>01/04/2028</Miad>
 <Price>129.90</Price>
 <Price2>287.02</Price2>
@@ -17235,7 +17235,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>3</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>79.90</Price>
 <Price2>218.59</Price2>
@@ -37223,7 +37223,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1278.90</Price>
 <Price2>1859.42</Price2>
@@ -40146,7 +40146,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>4</Stock>
 <Miad>01/01/2027</Miad>
 <Price>569.00</Price>
 <Price2>887.93</Price2>
@@ -52224,16 +52224,16 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>12</Stock>
 <Miad>01/08/2027</Miad>
-<Price>588.90</Price>
-<Price2>915.16</Price2>
-<Price3>647.79</Price3>
-<Price4>659.57</Price4>
-<Price5>659.57</Price5>
-<Price6>659.57</Price6>
-<Price7>915.16</Price7>
-<Price8>915.16</Price8>
+<Price>573.90</Price>
+<Price2>894.63</Price2>
+<Price3>631.29</Price3>
+<Price4>642.77</Price4>
+<Price5>642.77</Price5>
+<Price6>642.77</Price6>
+<Price7>894.63</Price7>
+<Price8>894.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sudocrem-bebek-bakim-kremi-250-gr-10459.jpg</Image1>
@@ -61490,14 +61490,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>01/02/2029</Miad>
-<Price>688.90</Price>
-<Price2>1052.01</Price2>
-<Price3>757.79</Price3>
-<Price4>771.57</Price4>
-<Price5>771.57</Price5>
-<Price6>771.57</Price6>
-<Price7>1052.01</Price7>
-<Price8>1052.01</Price8>
+<Price>729.90</Price>
+<Price2>1108.12</Price2>
+<Price3>802.89</Price3>
+<Price4>817.49</Price4>
+<Price5>817.49</Price5>
+<Price6>817.49</Price6>
+<Price7>1108.12</Price7>
+<Price8>1108.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -61811,14 +61811,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>01/04/2029</Miad>
-<Price>699.96</Price>
-<Price2>1067.15</Price2>
-<Price3>769.96</Price3>
-<Price4>783.96</Price4>
-<Price5>783.96</Price5>
-<Price6>783.96</Price6>
-<Price7>1067.15</Price7>
-<Price8>1067.15</Price8>
+<Price>728.80</Price>
+<Price2>1106.61</Price2>
+<Price3>801.68</Price3>
+<Price4>816.26</Price4>
+<Price5>816.26</Price5>
+<Price6>816.26</Price6>
+<Price7>1106.61</Price7>
+<Price8>1106.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -62009,14 +62009,14 @@
 <Tax>20</Tax>
 <Stock>77</Stock>
 <Miad>01/01/2028</Miad>
-<Price>575.00</Price>
-<Price2>896.14</Price2>
-<Price3>632.50</Price3>
-<Price4>644.00</Price4>
-<Price5>644.00</Price5>
-<Price6>644.00</Price6>
-<Price7>896.14</Price7>
-<Price8>896.14</Price8>
+<Price>597.30</Price>
+<Price2>926.66</Price2>
+<Price3>657.03</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -62059,14 +62059,14 @@
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>01/08/2028</Miad>
-<Price>575.00</Price>
-<Price2>896.14</Price2>
-<Price3>632.50</Price3>
-<Price4>644.00</Price4>
-<Price5>644.00</Price5>
-<Price6>644.00</Price6>
-<Price7>896.14</Price7>
-<Price8>896.14</Price8>
+<Price>624.70</Price>
+<Price2>964.15</Price2>
+<Price3>687.17</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -62519,7 +62519,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>49</Stock>
 <Miad>01/05/2029</Miad>
 <Price>284.40</Price>
 <Price2>498.45</Price2>
