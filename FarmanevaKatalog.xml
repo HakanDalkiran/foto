@@ -513,14 +513,14 @@
 <Tax>20</Tax>
 <Stock>9</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>139.28</Price>
-<Price2>299.85</Price2>
-<Price3>153.21</Price3>
-<Price4>155.99</Price4>
-<Price5>155.99</Price5>
-<Price6>155.99</Price6>
-<Price7>299.85</Price7>
-<Price8>299.85</Price8>
+<Price>155.99</Price>
+<Price2>322.72</Price2>
+<Price3>171.59</Price3>
+<Price4>174.71</Price4>
+<Price5>174.71</Price5>
+<Price6>174.71</Price6>
+<Price7>322.72</Price7>
+<Price8>322.72</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/alldermo-spf50-lazer-epilasyon-sonrasi-cilt-kremi-50-ml-7745.jpg</Image1>
@@ -2474,7 +2474,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>120</Stock>
 <Miad>01/10/2027</Miad>
 <Price>454.90</Price>
 <Price2>731.78</Price2>
@@ -2516,7 +2516,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>0</Stock>
 <Miad>01/03/2026</Miad>
 <Price>225.44</Price>
 <Price2>417.76</Price2>
@@ -2773,7 +2773,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>01/01/2027</Miad>
 <Price>664.75</Price>
 <Price2>1018.96</Price2>
@@ -3379,7 +3379,7 @@
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
 <Stock>9</Stock>
-<Miad>01/10/2026</Miad>
+<Miad>01/09/2026</Miad>
 <Price>799.90</Price>
 <Price2>1203.91</Price2>
 <Price3>879.89</Price3>
@@ -6004,14 +6004,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>01/09/2026</Miad>
-<Price>618.90</Price>
-<Price2>956.21</Price2>
-<Price3>680.79</Price3>
-<Price4>693.17</Price4>
-<Price5>693.17</Price5>
-<Price6>693.17</Price6>
-<Price7>956.21</Price7>
-<Price8>956.21</Price8>
+<Price>693.17</Price>
+<Price2>1057.85</Price2>
+<Price3>762.49</Price3>
+<Price4>776.35</Price4>
+<Price5>776.35</Price5>
+<Price6>776.35</Price6>
+<Price7>1057.85</Price7>
+<Price8>1057.85</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bioderma-photoderm-cover-touch-spf50-40-gr-claire-light-8104.jpg</Image1>
@@ -7344,7 +7344,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>24</Stock>
 <Miad>01/11/2026</Miad>
 <Price>342.90</Price>
 <Price2>377.19</Price2>
@@ -9549,7 +9549,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad>01/02/2029</Miad>
 <Price>748.90</Price>
 <Price2>823.79</Price2>
@@ -12168,7 +12168,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>236</Stock>
+<Stock>235</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -12388,7 +12388,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>6</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>699.00</Price>
 <Price2>768.90</Price2>
@@ -12649,14 +12649,14 @@
 <Tax>20</Tax>
 <Stock>33</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>964.27</Price>
-<Price2>1428.85</Price2>
-<Price3>1060.70</Price3>
-<Price4>1079.98</Price4>
-<Price5>1079.98</Price5>
-<Price6>1079.98</Price6>
-<Price7>1428.85</Price7>
-<Price8>1428.85</Price8>
+<Price>1079.98</Price>
+<Price2>1587.20</Price2>
+<Price3>1187.98</Price3>
+<Price4>1209.58</Price4>
+<Price5>1209.58</Price5>
+<Price6>1209.58</Price6>
+<Price7>1587.20</Price7>
+<Price8>1587.20</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-be-bright-tranexamic-acid-complex-serum-30-ml-8513.jpg</Image1>
@@ -23268,12 +23268,12 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>01/04/2026</Miad>
 <Price>1790.91</Price>
 <Price2>2560.11</Price2>
 <Price3>1970.00</Price3>
-<Price4>1379.99</Price4>
+<Price4>2005.82</Price4>
 <Price5>2005.82</Price5>
 <Price6>2005.82</Price6>
 <Price7>2560.11</Price7>
@@ -25198,16 +25198,16 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>411.90</Price>
-<Price2>672.94</Price2>
-<Price3>453.09</Price3>
-<Price4>461.33</Price4>
-<Price5>461.33</Price5>
-<Price6>461.33</Price6>
-<Price7>672.94</Price7>
-<Price8>672.94</Price8>
+<Price>794.90</Price>
+<Price2>1197.07</Price2>
+<Price3>874.39</Price3>
+<Price4>890.29</Price4>
+<Price5>890.29</Price5>
+<Price6>890.29</Price6>
+<Price7>1197.07</Price7>
+<Price8>1197.07</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/maybelline-new-york-lifter-gloss-nemlendirici-dudak-parlaticisi-bubblegum-24-9152.jpg</Image1>
@@ -30113,8 +30113,8 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
-<Miad>01/06/2026</Miad>
+<Stock>6</Stock>
+<Miad>01/01/2029</Miad>
 <Price>850.00</Price>
 <Price2>1272.47</Price2>
 <Price3>935.00</Price3>
@@ -32042,14 +32042,14 @@
 <Tax>20</Tax>
 <Stock>35</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>97.00</Price>
-<Price2>241.99</Price2>
-<Price3>106.70</Price3>
-<Price4>108.64</Price4>
-<Price5>108.64</Price5>
-<Price6>108.64</Price6>
-<Price7>241.99</Price7>
-<Price8>241.99</Price8>
+<Price>108.64</Price>
+<Price2>257.92</Price2>
+<Price3>119.50</Price3>
+<Price4>121.68</Price4>
+<Price5>121.68</Price5>
+<Price6>121.68</Price6>
+<Price7>257.92</Price7>
+<Price8>257.92</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-krem-teneke-75-ml-9448.jpg</Image1>
@@ -33315,8 +33315,8 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>01/01/2029</Miad>
+<Stock>4</Stock>
+<Miad>01/05/2029</Miad>
 <Price>271.82</Price>
 <Price2>481.24</Price2>
 <Price3>299.00</Price3>
@@ -41586,7 +41586,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>5</Stock>
 <Miad>01/01/2030</Miad>
 <Price>324.09</Price>
 <Price2>552.77</Price2>
@@ -42454,16 +42454,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad>01/04/2027</Miad>
 <Price>438.98</Price>
 <Price2>709.99</Price2>
 <Price3>482.88</Price3>
-<Price4>589.00</Price4>
-<Price5>589.00</Price5>
-<Price6>589.00</Price6>
+<Price4>491.66</Price4>
+<Price5>491.66</Price5>
+<Price6>491.66</Price6>
 <Price7>709.99</Price7>
-<Price8>749.00</Price8>
+<Price8>709.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/pharmaton-50-plus-30-kapsul-10039.jpg</Image1>
@@ -42811,12 +42811,12 @@
 <category><![CDATA[Anne Bakımı]]></category>
 <subCategory><![CDATA[Göğüs Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad>01/01/2026</Miad>
 <Price>422.73</Price>
 <Price2>687.76</Price2>
 <Price3>465.00</Price3>
-<Price4>419.99</Price4>
+<Price4>473.46</Price4>
 <Price5>473.46</Price5>
 <Price6>473.46</Price6>
 <Price7>687.76</Price7>
@@ -49483,7 +49483,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>48</Stock>
+<Stock>6</Stock>
 <Miad>01/12/2026</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -52446,7 +52446,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>01/04/2026</Miad>
 <Price>431.95</Price>
 <Price2>700.37</Price2>
@@ -53595,16 +53595,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>13</Stock>
-<Miad>01/03/2026</Miad>
-<Price>456.21</Price>
-<Price2>733.57</Price2>
-<Price3>501.83</Price3>
-<Price4>510.96</Price4>
-<Price5>510.96</Price5>
-<Price6>510.96</Price6>
-<Price7>733.57</Price7>
-<Price8>733.57</Price8>
+<Stock>12</Stock>
+<Miad>01/03/2028</Miad>
+<Price>524.90</Price>
+<Price2>827.58</Price2>
+<Price3>577.39</Price3>
+<Price4>587.89</Price4>
+<Price5>587.89</Price5>
+<Price6>587.89</Price6>
+<Price7>827.58</Price7>
+<Price8>827.58</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/thea-thealoz-duo-goz-damlasi-10-ml-10508.jpg</Image1>
@@ -56295,7 +56295,7 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Çocuk Omega 3 / Balık Yağı]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>01/11/2027</Miad>
 <Price>538.80</Price>
 <Price2>846.60</Price2>
@@ -62009,14 +62009,14 @@
 <Tax>20</Tax>
 <Stock>77</Stock>
 <Miad>01/01/2028</Miad>
-<Price>597.30</Price>
-<Price2>926.66</Price2>
-<Price3>657.03</Price3>
-<Price4>668.98</Price4>
-<Price5>668.98</Price5>
-<Price6>668.98</Price6>
-<Price7>926.66</Price7>
-<Price8>926.66</Price8>
+<Price>575.00</Price>
+<Price2>896.14</Price2>
+<Price3>632.50</Price3>
+<Price4>644.00</Price4>
+<Price5>644.00</Price5>
+<Price6>644.00</Price6>
+<Price7>896.14</Price7>
+<Price8>896.14</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -62059,14 +62059,14 @@
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>01/08/2028</Miad>
-<Price>624.70</Price>
-<Price2>964.15</Price2>
-<Price3>687.17</Price3>
-<Price4>699.66</Price4>
-<Price5>699.66</Price5>
-<Price6>699.66</Price6>
-<Price7>964.15</Price7>
-<Price8>964.15</Price8>
+<Price>575.00</Price>
+<Price2>896.14</Price2>
+<Price3>632.50</Price3>
+<Price4>644.00</Price4>
+<Price5>644.00</Price5>
+<Price6>644.00</Price6>
+<Price7>896.14</Price7>
+<Price8>896.14</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -62519,7 +62519,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>32</Stock>
 <Miad>01/05/2029</Miad>
 <Price>284.40</Price>
 <Price2>498.45</Price2>
@@ -67986,7 +67986,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>46</Stock>
+<Stock>45</Stock>
 <Miad>01/04/2029</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
@@ -68255,14 +68255,14 @@
 <Tax>10</Tax>
 <Stock>500</Stock>
 <Miad>01/12/2026</Miad>
-<Price>529.90</Price>
-<Price2>834.42</Price2>
-<Price3>582.89</Price3>
-<Price4>593.49</Price4>
-<Price5>593.49</Price5>
-<Price6>593.49</Price6>
-<Price7>834.42</Price7>
-<Price8>834.42</Price8>
+<Price>593.49</Price>
+<Price2>921.44</Price2>
+<Price3>652.84</Price3>
+<Price4>664.71</Price4>
+<Price5>664.71</Price5>
+<Price6>664.71</Price6>
+<Price7>921.44</Price7>
+<Price8>921.44</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/thealoz-duo-damla-10-ml-12040.jpg</Image1>
