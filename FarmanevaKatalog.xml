@@ -3671,7 +3671,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>01/02/2029</Miad>
 <Price>884.90</Price>
 <Price2>1320.24</Price2>
@@ -19139,7 +19139,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>126</Stock>
+<Stock>125</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>429.90</Price>
 <Price2>697.57</Price2>
@@ -19741,15 +19741,15 @@
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
 <Stock>5</Stock>
-<Miad>01/01/2028</Miad>
-<Price>199.90</Price>
-<Price2>382.81</Price2>
-<Price3>219.89</Price3>
-<Price4>223.89</Price4>
-<Price5>223.89</Price5>
-<Price6>223.89</Price6>
-<Price7>382.81</Price7>
-<Price8>382.81</Price8>
+<Miad>01/07/2029</Miad>
+<Price>223.89</Price>
+<Price2>415.64</Price2>
+<Price3>246.28</Price3>
+<Price4>250.76</Price4>
+<Price5>250.76</Price5>
+<Price6>250.76</Price6>
+<Price7>415.64</Price7>
+<Price8>415.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/incia-bebek-bulasik-sabunu-bitkisel-emzik-biberon-temizleyici-vegan-500-ml-8850.jpg</Image1>
@@ -59753,7 +59753,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>82</Stock>
+<Stock>80</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1498.90</Price>
 <Price2>2160.49</Price2>
@@ -61290,7 +61290,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>01/12/2028</Miad>
 <Price>282.90</Price>
 <Price2>496.40</Price2>
@@ -62519,7 +62519,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>54</Stock>
 <Miad>01/05/2029</Miad>
 <Price>284.40</Price>
 <Price2>498.45</Price2>
