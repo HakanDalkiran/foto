@@ -15482,14 +15482,14 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>01/08/2027</Miad>
-<Price>445.45</Price>
-<Price2>718.85</Price2>
-<Price3>490.00</Price3>
-<Price4>338.00</Price4>
-<Price5>338.00</Price5>
-<Price6>338.00</Price6>
-<Price7>718.85</Price7>
-<Price8>718.85</Price8>
+<Price>338.00</Price>
+<Price2>571.80</Price2>
+<Price3>371.80</Price3>
+<Price4>378.56</Price4>
+<Price5>378.56</Price5>
+<Price6>378.56</Price6>
+<Price7>571.80</Price7>
+<Price8>571.80</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-10-flakon-8688.jpg</Image1>
@@ -15524,7 +15524,7 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>10</Tax>
-<Stock>37</Stock>
+<Stock>35</Stock>
 <Miad>01/12/2027</Miad>
 <Price>543.90</Price>
 <Price2>598.29</Price2>
@@ -24977,7 +24977,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>339</Stock>
+<Stock>338</Stock>
 <Miad>01/03/2030</Miad>
 <Price>1485.00</Price>
 <Price2>2141.47</Price2>
@@ -46230,14 +46230,14 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>01/06/2027</Miad>
+<Stock>261</Stock>
+<Miad>01/07/2028</Miad>
 <Price>344.90</Price>
 <Price2>581.25</Price2>
 <Price3>379.39</Price3>
-<Price4>279.00</Price4>
-<Price5>279.00</Price5>
-<Price6>279.00</Price6>
+<Price4>386.29</Price4>
+<Price5>386.29</Price5>
+<Price6>386.29</Price6>
 <Price7>581.25</Price7>
 <Price8>581.25</Price8>
 <CurrencyType>TRL</CurrencyType>
