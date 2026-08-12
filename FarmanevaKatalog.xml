@@ -89,7 +89,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00003]]></Product_code>
 <Barcode>0762860100022</Barcode>
-<Name><![CDATA[Aerobika Mukus Temizleme Fizyo Terapi Cihazı]]></Name>
+<Name><![CDATA[Aerobika Pozitif Nefes Verme Terapi Cihazı OPEP]]></Name>
 <Brand><![CDATA[Aerobika]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -309,7 +309,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00008]]></Product_code>
 <Barcode>762860013469</Barcode>
-<Name><![CDATA[Aerochamber Turuncu 0-18 Ay]]></Name>
+<Name><![CDATA[AeroChamber Turuncu 0-18 Ay]]></Name>
 <Brand><![CDATA[Aerochamber]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -649,7 +649,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00016]]></Product_code>
 <Barcode>8697791000788</Barcode>
-<Name><![CDATA[Allergo Vitagil Magni4 Magnezyum Vitamin D3 P5P 30 Tablet]]></Name>
+<Name><![CDATA[Vitagil Magni4 Magnezyum Vitamin D3 P5P 30 Tablet]]></Name>
 <Brand><![CDATA[Allergo]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -733,7 +733,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00018]]></Product_code>
 <Barcode>8697791000795</Barcode>
-<Name><![CDATA[Allergo Vitagil Microflora Probiyotik Damla 15 ml]]></Name>
+<Name><![CDATA[Vitagil Microflora Probiyotik Damla 15 ml]]></Name>
 <Brand><![CDATA[Allergo]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -779,11 +779,11 @@
 <Brand><![CDATA[Allergo]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>7</Stock>
 <Miad>01/10/2026</Miad>
 <Price>227.90</Price>
 <Price2>421.13</Price2>
-<Price3>250.69</Price3>
+<Price3>246.13</Price3>
 <Price4>255.25</Price4>
 <Price5>255.25</Price5>
 <Price6>255.25</Price6>
@@ -2922,11 +2922,11 @@
 <Brand><![CDATA[Arko]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>01/11/2027</Miad>
 <Price>134.90</Price>
 <Price2>293.86</Price2>
-<Price3>148.39</Price3>
+<Price3>145.69</Price3>
 <Price4>151.09</Price4>
 <Price5>151.09</Price5>
 <Price6>151.09</Price6>
@@ -4367,11 +4367,11 @@
 <Brand><![CDATA[Baybay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/12/2026</Miad>
 <Price>587.90</Price>
 <Price2>913.79</Price2>
-<Price3>646.69</Price3>
+<Price3>634.93</Price3>
 <Price4>658.45</Price4>
 <Price5>658.45</Price5>
 <Price6>658.45</Price6>
@@ -4500,11 +4500,11 @@
 <Brand><![CDATA[Bebelac]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
-<Price3>658.79</Price3>
+<Price3>646.81</Price3>
 <Price4>670.77</Price4>
 <Price5>670.77</Price5>
 <Price6>670.77</Price6>
@@ -6100,11 +6100,11 @@
 <Brand><![CDATA[Bioderma]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>01/09/2026</Miad>
 <Price>618.90</Price>
 <Price2>956.21</Price2>
-<Price3>680.79</Price3>
+<Price3>668.41</Price3>
 <Price4>693.17</Price4>
 <Price5>693.17</Price5>
 <Price6>693.17</Price6>
@@ -7695,7 +7695,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00176]]></Product_code>
 <Barcode>6948538360903</Barcode>
-<Name><![CDATA[Bmc N5 Solunum Cihazı Maskesi Xlarge]]></Name>
+<Name><![CDATA[Bmc N5 Solunum Cihazı Maskesi xLarge]]></Name>
 <Brand><![CDATA[Bmc]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -8010,11 +8010,11 @@
 <Brand><![CDATA[Canped]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>01/10/2026</Miad>
 <Price>884.90</Price>
 <Price2>1320.24</Price2>
-<Price3>973.39</Price3>
+<Price3>955.69</Price3>
 <Price4>991.09</Price4>
 <Price5>991.09</Price5>
 <Price6>991.09</Price6>
@@ -9659,11 +9659,11 @@
 <Brand><![CDATA[Cosakondrin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>16</Stock>
 <Miad>01/01/2029</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
-<Price3>823.79</Price3>
+<Price3>808.81</Price3>
 <Price4>838.77</Price4>
 <Price5>838.77</Price5>
 <Price6>838.77</Price6>
@@ -10722,7 +10722,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00244]]></Product_code>
 <Barcode>8697595876220</Barcode>
-<Name><![CDATA[Day2day Collagen Mag Plus Çilek Karpuz Aromalı 30 Saşe]]></Name>
+<Name><![CDATA[Day2Day Collagen Mag Plus Çilek Karpuz Aromalı 30 Saşe]]></Name>
 <Brand><![CDATA[Day2day]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -10768,7 +10768,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00245]]></Product_code>
 <Barcode>8697595876299</Barcode>
-<Name><![CDATA[Day2day Collagen Mushroom Glow Elma & Çilek Aromalı 30 Saşe]]></Name>
+<Name><![CDATA[Day2Day Collagen Mushroom Glow Elma & Çilek Aromalı 30 Saşe]]></Name>
 <Brand><![CDATA[Day2day]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -11027,7 +11027,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00251]]></Product_code>
 <Barcode>8697595876138</Barcode>
-<Name><![CDATA[Day2day The Collagen Beauty Intense Ananas Aromalı 30 Saşe]]></Name>
+<Name><![CDATA[Day2Day The Collagen Beauty Intense Ananas Aromalı 30 Saşe]]></Name>
 <Brand><![CDATA[Day2day]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -15039,7 +15039,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00341]]></Product_code>
 <Barcode>8680645530500</Barcode>
-<Name><![CDATA[Duobalance Bv Cran 14 Kapsül]]></Name>
+<Name><![CDATA[Duobalance BV Cran 14 Kapsül]]></Name>
 <Brand><![CDATA[Duobalance]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -15175,7 +15175,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00344]]></Product_code>
 <Barcode>8681110200126</Barcode>
-<Name><![CDATA[Easyfishoil 30 Jel Tablet]]></Name>
+<Name><![CDATA[EasyFishoil 30 Jel Tablet]]></Name>
 <Brand><![CDATA[Easyfishoil]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -15765,16 +15765,16 @@
 <Brand><![CDATA[Enterogermina]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>01/12/2027</Miad>
+<Stock>182</Stock>
+<Miad>01/11/2026</Miad>
 <Price>623.90</Price>
-<Price2>598.29</Price2>
-<Price3>598.29</Price3>
-<Price4>535.00</Price4>
-<Price5>535.00</Price5>
-<Price6>535.00</Price6>
-<Price7>853.58</Price7>
-<Price8>853.58</Price8>
+<Price2>963.06</Price2>
+<Price3>673.81</Price3>
+<Price4>698.77</Price4>
+<Price5>698.77</Price5>
+<Price6>698.77</Price6>
+<Price7>963.06</Price7>
+<Price8>963.06</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-20-flakon-8691.jpg</Image1>
@@ -16702,11 +16702,11 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>01/02/2028</Miad>
 <Price>147.90</Price>
 <Price2>311.65</Price2>
-<Price3>162.69</Price3>
+<Price3>159.73</Price3>
 <Price4>165.65</Price4>
 <Price5>165.65</Price5>
 <Price6>165.65</Price6>
@@ -17970,11 +17970,11 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>27</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>148.50</Price>
 <Price2>312.47</Price2>
-<Price3>163.35</Price3>
+<Price3>160.38</Price3>
 <Price4>166.32</Price4>
 <Price5>166.32</Price5>
 <Price6>166.32</Price6>
@@ -18145,11 +18145,11 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>252.00</Price>
 <Price2>454.11</Price2>
-<Price3>277.20</Price3>
+<Price3>272.16</Price3>
 <Price4>282.24</Price4>
 <Price5>282.24</Price5>
 <Price6>282.24</Price6>
@@ -21152,7 +21152,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00479]]></Product_code>
 <Barcode>8680176000428</Barcode>
-<Name><![CDATA[İmuneks Farma Q10 30 Kapsül]]></Name>
+<Name><![CDATA[İmuneks Q10 30 Kapsül]]></Name>
 <Brand><![CDATA[İmuneks Farma]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -21425,11 +21425,11 @@
 <Brand><![CDATA[Krilom]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>01/09/2026</Miad>
 <Price>849.90</Price>
 <Price2>1272.34</Price2>
-<Price3>934.89</Price3>
+<Price3>917.89</Price3>
 <Price4>951.89</Price4>
 <Price5>951.89</Price5>
 <Price6>951.89</Price6>
@@ -22082,7 +22082,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00500]]></Product_code>
 <Barcode>3600523801800</Barcode>
-<Name><![CDATA[L'oreal Paris Color Riche Ruj No:107 Seine Sunset]]></Name>
+<Name><![CDATA[L'Oreal Paris Color Riche Ruj No:107 Seine Sunset]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -22307,11 +22307,11 @@
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>01/10/2026</Miad>
 <Price>1379.00</Price>
 <Price2>1996.41</Price2>
-<Price3>1516.90</Price3>
+<Price3>1489.32</Price3>
 <Price4>1544.48</Price4>
 <Price5>1544.48</Price5>
 <Price6>1544.48</Price6>
@@ -23010,11 +23010,11 @@
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/10/2026</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
-<Price3>1098.79</Price3>
+<Price3>1078.81</Price3>
 <Price4>1118.77</Price4>
 <Price5>1118.77</Price5>
 <Price6>1118.77</Price6>
@@ -24054,7 +24054,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00544]]></Product_code>
 <Barcode>5060062996166</Barcode>
-<Name><![CDATA[Lansinoh Hpa Lanolin Göğüs Ucu Kremi 40 ml]]></Name>
+<Name><![CDATA[Lansinoh HPA Lanolin Göğüs Ucu Kremi 40 ml]]></Name>
 <Brand><![CDATA[Lansinoh]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -24278,7 +24278,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00549]]></Product_code>
 <Barcode>3508240006211</Barcode>
-<Name><![CDATA[Lierac Micellar Milk Double Cleanser 400 ml]]></Name>
+<Name><![CDATA[Lierac Paris Micellar Milk Double Cleanser 400 ml]]></Name>
 <Brand><![CDATA[Lierac]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -24591,7 +24591,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00556]]></Product_code>
 <Barcode>3508240001841</Barcode>
-<Name><![CDATA[Lierac Sebologie Imperfections Correction Regulating Gel 40 ml - Akneli Ciltler İçin Düzenleyici Jel]]></Name>
+<Name><![CDATA[Lierac Paris Sebologie Imperfections Correction Regulating Gel 40 ml - Akneli Ciltler için Düzenleyici Jel]]></Name>
 <Brand><![CDATA[Lierac]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -26237,7 +26237,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00593]]></Product_code>
 <Barcode>6953205967019</Barcode>
-<Name><![CDATA[Mesilife Derece Alından Temassız Fr870]]></Name>
+<Name><![CDATA[MesiLife Derece Alından Temassız Fr870]]></Name>
 <Brand><![CDATA[Mesilife]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -29099,11 +29099,11 @@
 <Brand><![CDATA[Natuwell]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>18</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
-<Price3>208.89</Price3>
+<Price3>205.09</Price3>
 <Price4>212.69</Price4>
 <Price5>212.69</Price5>
 <Price6>212.69</Price6>
@@ -29144,11 +29144,11 @@
 <Brand><![CDATA[Natuwell]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>15</Stock>
 <Miad>01/01/2027</Miad>
 <Price>299.90</Price>
 <Price2>519.66</Price2>
-<Price3>329.89</Price3>
+<Price3>323.89</Price3>
 <Price4>335.89</Price4>
 <Price5>335.89</Price5>
 <Price6>335.89</Price6>
@@ -29679,7 +29679,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00670]]></Product_code>
 <Barcode>8680645530210</Barcode>
-<Name><![CDATA[Nbt Life Berliv Lipozamal Berberin 60 Kapsül]]></Name>
+<Name><![CDATA[NBT Life Berliv Lipozamal Berberin 60 Kapsül]]></Name>
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -29863,11 +29863,11 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/03/2028</Miad>
 <Price>588.90</Price>
 <Price2>915.16</Price2>
-<Price3>647.79</Price3>
+<Price3>636.01</Price3>
 <Price4>659.57</Price4>
 <Price5>659.57</Price5>
 <Price6>659.57</Price6>
@@ -30124,7 +30124,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00680]]></Product_code>
 <Barcode>8680645531149</Barcode>
-<Name><![CDATA[Nbt Life Duobalance Oral 10 Probiyotık Pastil]]></Name>
+<Name><![CDATA[NBT Life Duobalance Oral 10 Probiyotık Pastil]]></Name>
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -30219,11 +30219,11 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>01/12/2026</Miad>
 <Price>474.90</Price>
 <Price2>759.15</Price2>
-<Price3>522.39</Price3>
+<Price3>512.89</Price3>
 <Price4>531.89</Price4>
 <Price5>531.89</Price5>
 <Price6>531.89</Price6>
@@ -30666,11 +30666,11 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/04/2027</Miad>
 <Price>509.90</Price>
 <Price2>807.05</Price2>
-<Price3>560.89</Price3>
+<Price3>550.69</Price3>
 <Price4>571.09</Price4>
 <Price5>571.09</Price5>
 <Price6>571.09</Price6>
@@ -30979,7 +30979,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00699]]></Product_code>
 <Barcode>8680645531033</Barcode>
-<Name><![CDATA[Nbt Life Pulsemag 60 Kapsül]]></Name>
+<Name><![CDATA[NBT Life Pulsemag 60 Kapsül]]></Name>
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -31212,11 +31212,11 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>24</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>424.90</Price>
 <Price2>690.73</Price2>
-<Price3>467.39</Price3>
+<Price3>458.89</Price3>
 <Price4>475.89</Price4>
 <Price5>475.89</Price5>
 <Price6>475.89</Price6>
@@ -31342,7 +31342,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00707]]></Product_code>
 <Barcode>8680645530890</Barcode>
-<Name><![CDATA[Nbt Life Treon 60 Kapsül]]></Name>
+<Name><![CDATA[NBT Life Treon 60 Kapsül]]></Name>
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -34254,11 +34254,11 @@
 <Brand><![CDATA[Nutraxin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>13</Stock>
 <Miad>01/02/2027</Miad>
 <Price>264.00</Price>
 <Price2>470.53</Price2>
-<Price3>290.40</Price3>
+<Price3>285.12</Price3>
 <Price4>295.68</Price4>
 <Price5>295.68</Price5>
 <Price6>295.68</Price6>
@@ -34570,11 +34570,11 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>967.90</Price>
 <Price2>1433.82</Price2>
-<Price3>1064.69</Price3>
+<Price3>1045.33</Price3>
 <Price4>1084.05</Price4>
 <Price5>1084.05</Price5>
 <Price6>1084.05</Price6>
@@ -35820,7 +35820,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00808]]></Product_code>
 <Barcode>3264680008719</Barcode>
-<Name><![CDATA[Nuxe Men Nuxellence Tüm Yaştan Cilt Tipleri 50 ml]]></Name>
+<Name><![CDATA[Nuxe Men Nuxellence Tüm Yaştan Cilt Tipleri İçin Krem 50 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -35912,7 +35912,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00810]]></Product_code>
 <Barcode>3264680035234</Barcode>
-<Name><![CDATA[Nuxe Merveillance Lift 50 ml]]></Name>
+<Name><![CDATA[Nuxe Merveillance Lift  50 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -36456,7 +36456,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00822]]></Product_code>
 <Barcode>3264680034510</Barcode>
-<Name><![CDATA[Nuxe Nuxuriance Ultra Göz Ve Dudak Kremi 15 ml]]></Name>
+<Name><![CDATA[Nuxe Nuxuriance Ultra Göz ve Dudak Kremi 15 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -37187,11 +37187,11 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
-<Price3>1098.79</Price3>
+<Price3>1078.81</Price3>
 <Price4>1118.77</Price4>
 <Price5>1118.77</Price5>
 <Price6>1118.77</Price6>
@@ -38055,7 +38055,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00857]]></Product_code>
 <Barcode>3264680019708</Barcode>
-<Name><![CDATA[Nuxe White Ultimate Glow Nemlendirici Ve Aydınlatıcı C Vitaminli Serum 30 ml]]></Name>
+<Name><![CDATA[Nuxe White Ultimate Glow Nemlendirici ve Aydınlatıcı C Vitaminli Serum 30 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -38329,7 +38329,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00863]]></Product_code>
 <Barcode>8697595871348</Barcode>
-<Name><![CDATA[Ocean Astaksantin 30 Kapsül]]></Name>
+<Name><![CDATA[Ocean Astaksantin 30 Kapsül - Eski Ambalaj]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -39615,16 +39615,16 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>01/10/2027</Miad>
+<Stock>6</Stock>
+<Miad>01/11/2026</Miad>
 <Price>366.80</Price>
-<Price2>557.98</Price2>
-<Price3>360.69</Price3>
-<Price4>367.25</Price4>
-<Price5>367.25</Price5>
-<Price6>367.25</Price6>
-<Price7>557.98</Price7>
-<Price8>557.98</Price8>
+<Price2>611.22</Price2>
+<Price3>396.14</Price3>
+<Price4>410.82</Price4>
+<Price5>410.82</Price5>
+<Price6>410.82</Price6>
+<Price7>611.22</Price7>
+<Price8>611.22</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-methyl-b12-sprey-1000-mg-10-ml-eski-ambalaj-9859.jpg</Image1>
@@ -40510,7 +40510,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00911]]></Product_code>
 <Barcode>8697595871492</Barcode>
-<Name><![CDATA[Ocean Vitamin D3 600 Iu Oral Sprey 20 ml - Eski Ambalaj]]></Name>
+<Name><![CDATA[Ocean Vitamin D3 600 IU Oral Sprey 20 ml - Eski Ambalaj]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -40736,11 +40736,11 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>411.90</Price>
 <Price2>672.94</Price2>
-<Price3>453.09</Price3>
+<Price3>444.85</Price3>
 <Price4>461.33</Price4>
 <Price5>461.33</Price5>
 <Price6>461.33</Price6>
@@ -41851,7 +41851,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00941]]></Product_code>
 <Barcode>8697595872604</Barcode>
-<Name><![CDATA[Orzax İmunol Complex 30 Kapsül]]></Name>
+<Name><![CDATA[İmunol Complex 30 Kapsül]]></Name>
 <Brand><![CDATA[Orzax]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -43062,7 +43062,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00968]]></Product_code>
 <Barcode>5051562010407</Barcode>
-<Name><![CDATA[Otribebe Nazal Aspiratör Yedek Uç 10 Adet]]></Name>
+<Name><![CDATA[Otribebe Nazal Aspiratör Yedek Ucu 10'lu]]></Name>
 <Brand><![CDATA[Otribebe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -43824,11 +43824,11 @@
 <Brand><![CDATA[Philips Avent]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>769.90</Price>
 <Price2>1162.86</Price2>
-<Price3>846.89</Price3>
+<Price3>831.49</Price3>
 <Price4>862.29</Price4>
 <Price5>862.29</Price5>
 <Price6>862.29</Price6>
@@ -44489,7 +44489,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01000]]></Product_code>
 <Barcode>8690742332037</Barcode>
-<Name><![CDATA[Prosafe Hasta Bezi Textil Xlarge 30'lu]]></Name>
+<Name><![CDATA[Prosafe Pharma Belbantlı xLarge 30'lu]]></Name>
 <Brand><![CDATA[Prosafe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -46715,7 +46715,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01051]]></Product_code>
 <Barcode>8691226646350</Barcode>
-<Name><![CDATA[Rebul Rbl Isabella 50 ml Edp + Deodorant 150 ml]]></Name>
+<Name><![CDATA[Rebul Rbl Isabella 50 ml EDP + Deodorant 150 ml]]></Name>
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -47102,11 +47102,11 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>131.90</Price>
 <Price2>289.76</Price2>
-<Price3>145.09</Price3>
+<Price3>142.45</Price3>
 <Price4>147.73</Price4>
 <Price5>147.73</Price5>
 <Price6>147.73</Price6>
@@ -47656,7 +47656,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01073]]></Product_code>
 <Barcode>4607034478438</Barcode>
-<Name><![CDATA[Rocs Kahve Ve Tütün Lekeleri İçin Diş Macunu 74 gr]]></Name>
+<Name><![CDATA[Rocs Kahve ve Tütün Lekeleri İçin Diş Macunu 74 gr]]></Name>
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -47787,7 +47787,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01076]]></Product_code>
 <Barcode>8699592806026</Barcode>
-<Name><![CDATA[Roll Elast Bandaj Ten Rengi 10 cm X 3,5m]]></Name>
+<Name><![CDATA[Roll Elast Bandaj Ten Rengi 10 cm x 3,5m]]></Name>
 <Brand><![CDATA[Roll]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -48002,7 +48002,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01081]]></Product_code>
 <Barcode>8699592807511</Barcode>
-<Name><![CDATA[Roll Fix Flaster 5cm X 5m]]></Name>
+<Name><![CDATA[Roll Fix Flaster 5cm x 5m]]></Name>
 <Brand><![CDATA[Roll]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -48174,7 +48174,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01085]]></Product_code>
 <Barcode>8699592806743</Barcode>
-<Name><![CDATA[Roll Flex Steril Gaz Kompres 7,5cm X 7,5cm 100'lü]]></Name>
+<Name><![CDATA[Roll Flex Steril Gaz Kompres 7,5cm x 7,5cm 100'lü]]></Name>
 <Brand><![CDATA[Roll]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -48746,11 +48746,11 @@
 <Brand><![CDATA[Santasya]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>01/09/2026</Miad>
 <Price>199.90</Price>
 <Price2>382.81</Price2>
-<Price3>219.89</Price3>
+<Price3>215.89</Price3>
 <Price4>223.89</Price4>
 <Price5>223.89</Price5>
 <Price6>223.89</Price6>
@@ -48832,11 +48832,11 @@
 <Brand><![CDATA[Santasya]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>44</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>104.90</Price>
 <Price2>252.81</Price2>
-<Price3>115.39</Price3>
+<Price3>113.29</Price3>
 <Price4>117.49</Price4>
 <Price5>117.49</Price5>
 <Price6>117.49</Price6>
@@ -50305,11 +50305,11 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>296.90</Price>
 <Price2>515.56</Price2>
-<Price3>326.59</Price3>
+<Price3>320.65</Price3>
 <Price4>332.53</Price4>
 <Price5>332.53</Price5>
 <Price6>332.53</Price6>
@@ -51534,7 +51534,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01162]]></Product_code>
 <Barcode>8445291131057-2</Barcode>
-<Name><![CDATA[Sma Optipro 3 Devam Sütü 450 gr 2'li]]></Name>
+<Name><![CDATA[SMA Optipro 3 Devam Sütü 450 gr 2'li]]></Name>
 <Brand><![CDATA[Sma]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -51976,7 +51976,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01172]]></Product_code>
 <Barcode>033984000551</Barcode>
-<Name><![CDATA[Solgar Alpha Lipo Acid 60 mg 30 Kapsül]]></Name>
+<Name><![CDATA[Solgar Alpha Lipoic Acid 60 mg 30 Kapsül]]></Name>
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -54780,7 +54780,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01235]]></Product_code>
 <Barcode>8680133001253</Barcode>
-<Name><![CDATA[Tab İlaç Zeolit Lifextra 2000 mg 45 Saşe]]></Name>
+<Name><![CDATA[Lifextra Zeolit 2000 mg 45 Saşe]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
@@ -54953,7 +54953,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01240]]></Product_code>
 <Barcode>3662042004193</Barcode>
-<Name><![CDATA[Thea Thealoz Duo Göz Damlası 10 ml]]></Name>
+<Name><![CDATA[Thealoz Duo Göz Damlası 10 ml]]></Name>
 <Brand><![CDATA[Thea]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -55454,11 +55454,11 @@
 <Brand><![CDATA[Vichy]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1349.00</Price>
 <Price2>1955.36</Price2>
-<Price3>1483.90</Price3>
+<Price3>1456.92</Price3>
 <Price4>1510.88</Price4>
 <Price5>1510.88</Price5>
 <Price6>1510.88</Price6>
@@ -55544,11 +55544,11 @@
 <Brand><![CDATA[Vichy]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>19</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1529.90</Price>
 <Price2>2202.92</Price2>
-<Price3>1682.89</Price3>
+<Price3>1652.29</Price3>
 <Price4>1713.49</Price4>
 <Price5>1713.49</Price5>
 <Price6>1713.49</Price6>
@@ -56864,7 +56864,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01283]]></Product_code>
 <Barcode>8683930619249</Barcode>
-<Name><![CDATA[Vula Life Erken Gebelik Testi]]></Name>
+<Name><![CDATA[Vulalife Erken Gebelik Testi]]></Name>
 <Brand><![CDATA[Vula Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -56909,7 +56909,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01284]]></Product_code>
 <Barcode>8682328782220</Barcode>
-<Name><![CDATA[Vula Life Gebelik Testi Erken Ultra]]></Name>
+<Name><![CDATA[Vulalife Gebelik Testi Erken Ultra]]></Name>
 <Brand><![CDATA[Vula Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -58492,11 +58492,11 @@
 <Brand><![CDATA[Avène]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1198.90</Price>
 <Price2>1749.94</Price2>
-<Price3>1318.79</Price3>
+<Price3>1294.81</Price3>
 <Price4>1342.77</Price4>
 <Price5>1342.77</Price5>
 <Price6>1342.77</Price6>
@@ -58801,11 +58801,11 @@
 <Brand><![CDATA[Balparmak]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/02/2027</Miad>
 <Price>694.90</Price>
 <Price2>1060.22</Price2>
-<Price3>764.39</Price3>
+<Price3>750.49</Price3>
 <Price4>778.29</Price4>
 <Price5>778.29</Price5>
 <Price6>778.29</Price6>
@@ -59499,7 +59499,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01369]]></Product_code>
 <Barcode>3282770389296</Barcode>
-<Name><![CDATA[Ducray Melascreen Protective Anti-Spots Cream Spf50 50 ml]]></Name>
+<Name><![CDATA[Ducray Melascreen Protective Anti-Spots Cream SPF50 50 ml]]></Name>
 <Brand><![CDATA[Ducray]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -61475,7 +61475,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01446]]></Product_code>
 <Barcode>8680645530715</Barcode>
-<Name><![CDATA[Nbt Life D3K2 1000 IU Damla 20 ml]]></Name>
+<Name><![CDATA[NBT Life D3K2 1000 IU Damla 20 ml]]></Name>
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
@@ -61635,11 +61635,11 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>01/03/2029</Miad>
+<Stock>1</Stock>
+<Miad>01/08/2027</Miad>
 <Price>857.90</Price>
 <Price2>1283.29</Price2>
-<Price3>943.69</Price3>
+<Price3>926.53</Price3>
 <Price4>960.85</Price4>
 <Price5>960.85</Price5>
 <Price6>960.85</Price6>
@@ -61999,11 +61999,11 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>01/06/2027</Miad>
 <Price>479.00</Price>
 <Price2>764.76</Price2>
-<Price3>526.90</Price3>
+<Price3>517.32</Price3>
 <Price4>536.48</Price4>
 <Price5>536.48</Price5>
 <Price6>536.48</Price6>
@@ -62363,11 +62363,11 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>01/04/2029</Miad>
 <Price>149.50</Price>
 <Price2>313.84</Price2>
-<Price3>164.45</Price3>
+<Price3>161.46</Price3>
 <Price4>167.44</Price4>
 <Price5>167.44</Price5>
 <Price6>167.44</Price6>
@@ -62519,11 +62519,11 @@
 <Brand><![CDATA[Exeltis]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>01/06/2027</Miad>
 <Price>764.90</Price>
 <Price2>1156.02</Price2>
-<Price3>841.39</Price3>
+<Price3>826.09</Price3>
 <Price4>856.69</Price4>
 <Price5>856.69</Price5>
 <Price6>856.69</Price6>
@@ -63169,11 +63169,11 @@
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/04/2028</Miad>
 <Price>649.80</Price>
 <Price2>998.50</Price2>
-<Price3>714.78</Price3>
+<Price3>701.78</Price3>
 <Price4>727.78</Price4>
 <Price5>727.78</Price5>
 <Price6>727.78</Price6>
@@ -63633,7 +63633,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01530]]></Product_code>
 <Barcode>850069595982</Barcode>
-<Name><![CDATA[Shiniq Pore Minimizer Tonik 200 ml]]></Name>
+<Name><![CDATA[Shiniq Pore Minimizer Toner 200 ml]]></Name>
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -64075,7 +64075,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01547]]></Product_code>
 <Barcode>8681511098964</Barcode>
-<Name><![CDATA[Siveno Baby Doğal Çamaşır Sabunu 750 ml]]></Name>
+<Name><![CDATA[Siveno Bebek Çamaşır Sabunu Kendinden Yumuşatıcılı Bitkisel Deterjan Konsantre Vegan 750 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -64309,7 +64309,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01556]]></Product_code>
 <Barcode>8681511098704</Barcode>
-<Name><![CDATA[Siveno Doğal Roll-On Erkekler İçin 50 ml]]></Name>
+<Name><![CDATA[Siveno Roll On Erkek Deodorant Ter Kokusu Önleyici Bitkisel Leke Bırakmayan Vegan 50 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
@@ -64729,11 +64729,11 @@
 <Brand><![CDATA[Tabvitamins]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/03/2029</Miad>
 <Price>3629.90</Price>
 <Price2>5076.77</Price2>
-<Price3>3992.89</Price3>
+<Price3>3920.29</Price3>
 <Price4>4065.49</Price4>
 <Price5>4065.49</Price5>
 <Price6>4065.49</Price6>
@@ -66626,11 +66626,11 @@
 <Brand><![CDATA[Roll]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/04/2031</Miad>
 <Price>268.90</Price>
 <Price2>477.24</Price2>
-<Price3>295.79</Price3>
+<Price3>290.41</Price3>
 <Price4>301.17</Price4>
 <Price5>301.17</Price5>
 <Price6>301.17</Price6>
@@ -66764,11 +66764,11 @@
 <Brand><![CDATA[Aerochamber]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1899.90</Price>
 <Price2>2709.26</Price2>
-<Price3>2089.89</Price3>
+<Price3>2051.89</Price3>
 <Price4>2127.89</Price4>
 <Price5>2127.89</Price5>
 <Price6>2127.89</Price6>
@@ -66868,11 +66868,11 @@
 <Brand><![CDATA[Balparmak]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>19</Stock>
 <Miad>01/02/2028</Miad>
 <Price>89.90</Price>
 <Price2>232.28</Price2>
-<Price3>98.89</Price3>
+<Price3>97.09</Price3>
 <Price4>100.69</Price4>
 <Price5>100.69</Price5>
 <Price6>100.69</Price6>
@@ -66894,11 +66894,11 @@
 <Brand><![CDATA[Bausch Lomb]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>7</Stock>
 <Miad>01/10/2027</Miad>
 <Price>817.90</Price>
 <Price2>1228.55</Price2>
-<Price3>899.69</Price3>
+<Price3>883.33</Price3>
 <Price4>916.05</Price4>
 <Price5>916.05</Price5>
 <Price6>916.05</Price6>
@@ -66920,11 +66920,11 @@
 <Brand><![CDATA[Philips Avent]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>689.90</Price>
 <Price2>1053.38</Price2>
-<Price3>758.89</Price3>
+<Price3>745.09</Price3>
 <Price4>772.69</Price4>
 <Price5>772.69</Price5>
 <Price6>772.69</Price6>
@@ -66998,11 +66998,11 @@
 <Brand><![CDATA[Ayset]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>333</Stock>
 <Miad>01/02/2031</Miad>
 <Price>17.50</Price>
 <Price2>133.20</Price2>
-<Price3>19.25</Price3>
+<Price3>18.90</Price3>
 <Price4>19.60</Price4>
 <Price5>19.60</Price5>
 <Price6>19.60</Price6>
@@ -67050,11 +67050,11 @@
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>14</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>327.90</Price>
 <Price2>557.98</Price2>
-<Price3>360.69</Price3>
+<Price3>354.13</Price3>
 <Price4>367.25</Price4>
 <Price5>367.25</Price5>
 <Price6>367.25</Price6>
@@ -67315,11 +67315,11 @@
 <Brand><![CDATA[Driclor]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>58</Stock>
 <Miad>01/11/2026</Miad>
 <Price>328.80</Price>
 <Price2>559.21</Price2>
-<Price3>361.68</Price3>
+<Price3>355.10</Price3>
 <Price4>368.26</Price4>
 <Price5>368.26</Price5>
 <Price6>368.26</Price6>
@@ -67341,11 +67341,11 @@
 <Brand><![CDATA[Efervit]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/03/2027</Miad>
 <Price>209.90</Price>
 <Price2>396.50</Price2>
-<Price3>230.89</Price3>
+<Price3>226.69</Price3>
 <Price4>235.09</Price4>
 <Price5>235.09</Price5>
 <Price6>235.09</Price6>
@@ -67531,11 +67531,11 @@
 <Brand><![CDATA[Evolvia]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>31</Stock>
+<Miad>01/01/2027</Miad>
 <Price>1149.90</Price>
 <Price2>1682.89</Price2>
-<Price3>1264.89</Price3>
+<Price3>1241.89</Price3>
 <Price4>1287.89</Price4>
 <Price5>1287.89</Price5>
 <Price6>1287.89</Price6>
@@ -67583,11 +67583,11 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>28</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
-<Price3>313.39</Price3>
+<Price3>307.69</Price3>
 <Price4>319.09</Price4>
 <Price5>319.09</Price5>
 <Price6>319.09</Price6>
@@ -67635,11 +67635,11 @@
 <Brand><![CDATA[Garnier]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>529.90</Price>
 <Price2>834.42</Price2>
-<Price3>582.89</Price3>
+<Price3>572.29</Price3>
 <Price4>593.49</Price4>
 <Price5>593.49</Price5>
 <Price6>593.49</Price6>
@@ -67661,11 +67661,11 @@
 <Brand><![CDATA[Garnier]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>534.90</Price>
 <Price2>841.26</Price2>
-<Price3>588.39</Price3>
+<Price3>577.69</Price3>
 <Price4>599.09</Price4>
 <Price5>599.09</Price5>
 <Price6>599.09</Price6>
@@ -67765,11 +67765,11 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>01/02/2027</Miad>
 <Price>618.90</Price>
 <Price2>956.21</Price2>
-<Price3>680.79</Price3>
+<Price3>668.41</Price3>
 <Price4>693.17</Price4>
 <Price5>693.17</Price5>
 <Price6>693.17</Price6>
@@ -67895,11 +67895,11 @@
 <Brand><![CDATA[Jowae]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>209.90</Price>
 <Price2>396.50</Price2>
-<Price3>230.89</Price3>
+<Price3>226.69</Price3>
 <Price4>235.09</Price4>
 <Price5>235.09</Price5>
 <Price6>235.09</Price6>
@@ -68259,11 +68259,11 @@
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1169.00</Price>
 <Price2>1709.03</Price2>
-<Price3>1285.90</Price3>
+<Price3>1262.52</Price3>
 <Price4>1309.28</Price4>
 <Price5>1309.28</Price5>
 <Price6>1309.28</Price6>
@@ -68285,11 +68285,11 @@
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>847.90</Price>
 <Price2>1269.60</Price2>
-<Price3>932.69</Price3>
+<Price3>915.73</Price3>
 <Price4>949.65</Price4>
 <Price5>949.65</Price5>
 <Price6>949.65</Price6>
@@ -68311,11 +68311,11 @@
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>01/02/2029</Miad>
 <Price>674.90</Price>
 <Price2>1032.85</Price2>
-<Price3>742.39</Price3>
+<Price3>728.89</Price3>
 <Price4>755.89</Price4>
 <Price5>755.89</Price5>
 <Price6>755.89</Price6>
@@ -68363,11 +68363,11 @@
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>01/07/2028</Miad>
 <Price>1038.90</Price>
 <Price2>1530.98</Price2>
-<Price3>1142.79</Price3>
+<Price3>1122.01</Price3>
 <Price4>1163.57</Price4>
 <Price5>1163.57</Price5>
 <Price6>1163.57</Price6>
@@ -68389,11 +68389,11 @@
 <Brand><![CDATA[Lansinoh]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>379.00</Price>
 <Price2>627.91</Price2>
-<Price3>416.90</Price3>
+<Price3>409.32</Price3>
 <Price4>424.48</Price4>
 <Price5>424.48</Price5>
 <Price6>424.48</Price6>
@@ -68415,11 +68415,11 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>12</Stock>
+<Miad>01/11/2028</Miad>
 <Price>529.00</Price>
 <Price2>833.19</Price2>
-<Price3>581.90</Price3>
+<Price3>571.32</Price3>
 <Price4>592.48</Price4>
 <Price5>592.48</Price5>
 <Price6>592.48</Price6>
@@ -68441,11 +68441,11 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>15</Stock>
+<Miad>01/10/2028</Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
-<Price3>384.89</Price3>
+<Price3>377.89</Price3>
 <Price4>391.89</Price4>
 <Price5>391.89</Price5>
 <Price6>391.89</Price6>
@@ -68467,11 +68467,11 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>14</Stock>
+<Miad>01/11/2026</Miad>
 <Price>229.00</Price>
 <Price2>422.64</Price2>
-<Price3>251.90</Price3>
+<Price3>247.32</Price3>
 <Price4>256.48</Price4>
 <Price5>256.48</Price5>
 <Price6>256.48</Price6>
@@ -68493,11 +68493,11 @@
 <Brand><![CDATA[Lierac]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>2499.90</Price>
 <Price2>3530.36</Price2>
-<Price3>2749.89</Price3>
+<Price3>2699.89</Price3>
 <Price4>2799.89</Price4>
 <Price5>2799.89</Price5>
 <Price6>2799.89</Price6>
@@ -68597,11 +68597,11 @@
 <Brand><![CDATA[L'oreal Paris]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>490.00</Price>
 <Price2>779.81</Price2>
-<Price3>539.00</Price3>
+<Price3>529.20</Price3>
 <Price4>548.80</Price4>
 <Price5>548.80</Price5>
 <Price6>548.80</Price6>
@@ -68623,11 +68623,11 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>123</Stock>
+<Miad>01/02/2027</Miad>
 <Price>532.90</Price>
 <Price2>838.52</Price2>
-<Price3>586.19</Price3>
+<Price3>575.53</Price3>
 <Price4>596.85</Price4>
 <Price5>596.85</Price5>
 <Price6>596.85</Price6>
@@ -68649,11 +68649,11 @@
 <Brand><![CDATA[Maybelline New York]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>699.90</Price>
 <Price2>1067.06</Price2>
-<Price3>769.89</Price3>
+<Price3>755.89</Price3>
 <Price4>783.89</Price4>
 <Price5>783.89</Price5>
 <Price6>783.89</Price6>
@@ -68805,11 +68805,11 @@
 <Brand><![CDATA[Maybelline New York]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>649.90</Price>
 <Price2>998.64</Price2>
-<Price3>714.89</Price3>
+<Price3>701.89</Price3>
 <Price4>727.89</Price4>
 <Price5>727.89</Price5>
 <Price6>727.89</Price6>
@@ -68935,11 +68935,11 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>7</Stock>
+<Miad>01/12/2026</Miad>
 <Price>829.00</Price>
 <Price2>1243.74</Price2>
-<Price3>911.90</Price3>
+<Price3>895.32</Price3>
 <Price4>928.48</Price4>
 <Price5>928.48</Price5>
 <Price6>928.48</Price6>
@@ -69039,11 +69039,11 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>9</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
-<Price3>1098.79</Price3>
+<Price3>1078.81</Price3>
 <Price4>1118.77</Price4>
 <Price5>1118.77</Price5>
 <Price6>1118.77</Price6>
@@ -69091,11 +69091,11 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>7</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>2449.00</Price>
 <Price2>3460.71</Price2>
-<Price3>2693.90</Price3>
+<Price3>2644.92</Price3>
 <Price4>2742.88</Price4>
 <Price5>2742.88</Price5>
 <Price6>2742.88</Price6>
@@ -69117,11 +69117,11 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>590.00</Price>
 <Price2>916.66</Price2>
-<Price3>649.00</Price3>
+<Price3>637.20</Price3>
 <Price4>660.80</Price4>
 <Price5>660.80</Price5>
 <Price6>660.80</Price6>
@@ -69143,11 +69143,11 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>969.90</Price>
 <Price2>1436.56</Price2>
-<Price3>1066.89</Price3>
+<Price3>1047.49</Price3>
 <Price4>1086.29</Price4>
 <Price5>1086.29</Price5>
 <Price6>1086.29</Price6>
@@ -69169,11 +69169,11 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>583.45</Price>
 <Price2>907.70</Price2>
-<Price3>641.80</Price3>
+<Price3>630.13</Price3>
 <Price4>653.46</Price4>
 <Price5>653.46</Price5>
 <Price6>653.46</Price6>
@@ -69221,11 +69221,11 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>79</Stock>
 <Miad>01/01/2029</Miad>
 <Price>461.00</Price>
 <Price2>740.13</Price2>
-<Price3>507.10</Price3>
+<Price3>497.88</Price3>
 <Price4>516.32</Price4>
 <Price5>516.32</Price5>
 <Price6>516.32</Price6>
@@ -69273,11 +69273,11 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>20</Stock>
+<Miad>01/07/2027</Miad>
 <Price>448.00</Price>
 <Price2>722.34</Price2>
-<Price3>492.80</Price3>
+<Price3>483.84</Price3>
 <Price4>501.76</Price4>
 <Price5>501.76</Price5>
 <Price6>501.76</Price6>
@@ -69377,11 +69377,11 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>46</Stock>
 <Miad>01/09/2026</Miad>
 <Price>252.50</Price>
 <Price2>454.80</Price2>
-<Price3>277.75</Price3>
+<Price3>272.70</Price3>
 <Price4>282.80</Price4>
 <Price5>282.80</Price5>
 <Price6>282.80</Price6>
@@ -69533,11 +69533,11 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>52</Stock>
 <Miad>01/05/2028</Miad>
 <Price>789.00</Price>
 <Price2>1189.00</Price2>
-<Price3>867.90</Price3>
+<Price3>852.12</Price3>
 <Price4>883.68</Price4>
 <Price5>883.68</Price5>
 <Price6>883.68</Price6>
@@ -69559,11 +69559,11 @@
 <Brand><![CDATA[Philips Avent]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>649.90</Price>
 <Price2>998.64</Price2>
-<Price3>714.89</Price3>
+<Price3>701.89</Price3>
 <Price4>727.89</Price4>
 <Price5>727.89</Price5>
 <Price6>727.89</Price6>
@@ -69585,11 +69585,11 @@
 <Brand><![CDATA[Bausch Lomb]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>64</Stock>
 <Miad>01/10/2026</Miad>
 <Price>357.90</Price>
 <Price2>599.04</Price2>
-<Price3>393.69</Price3>
+<Price3>386.53</Price3>
 <Price4>400.85</Price4>
 <Price5>400.85</Price5>
 <Price6>400.85</Price6>
@@ -69622,11 +69622,11 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>32</Stock>
 <Miad>01/02/2028</Miad>
 <Price>213.00</Price>
 <Price2>400.74</Price2>
-<Price3>234.30</Price3>
+<Price3>230.04</Price3>
 <Price4>238.56</Price4>
 <Price5>238.56</Price5>
 <Price6>238.56</Price6>
@@ -69648,11 +69648,11 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>16</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
-<Price3>236.39</Price3>
+<Price3>232.09</Price3>
 <Price4>240.69</Price4>
 <Price5>240.69</Price5>
 <Price6>240.69</Price6>
@@ -69674,11 +69674,11 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>19</Stock>
+<Miad>01/10/2026</Miad>
 <Price>208.90</Price>
 <Price2>395.13</Price2>
-<Price3>229.79</Price3>
+<Price3>225.61</Price3>
 <Price4>233.97</Price4>
 <Price5>233.97</Price5>
 <Price6>233.97</Price6>
@@ -69700,11 +69700,11 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>11</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>234.90</Price>
 <Price2>430.71</Price2>
-<Price3>258.39</Price3>
+<Price3>253.69</Price3>
 <Price4>263.09</Price4>
 <Price5>263.09</Price5>
 <Price6>263.09</Price6>
@@ -69726,11 +69726,11 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>7</Stock>
 <Miad>01/04/2029</Miad>
 <Price>238.50</Price>
 <Price2>435.64</Price2>
-<Price3>262.35</Price3>
+<Price3>257.58</Price3>
 <Price4>267.12</Price4>
 <Price5>267.12</Price5>
 <Price6>267.12</Price6>
@@ -69830,11 +69830,11 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>23</Stock>
 <Miad>01/10/2027</Miad>
 <Price>339.90</Price>
 <Price2>574.40</Price2>
-<Price3>373.89</Price3>
+<Price3>367.09</Price3>
 <Price4>380.69</Price4>
 <Price5>380.69</Price5>
 <Price6>380.69</Price6>
@@ -69856,11 +69856,11 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>249.85</Price>
 <Price2>451.17</Price2>
-<Price3>274.84</Price3>
+<Price3>269.84</Price3>
 <Price4>279.83</Price4>
 <Price5>279.83</Price5>
 <Price6>279.83</Price6>
@@ -69998,11 +69998,11 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>01/07/2028</Miad>
 <Price>1354.90</Price>
 <Price2>1963.43</Price2>
-<Price3>1490.39</Price3>
+<Price3>1463.29</Price3>
 <Price4>1517.49</Price4>
 <Price5>1517.49</Price5>
 <Price6>1517.49</Price6>
@@ -70024,11 +70024,11 @@
 <Brand><![CDATA[Tabvitamins]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>01/01/2028</Miad>
 <Price>649.00</Price>
 <Price2>997.41</Price2>
-<Price3>713.90</Price3>
+<Price3>700.92</Price3>
 <Price4>726.88</Price4>
 <Price5>726.88</Price5>
 <Price6>726.88</Price6>
@@ -70050,11 +70050,11 @@
 <Brand><![CDATA[Thea]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>500</Stock>
 <Miad>01/12/2026</Miad>
 <Price>529.90</Price>
 <Price2>834.42</Price2>
-<Price3>582.89</Price3>
+<Price3>572.29</Price3>
 <Price4>593.49</Price4>
 <Price5>593.49</Price5>
 <Price6>593.49</Price6>
@@ -70102,11 +70102,11 @@
 <Brand><![CDATA[Vichy]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1547.90</Price>
 <Price2>2227.55</Price2>
-<Price3>1702.69</Price3>
+<Price3>1671.73</Price3>
 <Price4>1733.65</Price4>
 <Price5>1733.65</Price5>
 <Price6>1733.65</Price6>
@@ -70128,11 +70128,11 @@
 <Brand><![CDATA[Vichy]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1168.90</Price>
 <Price2>1708.89</Price2>
-<Price3>1285.79</Price3>
+<Price3>1262.41</Price3>
 <Price4>1309.17</Price4>
 <Price5>1309.17</Price5>
 <Price6>1309.17</Price6>
@@ -70154,11 +70154,11 @@
 <Brand><![CDATA[Vichy]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>01/11/2026</Miad>
 <Price>849.00</Price>
 <Price2>1271.11</Price2>
-<Price3>933.90</Price3>
+<Price3>916.92</Price3>
 <Price4>950.88</Price4>
 <Price5>950.88</Price5>
 <Price6>950.88</Price6>
@@ -70206,11 +70206,11 @@
 <Brand><![CDATA[Voonka]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>Miadsız Ürün</Miad>
+<Stock>7</Stock>
+<Miad>01/12/2026</Miad>
 <Price>233.90</Price>
 <Price2>429.34</Price2>
-<Price3>257.29</Price3>
+<Price3>252.61</Price3>
 <Price4>261.97</Price4>
 <Price5>261.97</Price5>
 <Price6>261.97</Price6>
@@ -70306,11 +70306,11 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>01/02/2029</Miad>
 <Price>1208.90</Price>
 <Price2>1763.63</Price2>
-<Price3>1329.79</Price3>
+<Price3>1305.61</Price3>
 <Price4>1353.97</Price4>
 <Price5>1353.97</Price5>
 <Price6>1353.97</Price6>
