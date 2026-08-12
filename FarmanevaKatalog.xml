@@ -9127,7 +9127,7 @@
 <Brand><![CDATA[Cosakondrin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad>01/02/2029</Miad>
 <Price>838.77</Price>
 <Price2>1257.11</Price2>
@@ -40822,15 +40822,15 @@
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
 <Stock>6</Stock>
-<Miad>01/04/2027</Miad>
-<Price>589.00</Price>
-<Price2>915.30</Price2>
-<Price3>647.90</Price3>
-<Price4>659.68</Price4>
-<Price5>659.68</Price5>
-<Price6>659.68</Price6>
-<Price7>915.30</Price7>
-<Price8>915.30</Price8>
+<Miad>Miadsız Ürün</Miad>
+<Price>814.54</Price>
+<Price2>1223.95</Price2>
+<Price3>895.99</Price3>
+<Price4>912.28</Price4>
+<Price5>912.28</Price5>
+<Price6>912.28</Price6>
+<Price7>1223.95</Price7>
+<Price8>1223.95</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/pharmaton-50-plus-30-kapsul-omega-3-multivitamin-ve-mineraller-10043.jpg</Image1>
