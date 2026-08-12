@@ -12168,7 +12168,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>230</Stock>
+<Stock>232</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -13799,7 +13799,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>194</Stock>
+<Stock>193</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -25537,7 +25537,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>41</Stock>
+<Stock>37</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -44636,7 +44636,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>3049.90</Price>
 <Price2>4283.04</Price2>
@@ -45643,14 +45643,14 @@
 <Tax>10</Tax>
 <Stock>5</Stock>
 <Miad>Miadsız Ürün</Miad>
-<Price>329.90</Price>
-<Price2>560.72</Price2>
-<Price3>362.89</Price3>
-<Price4>369.49</Price4>
-<Price5>369.49</Price5>
-<Price6>369.49</Price6>
-<Price7>560.72</Price7>
-<Price8>560.72</Price8>
+<Price>349.00</Price>
+<Price2>586.86</Price2>
+<Price3>383.90</Price3>
+<Price4>390.88</Price4>
+<Price5>390.88</Price5>
+<Price6>390.88</Price6>
+<Price7>586.86</Price7>
+<Price8>586.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-rbl-charlotte-50-ml-edp-deodorant-150-ml-10206.jpg</Image1>
@@ -49651,16 +49651,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>12</Stock>
 <Miad>01/12/2026</Miad>
-<Price>574.90</Price>
-<Price2>896.00</Price2>
-<Price3>632.39</Price3>
-<Price4>643.89</Price4>
-<Price5>643.89</Price5>
-<Price6>643.89</Price6>
-<Price7>896.00</Price7>
-<Price8>896.00</Price8>
+<Price>643.89</Price>
+<Price2>990.41</Price2>
+<Price3>708.28</Price3>
+<Price4>721.16</Price4>
+<Price5>721.16</Price5>
+<Price6>721.16</Price6>
+<Price7>990.41</Price7>
+<Price8>990.41</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-10373.jpg</Image1>
@@ -59753,7 +59753,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>78</Stock>
+<Stock>80</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1498.90</Price>
 <Price2>2160.49</Price2>
@@ -60393,7 +60393,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>158</Stock>
+<Stock>154</Stock>
 <Miad>01/09/2028</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -60766,16 +60766,16 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>01/04/2029</Miad>
-<Price>149.50</Price>
-<Price2>313.84</Price2>
-<Price3>164.45</Price3>
-<Price4>167.44</Price4>
-<Price5>167.44</Price5>
-<Price6>167.44</Price6>
-<Price7>313.84</Price7>
-<Price8>313.84</Price8>
+<Price>167.44</Price>
+<Price2>338.39</Price2>
+<Price3>184.18</Price3>
+<Price4>187.53</Price4>
+<Price5>187.53</Price5>
+<Price6>187.53</Price6>
+<Price7>338.39</Price7>
+<Price8>338.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-kadin-sprey-deodorant-bouquet-150-ml-11308.jpg</Image1>
@@ -61687,14 +61687,14 @@
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad>01/01/2029</Miad>
-<Price>991.89</Price>
-<Price2>1466.65</Price2>
-<Price3>1091.08</Price3>
-<Price4>1110.92</Price4>
-<Price5>1110.92</Price5>
-<Price6>1110.92</Price6>
-<Price7>1466.65</Price7>
-<Price8>1466.65</Price8>
+<Price>963.07</Price>
+<Price2>1427.21</Price2>
+<Price3>1059.38</Price3>
+<Price4>1078.64</Price4>
+<Price5>1078.64</Price5>
+<Price6>1078.64</Price6>
+<Price7>1427.21</Price7>
+<Price8>1427.21</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -61811,14 +61811,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>01/04/2029</Miad>
-<Price>728.34</Price>
-<Price2>1105.98</Price2>
-<Price3>801.17</Price3>
-<Price4>815.74</Price4>
-<Price5>815.74</Price5>
-<Price6>815.74</Price6>
-<Price7>1105.98</Price7>
-<Price8>1105.98</Price8>
+<Price>699.96</Price>
+<Price2>1067.15</Price2>
+<Price3>769.96</Price3>
+<Price4>783.96</Price4>
+<Price5>783.96</Price5>
+<Price6>783.96</Price6>
+<Price7>1067.15</Price7>
+<Price8>1067.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -62009,14 +62009,14 @@
 <Tax>20</Tax>
 <Stock>75</Stock>
 <Miad>01/01/2028</Miad>
-<Price>575.00</Price>
-<Price2>896.14</Price2>
-<Price3>632.50</Price3>
-<Price4>644.00</Price4>
-<Price5>644.00</Price5>
-<Price6>644.00</Price6>
-<Price7>896.14</Price7>
-<Price8>896.14</Price8>
+<Price>597.30</Price>
+<Price2>926.66</Price2>
+<Price3>657.03</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -62327,7 +62327,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>59</Stock>
 <Miad>01/05/2029</Miad>
 <Price>298.90</Price>
 <Price2>518.29</Price2>
@@ -62375,7 +62375,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Vücut İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>01/03/2029</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -62519,7 +62519,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>29</Stock>
+<Stock>27</Stock>
 <Miad>01/05/2029</Miad>
 <Price>315.00</Price>
 <Price2>540.33</Price2>
