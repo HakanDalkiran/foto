@@ -66695,16 +66695,16 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>224</Stock>
-<Miad>01/10/2026</Miad>
-<Price>249.00</Price>
-<Price2>450.01</Price2>
-<Price3>268.92</Price3>
-<Price4>278.88</Price4>
-<Price5>278.88</Price5>
-<Price6>278.88</Price6>
-<Price7>450.01</Price7>
-<Price8>450.01</Price8>
+<Stock>204</Stock>
+<Miad>Miadsız Ürün</Miad>
+<Price>309.00</Price>
+<Price2>532.12</Price2>
+<Price3>333.72</Price3>
+<Price4>346.08</Price4>
+<Price5>346.08</Price5>
+<Price6>346.08</Price6>
+<Price7>532.12</Price7>
+<Price8>532.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image1>
@@ -69968,7 +69968,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01776]]></Product_code>
 <Barcode>7613036129084</Barcode>
-<Name><![CDATA[Sma Optipro Probiyotik 1 400 Gr]]></Name>
+<Name><![CDATA[SMA Optipro Probiyotik 1 400 gr]]></Name>
 <Brand><![CDATA[Sma]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
