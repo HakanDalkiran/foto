@@ -12168,7 +12168,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>235</Stock>
+<Stock>230</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -12867,7 +12867,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -13799,7 +13799,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>195</Stock>
+<Stock>194</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -29646,7 +29646,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>166</Stock>
+<Stock>165</Stock>
 <Miad>01/01/2028</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -56377,7 +56377,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>50</Stock>
+<Stock>48</Stock>
 <Miad>01/04/2030</Miad>
 <Price>489.00</Price>
 <Price2>778.45</Price2>
@@ -59680,7 +59680,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>54</Stock>
+<Stock>50</Stock>
 <Miad>01/03/2029</Miad>
 <Price>499.90</Price>
 <Price2>793.36</Price2>
@@ -59753,7 +59753,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>80</Stock>
+<Stock>78</Stock>
 <Miad>Miadsız Ürün</Miad>
 <Price>1498.90</Price>
 <Price2>2160.49</Price2>
@@ -60070,16 +60070,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>01/03/2029</Miad>
-<Price>857.90</Price>
-<Price2>1283.29</Price2>
-<Price3>943.69</Price3>
-<Price4>960.85</Price4>
-<Price5>960.85</Price5>
-<Price6>960.85</Price6>
-<Price7>1283.29</Price7>
-<Price8>1283.29</Price8>
+<Price>960.85</Price>
+<Price2>1424.17</Price2>
+<Price3>1056.94</Price3>
+<Price4>1076.15</Price4>
+<Price5>1076.15</Price5>
+<Price6>1076.15</Price6>
+<Price7>1424.17</Price7>
+<Price8>1424.17</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-omegalife-2400-60-kapsul-11250.jpg</Image1>
@@ -61687,14 +61687,14 @@
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad>01/01/2029</Miad>
-<Price>963.07</Price>
-<Price2>1427.21</Price2>
-<Price3>1059.38</Price3>
-<Price4>1078.64</Price4>
-<Price5>1078.64</Price5>
-<Price6>1078.64</Price6>
-<Price7>1427.21</Price7>
-<Price8>1427.21</Price8>
+<Price>991.89</Price>
+<Price2>1466.65</Price2>
+<Price3>1091.08</Price3>
+<Price4>1110.92</Price4>
+<Price5>1110.92</Price5>
+<Price6>1110.92</Price6>
+<Price7>1466.65</Price7>
+<Price8>1466.65</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -61811,14 +61811,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>01/04/2029</Miad>
-<Price>699.96</Price>
-<Price2>1067.15</Price2>
-<Price3>769.96</Price3>
-<Price4>783.96</Price4>
-<Price5>783.96</Price5>
-<Price6>783.96</Price6>
-<Price7>1067.15</Price7>
-<Price8>1067.15</Price8>
+<Price>728.34</Price>
+<Price2>1105.98</Price2>
+<Price3>801.17</Price3>
+<Price4>815.74</Price4>
+<Price5>815.74</Price5>
+<Price6>815.74</Price6>
+<Price7>1105.98</Price7>
+<Price8>1105.98</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -62007,7 +62007,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>77</Stock>
+<Stock>75</Stock>
 <Miad>01/01/2028</Miad>
 <Price>575.00</Price>
 <Price2>896.14</Price2>
@@ -62059,14 +62059,14 @@
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>01/08/2028</Miad>
-<Price>624.70</Price>
-<Price2>964.15</Price2>
-<Price3>687.17</Price3>
-<Price4>699.66</Price4>
-<Price5>699.66</Price5>
-<Price6>699.66</Price6>
-<Price7>964.15</Price7>
-<Price8>964.15</Price8>
+<Price>575.00</Price>
+<Price2>896.14</Price2>
+<Price3>632.50</Price3>
+<Price4>644.00</Price4>
+<Price5>644.00</Price5>
+<Price6>644.00</Price6>
+<Price7>896.14</Price7>
+<Price8>896.14</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -62519,16 +62519,16 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>29</Stock>
 <Miad>01/05/2029</Miad>
-<Price>284.40</Price>
-<Price2>498.45</Price2>
-<Price3>312.84</Price3>
-<Price4>318.53</Price4>
-<Price5>318.53</Price5>
-<Price6>318.53</Price6>
-<Price7>498.45</Price7>
-<Price8>498.45</Price8>
+<Price>315.00</Price>
+<Price2>540.33</Price2>
+<Price3>346.50</Price3>
+<Price4>352.80</Price4>
+<Price5>352.80</Price5>
+<Price6>352.80</Price6>
+<Price7>540.33</Price7>
+<Price8>540.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dogal-bebek-kopuk-sampuani-250-ml-11432.jpg</Image1>
