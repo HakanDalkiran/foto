@@ -394,7 +394,7 @@
 <Brand><![CDATA[Alflorex]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>271</Stock>
+<Stock>269</Stock>
 <Miad>2026-11-01</Miad>
 <Price>619.90</Price>
 <Price2>957.58</Price2>
@@ -4281,7 +4281,7 @@
 <Brand><![CDATA[Bausch Lomb]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>37</Stock>
+<Stock>34</Stock>
 <Miad>2026-09-01</Miad>
 <Price>588.90</Price>
 <Price2>915.16</Price2>
@@ -9442,7 +9442,7 @@
 <Brand><![CDATA[Corega]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>149</Stock>
+<Stock>169</Stock>
 <Miad>2026-12-01</Miad>
 <Price>171.90</Price>
 <Price2>344.50</Price2>
@@ -15045,7 +15045,7 @@
 <Brand><![CDATA[Duobalance]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>161</Stock>
+<Stock>160</Stock>
 <Miad>2026-10-01</Miad>
 <Price>912.00</Price>
 <Price2>1357.32</Price2>
@@ -15718,7 +15718,7 @@
 <Brand><![CDATA[Enterogermina]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>240</Stock>
+<Stock>243</Stock>
 <Miad>2027-07-01</Miad>
 <Price>378.90</Price>
 <Price2>627.77</Price2>
@@ -21156,7 +21156,7 @@
 <Brand><![CDATA[Jenomax]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>290</Stock>
+<Stock>293</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -38655,7 +38655,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>156</Stock>
+<Stock>155</Stock>
 <Miad>2026-10-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -40648,7 +40648,7 @@
 <Brand><![CDATA[Ocuvite]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>61</Stock>
+<Stock>59</Stock>
 <Miad>2026-09-01</Miad>
 <Price>1139.00</Price>
 <Price2>1667.97</Price2>
@@ -51490,7 +51490,7 @@
 <Brand><![CDATA[Solante]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>81</Stock>
+<Stock>86</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1196.80</Price>
 <Price2>1747.07</Price2>
@@ -52772,7 +52772,7 @@
 <Brand><![CDATA[Sterimar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>88</Stock>
+<Stock>87</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -54650,7 +54650,7 @@
 <Brand><![CDATA[Thea]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>376</Stock>
+<Stock>374</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -63110,7 +63110,7 @@
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2028-09-01</Miad>
 <Price>619.00</Price>
 <Price2>956.35</Price2>
@@ -63968,7 +63968,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>35</Stock>
 <Miad>2026-10-01</Miad>
 <Price>174.00</Price>
 <Price2>347.37</Price2>
@@ -64280,7 +64280,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-12-01</Miad>
 <Price>3572.90</Price>
 <Price2>4998.76</Price2>
@@ -65112,7 +65112,7 @@
 <Brand><![CDATA[Venatura]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2027-10-01</Miad>
 <Price>442.90</Price>
 <Price2>715.36</Price2>
@@ -69188,8 +69188,8 @@
 <Brand><![CDATA[Otacı]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
-<Miad>2031-07-01</Miad>
+<Stock>22</Stock>
+<Miad>2030-05-01</Miad>
 <Price>399.90</Price>
 <Price2>656.51</Price2>
 <Price3>431.89</Price3>
@@ -69924,7 +69924,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2029-02-01</Miad>
 <Price>1208.90</Price>
 <Price2>1763.63</Price2>
