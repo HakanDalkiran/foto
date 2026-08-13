@@ -4323,7 +4323,7 @@
 <Brand><![CDATA[Baybay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>587.90</Price>
 <Price2>913.79</Price2>
@@ -19159,7 +19159,7 @@
 <Brand><![CDATA[Generica]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>216</Stock>
+<Stock>213</Stock>
 <Miad>2026-10-01</Miad>
 <Price>520.90</Price>
 <Price2>822.10</Price2>
@@ -21156,7 +21156,7 @@
 <Brand><![CDATA[Jenomax]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>287</Stock>
+<Stock>281</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -40558,7 +40558,7 @@
 <Brand><![CDATA[Ocuvite]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2026-10-01</Miad>
 <Price>739.90</Price>
 <Price2>1121.80</Price2>
@@ -52114,7 +52114,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad>2027-08-01</Miad>
 <Price>728.40</Price>
 <Price2>1106.07</Price2>
@@ -66264,7 +66264,7 @@
 <Brand><![CDATA[Nutraxin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2029-03-01</Miad>
 <Price>515.90</Price>
 <Price2>815.26</Price2>
@@ -69924,7 +69924,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-02-01</Miad>
 <Price>1208.90</Price>
 <Price2>1763.63</Price2>
