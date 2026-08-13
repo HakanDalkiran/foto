@@ -394,7 +394,7 @@
 <Brand><![CDATA[Alflorex]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>269</Stock>
+<Stock>271</Stock>
 <Miad>2026-11-01</Miad>
 <Price>619.90</Price>
 <Price2>957.58</Price2>
@@ -4281,7 +4281,7 @@
 <Brand><![CDATA[Bausch Lomb]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>34</Stock>
+<Stock>36</Stock>
 <Miad>2026-09-01</Miad>
 <Price>588.90</Price>
 <Price2>915.16</Price2>
@@ -11612,8 +11612,8 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>64</Stock>
-<Miad></Miad>
+<Stock>65</Stock>
+<Miad>2030-12-01</Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
 <Price3>504.25</Price3>
@@ -13035,7 +13035,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>122</Stock>
+<Stock>121</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -13478,7 +13478,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>48</Stock>
+<Stock>47</Stock>
 <Miad>2026-10-01</Miad>
 <Price>397.90</Price>
 <Price2>653.78</Price2>
@@ -15045,7 +15045,7 @@
 <Brand><![CDATA[Duobalance]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>160</Stock>
+<Stock>161</Stock>
 <Miad>2026-10-01</Miad>
 <Price>912.00</Price>
 <Price2>1357.32</Price2>
@@ -33579,9 +33579,9 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
-<Miad>2027-06-01</Miad>
-<Price>111.89</Price>
+<Stock>9</Stock>
+<Miad></Miad>
+<Price>111.90</Price>
 <Price2>262.39</Price2>
 <Price3>120.85</Price3>
 <Price4>125.33</Price4>
@@ -38655,7 +38655,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>155</Stock>
+<Stock>151</Stock>
 <Miad>2026-10-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -40648,7 +40648,7 @@
 <Brand><![CDATA[Ocuvite]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>59</Stock>
+<Stock>61</Stock>
 <Miad>2026-09-01</Miad>
 <Price>1139.00</Price>
 <Price2>1667.97</Price2>
@@ -52772,7 +52772,7 @@
 <Brand><![CDATA[Sterimar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>87</Stock>
+<Stock>88</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -61654,8 +61654,8 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>272</Stock>
-<Miad>2028-01-01</Miad>
+<Stock>274</Stock>
+<Miad>2026-12-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
 <Price3>571.21</Price3>
@@ -63370,16 +63370,16 @@
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
-<Miad>2028-01-01</Miad>
-<Price>575.00</Price>
-<Price2>896.14</Price2>
-<Price3>621.00</Price3>
-<Price4>644.00</Price4>
-<Price5>644.00</Price5>
-<Price6>644.00</Price6>
-<Price7>896.14</Price7>
-<Price8>896.14</Price8>
+<Stock>74</Stock>
+<Miad>2027-10-01</Miad>
+<Price>597.29</Price>
+<Price2>926.66</Price2>
+<Price3>645.08</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -63916,8 +63916,8 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
-<Miad>2027-01-01</Miad>
+<Stock>14</Stock>
+<Miad>2029-05-01</Miad>
 <Price>315.00</Price>
 <Price2>540.33</Price2>
 <Price3>340.20</Price3>
@@ -63968,7 +63968,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>38</Stock>
 <Miad>2026-10-01</Miad>
 <Price>174.00</Price>
 <Price2>347.37</Price2>
@@ -65112,7 +65112,7 @@
 <Brand><![CDATA[Venatura]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>9</Stock>
 <Miad>2027-10-01</Miad>
 <Price>442.90</Price>
 <Price2>715.36</Price2>
@@ -68668,7 +68668,7 @@
 <Brand><![CDATA[Vitabiotics]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2026-09-01</Miad>
 <Price>817.90</Price>
 <Price2>1228.55</Price2>
@@ -69924,7 +69924,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>2029-02-01</Miad>
 <Price>1208.90</Price>
 <Price2>1763.63</Price2>
