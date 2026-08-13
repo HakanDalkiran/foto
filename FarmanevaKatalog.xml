@@ -50606,12 +50606,12 @@
 <Product>
 <Product_code><![CDATA[FRMNV01146]]></Product_code>
 <Barcode>7613287407788</Barcode>
-<Name><![CDATA[Sma Comfort 3 Devam Sütü 400 gr]]></Name>
+<Name><![CDATA[SMA Comfort 3 Devam Sütü 400 gr]]></Name>
 <Brand><![CDATA[Sma]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-01-01</Miad>
+<Stock>12</Stock>
+<Miad>2026-12-01</Miad>
 <Price>574.90</Price>
 <Price2>896.00</Price2>
 <Price3>620.89</Price3>
@@ -61394,7 +61394,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2028-08-01</Miad>
 <Price>959.90</Price>
 <Price2>1422.87</Price2>
