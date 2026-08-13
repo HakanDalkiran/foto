@@ -1478,7 +1478,7 @@
 <Brand><![CDATA[Apb Balance]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>42</Stock>
+<Stock>43</Stock>
 <Miad>2026-10-01</Miad>
 <Price>98.90</Price>
 <Price2>244.59</Price2>
@@ -8370,7 +8370,7 @@
 <Brand><![CDATA[Capila]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>74</Stock>
+<Stock>77</Stock>
 <Miad>2030-05-01</Miad>
 <Price>69.90</Price>
 <Price2>204.91</Price2>
@@ -36147,7 +36147,7 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>1998.90</Price>
 <Price2>2844.74</Price2>
@@ -37974,7 +37974,7 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>1047.90</Price>
 <Price2>1543.30</Price2>
@@ -45426,7 +45426,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>3049.90</Price>
 <Price2>4283.04</Price2>
@@ -58587,8 +58587,8 @@
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
 <Stock>2</Stock>
-<Miad>2026-10-01</Miad>
-<Price>299.50</Price>
+<Miad>2028-01-01</Miad>
+<Price>299.49</Price>
 <Price2>519.12</Price2>
 <Price3>323.46</Price3>
 <Price4>335.44</Price4>
@@ -61134,7 +61134,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>42</Stock>
+<Stock>41</Stock>
 <Miad>2029-03-01</Miad>
 <Price>258.90</Price>
 <Price2>463.55</Price2>
@@ -61420,7 +61420,7 @@
 <Brand><![CDATA[Nemolix]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2029-03-01</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -61654,7 +61654,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>274</Stock>
+<Stock>273</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -62330,7 +62330,7 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>225.90</Price>
 <Price2>418.39</Price2>
@@ -63372,14 +63372,14 @@
 <Tax>20</Tax>
 <Stock>74</Stock>
 <Miad>2028-01-01</Miad>
-<Price>570.00</Price>
-<Price2>889.29</Price2>
-<Price3>615.60</Price3>
-<Price4>638.40</Price4>
-<Price5>638.40</Price5>
-<Price6>638.40</Price6>
-<Price7>889.29</Price7>
-<Price8>889.29</Price8>
+<Price>597.30</Price>
+<Price2>926.66</Price2>
+<Price3>645.08</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -63424,14 +63424,14 @@
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>2028-08-01</Miad>
-<Price>570.00</Price>
-<Price2>889.29</Price2>
-<Price3>615.60</Price3>
-<Price4>638.40</Price4>
-<Price5>638.40</Price5>
-<Price6>638.40</Price6>
-<Price7>889.29</Price7>
-<Price8>889.29</Price8>
+<Price>624.70</Price>
+<Price2>964.15</Price2>
+<Price3>674.68</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -63916,7 +63916,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-05-01</Miad>
 <Price>315.00</Price>
 <Price2>540.33</Price2>
@@ -68746,7 +68746,7 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>1049.90</Price>
 <Price2>1546.04</Price2>
