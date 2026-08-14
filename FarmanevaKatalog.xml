@@ -2186,7 +2186,7 @@
 <Brand><![CDATA[Aptamil]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad>2026-11-01</Miad>
 <Price>949.00</Price>
 <Price2>1407.96</Price2>
@@ -8279,7 +8279,7 @@
 <Brand><![CDATA[Capila]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>284</Stock>
+<Stock>287</Stock>
 <Miad>2026-09-01</Miad>
 <Price>36.90</Price>
 <Price2>159.75</Price2>
@@ -11340,7 +11340,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>329</Stock>
+<Stock>349</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -11743,7 +11743,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>64</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -12234,7 +12234,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>220</Stock>
+<Stock>219</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -13120,7 +13120,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>58</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -13916,7 +13916,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>191</Stock>
+<Stock>190</Stock>
 <Miad></Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -20576,7 +20576,7 @@
 <Brand><![CDATA[İlhan Sarı]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>206</Stock>
+<Stock>207</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>166.59</Price2>
@@ -26375,7 +26375,7 @@
 <Brand><![CDATA[Mesilife]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>34</Stock>
+<Stock>35</Stock>
 <Miad></Miad>
 <Price>1349.90</Price>
 <Price2>1956.59</Price2>
@@ -30173,7 +30173,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>163</Stock>
+<Stock>164</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -39207,7 +39207,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2027-07-01</Miad>
 <Price>450.00</Price>
 <Price2>725.07</Price2>
@@ -40826,7 +40826,7 @@
 <Brand><![CDATA[Omepa]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>4</Stock>
 <Miad>2027-01-01</Miad>
 <Price>569.00</Price>
 <Price2>887.93</Price2>
@@ -40871,7 +40871,7 @@
 <Brand><![CDATA[Omepa]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>43</Stock>
+<Stock>57</Stock>
 <Miad>2027-05-01</Miad>
 <Price>749.90</Price>
 <Price2>1135.49</Price2>
@@ -45204,7 +45204,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>40</Stock>
+<Stock>44</Stock>
 <Miad></Miad>
 <Price>238.00</Price>
 <Price2>434.95</Price2>
@@ -46921,7 +46921,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>152.00</Price>
 <Price2>317.26</Price2>
@@ -47263,7 +47263,7 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad>2028-02-01</Miad>
 <Price>276.90</Price>
 <Price2>488.19</Price2>
@@ -53614,7 +53614,7 @@
 <Brand><![CDATA[Supradyn]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>26</Stock>
+<Stock>27</Stock>
 <Miad>2027-07-01</Miad>
 <Price>296.90</Price>
 <Price2>515.56</Price2>
@@ -54141,7 +54141,7 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>39</Stock>
 <Miad>2030-05-01</Miad>
 <Price>1128.90</Price>
 <Price2>1654.15</Price2>
@@ -61418,7 +61418,7 @@
 <Brand><![CDATA[Nemolix]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>35</Stock>
+<Stock>36</Stock>
 <Miad>2029-03-01</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -61652,7 +61652,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>272</Stock>
+<Stock>273</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -63032,14 +63032,14 @@
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad>2029-01-01</Miad>
-<Price>962.90</Price>
-<Price2>1426.98</Price2>
-<Price3>1039.93</Price3>
-<Price4>1078.45</Price4>
-<Price5>1078.45</Price5>
-<Price6>1078.45</Price6>
-<Price7>1426.98</Price7>
-<Price8>1426.98</Price8>
+<Price>998.90</Price>
+<Price2>1476.24</Price2>
+<Price3>1078.81</Price3>
+<Price4>1118.77</Price4>
+<Price5>1118.77</Price5>
+<Price6>1118.77</Price6>
+<Price7>1476.24</Price7>
+<Price8>1476.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -63162,14 +63162,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>699.94</Price>
-<Price2>1067.12</Price2>
-<Price3>755.94</Price3>
-<Price4>783.93</Price4>
-<Price5>783.93</Price5>
-<Price6>783.93</Price6>
-<Price7>1067.12</Price7>
-<Price8>1067.12</Price8>
+<Price>726.89</Price>
+<Price2>1104.00</Price2>
+<Price3>785.04</Price3>
+<Price4>814.12</Price4>
+<Price5>814.12</Price5>
+<Price6>814.12</Price6>
+<Price7>1104.00</Price7>
+<Price8>1104.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -63422,14 +63422,14 @@
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>2028-08-01</Miad>
-<Price>570.00</Price>
-<Price2>889.29</Price2>
-<Price3>615.60</Price3>
-<Price4>638.40</Price4>
-<Price5>638.40</Price5>
-<Price6>638.40</Price6>
-<Price7>889.29</Price7>
-<Price8>889.29</Price8>
+<Price>624.70</Price>
+<Price2>964.15</Price2>
+<Price3>674.68</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -63706,7 +63706,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>60</Stock>
+<Stock>61</Stock>
 <Miad>2029-05-01</Miad>
 <Price>298.90</Price>
 <Price2>518.29</Price2>
