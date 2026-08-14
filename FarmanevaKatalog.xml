@@ -40826,7 +40826,7 @@
 <Brand><![CDATA[Omepa]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad>2027-01-01</Miad>
 <Price>569.00</Price>
 <Price2>887.93</Price2>
@@ -46921,7 +46921,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>152.00</Price>
 <Price2>317.26</Price2>
@@ -59806,7 +59806,7 @@
 <Brand><![CDATA[Garnier]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>509.90</Price>
 <Price2>807.05</Price2>
