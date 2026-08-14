@@ -2708,7 +2708,7 @@
 <Stock>500</Stock>
 <Miad>2026-09-01</Miad>
 <Price>489.50</Price>
-<Price2>785.00</Price2>
+<Price2>779.13</Price2>
 <Price3>528.66</Price3>
 <Price4>548.24</Price4>
 <Price5>548.24</Price5>
@@ -3492,7 +3492,7 @@
 <Brand><![CDATA[Avène]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>646.90</Price>
 <Price2>994.53</Price2>
@@ -13033,7 +13033,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>121</Stock>
+<Stock>120</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -43999,7 +43999,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>167.95</Price>
+<Price>499.90</Price>
 <Price2>339.09</Price2>
 <Price3>181.39</Price3>
 <Price4>188.10</Price4>
@@ -51488,7 +51488,7 @@
 <Brand><![CDATA[Solante]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>85</Stock>
+<Stock>83</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1196.80</Price>
 <Price2>1747.07</Price2>
@@ -59806,7 +59806,7 @@
 <Brand><![CDATA[Garnier]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>509.90</Price>
 <Price2>807.05</Price2>
@@ -60196,7 +60196,7 @@
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>2027-10-01</Miad>
 <Price>613.90</Price>
 <Price2>949.37</Price2>
