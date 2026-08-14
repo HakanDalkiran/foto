@@ -3494,7 +3494,7 @@
 <Brand><![CDATA[Avène]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>646.90</Price>
 <Price2>994.53</Price2>
@@ -4456,7 +4456,7 @@
 <Brand><![CDATA[Bebelac]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -8191,7 +8191,7 @@
 <Brand><![CDATA[Canped]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2027-10-01</Miad>
 <Price>712.90</Price>
 <Price2>1084.85</Price2>
@@ -12811,7 +12811,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>72</Stock>
 <Miad>2026-12-01</Miad>
 <Price>392.00</Price>
 <Price2>645.70</Price2>
@@ -13478,7 +13478,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>43</Stock>
 <Miad>2026-10-01</Miad>
 <Price>397.90</Price>
 <Price2>653.78</Price2>
@@ -14145,7 +14145,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>80</Stock>
+<Stock>78</Stock>
 <Miad>2026-11-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -25038,9 +25038,9 @@
 <Brand><![CDATA[Lookvit]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
-<Price>1349.90</Price>
+<Price>1334.90</Price>
 <Price2>1956.59</Price2>
 <Price3>1457.89</Price3>
 <Price4>1511.89</Price4>
@@ -31122,7 +31122,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>435</Stock>
+<Stock>434</Stock>
 <Miad>2027-02-01</Miad>
 <Price>609.90</Price>
 <Price2>943.90</Price2>
@@ -39527,7 +39527,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>110</Stock>
+<Stock>109</Stock>
 <Miad>2026-12-01</Miad>
 <Price>257.90</Price>
 <Price2>462.19</Price2>
@@ -54650,7 +54650,7 @@
 <Brand><![CDATA[Thea]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>368</Stock>
+<Stock>367</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -57623,7 +57623,7 @@
 <Brand><![CDATA[Magnimore]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad>2026-10-01</Miad>
 <Price>494.80</Price>
 <Price2>786.38</Price2>
@@ -68902,7 +68902,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>79</Stock>
+<Stock>75</Stock>
 <Miad>2029-01-01</Miad>
 <Price>461.00</Price>
 <Price2>740.13</Price2>
