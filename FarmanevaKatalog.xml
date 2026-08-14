@@ -11610,7 +11610,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>58</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -13962,7 +13962,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>95</Stock>
+<Stock>94</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -16162,7 +16162,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>144.90</Price>
 <Price2>307.55</Price2>
@@ -33852,7 +33852,7 @@
 <Brand><![CDATA[Nutraxin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-01-01</Miad>
 <Price>308.70</Price>
 <Price2>531.71</Price2>
@@ -44409,7 +44409,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>120</Stock>
+<Stock>119</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>326.84</Price2>
@@ -63119,14 +63119,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>699.94</Price>
-<Price2>1067.12</Price2>
-<Price3>755.94</Price3>
-<Price4>783.93</Price4>
-<Price5>783.93</Price5>
-<Price6>783.93</Price6>
-<Price7>1067.12</Price7>
-<Price8>1067.12</Price8>
+<Price>726.89</Price>
+<Price2>1104.00</Price2>
+<Price3>785.04</Price3>
+<Price4>814.12</Price4>
+<Price5>814.12</Price5>
+<Price6>814.12</Price6>
+<Price7>1104.00</Price7>
+<Price8>1104.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -63741,7 +63741,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>68</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -69377,7 +69377,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>43</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
