@@ -2102,8 +2102,8 @@
 <Brand><![CDATA[Aptamil]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
+<Stock>12</Stock>
+<Miad>2027-05-01</Miad>
 <Price>928.90</Price>
 <Price2>1380.45</Price2>
 <Price3>1003.21</Price3>
@@ -16162,7 +16162,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>144.90</Price>
 <Price2>307.55</Price2>
@@ -43954,16 +43954,16 @@
 <Brand><![CDATA[Phyto]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>13</Stock>
 <Miad></Miad>
 <Price>406.90</Price>
-<Price2>339.09</Price2>
-<Price3>181.39</Price3>
-<Price4>188.10</Price4>
-<Price5>188.10</Price5>
-<Price6>188.10</Price6>
-<Price7>339.09</Price7>
-<Price8>339.09</Price8>
+<Price2>666.09</Price2>
+<Price3>439.45</Price3>
+<Price4>455.73</Price4>
+<Price5>455.73</Price5>
+<Price6>455.73</Price6>
+<Price7>666.09</Price7>
+<Price8>666.09</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-apaisant-ultra-soothing-cleansing-care-125-ml-10091.jpg</Image1>
@@ -59997,7 +59997,7 @@
 <Brand><![CDATA[Incia]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>2028-10-01</Miad>
 <Price>338.90</Price>
 <Price2>573.03</Price2>
