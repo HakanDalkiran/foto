@@ -2749,7 +2749,7 @@
 <Brand><![CDATA[Argivit]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>85</Stock>
+<Stock>83</Stock>
 <Miad>2026-11-01</Miad>
 <Price>597.90</Price>
 <Price2>927.48</Price2>
@@ -6718,14 +6718,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
-<Price>343.60</Price>
-<Price2>579.47</Price2>
-<Price3>371.09</Price3>
-<Price4>384.83</Price4>
-<Price5>384.83</Price5>
-<Price6>384.83</Price6>
-<Price7>579.47</Price7>
-<Price8>579.47</Price8>
+<Price>353.90</Price>
+<Price2>593.56</Price2>
+<Price3>382.21</Price3>
+<Price4>396.37</Price4>
+<Price5>396.37</Price5>
+<Price6>396.37</Price6>
+<Price7>593.56</Price7>
+<Price8>593.56</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bioxcin-collagen-biotin-hacim-sampuani-300-ml-3-al-2-ode-8155.jpg</Image1>
@@ -7122,14 +7122,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
-<Price>297.90</Price>
-<Price2>516.93</Price2>
-<Price3>321.73</Price3>
-<Price4>333.65</Price4>
-<Price5>333.65</Price5>
-<Price6>333.65</Price6>
-<Price7>516.93</Price7>
-<Price8>516.93</Price8>
+<Price>304.99</Price>
+<Price2>526.63</Price2>
+<Price3>329.39</Price3>
+<Price4>341.59</Price4>
+<Price5>341.59</Price5>
+<Price6>341.59</Price6>
+<Price7>526.63</Price7>
+<Price8>526.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bioxcin-kolajen-ve-hyaluronik-asit-icerikli-kas-ve-kirpik-serumu-3-ml-8183.jpg</Image1>
@@ -8279,7 +8279,7 @@
 <Brand><![CDATA[Capila]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>287</Stock>
+<Stock>284</Stock>
 <Miad>2026-09-01</Miad>
 <Price>36.90</Price>
 <Price2>159.75</Price2>
@@ -11610,7 +11610,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>59</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -11743,7 +11743,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>64</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -12279,7 +12279,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>226</Stock>
+<Stock>224</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -12677,7 +12677,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>66</Stock>
+<Stock>59</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -12989,7 +12989,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -13120,7 +13120,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -13916,7 +13916,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>192</Stock>
+<Stock>191</Stock>
 <Miad></Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -16836,7 +16836,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -19375,7 +19375,7 @@
 <Brand><![CDATA[Gluco Dr]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>126</Stock>
+<Stock>125</Stock>
 <Miad></Miad>
 <Price>429.90</Price>
 <Price2>697.57</Price2>
@@ -20576,7 +20576,7 @@
 <Brand><![CDATA[İlhan Sarı]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>207</Stock>
+<Stock>206</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>166.59</Price2>
@@ -25038,7 +25038,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2026-12-01</Miad>
-<Price>1334.90</Price>
+<Price>1349.90</Price>
 <Price2>1956.59</Price2>
 <Price3>1457.89</Price3>
 <Price4>1511.89</Price4>
@@ -26375,7 +26375,7 @@
 <Brand><![CDATA[Mesilife]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>1349.90</Price>
 <Price2>1956.59</Price2>
@@ -30173,7 +30173,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>164</Stock>
+<Stock>163</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -31932,14 +31932,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
-<Price>117.90</Price>
-<Price2>270.60</Price2>
-<Price3>127.33</Price3>
-<Price4>132.05</Price4>
-<Price5>132.05</Price5>
-<Price6>132.05</Price6>
-<Price7>270.60</Price7>
-<Price8>270.60</Price8>
+<Price>133.50</Price>
+<Price2>291.94</Price2>
+<Price3>144.18</Price3>
+<Price4>149.52</Price4>
+<Price5>149.52</Price5>
+<Price6>149.52</Price6>
+<Price7>291.94</Price7>
+<Price8>291.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-sprey-deep-amazonia-for-men-150-ml-9421.jpg</Image1>
@@ -39706,7 +39706,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>7</Stock>
 <Miad>2028-11-01</Miad>
 <Price>759.90</Price>
 <Price2>1149.17</Price2>
@@ -44498,7 +44498,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>90</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -44588,7 +44588,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -44715,7 +44715,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>211.60</Price>
 <Price2>398.82</Price2>
@@ -44803,7 +44803,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>74</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -44985,7 +44985,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>32</Stock>
+<Stock>56</Stock>
 <Miad></Miad>
 <Price>233.90</Price>
 <Price2>429.34</Price2>
@@ -45204,7 +45204,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>44</Stock>
+<Stock>40</Stock>
 <Miad></Miad>
 <Price>238.00</Price>
 <Price2>434.95</Price2>
@@ -45294,7 +45294,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>29</Stock>
+<Stock>77</Stock>
 <Miad></Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
@@ -46196,7 +46196,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>202.00</Price>
 <Price2>385.69</Price2>
@@ -47263,7 +47263,7 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-02-01</Miad>
 <Price>276.90</Price>
 <Price2>488.19</Price2>
@@ -52897,7 +52897,7 @@
 <Brand><![CDATA[Sterimar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>233</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>348.90</Price>
 <Price2>586.72</Price2>
@@ -54141,7 +54141,7 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>39</Stock>
+<Stock>38</Stock>
 <Miad>2030-05-01</Miad>
 <Price>1128.90</Price>
 <Price2>1654.15</Price2>
@@ -58428,7 +58428,7 @@
 <Brand><![CDATA[Avène]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>2849.90</Price>
 <Price2>4009.34</Price2>
@@ -62172,7 +62172,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>47</Stock>
+<Stock>71</Stock>
 <Miad></Miad>
 <Price>239.90</Price>
 <Price2>437.55</Price2>
@@ -63368,7 +63368,7 @@
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>74</Stock>
+<Stock>70</Stock>
 <Miad>2028-01-01</Miad>
 <Price>570.00</Price>
 <Price2>889.29</Price2>
