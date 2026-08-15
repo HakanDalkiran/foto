@@ -11340,7 +11340,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>309</Stock>
+<Stock>329</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -11743,7 +11743,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>60</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -29592,7 +29592,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>7</Stock>
 <Miad>2027-04-01</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
@@ -43645,7 +43645,7 @@
 <Brand><![CDATA[Philips Avent]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1089.00</Price>
 <Price2>1599.55</Price2>
@@ -46966,14 +46966,14 @@
 <Tax>20</Tax>
 <Stock>128</Stock>
 <Miad></Miad>
-<Price>154.90</Price>
-<Price2>321.23</Price2>
-<Price3>167.29</Price3>
-<Price4>173.49</Price4>
-<Price5>173.49</Price5>
-<Price6>173.49</Price6>
-<Price7>321.23</Price7>
-<Price8>321.23</Price8>
+<Price>158.90</Price>
+<Price2>326.70</Price2>
+<Price3>171.61</Price3>
+<Price4>177.97</Price4>
+<Price5>177.97</Price5>
+<Price6>177.97</Price6>
+<Price7>326.70</Price7>
+<Price8>326.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-cam-ormani-dus-jeli-500-ml-10234.jpg</Image1>
@@ -61037,7 +61037,7 @@
 <Brand><![CDATA[Santasya]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>7</Stock>
+<Stock>0</Stock>
 <Miad>2028-11-01</Miad>
 <Price>138.90</Price>
 <Price2>299.33</Price2>
@@ -63741,7 +63741,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>63</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -69377,7 +69377,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>41</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
