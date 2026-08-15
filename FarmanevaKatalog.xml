@@ -8281,14 +8281,14 @@
 <Tax>20</Tax>
 <Stock>287</Stock>
 <Miad>2026-09-01</Miad>
-<Price>36.90</Price>
-<Price2>159.75</Price2>
-<Price3>39.85</Price3>
-<Price4>41.33</Price4>
-<Price5>41.33</Price5>
-<Price6>41.33</Price6>
-<Price7>159.75</Price7>
-<Price8>159.75</Price8>
+<Price>17.90</Price>
+<Price2>133.75</Price2>
+<Price3>19.33</Price3>
+<Price4>20.05</Price4>
+<Price5>20.05</Price5>
+<Price6>20.05</Price6>
+<Price7>133.75</Price7>
+<Price8>133.75</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/capila-bit-sampuani-200-ml-8243.jpg</Image1>
@@ -11787,7 +11787,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>71</Stock>
+<Stock>72</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12635,14 +12635,14 @@
 <Tax>10</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
-<Price>674.80</Price>
-<Price2>1032.71</Price2>
-<Price3>728.78</Price3>
-<Price4>755.78</Price4>
-<Price5>755.78</Price5>
-<Price6>755.78</Price6>
-<Price7>1032.71</Price7>
-<Price8>1032.71</Price8>
+<Price>615.90</Price>
+<Price2>952.11</Price2>
+<Price3>665.17</Price3>
+<Price4>689.81</Price4>
+<Price5>689.81</Price5>
+<Price6>689.81</Price6>
+<Price7>952.11</Price7>
+<Price8>952.11</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-be-bright-pigmentyl-gunes-kremi-spf50-75-ml-ikili-kofre-8504.jpg</Image1>
@@ -19951,7 +19951,7 @@
 <Brand><![CDATA[Hyper Immun]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>48</Stock>
 <Miad>2028-02-01</Miad>
 <Price>478.00</Price>
 <Price2>763.39</Price2>
@@ -29592,7 +29592,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>5</Stock>
 <Miad>2027-04-01</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
@@ -30441,7 +30441,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2028-05-01</Miad>
 <Price>2849.90</Price>
 <Price2>4009.34</Price2>
@@ -33579,8 +33579,8 @@
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2026-10-01</Miad>
-<Price>639.90</Price>
+<Miad>2028-04-01</Miad>
+<Price>639.89</Price>
 <Price2>984.95</Price2>
 <Price3>691.09</Price3>
 <Price4>716.69</Price4>
@@ -40202,7 +40202,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>129</Stock>
+<Stock>132</Stock>
 <Miad>2028-02-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -44762,14 +44762,14 @@
 <Tax>20</Tax>
 <Stock>74</Stock>
 <Miad></Miad>
-<Price>229.90</Price>
-<Price2>423.87</Price2>
-<Price3>248.29</Price3>
-<Price4>257.49</Price4>
-<Price5>257.49</Price5>
-<Price6>257.49</Price6>
-<Price7>423.87</Price7>
-<Price8>423.87</Price8>
+<Price>239.00</Price>
+<Price2>436.32</Price2>
+<Price3>258.12</Price3>
+<Price4>267.68</Price4>
+<Price5>267.68</Price5>
+<Price6>267.68</Price6>
+<Price7>436.32</Price7>
+<Price8>436.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-bouquet-kolonya-cam-sise-250-ml-10124.jpg</Image1>
@@ -57848,7 +57848,7 @@
 <Brand><![CDATA[Alvita]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>120</Stock>
+<Stock>117</Stock>
 <Miad>2028-04-01</Miad>
 <Price>185.00</Price>
 <Price2>362.42</Price2>
@@ -61687,7 +61687,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>113</Stock>
+<Stock>110</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
