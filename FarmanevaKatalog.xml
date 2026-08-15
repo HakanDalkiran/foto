@@ -1476,7 +1476,7 @@
 <Brand><![CDATA[Apb Balance]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>41</Stock>
+<Stock>39</Stock>
 <Miad>2026-10-01</Miad>
 <Price>98.90</Price>
 <Price2>244.59</Price2>
@@ -3709,7 +3709,7 @@
 <Brand><![CDATA[Avène]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2029-02-01</Miad>
 <Price>884.90</Price>
 <Price2>1320.24</Price2>
@@ -9173,16 +9173,16 @@
 <Brand><![CDATA[Cistus]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>25</Stock>
-<Miad>2028-09-01</Miad>
-<Price>127.90</Price>
-<Price2>284.28</Price2>
-<Price3>138.13</Price3>
-<Price4>143.25</Price4>
-<Price5>143.25</Price5>
-<Price6>143.25</Price6>
-<Price7>284.28</Price7>
-<Price8>284.28</Price8>
+<Stock>27</Stock>
+<Miad>2028-01-01</Miad>
+<Price>123.40</Price>
+<Price2>278.12</Price2>
+<Price3>133.27</Price3>
+<Price4>138.21</Price4>
+<Price5>138.21</Price5>
+<Price6>138.21</Price6>
+<Price7>278.12</Price7>
+<Price8>278.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cistus-antivirus-balli-limonlu-pastil-10-adet-8312.jpg</Image1>
@@ -11340,7 +11340,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>349</Stock>
+<Stock>309</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -11610,7 +11610,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -11743,7 +11743,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>63</Stock>
+<Stock>57</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -11787,7 +11787,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>72</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12279,7 +12279,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>221</Stock>
+<Stock>220</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -13962,7 +13962,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>94</Stock>
+<Stock>93</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -38202,7 +38202,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>83</Stock>
+<Stock>80</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -44986,7 +44986,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>41</Stock>
 <Miad></Miad>
 <Price>158.90</Price>
 <Price2>326.70</Price2>
@@ -45381,7 +45381,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>44</Stock>
+<Stock>43</Stock>
 <Miad></Miad>
 <Price>3049.90</Price>
 <Price2>4283.04</Price2>
@@ -60777,7 +60777,7 @@
 <Brand><![CDATA[Magnimore]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>39</Stock>
+<Stock>38</Stock>
 <Miad>2028-12-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -62233,8 +62233,8 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
-<Miad>2029-03-01</Miad>
+<Stock>30</Stock>
+<Miad>2026-10-01</Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
 <Price3>232.09</Price3>
@@ -68519,7 +68519,7 @@
 <Brand><![CDATA[Mesilife]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>48</Stock>
+<Stock>47</Stock>
 <Miad></Miad>
 <Price>669.90</Price>
 <Price2>1026.01</Price2>
