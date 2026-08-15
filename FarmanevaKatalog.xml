@@ -354,7 +354,7 @@
 <Brand><![CDATA[Alcon]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>111</Stock>
+<Stock>114</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -7695,7 +7695,7 @@
 <Brand><![CDATA[Canped]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>120</Stock>
+<Stock>117</Stock>
 <Miad>2026-12-01</Miad>
 <Price>894.90</Price>
 <Price2>1333.92</Price2>
@@ -8099,7 +8099,7 @@
 <Brand><![CDATA[Canped]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>121</Stock>
+<Stock>111</Stock>
 <Miad>2026-12-01</Miad>
 <Price>279.90</Price>
 <Price2>492.29</Price2>
@@ -8189,7 +8189,7 @@
 <Brand><![CDATA[Canped]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>34</Stock>
+<Stock>36</Stock>
 <Miad>2027-10-01</Miad>
 <Price>712.90</Price>
 <Price2>1084.85</Price2>
@@ -12809,7 +12809,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>58</Stock>
+<Stock>61</Stock>
 <Miad>2026-12-01</Miad>
 <Price>392.00</Price>
 <Price2>645.70</Price2>
@@ -13033,7 +13033,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>116</Stock>
+<Stock>118</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -21154,7 +21154,7 @@
 <Brand><![CDATA[Jenomax]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>271</Stock>
+<Stock>272</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -21378,7 +21378,7 @@
 <Brand><![CDATA[Krilom]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>189</Stock>
+<Stock>191</Stock>
 <Miad>2026-09-01</Miad>
 <Price>378.90</Price>
 <Price2>627.77</Price2>
@@ -33578,8 +33578,8 @@
 <Brand><![CDATA[Nouvellune]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-04-01</Miad>
+<Stock>1</Stock>
+<Miad>2026-10-01</Miad>
 <Price>639.90</Price>
 <Price2>984.95</Price2>
 <Price3>691.09</Price3>
@@ -33943,7 +33943,7 @@
 <Brand><![CDATA[Nutraxin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>140</Stock>
+<Stock>142</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -52069,7 +52069,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>25</Stock>
 <Miad>2027-08-01</Miad>
 <Price>728.40</Price>
 <Price2>1106.07</Price2>
@@ -54057,7 +54057,7 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>340</Stock>
+<Stock>342</Stock>
 <Miad>2026-10-01</Miad>
 <Price>718.90</Price>
 <Price2>1093.06</Price2>
@@ -64053,7 +64053,7 @@
 <Brand><![CDATA[Sma]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>315</Stock>
+<Stock>318</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1214.90</Price>
 <Price2>1771.84</Price2>
@@ -66242,7 +66242,7 @@
 <Brand><![CDATA[Ocuvite]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>193</Stock>
+<Stock>192</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1396.90</Price>
 <Price2>2020.91</Price2>
@@ -66977,7 +66977,7 @@
 <Brand><![CDATA[Driclor]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>56</Stock>
 <Miad>2026-11-01</Miad>
 <Price>328.80</Price>
 <Price2>559.21</Price2>
