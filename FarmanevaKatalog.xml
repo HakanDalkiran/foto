@@ -8099,7 +8099,7 @@
 <Brand><![CDATA[Canped]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>111</Stock>
+<Stock>81</Stock>
 <Miad>2026-12-01</Miad>
 <Price>279.90</Price>
 <Price2>492.29</Price2>
@@ -38610,7 +38610,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>150</Stock>
+<Stock>149</Stock>
 <Miad>2026-10-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -54013,7 +54013,7 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>88</Stock>
+<Stock>87</Stock>
 <Miad>2026-09-01</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
@@ -66219,8 +66219,8 @@
 <Brand><![CDATA[Nutraxin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>9</Stock>
-<Miad>2029-03-01</Miad>
+<Stock>3</Stock>
+<Miad>2029-04-01</Miad>
 <Price>515.90</Price>
 <Price2>815.26</Price2>
 <Price3>557.17</Price3>
