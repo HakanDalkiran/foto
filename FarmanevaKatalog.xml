@@ -354,7 +354,7 @@
 <Brand><![CDATA[Alcon]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>114</Stock>
+<Stock>111</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -12809,7 +12809,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>49</Stock>
+<Stock>47</Stock>
 <Miad>2026-12-01</Miad>
 <Price>392.00</Price>
 <Price2>645.70</Price2>
@@ -14143,7 +14143,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>72</Stock>
+<Stock>71</Stock>
 <Miad>2026-11-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -44135,8 +44135,8 @@
 <Brand><![CDATA[Prosafe]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
-<Miad>2029-01-01</Miad>
+<Stock>4</Stock>
+<Miad></Miad>
 <Price>498.90</Price>
 <Price2>791.99</Price2>
 <Price3>538.81</Price3>
