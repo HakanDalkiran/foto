@@ -11075,7 +11075,7 @@
 <Brand><![CDATA[Day2day]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-01-01</Miad>
 <Price>1524.90</Price>
 <Price2>2196.08</Price2>
@@ -12279,7 +12279,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>210</Stock>
+<Stock>208</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -33579,8 +33579,8 @@
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2028-04-01</Miad>
-<Price>639.90</Price>
+<Miad>2026-10-01</Miad>
+<Price>639.89</Price>
 <Price2>984.95</Price2>
 <Price3>691.09</Price3>
 <Price4>716.69</Price4>
@@ -60664,7 +60664,7 @@
 <Brand><![CDATA[Magnimore]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>37</Stock>
+<Stock>35</Stock>
 <Miad>2028-12-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
