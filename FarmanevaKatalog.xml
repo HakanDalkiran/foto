@@ -16261,31 +16261,6 @@
 <Price7>522.25</Price7>
 <Price8>522.25</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-10-flakon-8688.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-10-flakon-8689.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-10-flakon-8690.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-10-flakon-12980.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-10-flakon-12981.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Enterogermina Kids 5 ml 10 Flakon</strong>, her flakonunda 2 milyar (2x10&#8313; CFU) Bacillus clausii sporu ve saf su bulunan, i&#231;ime haz&#305;r s&#305;v&#305; formda bir &#231;ocuk probiyotik takviyesidir. Sindirim sistemi dengesini ve ba&#287;&#305;rsak floras&#305;n&#305; desteklemeye yard&#305;mc&#305; olmas&#305; amac&#305;yla &#231;ocuklar i&#231;in form&#252;le edilmi&#351;tir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Her flakonda 2 milyar Bacillus clausii sporu i&#231;erir</li>
-<li>&#304;&#231;ime haz&#305;r 5 ml tekli flakon formunda sunulur</li>
-<li>Kutuda toplam 10 flakon bulunur</li>
-<li>Tats&#305;z, kokusuz ve renksiz i&#231;erik &#231;ocuklar taraf&#305;ndan kolayca t&#252;ketilir</li>
-<li>&#350;eker, tatland&#305;r&#305;c&#305; ve koruyucu i&#231;ermez</li>
-<li>Laktoz ve gluten i&#231;ermez</li>
-<li>Spor formundaki bakteriler mide asidine dayan&#305;kl&#305;d&#305;r</li>
-<li>&#214;zel saklama ko&#351;ulu gerektirmez</li>
-<li>2 ya&#351; ve &#252;zeri &#231;ocuklar i&#231;in uygundur</li>
-<li>Pratik g&#252;nl&#252;k kullan&#305;m sa&#287;lar</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genel olarak 2-4 ya&#351; i&#231;in g&#252;nde 1 flakon, 4 ya&#351; ve &#252;zeri i&#231;in g&#252;nde 2 flakon &#246;nerilir; flakon &#231;alkalan&#305;p a&#287;&#305;zdan al&#305;n&#305;r. Kesin kullan&#305;m miktar&#305; ve s&#305;kl&#305;&#287;&#305; i&#231;in ambalaj &#252;zerindeki bilgileri ve kullan&#305;m k&#305;lavuzunu dikkate al&#305;n&#305;z.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n&#305;z, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z ve kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n&#305;z.</p>
-<p>Farmaneva, &#231;ocu&#287;unuzun g&#252;nl&#252;k beslenmesine destek olmak isteyenler i&#231;in Enterogermina Kids &#252;r&#252;n&#252;n&#252; g&#252;venle sunar.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00357]]></Product_code>
@@ -26889,7 +26864,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>544.63</Price>
 <Price2>854.58</Price2>
