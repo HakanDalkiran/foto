@@ -26641,6 +26641,18 @@
 <Brand><![CDATA[Memethol]]></Brand>
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Medikal Krem & Sprey]]></category>
+<Tax>10</Tax>
+<Stock>200</Stock>
+<Miad>2027-03-01</Miad>
+<Price>681.82</Price>
+<Price2>1100.00</Price2>
+<Price3>736.37</Price3>
+<Price4>750.00</Price4>
+<Price5>864.00</Price5>
+<Price6>650.00</Price6>
+<Price7>1042.32</Price7>
+<Price8>1042.32</Price8>
+<CurrencyType>TRL</CurrencyType>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00583]]></Product_code>
@@ -44962,6 +44974,18 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>48</Stock>
+<Miad>2027-03-01</Miad>
+<Price>448.90</Price>
+<Price2>723.57</Price2>
+<Price3>403.00</Price3>
+<Price4>389.99</Price4>
+<Price5>502.77</Price5>
+<Price6>502.77</Price6>
+<Price7>723.57</Price7>
+<Price8>723.57</Price8>
+<CurrencyType>TRL</CurrencyType>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00981]]></Product_code>
