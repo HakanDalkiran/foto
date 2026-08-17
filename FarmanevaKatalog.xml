@@ -3856,7 +3856,7 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2029-02-01</Miad>
-<Price>884.89</Price>
+<Price>884.90</Price>
 <Price2>1320.24</Price2>
 <Price3>955.69</Price3>
 <Price4>991.09</Price4>
@@ -9810,7 +9810,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Protez Bakım]]></subCategory>
 <Tax>10</Tax>
-<Stock>149</Stock>
+<Stock>146</Stock>
 <Miad>2026-12-01</Miad>
 <Price>171.90</Price>
 <Price2>344.50</Price2>
@@ -14009,7 +14009,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad>2026-10-01</Miad>
 <Price>397.90</Price>
 <Price2>653.78</Price2>
@@ -22004,7 +22004,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>260</Stock>
+<Stock>257</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -54189,7 +54189,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2027-01-01</Miad>
 <Price>1089.90</Price>
 <Price2>1600.78</Price2>
@@ -58061,7 +58061,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>104</Stock>
+<Stock>103</Stock>
 <Miad>2026-10-01</Miad>
 <Price>642.90</Price>
 <Price2>989.06</Price2>
@@ -63463,7 +63463,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2027-10-01</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -66616,14 +66616,14 @@
 <Tax>20</Tax>
 <Stock>129</Stock>
 <Miad>2026-12-01</Miad>
-<Price>298.90</Price>
-<Price2>518.29</Price2>
-<Price3>322.81</Price3>
-<Price4>334.77</Price4>
-<Price5>334.77</Price5>
-<Price6>334.77</Price6>
-<Price7>518.29</Price7>
-<Price8>518.29</Price8>
+<Price>288.90</Price>
+<Price2>504.61</Price2>
+<Price3>312.01</Price3>
+<Price4>323.57</Price4>
+<Price5>323.57</Price5>
+<Price6>323.57</Price6>
+<Price7>504.61</Price7>
+<Price8>504.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-roll-on-beyazlatici-etkili-roll-on-50-ml-11443.jpg</Image1>
@@ -69473,7 +69473,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Dökülme Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>327.90</Price>
 <Price2>557.98</Price2>
