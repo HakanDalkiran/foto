@@ -12201,7 +12201,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>53</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -12713,7 +12713,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>211</Stock>
+<Stock>210</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12760,7 +12760,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>202</Stock>
+<Stock>201</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -37534,7 +37534,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>1998.90</Price>
 <Price2>2844.74</Price2>
@@ -54373,7 +54373,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-03-01</Miad>
 <Price>1079.90</Price>
 <Price2>1587.09</Price2>
@@ -65300,14 +65300,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2029-02-01</Miad>
-<Price>686.90</Price>
-<Price2>1049.27</Price2>
-<Price3>741.85</Price3>
-<Price4>769.33</Price4>
-<Price5>769.33</Price5>
-<Price6>769.33</Price6>
-<Price7>1049.27</Price7>
-<Price8>1049.27</Price8>
+<Price>679.90</Price>
+<Price2>1039.69</Price2>
+<Price3>734.29</Price3>
+<Price4>761.49</Price4>
+<Price5>761.49</Price5>
+<Price6>761.49</Price6>
+<Price7>1039.69</Price7>
+<Price8>1039.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -65524,14 +65524,14 @@
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad>2029-01-01</Miad>
-<Price>962.90</Price>
-<Price2>1426.98</Price2>
-<Price3>1039.93</Price3>
-<Price4>1078.45</Price4>
-<Price5>1078.45</Price5>
-<Price6>1078.45</Price6>
-<Price7>1426.98</Price7>
-<Price8>1426.98</Price8>
+<Price>900.00</Price>
+<Price2>1340.90</Price2>
+<Price3>972.00</Price3>
+<Price4>1008.00</Price4>
+<Price5>1008.00</Price5>
+<Price6>1008.00</Price6>
+<Price7>1340.90</Price7>
+<Price8>1340.90</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -65664,14 +65664,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>726.89</Price>
-<Price2>1104.00</Price2>
-<Price3>785.04</Price3>
-<Price4>814.12</Price4>
-<Price5>814.12</Price5>
-<Price6>814.12</Price6>
-<Price7>1104.00</Price7>
-<Price8>1104.00</Price8>
+<Price>679.90</Price>
+<Price2>1039.69</Price2>
+<Price3>734.29</Price3>
+<Price4>761.49</Price4>
+<Price5>761.49</Price5>
+<Price6>761.49</Price6>
+<Price7>1039.69</Price7>
+<Price8>1039.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -66306,7 +66306,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Vücut İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>13</Stock>
 <Miad>2029-03-01</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
