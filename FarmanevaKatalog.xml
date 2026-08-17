@@ -1441,7 +1441,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>61</Stock>
+<Stock>60</Stock>
 <Miad>2026-10-01</Miad>
 <Price>206.50</Price>
 <Price2>391.85</Price2>
@@ -8601,7 +8601,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Bit ve Sirke Önleyiciler]]></subCategory>
 <Tax>20</Tax>
-<Stock>287</Stock>
+<Stock>286</Stock>
 <Miad>2026-09-01</Miad>
 <Price>17.90</Price>
 <Price2>133.75</Price2>
@@ -12062,7 +12062,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>54</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -12713,7 +12713,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>209</Stock>
+<Stock>211</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12760,7 +12760,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>203</Stock>
+<Stock>202</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -30761,7 +30761,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2027-04-01</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
@@ -35464,7 +35464,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-03-01</Miad>
 <Price>273.90</Price>
 <Price2>484.08</Price2>
@@ -41444,7 +41444,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -55998,7 +55998,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>21</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>926.11</Price2>
@@ -63411,7 +63411,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>7</Stock>
+<Stock>3</Stock>
 <Miad>2028-11-01</Miad>
 <Price>138.90</Price>
 <Price2>299.33</Price2>
@@ -64156,7 +64156,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>10</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad>2029-02-01</Miad>
 <Price>398.90</Price>
 <Price2>655.14</Price2>
@@ -64910,7 +64910,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2028-11-01</Miad>
 <Price>339.90</Price>
 <Price2>574.40</Price2>
@@ -65022,7 +65022,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2027-05-01</Miad>
 <Price>274.90</Price>
 <Price2>485.45</Price2>
@@ -65106,7 +65106,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Gazlı Bez & Kompres]]></subCategory>
 <Tax>10</Tax>
-<Stock>312</Stock>
+<Stock>311</Stock>
 <Miad>2028-10-01</Miad>
 <Price>243.90</Price>
 <Price2>443.03</Price2>
@@ -65640,14 +65640,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>699.94</Price>
-<Price2>1067.12</Price2>
-<Price3>755.94</Price3>
-<Price4>783.93</Price4>
-<Price5>783.93</Price5>
-<Price6>783.93</Price6>
-<Price7>1067.12</Price7>
-<Price8>1067.12</Price8>
+<Price>726.89</Price>
+<Price2>1104.00</Price2>
+<Price3>785.04</Price3>
+<Price4>814.12</Price4>
+<Price5>814.12</Price5>
+<Price6>814.12</Price6>
+<Price7>1104.00</Price7>
+<Price8>1104.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
