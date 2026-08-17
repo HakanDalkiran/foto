@@ -367,7 +367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>111</Stock>
+<Stock>107</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -2544,7 +2544,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>226</Stock>
+<Stock>224</Stock>
 <Miad>2026-09-01</Miad>
 <Price>156.90</Price>
 <Price2>323.97</Price2>
@@ -45812,7 +45812,7 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
-<Price>498.89</Price>
+<Price>498.90</Price>
 <Price2>791.99</Price2>
 <Price3>538.81</Price3>
 <Price4>558.77</Price4>
