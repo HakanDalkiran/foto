@@ -4279,7 +4279,7 @@
 <Brand><![CDATA[Bausch Lomb]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>33</Stock>
+<Stock>32</Stock>
 <Miad>2026-09-01</Miad>
 <Price>588.90</Price>
 <Price2>915.16</Price2>
@@ -8099,7 +8099,7 @@
 <Brand><![CDATA[Canped]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>61</Stock>
+<Stock>71</Stock>
 <Miad>2026-12-01</Miad>
 <Price>279.90</Price>
 <Price2>492.29</Price2>
@@ -12809,7 +12809,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>40</Stock>
 <Miad>2026-12-01</Miad>
 <Price>392.00</Price>
 <Price2>645.70</Price2>
@@ -15716,7 +15716,7 @@
 <Brand><![CDATA[Enterogermina]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>239</Stock>
+<Stock>241</Stock>
 <Miad>2027-07-01</Miad>
 <Price>378.90</Price>
 <Price2>627.77</Price2>
@@ -19157,7 +19157,7 @@
 <Brand><![CDATA[Generica]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>208</Stock>
+<Stock>209</Stock>
 <Miad>2026-10-01</Miad>
 <Price>520.90</Price>
 <Price2>822.10</Price2>
@@ -20218,7 +20218,7 @@
 <Brand><![CDATA[Incia]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2026-11-01</Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -34259,16 +34259,16 @@
 <Brand><![CDATA[Nutrof]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>31</Stock>
-<Miad>2026-10-01</Miad>
-<Price>736.90</Price>
-<Price2>1117.70</Price2>
-<Price3>795.85</Price3>
-<Price4>825.33</Price4>
-<Price5>825.33</Price5>
-<Price6>825.33</Price6>
-<Price7>1117.70</Price7>
-<Price8>1117.70</Price8>
+<Stock>24</Stock>
+<Miad>2027-10-01</Miad>
+<Price>739.90</Price>
+<Price2>1121.80</Price2>
+<Price3>799.09</Price3>
+<Price4>828.69</Price4>
+<Price5>828.69</Price5>
+<Price6>828.69</Price6>
+<Price7>1121.80</Price7>
+<Price8>1121.80</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutrof-total-30-kapsul-9514.jpg</Image1>
@@ -39256,7 +39256,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2027-09-01</Miad>
 <Price>627.90</Price>
 <Price2>968.53</Price2>
@@ -40603,7 +40603,7 @@
 <Brand><![CDATA[Ocuvite]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>53</Stock>
+<Stock>57</Stock>
 <Miad>2026-09-01</Miad>
 <Price>1139.00</Price>
 <Price2>1667.97</Price2>
@@ -42619,7 +42619,7 @@
 <Brand><![CDATA[Otacı]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>78</Stock>
+<Stock>77</Stock>
 <Miad>2026-09-01</Miad>
 <Price>99.90</Price>
 <Price2>245.96</Price2>
@@ -49388,7 +49388,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2028-01-01</Miad>
 <Price>298.90</Price>
 <Price2>518.29</Price2>
@@ -51358,7 +51358,7 @@
 <Brand><![CDATA[Solante]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>82</Stock>
+<Stock>81</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1196.80</Price>
 <Price2>1747.07</Price2>
@@ -52113,7 +52113,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2027-01-01</Miad>
 <Price>1089.90</Price>
 <Price2>1600.78</Price2>
@@ -53167,7 +53167,7 @@
 <Brand><![CDATA[Sudocrem]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>478</Stock>
+<Stock>477</Stock>
 <Miad>2026-10-01</Miad>
 <Price>566.90</Price>
 <Price2>885.05</Price2>
@@ -58452,7 +58452,7 @@
 <Brand><![CDATA[Biotrue]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>81</Stock>
+<Stock>84</Stock>
 <Miad>2026-09-01</Miad>
 <Price>439.90</Price>
 <Price2>711.25</Price2>
@@ -58552,7 +58552,7 @@
 <Brand><![CDATA[Cebrolux]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>136</Stock>
+<Stock>139</Stock>
 <Miad>2027-02-01</Miad>
 <Price>819.90</Price>
 <Price2>1231.28</Price2>
@@ -60950,7 +60950,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>18</Stock>
+<Stock>19</Stock>
 <Miad>2027-10-01</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -63888,7 +63888,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>130</Stock>
+<Stock>129</Stock>
 <Miad>2026-12-01</Miad>
 <Price>298.90</Price>
 <Price2>518.29</Price2>
@@ -64226,7 +64226,7 @@
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2026-10-01</Miad>
 <Price>694.90</Price>
 <Price2>1060.22</Price2>
@@ -64720,7 +64720,7 @@
 <Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad>2027-06-01</Miad>
 <Price>189.50</Price>
 <Price2>368.58</Price2>
@@ -65578,7 +65578,7 @@
 <Brand><![CDATA[Voonka]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad>2027-03-01</Miad>
 <Price>839.90</Price>
 <Price2>1258.65</Price2>
@@ -67330,7 +67330,7 @@
 <Brand><![CDATA[Incia]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2026-11-01</Miad>
 <Price>658.90</Price>
 <Price2>1010.95</Price2>
