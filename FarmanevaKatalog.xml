@@ -69151,6 +69151,9 @@
 <Barcode>762860391086</Barcode>
 <Name><![CDATA[Aero Chamber Plus Z Stat Turuncu 0-18 Ay]]></Name>
 <Brand><![CDATA[Aerochamber]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Solunum Destek Ürünleri]]></category>
+<subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -69176,6 +69179,9 @@
 <Barcode>762860013476-1</Barcode>
 <Name><![CDATA[Aerochamber Plus Flow - Vu Sarı 1-5 Yaş]]></Name>
 <Brand><![CDATA[Aerochamber]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Solunum Destek Ürünleri]]></category>
+<subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -69201,6 +69207,9 @@
 <Barcode>8699241775383</Barcode>
 <Name><![CDATA[Alvita Okyanus Suyu Burun Spreyi 100 ml]]></Name>
 <Brand><![CDATA[Alvita]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Burun Bakımı]]></category>
+<subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
 <Stock>36</Stock>
 <Miad>2029-01-01</Miad>
@@ -69226,6 +69235,9 @@
 <Barcode>8698619575341</Barcode>
 <Name><![CDATA[ALVITA SARGI BEZI 10 CM X 150 CM]]></Name>
 <Brand><![CDATA[Alvita]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Yara Bakımı]]></category>
+<subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
 <Stock>38</Stock>
 <Miad>2032-09-01</Miad>
@@ -69251,6 +69263,8 @@
 <Barcode>8690998216211</Barcode>
 <Name><![CDATA[Apitera Mur 7x7 gr]]></Name>
 <Brand><![CDATA[Balparmak]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
 <Stock>19</Stock>
 <Miad>2028-02-01</Miad>
@@ -69276,6 +69290,9 @@
 <Barcode>5900741964256</Barcode>
 <Name><![CDATA[Artelac Ultra 4S Göz Damlası 10 ml]]></Name>
 <Brand><![CDATA[Bausch Lomb]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Göz Bakımı]]></category>
+<subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
 <Stock>6</Stock>
 <Miad>2027-10-01</Miad>
@@ -69301,6 +69318,9 @@
 <Barcode>8710103781882</Barcode>
 <Name><![CDATA[Avent SCF796/01 Desenli Pipetli Bardak 200 ml - Erkek]]></Name>
 <Brand><![CDATA[Philips Avent]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Beslenme]]></category>
+<subCategory><![CDATA[Bebek Alıştırma Bardağı]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -69326,6 +69346,9 @@
 <Barcode>3282779003124</Barcode>
 <Name><![CDATA[Avène Eau Thermale Thermal Spring Water 150 ml]]></Name>
 <Brand><![CDATA[Avène]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
@@ -69351,6 +69374,9 @@
 <Barcode>3282770153200</Barcode>
 <Name><![CDATA[Avène Hyaluron Activ B3 Çok Yoğun Gece Kremi 40 ml]]></Name>
 <Brand><![CDATA[Avène]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad>2027-12-01</Miad>
@@ -69376,6 +69402,8 @@
 <Barcode>8697427708866</Barcode>
 <Name><![CDATA[Ayset Enjektör 50 cc 3 Parça Yeşil]]></Name>
 <Brand><![CDATA[Ayset]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
 <Stock>333</Stock>
 <Miad>2031-02-01</Miad>
@@ -69401,6 +69429,8 @@
 <Barcode>8690998214644</Barcode>
 <Name><![CDATA[Balparmak Apitera Gest Propolis Rezene Tıbbi Nane Kekik Kakule Zencefil 7 gr x 7 Saşe]]></Name>
 <Brand><![CDATA[Balparmak]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
 <Stock>21</Stock>
 <Miad>2027-12-01</Miad>
@@ -69426,6 +69456,9 @@
 <Barcode>8680512629191</Barcode>
 <Name><![CDATA[Bioxcin Siyah Sarımsak Şampuanı 300 ml - 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Dökülme Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad></Miad>
@@ -69451,6 +69484,8 @@
 <Barcode>8690742310929-EA</Barcode>
 <Name><![CDATA[Canped Mesane Pedi Kadın Medium 10'lu - Eski Ambalaj]]></Name>
 <Brand><![CDATA[Canped]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
@@ -69495,6 +69530,9 @@
 <Barcode>3337875952804</Barcode>
 <Name><![CDATA[CeraVe Brightening Vitamin C Cleanser 236 ml]]></Name>
 <Brand><![CDATA[Cerave]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
@@ -69520,6 +69558,9 @@
 <Barcode>8690605061173</Barcode>
 <Name><![CDATA[Dalin Bebek Şampuanı Pompalı 400 ml]]></Name>
 <Brand><![CDATA[Dalin]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Bebek Bakımı]]></category>
+<subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad></Miad>
@@ -69545,6 +69586,9 @@
 <Barcode>8690652089533</Barcode>
 <Name><![CDATA[Dalin Care Güneş Losyonu SPF50+ 150 ml]]></Name>
 <Brand><![CDATA[Dalin]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2028-04-01</Miad>
@@ -69570,6 +69614,8 @@
 <Barcode>8697595876145</Barcode>
 <Name><![CDATA[Day2Day The Collagen Beauty Plus Mango Aromalı 30 Tüp x 40 ml]]></Name>
 <Brand><![CDATA[Day2day]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
 <Stock>10</Stock>
 <Miad>2027-05-01</Miad>
@@ -69595,6 +69641,9 @@
 <Barcode>8697796000059-EA</Barcode>
 <Name><![CDATA[Dermoskin Acnegun Arındırıcı Mask 30 ml - Eski Ambalaj]]></Name>
 <Brand><![CDATA[Dermoskin]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad></Miad>
@@ -69639,6 +69688,9 @@
 <Barcode>8697796000912-EA</Barcode>
 <Name><![CDATA[Dermoskin Arbutin Kompleks Krem 33 ml - Eski Ambalaj]]></Name>
 <Brand><![CDATA[Dermoskin]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>18</Stock>
 <Miad></Miad>
@@ -69683,6 +69735,9 @@
 <Barcode>5011091102608</Barcode>
 <Name><![CDATA[Driclor Roll-On Deodorant 20 ml]]></Name>
 <Brand><![CDATA[Driclor]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
+<subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
 <Stock>56</Stock>
 <Miad>2026-11-01</Miad>
@@ -69708,6 +69763,8 @@
 <Barcode>8697595872277</Barcode>
 <Name><![CDATA[Efervit Defence 20 Efervesan Tablet]]></Name>
 <Brand><![CDATA[Efervit]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
 <Stock>1</Stock>
 <Miad>2027-03-01</Miad>
@@ -69731,6 +69788,9 @@
 <Barcode>3600524223328</Barcode>
 <Name><![CDATA[Elseve Color Vive Renk Koruyucu Bakım Şampuanı 300 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -69756,6 +69816,9 @@
 <Barcode>3600524237202</Barcode>
 <Name><![CDATA[Elseve Glycolic Gloss Parlaklık Veren Bakım Şampuanı 300 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -69781,6 +69844,9 @@
 <Barcode>3600524223182</Barcode>
 <Name><![CDATA[Elseve Hyaluron Şampuan 300 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -69806,6 +69872,9 @@
 <Barcode>3600524172275</Barcode>
 <Name><![CDATA[Elseve Hydra Hyaluronic Pure Salisilik Asit İçeren Yağlanma Karşıtı Arındırıcı Şampuan 300 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -69831,6 +69900,9 @@
 <Barcode>3600523763856</Barcode>
 <Name><![CDATA[Elseve Saç Maskesi Dream Long 300 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -69856,6 +69928,9 @@
 <Barcode>8681801001612</Barcode>
 <Name><![CDATA[Evolvia Nutripro Plus 3 Devam Sütü 800 gr]]></Name>
 <Brand><![CDATA[Evolvia]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Beslenme]]></category>
+<subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>31</Stock>
 <Miad>2027-01-01</Miad>
@@ -69881,6 +69956,9 @@
 <Barcode>8691685026830</Barcode>
 <Name><![CDATA[Eyüp Sabri Tuncer İngiliz Karbonatlı Diş Macunu 90 ml]]></Name>
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
 <Stock>39</Stock>
 <Miad>2027-07-01</Miad>
@@ -69906,6 +69984,9 @@
 <Barcode>8691685022290</Barcode>
 <Name><![CDATA[Eyüp Sabri Tuncer Kilit Kapaklı Japon Kiraz Çiçeği Kolonyası 1 lt]]></Name>
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
+<subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
 <Stock>28</Stock>
 <Miad></Miad>
@@ -69931,6 +70012,9 @@
 <Barcode>9555038904826</Barcode>
 <Name><![CDATA[Rocs Flipper Diş Fırçacı Saklama Kabı - Kum Saatli]]></Name>
 <Brand><![CDATA[Flipper]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -69956,6 +70040,9 @@
 <Barcode>3600540587206</Barcode>
 <Name><![CDATA[Garnier Ambre Solaire Bronzlaştırıcı Yağ 200 ml]]></Name>
 <Brand><![CDATA[Garnier]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Bronzlaştırıcılar]]></subCategory>
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
@@ -69981,6 +70068,9 @@
 <Barcode>3600542525619</Barcode>
 <Name><![CDATA[Garnier Ambre Solaire Invisible Süper UV Günlük Güneş Koruyucu Serum SPF50+ 30 ml]]></Name>
 <Brand><![CDATA[Garnier]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70006,6 +70096,9 @@
 <Barcode>3600542663069</Barcode>
 <Name><![CDATA[Garnier C Vitamini Fresh & Bright Aydınlatıcı Nemlendirici Sorbe Yüz Kremi 85 ml]]></Name>
 <Brand><![CDATA[Garnier]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -70031,6 +70124,8 @@
 <Barcode>8690595211459</Barcode>
 <Name><![CDATA[Garnier Pureactive Cilt Kusurlarına Karşı Band 22 Adet]]></Name>
 <Brand><![CDATA[Garnier]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Cilt & Yara Problem Ürünleri]]></category>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70056,6 +70151,9 @@
 <Barcode>3600542597814</Barcode>
 <Name><![CDATA[Garnier Saf ve Temiz Bha Niasinamid Günlük Güneş Koruyucu Fluid Yüz Kremi SPF50+ 40 ml]]></Name>
 <Brand><![CDATA[Garnier]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
@@ -70081,6 +70179,8 @@
 <Barcode>8680645530289</Barcode>
 <Name><![CDATA[Gynopol 20 Saşe]]></Name>
 <Brand><![CDATA[Nbt Life]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2027-02-01</Miad>
@@ -70106,6 +70206,9 @@
 <Barcode>4062300434042</Barcode>
 <Name><![CDATA[Hipp 1 Organik Combiotik Bebek Sütü 350 gr]]></Name>
 <Brand><![CDATA[Hipp]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Beslenme]]></category>
+<subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>85</Stock>
 <Miad>2026-10-01</Miad>
@@ -70131,6 +70234,9 @@
 <Barcode>8681511091194</Barcode>
 <Name><![CDATA[Incia Bebek Güneş Kremi Leke Karşıtı Mineral Filtreli Yüksek Koruma SPF50 UVA UVB 50 ml]]></Name>
 <Brand><![CDATA[Incia]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>38</Stock>
 <Miad>2026-11-01</Miad>
@@ -70156,6 +70262,9 @@
 <Barcode>8681511095000-2</Barcode>
 <Name><![CDATA[INCIA Bebek Bulaşık Sabunu Bitkisel Emzik Biberon Temizleyici Vegan 500 ml]]></Name>
 <Brand><![CDATA[Incia]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Organik & Doğal]]></category>
+<subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2029-01-01</Miad>
@@ -70181,6 +70290,9 @@
 <Barcode>8681511091279</Barcode>
 <Name><![CDATA[Incia ve Organik Tamanu Yağlı Güneş Losyonu Mineral Filtreli Tüm Aile İçin SPF50 100 ml]]></Name>
 <Brand><![CDATA[Incia]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>48</Stock>
 <Miad>2029-03-01</Miad>
@@ -70206,6 +70318,9 @@
 <Barcode>3664262001419</Barcode>
 <Name><![CDATA[Jowae Relaxing Moisturizing Shower Gel 200 ml]]></Name>
 <Brand><![CDATA[Jowae]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Duş & Banyo Ürünleri]]></category>
+<subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70231,6 +70346,9 @@
 <Barcode>3600523998869</Barcode>
 <Name><![CDATA[L'Oreal Excellence Nude Renkler Saç Boyası - 10U Nude Açık Sarı]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Saç Boyası]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -70256,6 +70374,9 @@
 <Barcode>3600524223229</Barcode>
 <Name><![CDATA[L'Oreal Paris Elseve 6 Mucizevi Yağ Saç Kremi 250 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70281,6 +70402,9 @@
 <Barcode>3600524144227</Barcode>
 <Name><![CDATA[L'Oreal Paris Elseve Glycolic Gloss Sülfatsız Şampuan 200 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70306,6 +70430,9 @@
 <Barcode>3600524242763</Barcode>
 <Name><![CDATA[L'oreal Paris Hyaluron Lip Tint Dudak Parlatıcı 601 Worth It]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70331,6 +70458,9 @@
 <Barcode>3600524048921</Barcode>
 <Name><![CDATA[L'Oreal Paris Infaillible 36H Grip Micro Fine Eyeliner - 03 Ancient Rose]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
+<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70356,6 +70486,9 @@
 <Barcode>3600524202385</Barcode>
 <Name><![CDATA[L'Oreal Paris Infaillible Faux Brow Ultra İnce Uçlu Kaş Kalemi Dark Brunette]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
+<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70381,6 +70514,9 @@
 <Barcode>30188624</Barcode>
 <Name><![CDATA[L'Oreal Paris Infaillible Matte Resistance Likit Mat Ruj - Summer Flying 625]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70406,6 +70542,9 @@
 <Barcode>3600524228132</Barcode>
 <Name><![CDATA[L'Oreal Paris Lumi Bronzlaştırıcı Stick - 110 Toasted Sunlight]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70431,6 +70570,9 @@
 <Barcode>3600523193349</Barcode>
 <Name><![CDATA[L'Oreal Paris Magic Retouch 2 Beyaz Kapatıcı Saç Spreyi - Koyu Kahverengi]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70456,6 +70598,9 @@
 <Barcode>30146921</Barcode>
 <Name><![CDATA[L'Oreal Paris Matte Resistance Liquid Lipstick 5 ml - Major Crush 120]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70481,6 +70626,9 @@
 <Barcode>3600524244422</Barcode>
 <Name><![CDATA[L'Oreal Paris Revitalift Filler Glassy Skin Cam Cilt Etkisi Anında Nemlendirme 50 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70506,6 +70654,9 @@
 <Barcode>3600524229092</Barcode>
 <Name><![CDATA[L'oreal Paris Telescopic Extensionist Maskara Siyah]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
+<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70531,6 +70682,9 @@
 <Barcode>3337875923613</Barcode>
 <Name><![CDATA[La Roche Posay C Vitamini İçerikli Işıltı Veren Yüz Temizleme Jeli 200 ml]]></Name>
 <Brand><![CDATA[La Roche Posay]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2028-09-01</Miad>
@@ -70556,6 +70710,9 @@
 <Barcode>3337875518598</Barcode>
 <Name><![CDATA[La Roche Posay Effaclar Duo + Cilt Bozukluğu ve Akne Lekelerine Karşı Düzeltici Bakım Teinte Medium 40 ml]]></Name>
 <Brand><![CDATA[La Roche Posay]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Renkli Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70581,6 +70738,9 @@
 <Barcode>3337872411083</Barcode>
 <Name><![CDATA[La Roche Posay Effaclar Jel 200 ml]]></Name>
 <Brand><![CDATA[La Roche Posay]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -70606,6 +70766,9 @@
 <Barcode>3337875876407</Barcode>
 <Name><![CDATA[La Roche Posay Effaclar Jeli 400 ml - Yağlı Cilt Temizleme - Refill]]></Name>
 <Brand><![CDATA[La Roche Posay]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2029-02-01</Miad>
@@ -70631,6 +70794,9 @@
 <Barcode>3337872413735</Barcode>
 <Name><![CDATA[La Roche Posay Pure Vitamin C Yeux 15 ml]]></Name>
 <Brand><![CDATA[La Roche Posay]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
+<subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2028-11-01</Miad>
@@ -70656,6 +70822,9 @@
 <Barcode>3337875545822</Barcode>
 <Name><![CDATA[La Roche Posay Toleriane Hassas Ciltler Dahil Tüm Ciltler İçin Temizleme Jeli 400 ml]]></Name>
 <Brand><![CDATA[La Roche Posay]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2028-07-01</Miad>
@@ -70681,6 +70850,9 @@
 <Barcode>5060062990492</Barcode>
 <Name><![CDATA[Lansinoh Natural Wave Biberon Emziği Orta Akışlı]]></Name>
 <Brand><![CDATA[Lansinoh]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Beslenme]]></category>
+<subCategory><![CDATA[Bebek Emzikleri]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70706,6 +70878,9 @@
 <Barcode>8680133001482</Barcode>
 <Name><![CDATA[Lectus Metilkobalamin B12 Dilaltı Sprey 20 ml]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
 <Stock>12</Stock>
 <Miad>2028-11-01</Miad>
@@ -70731,6 +70906,9 @@
 <Barcode>8680133001499</Barcode>
 <Name><![CDATA[Lectus Metilkobalamin Dilaltı Sprey 10 ml]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
 <Stock>15</Stock>
 <Miad>2028-10-01</Miad>
@@ -70756,6 +70934,8 @@
 <Barcode>8680133001659</Barcode>
 <Name><![CDATA[Lectus Metilkobalamin Kids B12 Dil Altı Sprey 5 ml]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
 <Stock>14</Stock>
 <Miad>2026-11-01</Miad>
@@ -70781,6 +70961,9 @@
 <Barcode>3508240005948</Barcode>
 <Name><![CDATA[Lierac Paris Body Hydra Micropeeling Scrub 200 ml]]></Name>
 <Brand><![CDATA[Lierac]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
@@ -70806,6 +70989,9 @@
 <Barcode>3600524150556</Barcode>
 <Name><![CDATA[L'Oreal Paris Glotion All-In-One Doğal Işıltı 901 - Fair Glow 40 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70831,6 +71017,9 @@
 <Barcode>3600524150563</Barcode>
 <Name><![CDATA[L'Oreal Paris Glotion All-In-One Doğal Işıltı 902 - Light Glow 40 ml]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70856,6 +71045,9 @@
 <Barcode>3600524192570</Barcode>
 <Name><![CDATA[L'Oreal Paris Lumi Le Glass Highlighter Stick Aydinlatici 620 Glassy Pink Ballet]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -70881,6 +71073,9 @@
 <Barcode>30188563</Barcode>
 <Name><![CDATA[L’Oréal Paris Likit Allık Lumi - Rouge Paris 260]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70906,6 +71101,9 @@
 <Barcode>8680133001000</Barcode>
 <Name><![CDATA[Magnimore B6 SM 30 Saşe]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
 <Stock>123</Stock>
 <Miad>2027-02-01</Miad>
@@ -70931,6 +71129,9 @@
 <Barcode>30161467</Barcode>
 <Name><![CDATA[Maybelline New York Falsies Surreal Maskara]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
+<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70956,6 +71157,9 @@
 <Barcode>3600531702243</Barcode>
 <Name><![CDATA[Maybelline Lifter Glaze Lipstick 007 Berry Haze]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -70981,6 +71185,9 @@
 <Barcode>30158719</Barcode>
 <Name><![CDATA[Maybelline New York Lifter Plump Dudak Parlatıcısı - Blush Blaze 001]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -71006,6 +71213,9 @@
 <Barcode>30166394</Barcode>
 <Name><![CDATA[Maybelline New York Lifter Plump Dudak Parlatıcısı - Red Flag 004]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -71031,6 +71241,9 @@
 <Barcode>3600531324483</Barcode>
 <Name><![CDATA[Maybelline Fondoten Fit Me Matte Poreless 105]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -71056,6 +71269,9 @@
 <Barcode>3600531669454</Barcode>
 <Name><![CDATA[Maybelline New York Tattoo Liner Ink Pen - Black]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
+<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -71081,6 +71297,9 @@
 <Barcode>3600531712587</Barcode>
 <Name><![CDATA[Maybellıne Concealer Lıfter 05]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -71106,6 +71325,8 @@
 <Barcode>8681873073432</Barcode>
 <Name><![CDATA[Mesilife Havalı Yatak Boru Tipi]]></Name>
 <Brand><![CDATA[Mesilife]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Havalı Yatak]]></category>
 <Tax>10</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -71131,6 +71352,8 @@
 <Barcode>6970691000471</Barcode>
 <Name><![CDATA[MesiLife Mc-20D Pediatrik Tansiyon Aleti Steteskoplu Çocuk + Bebek Manşonlu]]></Name>
 <Brand><![CDATA[Mesilife]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
 <Stock>48</Stock>
 <Miad></Miad>
@@ -71156,6 +71379,8 @@
 <Barcode>8685221550019</Barcode>
 <Name><![CDATA[Mirmed Dereceli İnsülin Taşıma Çantası - Mavi]]></Name>
 <Brand><![CDATA[Mirmed]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
 <Stock>10</Stock>
 <Miad></Miad>
@@ -71181,6 +71406,8 @@
 <Barcode>8685221550002</Barcode>
 <Name><![CDATA[Mirmed Dereceli İnsülin Taşıma Çantası - Siyah]]></Name>
 <Brand><![CDATA[Mirmed]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
 <Stock>10</Stock>
 <Miad></Miad>
@@ -71206,6 +71433,8 @@
 <Barcode>8680645530463</Barcode>
 <Name><![CDATA[NBT Life Lipozomal Kuersetin 30 Kapsül]]></Name>
 <Brand><![CDATA[Nbt Life]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
 <Stock>7</Stock>
 <Miad>2026-12-01</Miad>
@@ -71231,6 +71460,8 @@
 <Barcode>5021265248704</Barcode>
 <Name><![CDATA[Neurozan 30 Tablet]]></Name>
 <Brand><![CDATA[Vitabiotics]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
 <Stock>13</Stock>
 <Miad>2026-09-01</Miad>
@@ -71256,6 +71487,9 @@
 <Barcode>4005900156112</Barcode>
 <Name><![CDATA[Nive Sprey Deodorant Invisible for Black & White Pure 150 ml]]></Name>
 <Brand><![CDATA[Nivea]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
+<subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad></Miad>
@@ -71281,6 +71515,9 @@
 <Barcode>4005900308863</Barcode>
 <Name><![CDATA[Nivea Creme 75 ml]]></Name>
 <Brand><![CDATA[Nivea]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
+<subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>35</Stock>
 <Miad></Miad>
@@ -71306,6 +71543,9 @@
 <Barcode>3264680042201</Barcode>
 <Name><![CDATA[Nuxe Huile Prodigieuse Or Altın Parıltılı Çok Amaçlı Kuru Yağ Roll-On 60 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad></Miad>
@@ -71331,6 +71571,9 @@
 <Barcode>3264680024757</Barcode>
 <Name><![CDATA[Nuxe Merveillance Expert Soin Lift Contour Yeux 15 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
+<subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -71356,6 +71599,9 @@
 <Barcode>3264680046513</Barcode>
 <Name><![CDATA[Nuxe Merveillance Lift Exceptional Care Cream 75 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad></Miad>
@@ -71381,6 +71627,9 @@
 <Barcode>3264680043697</Barcode>
 <Name><![CDATA[Nuxe Reve De Miel Cica Yoğun Bakım El Kremi 50 ml İkincisi %50 İndirimli Set]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
+<subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
@@ -71406,6 +71655,9 @@
 <Barcode>3264680039676</Barcode>
 <Name><![CDATA[Nuxe Sun Güneş Koruyucu Yüz Kremi SPF50+ 30 ml + Yüz ve Vücut Sütü SPF50+ 50 ml + Güneş S. Bakım Kremi 50 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -71431,6 +71683,9 @@
 <Barcode>3264680046773</Barcode>
 <Name><![CDATA[Nuxe Golden Summer Routine Set - Sun Gold SPF30 150 ml + Glow Losyon SPF30 40 ml + Prodigieuse Or 50 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -71456,6 +71711,8 @@
 <Barcode>850081345091</Barcode>
 <Name><![CDATA[Ocean Daily One Energy 30+30 Tablet - 1 Alana 1 Hediye]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
 <Stock>73</Stock>
 <Miad>2029-01-01</Miad>
@@ -71481,6 +71738,9 @@
 <Barcode>8697595872703</Barcode>
 <Name><![CDATA[Ocean Ginkgo Biloba 30 Kapsül]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Bitkisel Ürünler]]></category>
+<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2028-09-01</Miad>
@@ -71506,6 +71766,9 @@
 <Barcode>8697595873809</Barcode>
 <Name><![CDATA[Ocean Gummies Multivitamin Adult 60 Çiğnenebilir Jel Form]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
 <Stock>20</Stock>
 <Miad>2027-07-01</Miad>
@@ -71531,6 +71794,8 @@
 <Barcode>850081345329</Barcode>
 <Name><![CDATA[Ocean L-Teanin 200 mg 30 Kapsül]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2027-01-01</Miad>
@@ -71556,6 +71821,9 @@
 <Barcode>8697595873786</Barcode>
 <Name><![CDATA[Ocean Microfer 60 Kapsül]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
 <Stock>4</Stock>
 <Miad>2029-02-01</Miad>
@@ -71581,6 +71849,8 @@
 <Barcode>8697595872031</Barcode>
 <Name><![CDATA[Ocean Milk Thistle 30 Tablet]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>11</Stock>
 <Miad>2029-06-01</Miad>
@@ -71606,6 +71876,9 @@
 <Barcode>8697595872666</Barcode>
 <Name><![CDATA[Ocean Çinko Bisglisinat Şurup Muz Aromalı 150 ml]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Çinko]]></subCategory>
 <Tax>1</Tax>
 <Stock>46</Stock>
 <Miad>2026-09-01</Miad>
@@ -71631,6 +71904,8 @@
 <Barcode>8680133000539</Barcode>
 <Name><![CDATA[Omepa VM 30 Yumuşak Kapsül]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>33</Stock>
 <Miad>2028-11-01</Miad>
@@ -71656,6 +71931,9 @@
 <Barcode>8684460100252</Barcode>
 <Name><![CDATA[Ophis Perine Temizleme Mendili 60'lı]]></Name>
 <Brand><![CDATA[Ophis]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
+<subCategory><![CDATA[Genital Bölge Temizliği]]></subCategory>
 <Tax>20</Tax>
 <Stock>500</Stock>
 <Miad></Miad>
@@ -71681,6 +71959,8 @@
 <Barcode>8682225516300</Barcode>
 <Name><![CDATA[Osteocare Likit 150 ml]]></Name>
 <Brand><![CDATA[Vitabiotics]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2028-06-01</Miad>
@@ -71706,6 +71986,9 @@
 <Barcode>8699512012254</Barcode>
 <Name><![CDATA[Otacı Doğal Defne Sabun 100 gr]]></Name>
 <Brand><![CDATA[Otacı]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Duş & Banyo Ürünleri]]></category>
+<subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>1</Tax>
 <Stock>22</Stock>
 <Miad>2030-12-01</Miad>
@@ -71731,6 +72014,9 @@
 <Barcode>8699512010229</Barcode>
 <Name><![CDATA[Otacı Naturway Sarımsaklı Şampuan 500 ml]]></Name>
 <Brand><![CDATA[Otacı]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>1</Tax>
 <Stock>22</Stock>
 <Miad>2030-05-01</Miad>
@@ -71756,6 +72042,8 @@
 <Barcode>8680133000102</Barcode>
 <Name><![CDATA[Pahsa 30 Tablet]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>52</Stock>
 <Miad>2028-05-01</Miad>
@@ -71781,6 +72069,9 @@
 <Barcode>8710103826293</Barcode>
 <Name><![CDATA[Philips Avent Yumuşak Uçlu Bardak Mor 9 Ay+ 300 ml]]></Name>
 <Brand><![CDATA[Philips Avent]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Beslenme]]></category>
+<subCategory><![CDATA[Bebek Alıştırma Bardağı]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -71806,6 +72097,9 @@
 <Barcode>4607034476670</Barcode>
 <Name><![CDATA[Rocs 3-7 Yaş Kids Diş Macunu 35 ml - Ahududu Smoothıe Tadında / Florürsüz]]></Name>
 <Brand><![CDATA[Rocs]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
 <Stock>32</Stock>
 <Miad>2028-02-01</Miad>
@@ -71831,6 +72125,9 @@
 <Barcode>4607152730753</Barcode>
 <Name><![CDATA[Rocs Junior 6-12 Yaş Soft Diş Fırçası]]></Name>
 <Brand><![CDATA[Rocs]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
 <Stock>15</Stock>
 <Miad></Miad>
@@ -71856,6 +72153,9 @@
 <Barcode>4607034470715</Barcode>
 <Name><![CDATA[Rocs Kids 3-7 Yaş Meyve Külahı Diş Macunu 35 ml]]></Name>
 <Brand><![CDATA[Rocs]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
 <Stock>19</Stock>
 <Miad>2026-10-01</Miad>
@@ -71881,6 +72181,9 @@
 <Barcode>4607152730524</Barcode>
 <Name><![CDATA[Rocs Pro 5940 Ultrasoft Diş Fırçası]]></Name>
 <Brand><![CDATA[Rocs]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad></Miad>
@@ -71906,6 +72209,9 @@
 <Barcode>4607034470494</Barcode>
 <Name><![CDATA[Rocs Teen Kola-Limon Tadında Diş Macunu 8-18 Yaş]]></Name>
 <Brand><![CDATA[Rocs]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
@@ -71931,6 +72237,9 @@
 <Barcode>850069595937</Barcode>
 <Name><![CDATA[Shiniq Ad Atopi Tırnak El Kremi 40 ml]]></Name>
 <Brand><![CDATA[Shiniq]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
+<subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad>2028-04-01</Miad>
@@ -71956,6 +72265,9 @@
 <Barcode>8681511099671</Barcode>
 <Name><![CDATA[Siveno %100 Doğal Diş Macunu Bebek ve Çocuk İçin Karışık Meyve Aromalı Florürsüz 50 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Ağız & Diş Bakımı]]></category>
+<subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
 <Stock>41</Stock>
 <Miad>2029-04-01</Miad>
@@ -71981,6 +72293,9 @@
 <Barcode>8681511096984</Barcode>
 <Name><![CDATA[Siveno %100 Doğal Nioli Toniği 150 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
+<subCategory><![CDATA[Genital Bölge Temizliği]]></subCategory>
 <Tax>20</Tax>
 <Stock>9</Stock>
 <Miad>2028-12-01</Miad>
@@ -72006,6 +72321,9 @@
 <Barcode>8681511096977</Barcode>
 <Name><![CDATA[Siveno %100 Doğal Papatya Toniği]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
 <Stock>23</Stock>
 <Miad>2027-10-01</Miad>
@@ -72031,6 +72349,9 @@
 <Barcode>8681511099343</Barcode>
 <Name><![CDATA[Siveno Doğal Roll-On Deodorant Ferahlatıcı Aloe Vera 50 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
+<subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -72056,6 +72377,9 @@
 <Barcode>8681511096922</Barcode>
 <Name><![CDATA[Siveno Doğal Yüz Güneş Koruyucu Stick Renkli Mineral Filtre 15 gr]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2028-11-01</Miad>
@@ -72081,6 +72405,9 @@
 <Barcode>8681511095932</Barcode>
 <Name><![CDATA[Siveno Sinek & Kene Kovucu Sprey Krem 50 ml - Eski Ambalaj]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Organik & Doğal]]></category>
+<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
 <Stock>500</Stock>
 <Miad>2026-12-01</Miad>
@@ -72106,6 +72433,9 @@
 <Barcode>8681511099596</Barcode>
 <Name><![CDATA[Siveno Sivrisinek ve Kene Kovucu Sprey Krem Bitkisel Tüm Vücut İçin Seyahat Tatil Boy 50 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Organik & Doğal]]></category>
+<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
 <Stock>12</Stock>
 <Miad>2028-04-01</Miad>
@@ -72143,6 +72473,9 @@
 <Barcode>7613036129084</Barcode>
 <Name><![CDATA[SMA Optipro Probiyotik 1 400 gr]]></Name>
 <Brand><![CDATA[Sma]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Beslenme]]></category>
+<subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2028-03-01</Miad>
@@ -72168,6 +72501,8 @@
 <Barcode>33984014176</Barcode>
 <Name><![CDATA[Solgar Hyaluronic Acid Collagen Complex 30 Tablet]]></Name>
 <Brand><![CDATA[Solgar]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
 <Stock>3</Stock>
 <Miad>2028-07-01</Miad>
@@ -72193,6 +72528,8 @@
 <Barcode>8680133003509</Barcode>
 <Name><![CDATA[Tab Vitamins Vitamin K2 60 Kapsül]]></Name>
 <Brand><![CDATA[Tabvitamins]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>10</Tax>
 <Stock>5</Stock>
 <Miad>2028-01-01</Miad>
@@ -72218,6 +72555,8 @@
 <Barcode>5021265249800</Barcode>
 <Name><![CDATA[Ultra Cranberry 30 Tablet]]></Name>
 <Brand><![CDATA[Vitabiotics]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2028-06-01</Miad>
@@ -72243,6 +72582,9 @@
 <Barcode>3337875902373</Barcode>
 <Name><![CDATA[Vichy Dercos 2 si 1 Arada Kepek Karşıtı & Nemlendirici Kepek Karşıtı Şampuan 390 ml]]></Name>
 <Brand><![CDATA[Vichy]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -72268,6 +72610,9 @@
 <Barcode>3337871323394</Barcode>
 <Name><![CDATA[Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml]]></Name>
 <Brand><![CDATA[Vichy]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -72293,6 +72638,9 @@
 <Barcode>3337871308612</Barcode>
 <Name><![CDATA[Vichy Eau Thermale Sprey Termal Su 150 gr]]></Name>
 <Brand><![CDATA[Vichy]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad>2026-11-01</Miad>
@@ -72318,6 +72666,9 @@
 <Barcode>8697791000009</Barcode>
 <Name><![CDATA[Vitasanol Multivitamin Multimineral Şurup 250 ml]]></Name>
 <Brand><![CDATA[Allergo]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
 <Stock>98</Stock>
 <Miad>2026-09-01</Miad>
@@ -72343,6 +72694,8 @@
 <Barcode>8680807008069</Barcode>
 <Name><![CDATA[Voonka Co-Q10 100 mg 30 Yumuşak Kapsül]]></Name>
 <Brand><![CDATA[Voonka]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Koenzim Q10]]></category>
 <Tax>10</Tax>
 <Stock>7</Stock>
 <Miad>2026-12-01</Miad>
@@ -72368,6 +72721,8 @@
 <Barcode>8680807008373-1</Barcode>
 <Name><![CDATA[Voonka Nigella Sativa Çörek Otu Yağı 60 Yumuşak Kapsül]]></Name>
 <Brand><![CDATA[Voonka]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
@@ -72469,6 +72824,8 @@
 <Barcode>8680697001089</Barcode>
 <Name><![CDATA[Mesilife Dt 05 Mekanik Baskül 15 cm Geniş Ekran]]></Name>
 <Brand><![CDATA[Mesilife]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Baskül]]></category>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
