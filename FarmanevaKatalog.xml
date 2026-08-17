@@ -10635,7 +10635,7 @@
 <Brand><![CDATA[Day2day]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-12-01</Miad>
 <Price>988.90</Price>
 <Price2>1462.56</Price2>
@@ -11610,7 +11610,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -11787,7 +11787,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>62</Stock>
+<Stock>61</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12234,7 +12234,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>212</Stock>
+<Stock>209</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12279,7 +12279,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>206</Stock>
+<Stock>191</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -12677,7 +12677,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>51</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -12989,7 +12989,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -13120,7 +13120,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>56</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -13916,7 +13916,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>189</Stock>
+<Stock>188</Stock>
 <Miad></Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -13962,7 +13962,7 @@
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>92</Stock>
+<Stock>90</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -15808,7 +15808,7 @@
 <Brand><![CDATA[Evolvia]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>44</Stock>
 <Miad>2027-03-01</Miad>
 <Price>925.00</Price>
 <Price2>1375.11</Price2>
@@ -16836,7 +16836,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -19418,7 +19418,7 @@
 <Brand><![CDATA[Golden Goat]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2028-09-01</Miad>
 <Price>674.90</Price>
 <Price2>1032.85</Price2>
@@ -19951,7 +19951,7 @@
 <Brand><![CDATA[Hyper Immun]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>48</Stock>
+<Stock>46</Stock>
 <Miad>2028-02-01</Miad>
 <Price>478.00</Price>
 <Price2>763.39</Price2>
@@ -20576,7 +20576,7 @@
 <Brand><![CDATA[İlhan Sarı]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>181</Stock>
+<Stock>175</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>166.59</Price2>
@@ -31754,7 +31754,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>64</Stock>
+<Stock>67</Stock>
 <Miad>2027-11-01</Miad>
 <Price>119.90</Price>
 <Price2>273.33</Price2>
@@ -32751,7 +32751,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>54</Stock>
 <Miad>2027-05-01</Miad>
 <Price>112.70</Price>
 <Price2>263.48</Price2>
@@ -38202,7 +38202,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>81</Stock>
+<Stock>80</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -38884,7 +38884,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>14</Stock>
 <Miad>2027-09-01</Miad>
 <Price>473.90</Price>
 <Price2>757.78</Price2>
@@ -39888,7 +39888,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>59</Stock>
+<Stock>57</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -40202,7 +40202,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>130</Stock>
+<Stock>129</Stock>
 <Miad>2028-02-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -42081,7 +42081,7 @@
 <Brand><![CDATA[Osende]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>53</Stock>
+<Stock>51</Stock>
 <Miad>2027-10-01</Miad>
 <Price>469.00</Price>
 <Price2>751.08</Price2>
@@ -42438,7 +42438,7 @@
 <Brand><![CDATA[Otacı]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>137</Stock>
+<Stock>135</Stock>
 <Miad>2027-03-01</Miad>
 <Price>164.90</Price>
 <Price2>334.92</Price2>
@@ -42484,7 +42484,7 @@
 <Brand><![CDATA[Otacı]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>35</Stock>
+<Stock>33</Stock>
 <Miad>2028-04-01</Miad>
 <Price>179.90</Price>
 <Price2>355.44</Price2>
@@ -53882,7 +53882,7 @@
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>18</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>926.11</Price2>
@@ -57761,7 +57761,7 @@
 <Brand><![CDATA[Alvita]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>117</Stock>
+<Stock>114</Stock>
 <Miad>2028-04-01</Miad>
 <Price>185.00</Price>
 <Price2>362.42</Price2>
@@ -59520,7 +59520,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>299.90</Price>
 <Price2>519.66</Price2>
@@ -60664,7 +60664,7 @@
 <Brand><![CDATA[Magnimore]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>32</Stock>
+<Stock>25</Stock>
 <Miad>2028-12-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -61158,7 +61158,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2027-12-01</Miad>
 <Price>663.90</Price>
 <Price2>1017.80</Price2>
@@ -61496,7 +61496,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>269</Stock>
+<Stock>268</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -61522,7 +61522,7 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>144</Stock>
+<Stock>139</Stock>
 <Miad>2028-09-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -62458,7 +62458,7 @@
 <Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2028-12-01</Miad>
 <Price>282.90</Price>
 <Price2>496.40</Price2>
@@ -63030,7 +63030,7 @@
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2028-05-01</Miad>
 <Price>949.90</Price>
 <Price2>1409.19</Price2>
@@ -63264,7 +63264,7 @@
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>19</Stock>
 <Miad>2028-08-01</Miad>
 <Price>624.70</Price>
 <Price2>964.15</Price2>
@@ -63602,7 +63602,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>11</Stock>
 <Miad>2029-03-01</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -63862,7 +63862,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>72</Stock>
+<Stock>71</Stock>
 <Miad>2029-02-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -66106,7 +66106,7 @@
 <Brand><![CDATA[Nutraxin]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-04-01</Miad>
 <Price>515.90</Price>
 <Price2>815.26</Price2>
@@ -69228,7 +69228,7 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Diğer]]></mainCategory>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>41</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
