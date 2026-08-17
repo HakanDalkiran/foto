@@ -12246,7 +12246,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>63</Stock>
+<Stock>62</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12760,7 +12760,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>199</Stock>
+<Stock>198</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -13502,7 +13502,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>419.90</Price>
 <Price2>683.88</Price2>
@@ -14469,7 +14469,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>189</Stock>
+<Stock>188</Stock>
 <Miad></Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -14517,7 +14517,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>92</Stock>
+<Stock>91</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -35476,7 +35476,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2029-03-01</Miad>
 <Price>273.90</Price>
 <Price2>484.08</Price2>
@@ -41456,7 +41456,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>53</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -64049,7 +64049,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>138</Stock>
+<Stock>137</Stock>
 <Miad>2028-09-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -65643,14 +65643,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>679.90</Price>
-<Price2>1039.69</Price2>
-<Price3>734.29</Price3>
-<Price4>761.49</Price4>
-<Price5>761.49</Price5>
-<Price6>761.49</Price6>
-<Price7>1039.69</Price7>
-<Price8>1039.69</Price8>
+<Price>728.80</Price>
+<Price2>1106.61</Price2>
+<Price3>787.10</Price3>
+<Price4>816.26</Price4>
+<Price5>816.26</Price5>
+<Price6>816.26</Price6>
+<Price7>1106.61</Price7>
+<Price8>1106.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -66537,7 +66537,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>87</Stock>
+<Stock>86</Stock>
 <Miad>2029-03-01</Miad>
 <Price>492.85</Price>
 <Price2>783.72</Price2>
