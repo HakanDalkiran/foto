@@ -3855,7 +3855,7 @@
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>17</Stock>
-<Miad>2027-07-01</Miad>
+<Miad>2029-02-01</Miad>
 <Price>884.89</Price>
 <Price2>1320.24</Price2>
 <Price3>955.69</Price3>
@@ -6983,7 +6983,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>353.90</Price>
 <Price2>593.56</Price2>
@@ -12246,7 +12246,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>63</Stock>
+<Stock>62</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12713,7 +12713,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>209</Stock>
+<Stock>208</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -21867,7 +21867,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2027-11-01</Miad>
 <Price>1038.90</Price>
 <Price2>1530.98</Price2>
@@ -52166,7 +52166,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2027-02-01</Miad>
 <Price>309.90</Price>
 <Price2>533.35</Price2>
@@ -56022,7 +56022,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>20</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>926.11</Price2>
@@ -63435,7 +63435,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2028-11-01</Miad>
 <Price>138.90</Price>
 <Price2>299.33</Price2>
@@ -64906,7 +64906,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2028-02-01</Miad>
 <Price>208.90</Price>
 <Price2>395.13</Price2>
@@ -66698,7 +66698,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>189</Stock>
+<Stock>190</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
