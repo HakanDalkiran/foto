@@ -3855,8 +3855,8 @@
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>17</Stock>
-<Miad>2029-02-01</Miad>
-<Price>884.90</Price>
+<Miad>2027-07-01</Miad>
+<Price>884.89</Price>
 <Price2>1320.24</Price2>
 <Price3>955.69</Price3>
 <Price4>991.09</Price4>
@@ -12201,7 +12201,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>55</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -12246,7 +12246,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>64</Stock>
+<Stock>63</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12713,7 +12713,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>210</Stock>
+<Stock>209</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12760,7 +12760,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>201</Stock>
+<Stock>200</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -19288,14 +19288,14 @@
 <Tax>1</Tax>
 <Stock>96</Stock>
 <Miad>2027-09-01</Miad>
-<Price>1039.90</Price>
-<Price2>1532.35</Price2>
-<Price3>1123.09</Price3>
-<Price4>1164.69</Price4>
-<Price5>1164.69</Price5>
-<Price6>1164.69</Price6>
-<Price7>1532.35</Price7>
-<Price8>1532.35</Price8>
+<Price>998.90</Price>
+<Price2>1476.24</Price2>
+<Price3>1078.81</Price3>
+<Price4>1118.77</Price4>
+<Price5>1118.77</Price5>
+<Price6>1118.77</Price6>
+<Price7>1476.24</Price7>
+<Price8>1476.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/folidays-90-kapsul-8783.jpg</Image1>
@@ -21867,7 +21867,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>2027-11-01</Miad>
 <Price>1038.90</Price>
 <Price2>1530.98</Price2>
@@ -31927,14 +31927,14 @@
 <Tax>1</Tax>
 <Stock>17</Stock>
 <Miad>2028-09-01</Miad>
-<Price>1016.90</Price>
-<Price2>1500.88</Price2>
-<Price3>1098.25</Price3>
-<Price4>1138.93</Price4>
-<Price5>1138.93</Price5>
-<Price6>1138.93</Price6>
-<Price7>1500.88</Price7>
-<Price8>1500.88</Price8>
+<Price>898.90</Price>
+<Price2>1339.39</Price2>
+<Price3>970.81</Price3>
+<Price4>1006.77</Price4>
+<Price5>1006.77</Price5>
+<Price6>1006.77</Price6>
+<Price7>1339.39</Price7>
+<Price8>1339.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-oculife-60-kapsul-9381.jpg</Image1>
@@ -52166,7 +52166,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>0</Stock>
 <Miad>2027-02-01</Miad>
 <Price>309.90</Price>
 <Price2>533.35</Price2>
@@ -54824,7 +54824,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>410</Stock>
+<Stock>409</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -56022,7 +56022,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>19</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>926.11</Price2>
@@ -66306,7 +66306,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Vücut İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>0</Stock>
 <Miad>2029-03-01</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -66698,7 +66698,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>191</Stock>
+<Stock>189</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
