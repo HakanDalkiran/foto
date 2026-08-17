@@ -4416,7 +4416,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>28</Stock>
+<Stock>20</Stock>
 <Miad>2026-09-01</Miad>
 <Price>588.90</Price>
 <Price2>915.16</Price2>
@@ -13291,7 +13291,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>32</Stock>
+<Stock>31</Stock>
 <Miad>2026-12-01</Miad>
 <Price>392.00</Price>
 <Price2>645.70</Price2>
@@ -13525,7 +13525,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>117</Stock>
+<Stock>116</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -30438,27 +30438,6 @@
 <Price7>381.73</Price7>
 <Price8>381.73</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-9340.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-13616.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-16762.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-19703.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Natuwell Omega VM 30 Tablet</strong>, omega-3'&#252; kapsaml&#305; bir multivitamin ve mineral kompleksiyle bir araya getiren, yumu&#351;ak kaps&#252;l formunda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k omega-3 ve vitamin deste&#287;ini tek &#252;r&#252;nde almak isteyen yeti&#351;kinler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>Natuwell Omega VM &#214;zellikleri</h2>
-<ul>
-<li>Her kaps&#252;lde bal&#305;k ya&#287;&#305;, DHA ve EPA i&#231;eren omega-3 sunar.</li>
-<li>C, B grubu ve D3 vitaminleri ile demir, &#231;inko, selenyum i&#231;erir.</li>
-<li>DHA normal beyin fonksiyonunun korunmas&#305;na katk&#305;da bulunur.</li>
-<li>EPA ve DHA kalbin normal fonksiyonuna katk&#305; sa&#287;lar.</li>
-<li>Kapsaml&#305; i&#231;eri&#287;iyle g&#252;nl&#252;k deste&#287;i tek &#252;r&#252;nde toplar.</li>
-<li>30 yumu&#351;ak kaps&#252;ll&#252;k ambalajda sunulur.</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>11 ya&#351; ve &#252;zeri i&#231;in g&#252;nde 1 kaps&#252;l, tok karn&#305;na bir bardak su ile al&#305;nmas&#305; tavsiye edilir. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Omega-3 ve vitamin deste&#287;ini tek &#252;r&#252;nde arayanlar Natuwell Omega VM'i Farmaneva g&#252;vencesiyle edinebilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00667]]></Product_code>
