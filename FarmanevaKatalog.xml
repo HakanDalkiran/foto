@@ -12178,7 +12178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -12223,7 +12223,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>55</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12690,7 +12690,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>206</Stock>
+<Stock>204</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12737,7 +12737,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>195</Stock>
+<Stock>191</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -14446,7 +14446,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>188</Stock>
+<Stock>187</Stock>
 <Miad></Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -26601,10 +26601,16 @@
 <Price3>736.37</Price3>
 <Price4>699.00</Price4>
 <Price5>864.00</Price5>
-<Price6>650.00</Price6>
+<Price6>590.00</Price6>
 <Price7>1042.32</Price7>
 <Price8>1042.32</Price8>
 <CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-9157.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-9158.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-13433.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-13434.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-16651.jpg</Image5>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00583]]></Product_code>
@@ -30438,12 +30444,6 @@
 <Price7>381.73</Price7>
 <Price8>987.00</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-9340.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-13616.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-16762.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-19703.jpg</Image5>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00667]]></Product_code>
@@ -31237,7 +31237,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>157</Stock>
+<Stock>151</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -35529,14 +35529,14 @@
 <Tax>1</Tax>
 <Stock>22</Stock>
 <Miad>2027-10-01</Miad>
-<Price>739.90</Price>
-<Price2>1121.80</Price2>
-<Price3>799.09</Price3>
-<Price4>828.69</Price4>
-<Price5>828.69</Price5>
-<Price6>828.69</Price6>
-<Price7>1121.80</Price7>
-<Price8>1121.80</Price8>
+<Price>763.90</Price>
+<Price2>1154.65</Price2>
+<Price3>825.01</Price3>
+<Price4>855.57</Price4>
+<Price5>855.57</Price5>
+<Price6>855.57</Price6>
+<Price7>1154.65</Price7>
+<Price8>1154.65</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutrof-total-30-kapsul-9514.jpg</Image1>
@@ -39631,7 +39631,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>81</Stock>
+<Stock>73</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -55887,7 +55887,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>926.11</Price2>
@@ -63023,7 +63023,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>29</Stock>
+<Stock>28</Stock>
 <Miad>2028-12-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -64771,7 +64771,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2028-02-01</Miad>
 <Price>208.90</Price>
 <Price2>395.13</Price2>
@@ -65165,14 +65165,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2029-02-01</Miad>
-<Price>729.90</Price>
-<Price2>1108.12</Price2>
-<Price3>788.29</Price3>
-<Price4>817.49</Price4>
-<Price5>817.49</Price5>
-<Price6>817.49</Price6>
-<Price7>1108.12</Price7>
-<Price8>1108.12</Price8>
+<Price>679.90</Price>
+<Price2>1039.69</Price2>
+<Price3>734.29</Price3>
+<Price4>761.49</Price4>
+<Price5>761.49</Price5>
+<Price6>761.49</Price6>
+<Price7>1039.69</Price7>
+<Price8>1039.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -65389,14 +65389,14 @@
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad>2029-01-01</Miad>
-<Price>998.90</Price>
-<Price2>1476.24</Price2>
-<Price3>1078.81</Price3>
-<Price4>1118.77</Price4>
-<Price5>1118.77</Price5>
-<Price6>1118.77</Price6>
-<Price7>1476.24</Price7>
-<Price8>1476.24</Price8>
+<Price>900.00</Price>
+<Price2>1340.90</Price2>
+<Price3>972.00</Price3>
+<Price4>1008.00</Price4>
+<Price5>1008.00</Price5>
+<Price6>1008.00</Price6>
+<Price7>1340.90</Price7>
+<Price8>1340.90</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -65529,14 +65529,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>728.80</Price>
-<Price2>1106.61</Price2>
-<Price3>787.10</Price3>
-<Price4>816.26</Price4>
-<Price5>816.26</Price5>
-<Price6>816.26</Price6>
-<Price7>1106.61</Price7>
-<Price8>1106.61</Price8>
+<Price>679.90</Price>
+<Price2>1039.69</Price2>
+<Price3>734.29</Price3>
+<Price4>761.49</Price4>
+<Price5>761.49</Price5>
+<Price6>761.49</Price6>
+<Price7>1039.69</Price7>
+<Price8>1039.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -68840,7 +68840,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-04-01</Miad>
 <Price>515.90</Price>
 <Price2>815.26</Price2>
