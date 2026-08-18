@@ -367,7 +367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>107</Stock>
+<Stock>105</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -4416,7 +4416,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>15</Stock>
+<Stock>0</Stock>
 <Miad>2026-09-01</Miad>
 <Price>588.90</Price>
 <Price2>915.16</Price2>
@@ -14683,7 +14683,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>66</Stock>
+<Stock>65</Stock>
 <Miad>2026-11-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -17602,7 +17602,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>84.90</Price>
 <Price2>225.44</Price2>
@@ -20987,7 +20987,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2026-11-01</Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -21956,7 +21956,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>259</Stock>
+<Stock>258</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -26605,12 +26605,6 @@
 <Price7>1042.32</Price7>
 <Price8>1042.32</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-9157.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-9158.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-13433.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-13434.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-16651.jpg</Image5>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00583]]></Product_code>
@@ -35203,7 +35197,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>135</Stock>
+<Stock>134</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -42016,7 +42010,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad>2026-10-01</Miad>
 <Price>739.90</Price>
 <Price2>1121.80</Price2>
@@ -49349,7 +49343,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>141</Stock>
+<Stock>121</Stock>
 <Miad>2026-10-01</Miad>
 <Price>52.90</Price>
 <Price2>181.64</Price2>
@@ -53204,7 +53198,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>88</Stock>
+<Stock>87</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1168.90</Price>
 <Price2>1708.89</Price2>
@@ -54080,7 +54074,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2027-01-01</Miad>
 <Price>1089.90</Price>
 <Price2>1600.78</Price2>
@@ -55173,7 +55167,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>478</Stock>
+<Stock>476</Stock>
 <Miad>2026-10-01</Miad>
 <Price>566.90</Price>
 <Price2>885.05</Price2>
@@ -56544,7 +56538,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>354</Stock>
+<Stock>353</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -57926,7 +57920,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>103</Stock>
+<Stock>102</Stock>
 <Miad>2026-10-01</Miad>
 <Price>642.90</Price>
 <Price2>989.06</Price2>
@@ -58887,7 +58881,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>132</Stock>
+<Stock>122</Stock>
 <Miad>2027-07-01</Miad>
 <Price>343.80</Price>
 <Price2>579.74</Price2>
@@ -59496,7 +59490,7 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Çocuk Omega 3 / Balık Yağı]]></subCategory>
 <Tax>10</Tax>
-<Stock>185</Stock>
+<Stock>183</Stock>
 <Miad>2026-09-01</Miad>
 <Price>538.80</Price>
 <Price2>846.60</Price2>
@@ -62354,7 +62348,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>14</Stock>
 <Miad>2027-10-01</Miad>
 <Price>613.90</Price>
 <Price2>949.37</Price2>
@@ -63328,7 +63322,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>17</Stock>
+<Stock>12</Stock>
 <Miad>2027-10-01</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
@@ -66479,7 +66473,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>128</Stock>
+<Stock>127</Stock>
 <Miad>2026-12-01</Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
