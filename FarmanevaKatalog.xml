@@ -56637,14 +56637,14 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad>2028-03-01</Miad>
 <Price>524.90</Price>
 <Price2>827.58</Price2>
 <Price3>566.89</Price3>
-<Price4>587.89</Price4>
-<Price5>587.89</Price5>
-<Price6>587.89</Price6>
+<Price4>508.00</Price4>
+<Price5>508.00</Price5>
+<Price6>508.00</Price6>
 <Price7>827.58</Price7>
 <Price8>827.58</Price8>
 <CurrencyType>TRL</CurrencyType>
