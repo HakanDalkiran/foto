@@ -4416,16 +4416,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2026-09-01</Miad>
-<Price>588.90</Price>
-<Price2>915.16</Price2>
-<Price3>636.01</Price3>
-<Price4>659.57</Price4>
-<Price5>659.57</Price5>
-<Price6>659.57</Price6>
-<Price7>915.16</Price7>
-<Price8>915.16</Price8>
+<Stock>4</Stock>
+<Miad>2027-06-01</Miad>
+<Price>587.90</Price>
+<Price2>913.79</Price2>
+<Price3>634.93</Price3>
+<Price4>658.45</Price4>
+<Price5>658.45</Price5>
+<Price6>658.45</Price6>
+<Price7>913.79</Price7>
+<Price8>913.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bausch-lomb-renu-multiplus-lens-solusyonu-360-ml-ikili-kofre-7960.jpg</Image1>
@@ -12039,7 +12039,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -12178,7 +12178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>32</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -12690,7 +12690,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>204</Stock>
+<Stock>205</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12737,7 +12737,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>191</Stock>
+<Stock>196</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -14446,7 +14446,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>187</Stock>
+<Stock>186</Stock>
 <Miad></Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -31231,7 +31231,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>151</Stock>
+<Stock>152</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -39625,7 +39625,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>73</Stock>
+<Stock>77</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -47237,7 +47237,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>114.90</Price>
 <Price2>266.49</Price2>
@@ -53028,30 +53028,6 @@
 <Price7>730.41</Price7>
 <Price8>9000.00</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-10394.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-14647.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-17385.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-20029.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Sma Optipro 3 Devam S&#252;t&#252; 400 gr</strong>, 1-3 ya&#351; aras&#305; &#231;ocuklar&#305;n &#231;e&#351;itlenen beslenmesindeki s&#305;v&#305; al&#305;m&#305;n&#305; desteklemek i&#231;in haz&#305;rlanm&#305;&#351;, Nestl&#233;'nin OPTIPRO protein teknolojisini temel alan toz devam s&#252;t&#252;d&#252;r. K&#252;&#231;&#252;k &#231;ocuklar&#305;n g&#252;nl&#252;k s&#252;t t&#252;ketimine dengeli bir katk&#305; sa&#287;lamak &#252;zere tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>1-3 ya&#351; d&#246;nemine uygun b&#252;y&#252;me s&#252;t&#252; form&#252;l&#252;</li>
-<li>OPTIPRO protein teknolojisiyle dengeli protein i&#231;eri&#287;i</li>
-<li>Bifidobacterium lactis probiyotik i&#231;eri&#287;i</li>
-<li>D, B2, B12, C, E ve K vitamini kayna&#287;&#305;</li>
-<li>Biotin i&#231;eri&#287;iyle &#231;e&#351;itlenen beslenmeye destek</li>
-<li>De&#287;erli mineraller i&#231;eren besleyici bile&#351;im</li>
-<li>Biberonla verilebilir ya da &#305;l&#305;k yemeklere kar&#305;&#351;t&#305;r&#305;labilir</li>
-<li>Suda kolayca &#231;&#246;z&#252;nen pratik toz form</li>
-<li>G&#252;nl&#252;k kullan&#305;ma uygun 400 graml&#305;k ambalaj</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle 1 ya&#351;&#305;ndan itibaren g&#252;nde 2-3 fincan/biberon olarak &#246;nerilir; dilerseniz &#305;l&#305;t&#305;lm&#305;&#351; yemeklere de kar&#305;&#351;t&#305;rabilirsiniz. Kesin haz&#305;rlama oran&#305; ve g&#252;nl&#252;k miktar i&#231;in ambalaj &#252;zerindeki talimat&#305; izleyin. A&#231;&#305;lan kutuyu &#246;nerilen s&#252;re i&#231;inde t&#252;ketin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Anne s&#252;t&#252; bebekler i&#231;in en iyi besindir. Bu &#252;r&#252;n dengeli ve &#231;e&#351;itli bir beslenmenin yerini tutmaz; &#231;ocu&#287;unuzun beslenmesiyle ilgili sorularda sa&#287;l&#305;k &#231;al&#305;&#351;an&#305;na dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;nle &#231;ocu&#287;unuzun s&#252;t rutinini destekleyebilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01161]]></Product_code>
