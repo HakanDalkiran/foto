@@ -30428,7 +30428,7 @@
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>4</Stock>
-<Miad>2026-01-01</Miad>
+<Miad>2026-11-01</Miad>
 <Price>199.11</Price>
 <Price2>381.73</Price2>
 <Price3>215.04</Price3>
@@ -30436,8 +30436,14 @@
 <Price5>223.00</Price5>
 <Price6>223.00</Price6>
 <Price7>381.73</Price7>
-<Price8>381.73</Price8>
+<Price8>987.00</Price8>
 <CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-9340.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-13616.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-16762.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-19703.jpg</Image5>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00667]]></Product_code>
