@@ -4422,7 +4422,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2026-09-01</Miad>
 <Price>588.90</Price>
 <Price2>915.16</Price2>
@@ -13531,7 +13531,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>115</Stock>
+<Stock>114</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -66626,7 +66626,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>40</Stock>
+<Stock>39</Stock>
 <Miad>2027-10-01</Miad>
 <Price>1176.90</Price>
 <Price2>1719.84</Price2>
