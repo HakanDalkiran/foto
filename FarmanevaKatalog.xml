@@ -367,7 +367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>102</Stock>
+<Stock>106</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -808,7 +808,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>134</Stock>
+<Stock>133</Stock>
 <Miad>2026-09-01</Miad>
 <Price>234.90</Price>
 <Price2>430.71</Price2>
@@ -2544,7 +2544,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>222</Stock>
+<Stock>224</Stock>
 <Miad>2026-09-01</Miad>
 <Price>156.90</Price>
 <Price2>323.97</Price2>
@@ -4416,16 +4416,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
-<Miad>2027-06-01</Miad>
-<Price>587.90</Price>
-<Price2>913.79</Price2>
-<Price3>634.93</Price3>
-<Price4>658.45</Price4>
-<Price5>658.45</Price5>
-<Price6>658.45</Price6>
-<Price7>913.79</Price7>
-<Price8>913.79</Price8>
+<Stock>13</Stock>
+<Miad>2026-09-01</Miad>
+<Price>588.90</Price>
+<Price2>915.16</Price2>
+<Price3>636.01</Price3>
+<Price4>659.57</Price4>
+<Price5>659.57</Price5>
+<Price6>659.57</Price6>
+<Price7>915.16</Price7>
+<Price8>915.16</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bausch-lomb-renu-multiplus-lens-solusyonu-360-ml-ikili-kofre-7960.jpg</Image1>
@@ -7980,7 +7980,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>108</Stock>
+<Stock>110</Stock>
 <Miad>2026-12-01</Miad>
 <Price>894.90</Price>
 <Price2>1333.92</Price2>
@@ -13525,7 +13525,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>115</Stock>
+<Stock>116</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -14683,7 +14683,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>66</Stock>
 <Miad>2026-11-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -16259,29 +16259,6 @@
 <Price7>998.64</Price7>
 <Price8>998.64</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-20-flakon-8691.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-20-flakon-8692.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-20-flakon-8693.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-20-flakon-8694.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-20-flakon-12983.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Enterogermina Kids 5 ml 20 Flakon</strong>, 2-10 ya&#351; aras&#305; &#231;ocuklar i&#231;in her flakonda 2 milyar Bacillus clausii i&#231;eren, s&#305;v&#305; formda bir probiyotik takviyesidir. Sindirim dengesini ve ba&#287;&#305;rsak floran&#305; desteklemek isteyen ebeveynler i&#231;in 20 flakonluk pratik ambalajda sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Her flakonda 2 milyar Bacillus clausii probiyoti&#287;i i&#231;erir.</li>
-<li>&#199;ocuklar&#305;n ba&#287;&#305;rsak floras&#305;n&#305; desteklemeye y&#246;neliktir.</li>
-<li>Mide asidinden etkilenmeden ba&#287;&#305;rsa&#287;a ula&#351;acak yap&#305;dad&#305;r.</li>
-<li>Antibiyotik kullan&#305;m&#305; sonras&#305; destek i&#231;in tercih edilebilir.</li>
-<li>&#304;&#231;ilmeye haz&#305;r, pratik tek kullan&#305;ml&#305;k flakonlardad&#305;r.</li>
-<li>Tatland&#305;r&#305;c&#305;, laktoz ve koruyucu i&#231;ermez.</li>
-<li>&#199;ocuklar&#305;n kolayca t&#252;ketebilece&#287;i s&#305;v&#305; formdad&#305;r.</li>
-<li>20 flakonluk ambalajda sunulur.</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;nde &#246;nerilen 1 flakon, do&#287;rudan ya da bir miktar i&#231;ece&#287;e eklenerek t&#252;ketilebilir. Kullan&#305;m s&#305;kl&#305;&#287;&#305; i&#231;in &#252;r&#252;n ambalaj&#305;ndaki talimat&#305; ve gerekti&#287;inde hekim &#246;nerisini izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir sa&#287;l&#305;k sorununuz varsa veya ila&#231; kullan&#305;yorsan&#305;z hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>&#199;ocu&#287;unun sindirimini desteklemek isteyen ebeveynler Enterogermina Kids'i Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00358]]></Product_code>
@@ -35197,7 +35174,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>132</Stock>
+<Stock>135</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -54050,8 +54027,8 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
-<Miad>2029-10-01</Miad>
+<Stock>11</Stock>
+<Miad>2027-01-01</Miad>
 <Price>1089.90</Price>
 <Price2>1600.78</Price2>
 <Price3>1177.09</Price3>
@@ -54596,7 +54573,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>78</Stock>
+<Stock>80</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -56514,7 +56491,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>354</Stock>
+<Stock>353</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
