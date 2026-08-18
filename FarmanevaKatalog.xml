@@ -408,7 +408,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>268</Stock>
+<Stock>265</Stock>
 <Miad>2026-11-01</Miad>
 <Price>619.90</Price>
 <Price2>957.58</Price2>
@@ -21933,7 +21933,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>258</Stock>
+<Stock>257</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -31717,7 +31717,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad>2026-09-01</Miad>
 <Price>907.90</Price>
 <Price2>1351.71</Price2>
@@ -38174,16 +38174,16 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Bronzlaştırıcılar]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
-<Price>1851.50</Price>
-<Price2>2643.03</Price2>
-<Price3>1999.62</Price3>
-<Price4>2073.68</Price4>
-<Price5>2073.68</Price5>
-<Price6>2073.68</Price6>
-<Price7>2643.03</Price7>
-<Price8>2643.03</Price8>
+<Price>1104.70</Price>
+<Price2>1621.03</Price2>
+<Price3>1193.08</Price3>
+<Price4>1237.26</Price4>
+<Price5>1237.26</Price5>
+<Price6>1237.26</Price6>
+<Price7>1621.03</Price7>
+<Price8>1621.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-sun-altin-isiltili-bronzlastirici-gunes-koruyucu-yag-spf50-150-ml-9693.jpg</Image1>
@@ -38748,16 +38748,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
-<Price>3538.90</Price>
-<Price2>4952.23</Price2>
-<Price3>3822.01</Price3>
-<Price4>3963.57</Price4>
-<Price5>3963.57</Price5>
-<Price6>3963.57</Price6>
-<Price7>4952.23</Price7>
-<Price8>4952.23</Price8>
+<Price>3323.90</Price>
+<Price2>4658.01</Price2>
+<Price3>3589.81</Price3>
+<Price4>3722.77</Price4>
+<Price5>3722.77</Price5>
+<Price6>3722.77</Price6>
+<Price7>4658.01</Price7>
+<Price8>4658.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-super-serum-set-super-serum-30-ml-super-serum-15-ml-masaj-aleti-9734.jpg</Image1>
@@ -50172,7 +50172,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2026-09-01</Miad>
 <Price>199.90</Price>
 <Price2>382.81</Price2>
@@ -53151,7 +53151,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>88</Stock>
+<Stock>84</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1168.90</Price>
 <Price2>1708.89</Price2>
@@ -53245,7 +53245,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>82</Stock>
+<Stock>77</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1196.80</Price>
 <Price2>1747.07</Price2>
@@ -53289,8 +53289,8 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>10</Tax>
-<Stock>108</Stock>
-<Miad></Miad>
+<Stock>104</Stock>
+<Miad>2026-09-01</Miad>
 <Price>1196.50</Price>
 <Price2>1746.66</Price2>
 <Price3>1292.22</Price3>
@@ -54121,8 +54121,8 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>11</Stock>
-<Miad>2027-10-01</Miad>
+<Stock>4</Stock>
+<Miad>2029-09-01</Miad>
 <Price>362.90</Price>
 <Price2>605.88</Price2>
 <Price3>391.93</Price3>
@@ -56491,7 +56491,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>353</Stock>
+<Stock>349</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -59578,7 +59578,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad>2026-10-01</Miad>
 <Price>494.80</Price>
 <Price2>786.38</Price2>
@@ -66566,8 +66566,8 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
-<Miad>2031-03-01</Miad>
+<Stock>38</Stock>
+<Miad>2027-10-01</Miad>
 <Price>1176.90</Price>
 <Price2>1719.84</Price2>
 <Price3>1271.05</Price3>
@@ -70930,7 +70930,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>123</Stock>
+<Stock>119</Stock>
 <Miad>2027-02-01</Miad>
 <Price>532.90</Price>
 <Price2>838.52</Price2>
@@ -71539,7 +71539,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>74</Stock>
+<Stock>70</Stock>
 <Miad>2029-01-01</Miad>
 <Price>461.00</Price>
 <Price2>740.13</Price2>
