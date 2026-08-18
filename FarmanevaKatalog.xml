@@ -3170,7 +3170,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>53</Stock>
+<Stock>58</Stock>
 <Miad>2027-08-01</Miad>
 <Price>569.90</Price>
 <Price2>889.16</Price2>
@@ -13531,7 +13531,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>116</Stock>
+<Stock>115</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -19878,7 +19878,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>179</Stock>
+<Stock>184</Stock>
 <Miad>2026-10-01</Miad>
 <Price>594.90</Price>
 <Price2>923.37</Price2>
@@ -36979,16 +36979,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
-<Price>1597.90</Price>
-<Price2>2295.98</Price2>
-<Price3>1725.73</Price3>
-<Price4>1789.65</Price4>
-<Price5>1789.65</Price5>
-<Price6>1789.65</Price6>
-<Price7>2295.98</Price7>
-<Price8>2295.98</Price8>
+<Price>1650.90</Price>
+<Price2>2368.51</Price2>
+<Price3>1782.97</Price3>
+<Price4>1849.01</Price4>
+<Price5>1849.01</Price5>
+<Price6>1849.01</Price6>
+<Price7>2368.51</Price7>
+<Price8>2368.51</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-merveillance-lift-50-ml-9591.jpg</Image1>
@@ -38831,7 +38831,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El & Ayak Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>299.00</Price>
 <Price2>518.43</Price2>
@@ -41375,7 +41375,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>53</Stock>
+<Stock>52</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -49368,7 +49368,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>111</Stock>
+<Stock>116</Stock>
 <Miad>2026-10-01</Miad>
 <Price>52.90</Price>
 <Price2>181.64</Price2>
@@ -52217,8 +52217,8 @@
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>500</Stock>
-<Miad>2026-12-01</Miad>
-<Price>584.90</Price>
+<Miad>2026-09-01</Miad>
+<Price>584.89</Price>
 <Price2>909.69</Price2>
 <Price3>631.69</Price3>
 <Price4>655.09</Price4>
@@ -58894,7 +58894,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>127</Stock>
+<Stock>126</Stock>
 <Miad>2027-07-01</Miad>
 <Price>343.80</Price>
 <Price2>579.74</Price2>
@@ -63225,7 +63225,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1035.00</Price>
 <Price2>1525.65</Price2>
@@ -64890,7 +64890,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>29</Stock>
+<Stock>28</Stock>
 <Miad>2027-01-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -66234,7 +66234,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>167</Stock>
+<Stock>164</Stock>
 <Miad>2026-12-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -66846,7 +66846,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2026-10-01</Miad>
 <Price>694.90</Price>
 <Price2>1060.22</Price2>
@@ -68847,7 +68847,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2029-03-01</Miad>
 <Price>515.90</Price>
 <Price2>815.26</Price2>
@@ -71599,7 +71599,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>72</Stock>
+<Stock>69</Stock>
 <Miad>2029-01-01</Miad>
 <Price>461.00</Price>
 <Price2>740.13</Price2>
