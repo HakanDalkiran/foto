@@ -325,7 +325,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>224</Stock>
+<Stock>221</Stock>
 <Miad>2027-01-01</Miad>
 <Price>509.90</Price>
 <Price2>807.05</Price2>
@@ -20853,7 +20853,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>32</Stock>
 <Miad>2026-09-01</Miad>
 <Price>259.90</Price>
 <Price2>464.92</Price2>
@@ -35324,7 +35324,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>125</Stock>
+<Stock>124</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -37803,16 +37803,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
-<Price>1985.90</Price>
-<Price2>2826.95</Price2>
-<Price3>2144.77</Price3>
-<Price4>2224.21</Price4>
-<Price5>2224.21</Price5>
-<Price6>2224.21</Price6>
-<Price7>2826.95</Price7>
-<Price8>2826.95</Price8>
+<Price>2769.90</Price>
+<Price2>3899.86</Price2>
+<Price3>2991.49</Price3>
+<Price4>3102.29</Price4>
+<Price5>3102.29</Price5>
+<Price6>3102.29</Price6>
+<Price7>3899.86</Price7>
+<Price8>3899.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-nuxuriance-ultra-yaslanma-karsiti-bakim-kremi-50-ml-9648.jpg</Image1>
