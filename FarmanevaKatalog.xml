@@ -8584,7 +8584,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Bit ve Sirke Önleyiciler]]></subCategory>
 <Tax>20</Tax>
-<Stock>286</Stock>
+<Stock>284</Stock>
 <Miad>2026-09-01</Miad>
 <Price>17.90</Price>
 <Price2>133.75</Price2>
@@ -13159,7 +13159,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>43</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -24450,7 +24450,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>1</Stock>
 <Miad>2028-05-01</Miad>
 <Price>1398.90</Price>
 <Price2>2023.64</Price2>
@@ -31244,7 +31244,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>156</Stock>
+<Stock>154</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -41144,7 +41144,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-11-01</Miad>
 <Price>759.90</Price>
 <Price2>1149.17</Price2>
@@ -42392,7 +42392,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>45</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1698.90</Price>
 <Price2>2434.19</Price2>
@@ -54716,7 +54716,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>409</Stock>
+<Stock>408</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -63914,7 +63914,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>250</Stock>
+<Stock>245</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -64554,7 +64554,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>224.90</Price>
 <Price2>417.03</Price2>
@@ -64750,7 +64750,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2028-10-01</Miad>
 <Price>213.90</Price>
 <Price2>401.97</Price2>
@@ -64778,7 +64778,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2028-02-01</Miad>
 <Price>208.90</Price>
 <Price2>395.13</Price2>
@@ -65172,14 +65172,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2029-02-01</Miad>
-<Price>729.90</Price>
-<Price2>1108.12</Price2>
-<Price3>788.29</Price3>
-<Price4>817.49</Price4>
-<Price5>817.49</Price5>
-<Price6>817.49</Price6>
-<Price7>1108.12</Price7>
-<Price8>1108.12</Price8>
+<Price>600.00</Price>
+<Price2>930.35</Price2>
+<Price3>648.00</Price3>
+<Price4>672.00</Price4>
+<Price5>672.00</Price5>
+<Price6>672.00</Price6>
+<Price7>930.35</Price7>
+<Price8>930.35</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -66234,7 +66234,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>149</Stock>
+<Stock>148</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
