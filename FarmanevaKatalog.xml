@@ -49815,14 +49815,14 @@
 <category><![CDATA[Sporcu Ürünleri]]></category>
 <subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
+<Stock>12</Stock>
+<Miad>2028-10-01</Miad>
 <Price>360.68</Price>
 <Price2>602.84</Price2>
-<Price3>389.53</Price3>
-<Price4>403.96</Price4>
-<Price5>403.96</Price5>
-<Price6>403.96</Price6>
+<Price3>499.00</Price3>
+<Price4>61.99</Price4>
+<Price5>62.00</Price5>
+<Price6>62.00</Price6>
 <Price7>602.84</Price7>
 <Price8>602.84</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -52308,7 +52308,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>500</Stock>
 <Miad>2027-02-01</Miad>
 <Price>629.90</Price>
 <Price2>971.27</Price2>
