@@ -16185,7 +16185,7 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>1</Tax>
-<Stock>200</Stock>
+<Stock>195</Stock>
 <Miad>2026-09-01</Miad>
 <Price>719.90</Price>
 <Price2>1094.43</Price2>
@@ -16235,7 +16235,7 @@
 <Tax>1</Tax>
 <Stock>15</Stock>
 <Miad>2027-01-01</Miad>
-<Price>301.79</Price>
+<Price>364.90</Price>
 <Price2>522.25</Price2>
 <Price3>325.93</Price3>
 <Price4>345.00</Price4>
@@ -21951,7 +21951,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>253</Stock>
+<Stock>252</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -55986,7 +55986,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>286</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>718.90</Price>
 <Price2>1093.06</Price2>
