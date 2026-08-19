@@ -2228,7 +2228,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1649.90</Price>
 <Price2>2367.14</Price2>
@@ -10663,7 +10663,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Pudra]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>149.90</Price>
 <Price2>314.39</Price2>
@@ -21951,7 +21951,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>254</Stock>
+<Stock>253</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -26702,7 +26702,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Oksimetre]]></category>
 <Tax>10</Tax>
-<Stock>132</Stock>
+<Stock>131</Stock>
 <Miad></Miad>
 <Price>493.90</Price>
 <Price2>785.15</Price2>
@@ -27142,7 +27142,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Ateş Ölçer]]></category>
 <Tax>10</Tax>
-<Stock>104</Stock>
+<Stock>94</Stock>
 <Miad></Miad>
 <Price>39.90</Price>
 <Price2>163.85</Price2>
@@ -27826,7 +27826,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Stetoskop]]></category>
 <Tax>10</Tax>
-<Stock>54</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -51755,7 +51755,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2026-10-01</Miad>
 <Price>192.90</Price>
 <Price2>373.23</Price2>
@@ -55986,7 +55986,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>280</Stock>
+<Stock>286</Stock>
 <Miad>2026-10-01</Miad>
 <Price>718.90</Price>
 <Price2>1093.06</Price2>
@@ -56551,7 +56551,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>344</Stock>
+<Stock>343</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -64554,7 +64554,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>224.90</Price>
 <Price2>417.03</Price2>
@@ -66234,7 +66234,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>156</Stock>
+<Stock>155</Stock>
 <Miad>2026-12-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -66486,7 +66486,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>126</Stock>
+<Stock>123</Stock>
 <Miad>2026-12-01</Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
