@@ -13159,7 +13159,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>40</Stock>
+<Stock>45</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -13622,7 +13622,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>55</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -21356,7 +21356,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>176</Stock>
+<Stock>177</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>166.59</Price2>
@@ -41375,7 +41375,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>50</Stock>
+<Stock>51</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -59773,7 +59773,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Pudra]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2027-08-01</Miad>
 <Price>895.49</Price>
 <Price2>1334.73</Price2>
@@ -63914,7 +63914,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>255</Stock>
+<Stock>250</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -64554,7 +64554,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>224.90</Price>
 <Price2>417.03</Price2>
@@ -65172,14 +65172,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2029-02-01</Miad>
-<Price>679.90</Price>
-<Price2>1039.69</Price2>
-<Price3>734.29</Price3>
-<Price4>761.49</Price4>
-<Price5>761.49</Price5>
-<Price6>761.49</Price6>
-<Price7>1039.69</Price7>
-<Price8>1039.69</Price8>
+<Price>729.90</Price>
+<Price2>1108.12</Price2>
+<Price3>788.29</Price3>
+<Price4>817.49</Price4>
+<Price5>817.49</Price5>
+<Price6>817.49</Price6>
+<Price7>1108.12</Price7>
+<Price8>1108.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -65394,7 +65394,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2029-01-01</Miad>
 <Price>900.00</Price>
 <Price2>1340.90</Price2>
@@ -65536,14 +65536,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>679.90</Price>
-<Price2>1039.69</Price2>
-<Price3>734.29</Price3>
-<Price4>761.49</Price4>
-<Price5>761.49</Price5>
-<Price6>761.49</Price6>
-<Price7>1039.69</Price7>
-<Price8>1039.69</Price8>
+<Price>728.80</Price>
+<Price2>1106.61</Price2>
+<Price3>787.10</Price3>
+<Price4>816.26</Price4>
+<Price5>816.26</Price5>
+<Price6>816.26</Price6>
+<Price7>1106.61</Price7>
+<Price8>1106.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -66234,7 +66234,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>154</Stock>
+<Stock>149</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
