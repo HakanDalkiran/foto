@@ -50126,15 +50126,15 @@
 <category><![CDATA[Sporcu Ürünleri]]></category>
 <subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>0</Stock>
 <Miad>2030-09-01</Miad>
-<Price>90.00</Price>
-<Price2>232.41</Price2>
-<Price3>95.00</Price3>
-<Price4>35.00</Price4>
-<Price5>35.00</Price5>
-<Price6>35.00</Price6>
-<Price7>232.41</Price7>
+<Price>34.16</Price>
+<Price2>156.00</Price2>
+<Price3>36.89</Price3>
+<Price4>38.26</Price4>
+<Price5>38.26</Price5>
+<Price6>38.26</Price6>
+<Price7>156.00</Price7>
 <Price8>156.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
@@ -50904,14 +50904,14 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
-<Miad></Miad>
+<Stock>4</Stock>
+<Miad>2028-03-01</Miad>
 <Price>69.00</Price>
 <Price2>203.68</Price2>
 <Price3>74.52</Price3>
 <Price4>77.28</Price4>
 <Price5>77.28</Price5>
-<Price6>77.28</Price6>
+<Price6>64.03</Price6>
 <Price7>203.68</Price7>
 <Price8>203.68</Price8>
 <CurrencyType>TRL</CurrencyType>
