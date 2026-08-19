@@ -53042,14 +53042,14 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2027-07-01</Miad>
+<Stock>1</Stock>
+<Miad>2026-10-01</Miad>
 <Price>453.90</Price>
 <Price2>730.41</Price2>
 <Price3>490.21</Price3>
-<Price4>508.37</Price4>
+<Price4>300.00</Price4>
 <Price5>508.37</Price5>
-<Price6>508.37</Price6>
+<Price6>300.00</Price6>
 <Price7>730.41</Price7>
 <Price8>730.41</Price8>
 <CurrencyType>TRL</CurrencyType>
