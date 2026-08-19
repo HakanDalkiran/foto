@@ -367,7 +367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>104</Stock>
+<Stock>101</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -4422,16 +4422,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>10</Stock>
-<Miad>2026-09-01</Miad>
-<Price>588.90</Price>
-<Price2>915.16</Price2>
-<Price3>636.01</Price3>
-<Price4>659.57</Price4>
-<Price5>659.57</Price5>
-<Price6>659.57</Price6>
-<Price7>915.16</Price7>
-<Price8>915.16</Price8>
+<Stock>4</Stock>
+<Miad>2027-06-01</Miad>
+<Price>587.90</Price>
+<Price2>913.79</Price2>
+<Price3>634.93</Price3>
+<Price4>658.45</Price4>
+<Price5>658.45</Price5>
+<Price6>658.45</Price6>
+<Price7>913.79</Price7>
+<Price8>913.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bausch-lomb-renu-multiplus-lens-solusyonu-360-ml-ikili-kofre-7960.jpg</Image1>
@@ -13531,7 +13531,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>108</Stock>
+<Stock>111</Stock>
 <Miad>2026-11-01</Miad>
 <Price>163.99</Price>
 <Price2>333.67</Price2>
@@ -20796,7 +20796,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>31</Stock>
 <Miad>2026-09-01</Miad>
 <Price>259.90</Price>
 <Price2>464.92</Price2>
@@ -35210,7 +35210,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>126</Stock>
+<Stock>125</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -54627,7 +54627,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>74</Stock>
+<Stock>75</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -54758,7 +54758,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>231</Stock>
+<Stock>232</Stock>
 <Miad>2026-12-01</Miad>
 <Price>348.90</Price>
 <Price2>586.72</Price2>
@@ -68311,7 +68311,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>10</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2027-01-01</Miad>
 <Price>293.90</Price>
 <Price2>511.45</Price2>
