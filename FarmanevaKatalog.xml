@@ -12064,7 +12064,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>49</Stock>
+<Stock>48</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>31</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -69185,14 +69185,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-01-01</Miad>
-<Price>900.00</Price>
-<Price2>1340.90</Price2>
-<Price3>972.00</Price3>
-<Price4>1008.00</Price4>
-<Price5>1008.00</Price5>
-<Price6>1008.00</Price6>
-<Price7>1340.90</Price7>
-<Price8>1340.90</Price8>
+<Price>998.90</Price>
+<Price2>1476.24</Price2>
+<Price3>1078.81</Price3>
+<Price4>1118.77</Price4>
+<Price5>1118.77</Price5>
+<Price6>1118.77</Price6>
+<Price7>1476.24</Price7>
+<Price8>1476.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -69783,14 +69783,14 @@
 <Tax>20</Tax>
 <Stock>70</Stock>
 <Miad>2028-01-01</Miad>
-<Price>560.00</Price>
-<Price2>875.61</Price2>
-<Price3>604.80</Price3>
-<Price4>627.20</Price4>
-<Price5>627.20</Price5>
-<Price6>627.20</Price6>
-<Price7>875.61</Price7>
-<Price8>875.61</Price8>
+<Price>597.30</Price>
+<Price2>926.66</Price2>
+<Price3>645.08</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -70563,7 +70563,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>139</Stock>
+<Stock>137</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -77544,7 +77544,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>759.90</Price>
 <Price2>1149.17</Price2>
