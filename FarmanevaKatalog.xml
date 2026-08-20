@@ -12248,7 +12248,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>46</Stock>
+<Stock>45</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -63684,7 +63684,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>529.90</Price>
 <Price2>834.42</Price2>
@@ -69185,14 +69185,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-01-01</Miad>
-<Price>998.90</Price>
-<Price2>1476.24</Price2>
-<Price3>1078.81</Price3>
-<Price4>1118.77</Price4>
-<Price5>1118.77</Price5>
-<Price6>1118.77</Price6>
-<Price7>1476.24</Price7>
-<Price8>1476.24</Price8>
+<Price>900.00</Price>
+<Price2>1340.90</Price2>
+<Price3>972.00</Price3>
+<Price4>1008.00</Price4>
+<Price5>1008.00</Price5>
+<Price6>1008.00</Price6>
+<Price7>1340.90</Price7>
+<Price8>1340.90</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
