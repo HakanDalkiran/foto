@@ -2544,7 +2544,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>224</Stock>
+<Stock>225</Stock>
 <Miad>2026-09-01</Miad>
 <Price>156.90</Price>
 <Price2>323.97</Price2>
@@ -10869,7 +10869,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>417</Stock>
+<Stock>418</Stock>
 <Miad></Miad>
 <Price>68.90</Price>
 <Price2>203.54</Price2>
@@ -11190,7 +11190,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2027-04-01</Miad>
 <Price>615.00</Price>
 <Price2>950.88</Price2>
@@ -11367,7 +11367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>19</Stock>
 <Miad>2026-12-01</Miad>
 <Price>889.90</Price>
 <Price2>1327.08</Price2>
@@ -16343,7 +16343,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>10</Tax>
-<Stock>237</Stock>
+<Stock>229</Stock>
 <Miad>2027-07-01</Miad>
 <Price>378.90</Price>
 <Price2>627.77</Price2>
@@ -30806,7 +30806,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2027-04-01</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
@@ -33723,7 +33723,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>96</Stock>
+<Stock>94</Stock>
 <Miad></Miad>
 <Price>106.90</Price>
 <Price2>255.54</Price2>
@@ -53608,7 +53608,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>29</Stock>
 <Miad>2028-03-01</Miad>
 <Price>1198.90</Price>
 <Price2>1749.94</Price2>
@@ -64096,7 +64096,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>93</Stock>
+<Stock>91</Stock>
 <Miad>2027-06-01</Miad>
 <Price>564.90</Price>
 <Price2>882.32</Price2>
@@ -66749,7 +66749,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>246</Stock>
+<Stock>248</Stock>
 <Miad>2026-12-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
