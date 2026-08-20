@@ -943,7 +943,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>90</Stock>
+<Stock>85</Stock>
 <Miad>2027-08-01</Miad>
 <Price>212.90</Price>
 <Price2>400.60</Price2>
@@ -8743,14 +8743,14 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2027-06-01</Miad>
-<Price>749.90</Price>
-<Price2>1135.49</Price2>
-<Price3>809.89</Price3>
-<Price4>839.89</Price4>
-<Price5>839.89</Price5>
-<Price6>839.89</Price6>
-<Price7>1135.49</Price7>
-<Price8>1135.49</Price8>
+<Price>819.90</Price>
+<Price2>1231.28</Price2>
+<Price3>885.49</Price3>
+<Price4>918.29</Price4>
+<Price5>918.29</Price5>
+<Price6>918.29</Price6>
+<Price7>1231.28</Price7>
+<Price8>1231.28</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cebrolux-nf-30-sase-8246.jpg</Image1>
@@ -12064,7 +12064,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>49</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -31584,7 +31584,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2027-05-01</Miad>
 <Price>817.90</Price>
 <Price2>1228.55</Price2>
@@ -41489,7 +41489,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>51</Stock>
+<Stock>49</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -44030,8 +44030,8 @@
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
 <Stock>33</Stock>
-<Miad>2028-06-01</Miad>
-<Price>179.00</Price>
+<Miad>2028-04-01</Miad>
+<Price>178.99</Price>
 <Price2>354.21</Price2>
 <Price3>193.32</Price3>
 <Price4>200.48</Price4>
@@ -53289,14 +53289,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2027-07-01</Miad>
-<Price>839.80</Price>
-<Price2>1258.52</Price2>
-<Price3>906.98</Price3>
-<Price4>940.58</Price4>
-<Price5>940.58</Price5>
-<Price6>940.58</Price6>
-<Price7>1258.52</Price7>
-<Price8>1258.52</Price8>
+<Price>845.90</Price>
+<Price2>1266.86</Price2>
+<Price3>913.57</Price3>
+<Price4>947.41</Price4>
+<Price5>947.41</Price5>
+<Price6>947.41</Price6>
+<Price7>1266.86</Price7>
+<Price8>1266.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-450-gr-2-li-10396.jpg</Image1>
@@ -65930,7 +65930,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>3</Stock>
 <Miad>2028-08-01</Miad>
 <Price>357.90</Price>
 <Price2>599.04</Price2>
@@ -66795,7 +66795,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>134</Stock>
+<Stock>133</Stock>
 <Miad>2028-09-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
