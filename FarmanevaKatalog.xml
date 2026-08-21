@@ -8927,7 +8927,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>978.00</Price>
 <Price2>1447.64</Price2>
@@ -9020,7 +9020,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>864.90</Price>
 <Price2>1292.87</Price2>
@@ -9067,7 +9067,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1228.90</Price>
 <Price2>1791.00</Price2>
@@ -9114,7 +9114,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1048.90</Price>
 <Price2>1544.67</Price2>
@@ -9161,7 +9161,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>849.90</Price>
 <Price2>1272.34</Price2>
@@ -9255,7 +9255,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>789.90</Price>
 <Price2>1190.23</Price2>
@@ -9396,7 +9396,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>894.00</Price>
 <Price2>1332.69</Price2>
@@ -11782,7 +11782,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>327</Stock>
+<Stock>325</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -12715,7 +12715,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>206</Stock>
+<Stock>204</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -26369,7 +26369,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>328</Stock>
+<Stock>324</Stock>
 <Miad>2030-03-01</Miad>
 <Price>1485.00</Price>
 <Price2>2141.47</Price2>
@@ -45294,14 +45294,14 @@
 <Tax>1</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
-<Price>554.90</Price>
-<Price2>868.63</Price2>
-<Price3>599.29</Price3>
-<Price4>621.49</Price4>
-<Price5>621.49</Price5>
-<Price6>621.49</Price6>
-<Price7>868.63</Price7>
-<Price8>868.63</Price8>
+<Price>549.90</Price>
+<Price2>861.79</Price2>
+<Price3>593.89</Price3>
+<Price4>615.89</Price4>
+<Price5>615.89</Price5>
+<Price6>615.89</Price6>
+<Price7>861.79</Price7>
+<Price8>861.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/philips-avent-avent-ultra-air-night-karanlikta-parlar-gece-emzigi-6-18-ay-kiz-scf376-14-10077.jpg</Image1>
@@ -56219,7 +56219,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>39</Stock>
+<Stock>35</Stock>
 <Miad>2030-05-01</Miad>
 <Price>1128.90</Price>
 <Price2>1654.15</Price2>
@@ -60283,7 +60283,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1649.90</Price>
 <Price2>2367.14</Price2>
@@ -61813,7 +61813,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>1848.90</Price>
 <Price2>2639.47</Price2>
@@ -61857,7 +61857,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>1848.90</Price>
 <Price2>2639.47</Price2>
@@ -61945,7 +61945,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1124.90</Price>
 <Price2>1648.68</Price2>
@@ -66977,7 +66977,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>10</Tax>
-<Stock>57</Stock>
+<Stock>54</Stock>
 <Miad>2029-02-01</Miad>
 <Price>398.90</Price>
 <Price2>655.14</Price2>
@@ -69783,14 +69783,14 @@
 <Tax>20</Tax>
 <Stock>70</Stock>
 <Miad>2028-01-01</Miad>
-<Price>597.30</Price>
-<Price2>926.66</Price2>
-<Price3>645.08</Price3>
-<Price4>668.98</Price4>
-<Price5>668.98</Price5>
-<Price6>668.98</Price6>
-<Price7>926.66</Price7>
-<Price8>926.66</Price8>
+<Price>560.00</Price>
+<Price2>875.61</Price2>
+<Price3>604.80</Price3>
+<Price4>627.20</Price4>
+<Price5>627.20</Price5>
+<Price6>627.20</Price6>
+<Price7>875.61</Price7>
+<Price8>875.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -70563,7 +70563,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>135</Stock>
+<Stock>136</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
