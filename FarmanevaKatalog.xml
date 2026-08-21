@@ -325,7 +325,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>222</Stock>
+<Stock>220</Stock>
 <Miad>2027-01-01</Miad>
 <Price>509.90</Price>
 <Price2>807.05</Price2>
@@ -75498,16 +75498,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Alıştırma Bardağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
-<Price>689.90</Price>
-<Price2>1053.38</Price2>
-<Price3>745.09</Price3>
-<Price4>772.69</Price4>
-<Price5>772.69</Price5>
-<Price6>772.69</Price6>
-<Price7>1053.38</Price7>
-<Price8>1053.38</Price8>
+<Price>623.90</Price>
+<Price2>963.06</Price2>
+<Price3>673.81</Price3>
+<Price4>698.77</Price4>
+<Price5>698.77</Price5>
+<Price6>698.77</Price6>
+<Price7>963.06</Price7>
+<Price8>963.06</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/avent-scf796-01-desenli-pipetli-bardak-200-ml-erkek-11657.jpg</Image1>
