@@ -4355,7 +4355,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>91</Stock>
+<Stock>93</Stock>
 <Miad>2026-09-01</Miad>
 <Price>413.90</Price>
 <Price2>675.67</Price2>
@@ -4398,7 +4398,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>60</Stock>
+<Stock>62</Stock>
 <Miad>2026-10-01</Miad>
 <Price>357.90</Price>
 <Price2>599.04</Price2>
@@ -8005,7 +8005,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>105</Stock>
+<Stock>103</Stock>
 <Miad>2026-12-01</Miad>
 <Price>894.90</Price>
 <Price2>1333.92</Price2>
@@ -8510,7 +8510,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>32</Stock>
+<Stock>28</Stock>
 <Miad>2027-10-01</Miad>
 <Price>712.90</Price>
 <Price2>1084.85</Price2>
@@ -16343,7 +16343,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>10</Tax>
-<Stock>229</Stock>
+<Stock>226</Stock>
 <Miad>2027-07-01</Miad>
 <Price>379.90</Price>
 <Price2>629.14</Price2>
@@ -22008,7 +22008,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>240</Stock>
+<Stock>239</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -24507,7 +24507,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2028-05-01</Miad>
 <Price>1398.90</Price>
 <Price2>2023.64</Price2>
@@ -31867,7 +31867,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>21</Stock>
 <Miad>2026-09-01</Miad>
 <Price>907.90</Price>
 <Price2>1351.71</Price2>
@@ -35038,7 +35038,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2027-10-01</Miad>
 <Price>221.50</Price>
 <Price2>412.37</Price2>
@@ -40838,7 +40838,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>11</Stock>
 <Miad>2027-09-01</Miad>
 <Price>627.90</Price>
 <Price2>968.53</Price2>
@@ -44312,7 +44312,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>75</Stock>
+<Stock>73</Stock>
 <Miad>2026-09-01</Miad>
 <Price>99.90</Price>
 <Price2>245.96</Price2>
@@ -53514,7 +53514,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>10</Tax>
-<Stock>105</Stock>
+<Stock>104</Stock>
 <Miad>2026-09-01</Miad>
 <Price>1196.50</Price>
 <Price2>1746.66</Price2>
@@ -54798,7 +54798,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>64</Stock>
+<Stock>58</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -65792,7 +65792,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2027-10-01</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
