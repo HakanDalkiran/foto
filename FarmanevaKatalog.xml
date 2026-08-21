@@ -12762,7 +12762,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>182</Stock>
+<Stock>179</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>29</Stock>
+<Stock>28</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -45387,14 +45387,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
-<Price>1999.90</Price>
-<Price2>2846.11</Price2>
-<Price3>2159.89</Price3>
-<Price4>2239.89</Price4>
-<Price5>2239.89</Price5>
-<Price6>2239.89</Price6>
-<Price7>2846.11</Price7>
-<Price8>2846.11</Price8>
+<Price>2043.90</Price>
+<Price2>2906.33</Price2>
+<Price3>2207.41</Price3>
+<Price4>2289.17</Price4>
+<Price5>2289.17</Price5>
+<Price6>2289.17</Price6>
+<Price7>2906.33</Price7>
+<Price8>2906.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/philips-avent-natural-response-yenidogan-hediye-seti-scd837-12-10079.jpg</Image1>
@@ -70425,7 +70425,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2029-03-01</Miad>
 <Price>524.90</Price>
 <Price2>827.58</Price2>
@@ -70885,7 +70885,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>85</Stock>
+<Stock>84</Stock>
 <Miad>2029-03-01</Miad>
 <Price>492.85</Price>
 <Price2>783.72</Price2>
@@ -75498,16 +75498,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Alıştırma Bardağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
-<Price>623.90</Price>
-<Price2>963.06</Price2>
-<Price3>673.81</Price3>
-<Price4>698.77</Price4>
-<Price5>698.77</Price5>
-<Price6>698.77</Price6>
-<Price7>963.06</Price7>
-<Price8>963.06</Price8>
+<Price>606.90</Price>
+<Price2>939.79</Price2>
+<Price3>655.45</Price3>
+<Price4>679.73</Price4>
+<Price5>679.73</Price5>
+<Price6>679.73</Price6>
+<Price7>939.79</Price7>
+<Price8>939.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/avent-scf796-01-desenli-pipetli-bardak-200-ml-erkek-11657.jpg</Image1>
@@ -80429,7 +80429,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1030.00</Price>
 <Price2>1518.80</Price2>
