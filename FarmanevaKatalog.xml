@@ -22008,7 +22008,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>239</Stock>
+<Stock>236</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -45247,14 +45247,14 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
-<Price>769.90</Price>
-<Price2>1162.86</Price2>
-<Price3>831.49</Price3>
-<Price4>862.29</Price4>
-<Price5>862.29</Price5>
-<Price6>862.29</Price6>
-<Price7>1162.86</Price7>
-<Price8>1162.86</Price8>
+<Price>766.50</Price>
+<Price2>1158.21</Price2>
+<Price3>827.82</Price3>
+<Price4>858.48</Price4>
+<Price5>858.48</Price5>
+<Price6>858.48</Price6>
+<Price7>1158.21</Price7>
+<Price8>1158.21</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/philips-avent-avent-scf798-01-desenli-pipetli-bardak-300-ml-erkek-yesil-10074.jpg</Image1>
@@ -51411,7 +51411,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2028-01-01</Miad>
 <Price>298.90</Price>
 <Price2>518.29</Price2>
@@ -56741,7 +56741,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>332</Stock>
+<Stock>330</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
