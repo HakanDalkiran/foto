@@ -5231,14 +5231,14 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2026-01-01</Miad>
+<Stock>10</Stock>
+<Miad>2028-08-01</Miad>
 <Price>632.73</Price>
 <Price2>975.14</Price2>
-<Price3>683.35</Price3>
-<Price4>708.66</Price4>
-<Price5>708.66</Price5>
-<Price6>708.66</Price6>
+<Price3>803.00</Price3>
+<Price4>803.00</Price4>
+<Price5>803.00</Price5>
+<Price6>803.00</Price6>
 <Price7>975.14</Price7>
 <Price8>975.14</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -57206,7 +57206,7 @@
 <subCategory><![CDATA[Pudra]]></subCategory>
 <Tax>20</Tax>
 <Stock>500</Stock>
-<Miad>2028-09-01</Miad>
+<Miad>2026-09-01</Miad>
 <Price>102.90</Price>
 <Price2>250.07</Price2>
 <Price3>98.00</Price3>
