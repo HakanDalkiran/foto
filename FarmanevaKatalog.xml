@@ -2272,16 +2272,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-11-01</Miad>
+<Stock>12</Stock>
+<Miad>2027-01-01</Miad>
 <Price>949.00</Price>
 <Price2>1407.96</Price2>
-<Price3>1024.92</Price3>
+<Price3>826.89</Price3>
 <Price4>1062.88</Price4>
 <Price5>1062.88</Price5>
 <Price6>1062.88</Price6>
-<Price7>1407.96</Price7>
-<Price8>1407.96</Price8>
+<Price7>1135.00</Price7>
+<Price8>1135.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-pronutra-3-devam-sutu-900-gr-9-12-ay-7824.jpg</Image1>
@@ -56130,7 +56130,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>87</Stock>
+<Stock>86</Stock>
 <Miad>2026-09-01</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
