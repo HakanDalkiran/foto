@@ -12064,7 +12064,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>41</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -31078,7 +31078,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>10</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2028-12-01</Miad>
 <Price>949.90</Price>
 <Price2>1409.19</Price2>
@@ -42506,7 +42506,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>45</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1698.90</Price>
 <Price2>2434.19</Price2>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.48</Price2>
+<Price2>909.47</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
@@ -65838,7 +65838,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>10</Tax>
-<Stock>41</Stock>
+<Stock>40</Stock>
 <Miad>2029-03-01</Miad>
 <Price>258.90</Price>
 <Price2>463.55</Price2>
@@ -66749,7 +66749,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>248</Stock>
+<Stock>247</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -76460,8 +76460,8 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>39</Stock>
-<Miad>2027-07-01</Miad>
+<Stock>43</Stock>
+<Miad>2028-07-01</Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
 <Price3>160.81</Price3>
