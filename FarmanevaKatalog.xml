@@ -55,7 +55,7 @@
 <Tax>1</Tax>
 <Stock>3</Stock>
 <Miad>2028-10-01</Miad>
-<Price>124.11</Price>
+<Price>180.36</Price>
 <Price2>279.09</Price2>
 <Price3>202.00</Price3>
 <Price4>202.00</Price4>
@@ -501,7 +501,7 @@
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
-<Price>139.28</Price>
+<Price>156.25</Price>
 <Price2>299.85</Price2>
 <Price3>175.00</Price3>
 <Price4>175.00</Price4>
@@ -40794,7 +40794,7 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2029-01-01</Miad>
-<Price>574.90</Price>
+<Price>600.00</Price>
 <Price2>896.00</Price2>
 <Price3>648.00</Price3>
 <Price4>699.00</Price4>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.60</Price2>
+<Price2>909.59</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
@@ -53470,7 +53470,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>77</Stock>
+<Stock>76</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1196.80</Price>
 <Price2>1747.07</Price2>
