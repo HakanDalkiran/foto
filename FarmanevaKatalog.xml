@@ -367,7 +367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>95</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -16204,16 +16204,16 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>1</Tax>
-<Stock>195</Stock>
-<Miad>2026-09-01</Miad>
+<Stock>36</Stock>
+<Miad>2026-02-01</Miad>
 <Price>719.90</Price>
 <Price2>1094.43</Price2>
-<Price3>777.49</Price3>
-<Price4>806.29</Price4>
-<Price5>806.29</Price5>
-<Price6>806.29</Price6>
-<Price7>1094.43</Price7>
-<Price8>1094.43</Price8>
+<Price3>599.80</Price3>
+<Price4>613.99</Price4>
+<Price5>613.99</Price5>
+<Price6>613.99</Price6>
+<Price7>699.00</Price7>
+<Price8>699.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-family-probiyotik-5-ml-20-flakon-8684.jpg</Image1>
@@ -45014,7 +45014,7 @@
 <Tax>1</Tax>
 <Stock>48</Stock>
 <Miad>2027-03-01</Miad>
-<Price>448.90</Price>
+<Price>348.21</Price>
 <Price2>723.57</Price2>
 <Price3>399.00</Price3>
 <Price4>389.99</Price4>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.66</Price2>
+<Price2>909.65</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
