@@ -2498,7 +2498,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>31</Stock>
+<Stock>27</Stock>
 <Miad>2027-06-01</Miad>
 <Price>549.90</Price>
 <Price2>861.79</Price2>
@@ -12064,7 +12064,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>44</Stock>
+<Stock>43</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -37377,16 +37377,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
-<Price>1849.00</Price>
-<Price2>2639.61</Price2>
-<Price3>1996.92</Price3>
-<Price4>2070.88</Price4>
-<Price5>2070.88</Price5>
-<Price6>2070.88</Price6>
-<Price7>2639.61</Price7>
-<Price8>2639.61</Price8>
+<Price>2210.90</Price>
+<Price2>3134.87</Price2>
+<Price3>2387.77</Price3>
+<Price4>2476.21</Price4>
+<Price5>2476.21</Price5>
+<Price6>2476.21</Price6>
+<Price7>3134.87</Price7>
+<Price8>3134.87</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-nuxirance-ultra-dark-spot-serum-30-ml-9609.jpg</Image1>
@@ -65153,7 +65153,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>10</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2027-08-01</Miad>
 <Price>398.90</Price>
 <Price2>655.14</Price2>
