@@ -367,7 +367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>99</Stock>
+<Stock>95</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -17373,7 +17373,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>191.00</Price>
 <Price2>370.63</Price2>
@@ -35324,7 +35324,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>122</Stock>
+<Stock>120</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -58123,7 +58123,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>103</Stock>
+<Stock>102</Stock>
 <Miad>2026-10-01</Miad>
 <Price>642.90</Price>
 <Price2>989.06</Price2>
@@ -79193,16 +79193,16 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
-<Price>590.00</Price>
-<Price2>916.66</Price2>
-<Price3>637.20</Price3>
-<Price4>660.80</Price4>
-<Price5>660.80</Price5>
-<Price6>660.80</Price6>
-<Price7>916.66</Price7>
-<Price8>916.66</Price8>
+<Price>744.90</Price>
+<Price2>1128.65</Price2>
+<Price3>804.49</Price3>
+<Price4>834.29</Price4>
+<Price5>834.29</Price5>
+<Price6>834.29</Price6>
+<Price7>1128.65</Price7>
+<Price8>1128.65</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-reve-de-miel-cica-yogun-bakim-el-kremi-50-ml-ikincisi-50-indirimli-set-11956.jpg</Image1>
