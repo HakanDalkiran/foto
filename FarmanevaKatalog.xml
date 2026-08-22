@@ -5277,11 +5277,11 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-01-01</Miad>
+<Stock>38</Stock>
+<Miad>2028-08-01</Miad>
 <Price>375.00</Price>
 <Price2>622.44</Price2>
-<Price3>405.00</Price3>
+<Price3>349.80</Price3>
 <Price4>420.00</Price4>
 <Price5>420.00</Price5>
 <Price6>420.00</Price6>
@@ -57205,7 +57205,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Pudra]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>500</Stock>
 <Miad>2028-09-01</Miad>
 <Price>102.90</Price>
 <Price2>250.07</Price2>
