@@ -45016,12 +45016,12 @@
 <Miad>2027-03-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
-<Price3>403.00</Price3>
+<Price3>400.00</Price3>
 <Price4>389.99</Price4>
-<Price5>502.77</Price5>
-<Price6>502.77</Price6>
-<Price7>723.57</Price7>
-<Price8>723.57</Price8>
+<Price5>389.99</Price5>
+<Price6>389.99</Price6>
+<Price7>559.00</Price7>
+<Price8>559.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/pharmaton-vitality-30-tablet-10057.jpg</Image1>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.67</Price2>
+<Price2>909.66</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
