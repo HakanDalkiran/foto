@@ -987,7 +987,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Gazlı Bez & Kompres]]></subCategory>
 <Tax>10</Tax>
-<Stock>481</Stock>
+<Stock>231</Stock>
 <Miad>2031-01-01</Miad>
 <Price>18.50</Price>
 <Price2>134.57</Price2>
@@ -12762,7 +12762,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>179</Stock>
+<Stock>178</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -14240,7 +14240,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>194.90</Price>
 <Price2>375.97</Price2>
@@ -31358,7 +31358,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>147</Stock>
+<Stock>146</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -53289,14 +53289,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2027-07-01</Miad>
-<Price>845.90</Price>
-<Price2>1266.86</Price2>
-<Price3>913.57</Price3>
-<Price4>947.41</Price4>
-<Price5>947.41</Price5>
-<Price6>947.41</Price6>
-<Price7>1266.86</Price7>
-<Price8>1266.86</Price8>
+<Price>898.90</Price>
+<Price2>1339.39</Price2>
+<Price3>970.81</Price3>
+<Price4>1006.77</Price4>
+<Price5>1006.77</Price5>
+<Price6>1006.77</Price6>
+<Price7>1339.39</Price7>
+<Price8>1339.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-450-gr-2-li-10396.jpg</Image1>
@@ -56084,7 +56084,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>926.11</Price2>
