@@ -6298,10 +6298,10 @@
 <Miad>2026-09-01</Miad>
 <Price>618.90</Price>
 <Price2>956.21</Price2>
-<Price3>668.41</Price3>
-<Price4>350.00</Price4>
-<Price5>350.00</Price5>
-<Price6>350.00</Price6>
+<Price3>535.00</Price3>
+<Price4>349.00</Price4>
+<Price5>349.00</Price5>
+<Price6>349.00</Price6>
 <Price7>956.21</Price7>
 <Price8>600.00</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.69</Price2>
+<Price2>909.68</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
@@ -52549,7 +52549,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>12</Stock>
 <Miad>2026-12-01</Miad>
 <Price>574.90</Price>
 <Price2>896.00</Price2>
