@@ -50278,14 +50278,14 @@
 <category><![CDATA[Sporcu Ürünleri]]></category>
 <subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2030-09-01</Miad>
 <Price>34.16</Price>
 <Price2>156.00</Price2>
-<Price3>36.89</Price3>
-<Price4>38.26</Price4>
-<Price5>38.26</Price5>
-<Price6>38.26</Price6>
+<Price3>36.00</Price3>
+<Price4>36.00</Price4>
+<Price5>36.00</Price5>
+<Price6>36.00</Price6>
 <Price7>156.00</Price7>
 <Price8>156.00</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.65</Price2>
+<Price2>909.64</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
