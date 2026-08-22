@@ -12762,7 +12762,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>177</Stock>
+<Stock>178</Stock>
 <Miad></Miad>
 <Price>623.00</Price>
 <Price2>961.83</Price2>
@@ -37045,16 +37045,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
-<Price>1203.90</Price>
-<Price2>1756.79</Price2>
-<Price3>1300.21</Price3>
-<Price4>1348.37</Price4>
-<Price5>1348.37</Price5>
-<Price6>1348.37</Price6>
-<Price7>1756.79</Price7>
-<Price8>1756.79</Price8>
+<Price>1159.90</Price>
+<Price2>1696.57</Price2>
+<Price3>1252.69</Price3>
+<Price4>1299.09</Price4>
+<Price5>1299.09</Price5>
+<Price6>1299.09</Price6>
+<Price7>1696.57</Price7>
+<Price8>1696.57</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-men-nuxellence-tum-yastan-cilt-tipleri-50-ml-9588.jpg</Image1>
@@ -37521,14 +37521,14 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
-<Price>2390.00</Price>
-<Price2>3379.96</Price2>
-<Price3>2581.20</Price3>
-<Price4>2676.80</Price4>
-<Price5>2676.80</Price5>
-<Price6>2676.80</Price6>
-<Price7>3379.96</Price7>
-<Price8>3379.96</Price8>
+<Price>2388.90</Price>
+<Price2>3378.46</Price2>
+<Price3>2580.01</Price3>
+<Price4>2675.57</Price4>
+<Price5>2675.57</Price5>
+<Price6>2675.57</Price6>
+<Price7>3378.46</Price7>
+<Price8>3378.46</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-nuxuriance-gold-the-oil-serum-30-ml-9615.jpg</Image1>
@@ -38993,16 +38993,16 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
-<Price>356.90</Price>
-<Price2>597.67</Price2>
-<Price3>385.45</Price3>
-<Price4>399.73</Price4>
-<Price5>399.73</Price5>
-<Price6>399.73</Price6>
-<Price7>597.67</Price7>
-<Price8>597.67</Price8>
+<Price>404.90</Price>
+<Price2>663.36</Price2>
+<Price3>437.29</Price3>
+<Price4>453.49</Price4>
+<Price5>453.49</Price5>
+<Price6>453.49</Price6>
+<Price7>663.36</Price7>
+<Price8>663.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-sweet-lemon-lip-balm-15-ml-9738.jpg</Image1>
@@ -39185,16 +39185,16 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
-<Price>839.90</Price>
-<Price2>1258.65</Price2>
-<Price3>907.09</Price3>
-<Price4>940.69</Price4>
-<Price5>940.69</Price5>
-<Price6>940.69</Price6>
-<Price7>1258.65</Price7>
-<Price8>1258.65</Price8>
+<Price>904.90</Price>
+<Price2>1347.61</Price2>
+<Price3>977.29</Price3>
+<Price4>1013.49</Price4>
+<Price5>1013.49</Price5>
+<Price6>1013.49</Price6>
+<Price7>1347.61</Price7>
+<Price8>1347.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-very-rose-soothing-moisturising-body-milk-400-ml-9751.jpg</Image1>
@@ -65655,7 +65655,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>79</Stock>
+<Stock>78</Stock>
 <Miad></Miad>
 <Price>1498.90</Price>
 <Price2>2160.49</Price2>
