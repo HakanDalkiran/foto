@@ -13042,16 +13042,16 @@
 <category><![CDATA[Göz Çevresi Bakımı]]></category>
 <subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>30</Stock>
 <Miad></Miad>
 <Price>758.92</Price>
 <Price2>1147.83</Price2>
-<Price3>819.63</Price3>
-<Price4>849.99</Price4>
-<Price5>849.99</Price5>
-<Price6>849.99</Price6>
-<Price7>1147.83</Price7>
-<Price8>1147.83</Price8>
+<Price3>1025.00</Price3>
+<Price4>1025.00</Price4>
+<Price5>1025.00</Price5>
+<Price6>1025.00</Price6>
+<Price7>1203.00</Price7>
+<Price8>10203.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-be-bright-liposomal-vitamin-c-complex-serum-30-ml-8500.jpg</Image1>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.63</Price2>
+<Price2>909.62</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
