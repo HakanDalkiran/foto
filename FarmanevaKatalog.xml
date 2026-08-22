@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -14285,7 +14285,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>326</Stock>
+<Stock>329</Stock>
 <Miad></Miad>
 <Price>359.90</Price>
 <Price2>601.77</Price2>
@@ -17513,7 +17513,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.57</Price2>
+<Price2>909.56</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
@@ -63638,7 +63638,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>529.90</Price>
 <Price2>834.42</Price2>
@@ -65198,7 +65198,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>10</Tax>
-<Stock>9</Stock>
+<Stock>11</Stock>
 <Miad>2027-03-01</Miad>
 <Price>385.90</Price>
 <Price2>637.35</Price2>
@@ -79376,7 +79376,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-09-01</Miad>
 <Price>238.00</Price>
 <Price2>434.95</Price2>
