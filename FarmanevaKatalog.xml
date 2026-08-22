@@ -2184,16 +2184,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>18</Stock>
 <Miad>2027-05-01</Miad>
 <Price>928.90</Price>
 <Price2>1380.45</Price2>
-<Price3>1003.21</Price3>
+<Price3>828.89</Price3>
 <Price4>1040.37</Price4>
 <Price5>1040.37</Price5>
 <Price6>1040.37</Price6>
-<Price7>1380.45</Price7>
-<Price8>1380.45</Price8>
+<Price7>1199.00</Price7>
+<Price8>1199.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-pronutra-2-devam-sutu-900-gr-ekonomik-paket-7817.jpg</Image1>
@@ -13270,7 +13270,7 @@
 <Tax>20</Tax>
 <Stock>30</Stock>
 <Miad></Miad>
-<Price>891.07</Price>
+<Price>869.38</Price>
 <Price2>1241.00</Price2>
 <Price3>824.99</Price3>
 <Price4>999.00</Price4>
@@ -14377,11 +14377,11 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>800.35</Price>
 <Price2>1204.53</Price2>
-<Price3>734.99</Price3>
+<Price3>864.38</Price3>
 <Price4>896.39</Price4>
 <Price5>896.39</Price5>
 <Price6>896.39</Price6>
