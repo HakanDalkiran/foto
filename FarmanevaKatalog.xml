@@ -43110,7 +43110,7 @@
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad>2025-02-01</Miad>
-<Price>177.68</Price>
+<Price>205.36</Price>
 <Price2>352.41</Price2>
 <Price3>230.00</Price3>
 <Price4>230.00</Price4>
@@ -45752,16 +45752,16 @@
 <category><![CDATA[Kadın Hijyen Ürünleri]]></category>
 <subCategory><![CDATA[Gebelik Testi]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>26</Stock>
 <Miad>2027-01-01</Miad>
 <Price>137.47</Price>
 <Price2>297.38</Price2>
-<Price3>148.47</Price3>
-<Price4>153.97</Price4>
-<Price5>153.97</Price5>
-<Price6>153.97</Price6>
-<Price7>297.38</Price7>
-<Price8>297.38</Price8>
+<Price3>195.00</Price3>
+<Price4>195.00</Price4>
+<Price5>195.00</Price5>
+<Price6>195.00</Price6>
+<Price7>390.00</Price7>
+<Price8>390.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/predictor-early-erken-gebelik-testi-10094.jpg</Image1>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.56</Price2>
+<Price2>909.55</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
