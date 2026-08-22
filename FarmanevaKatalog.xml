@@ -325,7 +325,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>218</Stock>
+<Stock>217</Stock>
 <Miad>2027-01-01</Miad>
 <Price>509.90</Price>
 <Price2>807.05</Price2>
@@ -52371,7 +52371,7 @@
 <Stock>13</Stock>
 <Miad>2026-13-01</Miad>
 <Price>584.90</Price>
-<Price2>909.51</Price2>
+<Price2>909.50</Price2>
 <Price3>674.00</Price3>
 <Price4>584.00</Price4>
 <Price5>581.00</Price5>
@@ -65792,8 +65792,8 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>12</Stock>
-<Miad>2027-10-01</Miad>
+<Stock>6</Stock>
+<Miad>2029-02-01</Miad>
 <Price>598.90</Price>
 <Price2>928.84</Price2>
 <Price3>646.81</Price3>
