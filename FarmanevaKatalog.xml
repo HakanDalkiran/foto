@@ -20579,14 +20579,14 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>99</Stock>
 <Miad>2029-01-01</Miad>
 <Price>500.00</Price>
 <Price2>793.50</Price2>
-<Price3>540.00</Price3>
-<Price4>560.00</Price4>
-<Price5>560.00</Price5>
-<Price6>560.00</Price6>
+<Price3>578.00</Price3>
+<Price4>590.00</Price4>
+<Price5>590.00</Price5>
+<Price6>590.00</Price6>
 <Price7>793.50</Price7>
 <Price8>793.50</Price8>
 <CurrencyType>TRL</CurrencyType>
