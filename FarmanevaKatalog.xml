@@ -2631,16 +2631,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-01-01</Miad>
+<Stock>5</Stock>
+<Miad>2027-01-01</Miad>
 <Price>225.44</Price>
-<Price2>417.76</Price2>
-<Price3>243.48</Price3>
-<Price4>252.49</Price4>
-<Price5>252.49</Price5>
-<Price6>252.49</Price6>
-<Price7>417.76</Price7>
-<Price8>417.76</Price8>
+<Price2>420.00</Price2>
+<Price3>420.00</Price3>
+<Price4>900.00</Price4>
+<Price5>900.49</Price5>
+<Price6>900.00</Price6>
+<Price7>900.76</Price7>
+<Price8>900.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/argivit-classic-surup-150-ml-7854.jpg</Image1>
