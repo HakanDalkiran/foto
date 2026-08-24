@@ -1306,7 +1306,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>87</Stock>
+<Stock>86</Stock>
 <Miad>2026-10-01</Miad>
 <Price>149.90</Price>
 <Price2>314.39</Price2>
@@ -9944,7 +9944,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>10</Stock>
 <Miad>2029-01-01</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
@@ -15642,7 +15642,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>151</Stock>
+<Stock>148</Stock>
 <Miad>2026-10-01</Miad>
 <Price>912.00</Price>
 <Price2>1357.32</Price2>
@@ -21131,7 +21131,7 @@
 <category><![CDATA[Kadın Hijyen Ürünleri]]></category>
 <subCategory><![CDATA[Genital Bölge Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>44</Stock>
+<Stock>45</Stock>
 <Miad>2026-11-01</Miad>
 <Price>249.90</Price>
 <Price2>451.24</Price2>
@@ -22008,7 +22008,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>230</Stock>
+<Stock>229</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -30990,7 +30990,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>110</Stock>
+<Stock>109</Stock>
 <Miad>2026-09-01</Miad>
 <Price>776.90</Price>
 <Price2>1172.44</Price2>
@@ -31867,7 +31867,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad>2026-09-01</Miad>
 <Price>907.90</Price>
 <Price2>1351.71</Price2>
@@ -35324,7 +35324,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>119</Stock>
+<Stock>118</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -40648,7 +40648,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>12</Stock>
 <Miad>2026-11-01</Miad>
 <Price>461.90</Price>
 <Price2>741.36</Price2>
@@ -41211,7 +41211,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>300</Stock>
+<Stock>299</Stock>
 <Miad>2026-09-01</Miad>
 <Price>344.90</Price>
 <Price2>581.25</Price2>
@@ -54798,7 +54798,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>60</Stock>
+<Stock>58</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -56741,7 +56741,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>324</Stock>
+<Stock>325</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -61369,7 +61369,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Lens Solüsyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>80</Stock>
+<Stock>79</Stock>
 <Miad>2026-09-01</Miad>
 <Price>439.90</Price>
 <Price2>711.25</Price2>
@@ -71207,7 +71207,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>35</Stock>
 <Miad>2027-10-01</Miad>
 <Price>1176.90</Price>
 <Price2>1719.84</Price2>
@@ -73945,7 +73945,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>10</Tax>
-<Stock>19</Stock>
+<Stock>21</Stock>
 <Miad>2027-03-01</Miad>
 <Price>839.90</Price>
 <Price2>1258.65</Price2>
@@ -78141,7 +78141,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>879.90</Price>
 <Price2>1313.39</Price2>
