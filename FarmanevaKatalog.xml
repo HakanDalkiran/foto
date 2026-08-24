@@ -8106,7 +8106,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>30</Stock>
+<Stock>28</Stock>
 <Miad>2027-10-01</Miad>
 <Price>712.90</Price>
 <Price2>1084.85</Price2>
@@ -9085,7 +9085,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Oksimetre]]></category>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>960.00</Price>
 <Price2>1423.01</Price2>
@@ -33864,7 +33864,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>21</Stock>
 <Miad>2027-05-01</Miad>
 <Price>244.00</Price>
 <Price2>443.16</Price2>
@@ -54518,7 +54518,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>324</Stock>
+<Stock>323</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -63794,8 +63794,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>10</Tax>
-<Stock>97</Stock>
-<Miad></Miad>
+<Stock>4</Stock>
+<Miad>2028-01-01</Miad>
 <Price>347.90</Price>
 <Price2>585.35</Price2>
 <Price3>375.73</Price3>
