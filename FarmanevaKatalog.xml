@@ -12064,7 +12064,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>30</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -12248,7 +12248,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>41</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12715,7 +12715,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>199</Stock>
+<Stock>196</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12762,7 +12762,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>173</Stock>
+<Stock>152</Stock>
 <Miad></Miad>
 <Price>646.90</Price>
 <Price2>994.53</Price2>
@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -13733,7 +13733,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>96</Stock>
+<Stock>95</Stock>
 <Miad></Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
@@ -17513,7 +17513,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -20161,7 +20161,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>123</Stock>
+<Stock>122</Stock>
 <Miad></Miad>
 <Price>429.90</Price>
 <Price2>697.57</Price2>
@@ -26369,7 +26369,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>322</Stock>
+<Stock>321</Stock>
 <Miad>2030-03-01</Miad>
 <Price>1485.00</Price>
 <Price2>2141.47</Price2>
@@ -31358,7 +31358,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>143</Stock>
+<Stock>142</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -34764,7 +34764,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>271.96</Price2>
@@ -47146,7 +47146,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>43</Stock>
+<Stock>42</Stock>
 <Miad></Miad>
 <Price>3049.90</Price>
 <Price2>4283.04</Price2>
@@ -48398,7 +48398,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>69</Stock>
+<Stock>65</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>326.84</Price2>
@@ -48487,7 +48487,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>121.90</Price>
 <Price2>276.07</Price2>
@@ -48758,7 +48758,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>146.90</Price>
 <Price2>310.28</Price2>
@@ -54621,7 +54621,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>115</Stock>
+<Stock>111</Stock>
 <Miad>2029-01-01</Miad>
 <Price>374.90</Price>
 <Price2>622.30</Price2>
@@ -54887,7 +54887,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>407</Stock>
+<Stock>406</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -63914,7 +63914,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-10-01</Miad>
 <Price>338.90</Price>
 <Price2>573.03</Price2>
@@ -65153,7 +65153,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>10</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2027-08-01</Miad>
 <Price>398.90</Price>
 <Price2>655.14</Price2>
@@ -65794,14 +65794,14 @@
 <Tax>10</Tax>
 <Stock>6</Stock>
 <Miad>2029-02-01</Miad>
-<Price>598.90</Price>
-<Price2>928.84</Price2>
-<Price3>646.81</Price3>
-<Price4>670.77</Price4>
-<Price5>670.77</Price5>
-<Price6>670.77</Price6>
-<Price7>928.84</Price7>
-<Price8>928.84</Price8>
+<Price>649.90</Price>
+<Price2>998.64</Price2>
+<Price3>701.89</Price3>
+<Price4>727.89</Price4>
+<Price5>727.89</Price5>
+<Price6>727.89</Price6>
+<Price7>998.64</Price7>
+<Price8>998.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-berliv-lipozomal-berberin-30-kapsul-11233.jpg</Image1>
@@ -68217,7 +68217,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2028-11-01</Miad>
 <Price>339.90</Price>
 <Price2>574.40</Price2>
@@ -74127,7 +74127,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-03-01</Miad>
 <Price>367.90</Price>
 <Price2>612.72</Price2>
@@ -78141,7 +78141,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>879.90</Price>
 <Price2>1313.39</Price2>
@@ -79376,7 +79376,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-09-01</Miad>
 <Price>238.00</Price>
 <Price2>434.95</Price2>
