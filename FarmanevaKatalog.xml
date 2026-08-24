@@ -2498,7 +2498,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>27</Stock>
+<Stock>23</Stock>
 <Miad>2027-06-01</Miad>
 <Price>549.90</Price>
 <Price2>861.79</Price2>
@@ -12064,7 +12064,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>31</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -12248,7 +12248,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>34</Stock>
+<Stock>36</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12715,7 +12715,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>196</Stock>
+<Stock>197</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12762,7 +12762,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>152</Stock>
+<Stock>164</Stock>
 <Miad></Miad>
 <Price>646.90</Price>
 <Price2>994.53</Price2>
@@ -13178,7 +13178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -14285,7 +14285,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>329</Stock>
+<Stock>326</Stock>
 <Miad></Miad>
 <Price>359.90</Price>
 <Price2>601.77</Price2>
@@ -14614,7 +14614,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>108</Stock>
+<Stock>105</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -16533,7 +16533,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>17</Stock>
 <Miad>2027-03-01</Miad>
 <Price>1149.90</Price>
 <Price2>1682.89</Price2>
@@ -18467,7 +18467,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>79.90</Price>
 <Price2>218.59</Price2>
@@ -20807,7 +20807,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>1</Stock>
 <Miad>2028-01-01</Miad>
 <Price>199.90</Price>
 <Price2>382.81</Price2>
@@ -27099,7 +27099,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Baskül]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>1499.90</Price>
 <Price2>2161.86</Price2>
@@ -31358,7 +31358,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>142</Stock>
+<Stock>141</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
@@ -34764,7 +34764,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>271.96</Price2>
@@ -47236,7 +47236,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>39</Stock>
+<Stock>36</Stock>
 <Miad></Miad>
 <Price>121.90</Price>
 <Price2>276.07</Price2>
@@ -54621,7 +54621,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>111</Stock>
+<Stock>113</Stock>
 <Miad>2029-01-01</Miad>
 <Price>374.90</Price>
 <Price2>622.30</Price2>
@@ -60145,7 +60145,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>116</Stock>
+<Stock>115</Stock>
 <Miad>2028-04-01</Miad>
 <Price>185.00</Price>
 <Price2>362.42</Price2>
@@ -62994,7 +62994,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>39</Stock>
+<Stock>38</Stock>
 <Miad></Miad>
 <Price>179.90</Price>
 <Price2>355.44</Price2>
@@ -63132,7 +63132,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad></Miad>
 <Price>182.90</Price>
 <Price2>359.55</Price2>
@@ -63224,7 +63224,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad></Miad>
 <Price>191.00</Price>
 <Price2>370.63</Price2>
@@ -63408,7 +63408,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>194.90</Price>
 <Price2>375.97</Price2>
@@ -63960,7 +63960,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2028-12-01</Miad>
 <Price>338.90</Price>
 <Price2>573.03</Price2>
@@ -65198,7 +65198,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>10</Tax>
-<Stock>11</Stock>
+<Stock>9</Stock>
 <Miad>2027-03-01</Miad>
 <Price>385.90</Price>
 <Price2>637.35</Price2>
@@ -68217,7 +68217,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2028-11-01</Miad>
 <Price>339.90</Price>
 <Price2>574.40</Price2>
@@ -70793,7 +70793,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>47</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
