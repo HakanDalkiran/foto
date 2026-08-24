@@ -238,14 +238,14 @@
 <Tax>10</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>1888.00</Price>
-<Price2>2692.98</Price2>
-<Price3>2039.04</Price3>
-<Price4>2114.56</Price4>
-<Price5>2114.56</Price5>
-<Price6>2114.56</Price6>
-<Price7>2692.98</Price7>
-<Price8>2692.98</Price8>
+<Price>1898.90</Price>
+<Price2>2707.89</Price2>
+<Price3>2050.81</Price3>
+<Price4>2126.77</Price4>
+<Price5>2126.77</Price5>
+<Price6>2126.77</Price6>
+<Price7>2707.89</Price7>
+<Price8>2707.89</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aerochamber-plus-flow-vu-adult-small-mask-mor-7733.jpg</Image1>
@@ -12064,7 +12064,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -12248,7 +12248,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>39</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -27146,16 +27146,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Ateş Ölçer]]></category>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
-<Price>494.90</Price>
-<Price2>786.52</Price2>
-<Price3>534.49</Price3>
-<Price4>554.29</Price4>
-<Price5>554.29</Price5>
-<Price6>554.29</Price6>
-<Price7>786.52</Price7>
-<Price8>786.52</Price8>
+<Price>524.90</Price>
+<Price2>827.58</Price2>
+<Price3>566.89</Price3>
+<Price4>587.89</Price4>
+<Price5>587.89</Price5>
+<Price6>587.89</Price6>
+<Price7>827.58</Price7>
+<Price8>827.58</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-derece-alindan-temassiz-fr870-9177.jpg</Image1>
@@ -27375,7 +27375,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Baskül]]></category>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -27467,7 +27467,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>544.00</Price>
 <Price2>853.71</Price2>
@@ -27513,16 +27513,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>48</Stock>
 <Miad></Miad>
-<Price>674.90</Price>
-<Price2>1032.85</Price2>
-<Price3>728.89</Price3>
-<Price4>755.89</Price4>
-<Price5>755.89</Price5>
-<Price6>755.89</Price6>
-<Price7>1032.85</Price7>
-<Price8>1032.85</Price8>
+<Price>754.90</Price>
+<Price2>1142.33</Price2>
+<Price3>815.29</Price3>
+<Price4>845.49</Price4>
+<Price5>845.49</Price5>
+<Price6>845.49</Price6>
+<Price7>1142.33</Price7>
+<Price8>1142.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-koldan-olcer-dijital-tansiyon-aleti-arm-30g2-genis-mansetli-genis-ekran-9188.jpg</Image1>
@@ -27645,7 +27645,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>13</Stock>
+<Stock>63</Stock>
 <Miad></Miad>
 <Price>324.90</Price>
 <Price2>553.88</Price2>
@@ -31078,7 +31078,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2028-12-01</Miad>
 <Price>949.90</Price>
 <Price2>1409.19</Price2>
@@ -31958,7 +31958,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2028-09-01</Miad>
 <Price>898.90</Price>
 <Price2>1339.39</Price2>
@@ -42506,7 +42506,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1698.90</Price>
 <Price2>2434.19</Price2>
@@ -49070,7 +49070,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2028-02-01</Miad>
 <Price>276.90</Price>
 <Price2>488.19</Price2>
@@ -56409,7 +56409,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2028-01-01</Miad>
 <Price>957.50</Price>
 <Price2>1419.59</Price2>
@@ -65838,7 +65838,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>10</Tax>
-<Stock>40</Stock>
+<Stock>39</Stock>
 <Miad>2029-03-01</Miad>
 <Price>258.90</Price>
 <Price2>463.55</Price2>
@@ -66749,7 +66749,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>247</Stock>
+<Stock>246</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>833.05</Price2>
@@ -68217,7 +68217,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>15</Stock>
 <Miad>2028-11-01</Miad>
 <Price>339.90</Price>
 <Price2>574.40</Price2>
@@ -68447,7 +68447,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2028-12-01</Miad>
 <Price>282.90</Price>
 <Price2>496.40</Price2>
@@ -76460,7 +76460,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>35</Stock>
 <Miad>2027-07-01</Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -80245,7 +80245,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>40</Stock>
+<Stock>38</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
