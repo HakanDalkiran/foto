@@ -322,7 +322,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>93</Stock>
+<Stock>91</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -2496,14 +2496,14 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>500</Stock>
 <Miad>2026-09-01</Miad>
 <Price>498.00</Price>
-<Price2>469.00</Price2>
-<Price3>487.00</Price3>
-<Price4>409.00</Price4>
-<Price5>407.53</Price5>
-<Price6>407.53</Price6>
+<Price2>790.76</Price2>
+<Price3>537.84</Price3>
+<Price4>557.76</Price4>
+<Price5>557.76</Price5>
+<Price6>557.76</Price6>
 <Price7>790.76</Price7>
 <Price8>790.76</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -8106,7 +8106,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>32</Stock>
+<Stock>30</Stock>
 <Miad>2027-10-01</Miad>
 <Price>712.90</Price>
 <Price2>1084.85</Price2>
@@ -12552,7 +12552,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>525.00</Price>
 <Price2>827.71</Price2>
@@ -15295,7 +15295,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>10</Tax>
-<Stock>226</Stock>
+<Stock>224</Stock>
 <Miad>2027-07-01</Miad>
 <Price>379.90</Price>
 <Price2>629.14</Price2>
@@ -18887,7 +18887,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>160</Stock>
+<Stock>159</Stock>
 <Miad>2026-10-01</Miad>
 <Price>594.90</Price>
 <Price2>923.37</Price2>
@@ -20869,7 +20869,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>230</Stock>
+<Stock>226</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -33626,14 +33626,14 @@
 <Tax>1</Tax>
 <Stock>16</Stock>
 <Miad>2027-10-01</Miad>
-<Price>221.50</Price>
-<Price2>412.37</Price2>
-<Price3>239.22</Price3>
-<Price4>248.08</Price4>
-<Price5>248.08</Price5>
-<Price6>248.08</Price6>
-<Price7>412.37</Price7>
-<Price8>412.37</Price8>
+<Price>282.90</Price>
+<Price2>496.40</Price2>
+<Price3>305.53</Price3>
+<Price4>316.85</Price4>
+<Price5>316.85</Price5>
+<Price6>316.85</Price6>
+<Price7>496.40</Price7>
+<Price8>496.40</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-b12-vitamin-60-tablet-9487.jpg</Image1>
@@ -33864,7 +33864,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>25</Stock>
+<Stock>23</Stock>
 <Miad>2027-05-01</Miad>
 <Price>244.00</Price>
 <Price2>443.16</Price2>
@@ -52394,7 +52394,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad>2026-12-01</Miad>
 <Price>649.90</Price>
 <Price2>998.64</Price2>
@@ -54518,7 +54518,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>324</Stock>
+<Stock>323</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -69208,7 +69208,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2027-10-01</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
