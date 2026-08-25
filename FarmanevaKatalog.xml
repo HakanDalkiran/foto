@@ -20866,7 +20866,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>221</Stock>
+<Stock>220</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -30828,13 +30828,13 @@
 <Stock>4</Stock>
 <Miad>2027-06-01</Miad>
 <Price>498.00</Price>
-<Price2>790.77</Price2>
+<Price2>790.76</Price2>
 <Price3>537.84</Price3>
 <Price4>557.76</Price4>
 <Price5>557.76</Price5>
 <Price6>557.76</Price6>
-<Price7>790.77</Price7>
-<Price8>790.77</Price8>
+<Price7>790.76</Price7>
+<Price8>790.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-saflife-gummy-60-cignenebilir-form-9386.jpg</Image1>
@@ -53207,7 +53207,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>480</Stock>
+<Stock>479</Stock>
 <Miad>2026-10-01</Miad>
 <Price>566.90</Price>
 <Price2>885.05</Price2>
@@ -63290,7 +63290,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1035.00</Price>
 <Price2>1525.65</Price2>
