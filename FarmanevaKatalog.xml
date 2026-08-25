@@ -20821,7 +20821,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>223</Stock>
+<Stock>222</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -71625,7 +71625,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>10</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2027-01-01</Miad>
 <Price>293.90</Price>
 <Price2>511.45</Price2>
@@ -78865,93 +78865,625 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01793]]></Product_code>
-<Barcode>8697796000035</Barcode>
-<Name><![CDATA[Dermoskin Acnegun Onarıcı Gündüz Kremi 30 ml]]></Name>
-<Brand><![CDATA[Dermoskin]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
-<Tax>20</Tax>
+<Product_code><![CDATA[FRMNV01792]]></Product_code>
+<Barcode>8697512322892</Barcode>
+<Name><![CDATA[Freshlife Belbantlı Hasta Bezi Islaklık Göstergeli Large 30 Adet]]></Name>
+<Brand><![CDATA[Freshlife]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Hasta Bezi]]></category>
+<Tax>10</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>434.90</Price>
-<Price2>704.41</Price2>
-<Price3>469.69</Price3>
-<Price4>487.09</Price4>
-<Price5>487.09</Price5>
-<Price6>487.09</Price6>
-<Price7>704.41</Price7>
-<Price8>704.41</Price8>
+<Price>486.90</Price>
+<Price2>775.57</Price2>
+<Price3>525.85</Price3>
+<Price4>545.33</Price4>
+<Price5>545.33</Price5>
+<Price6>545.33</Price6>
+<Price7>775.57</Price7>
+<Price8>775.57</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-acnegun-onarici-gunduz-kremi-30-ml-21151.webp</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-acnegun-onarici-gunduz-kremi-30-ml-21152.webp</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-acnegun-onarici-gunduz-kremi-30-ml-21153.webp</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-acnegun-onarici-gunduz-kremi-30-ml-21154.webp</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-acnegun-onarici-gunduz-kremi-30-ml-21170.webp</Image5>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/freshlife-belbantli-hasta-bezi-islaklik-gostergeli-large-30-adet-21194.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/freshlife-belbantli-hasta-bezi-islaklik-gostergeli-large-30-adet-21195.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/freshlife-belbantli-hasta-bezi-islaklik-gostergeli-large-30-adet-21196.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/freshlife-belbantli-hasta-bezi-islaklik-gostergeli-large-30-adet-21197.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/freshlife-belbantli-hasta-bezi-islaklik-gostergeli-large-30-adet-21198.webp</Image5>
 <Description><![CDATA[<section>
-<p><strong>Dermoskin Acnegun Onar&#305;c&#305; G&#252;nd&#252;z Kremi 30 ml</strong>, ya&#287;l&#305; ve akneye e&#287;ilimli ciltlerin g&#252;nd&#252;z bak&#305;m&#305; i&#231;in geli&#351;tirilmi&#351;, nemlendirici ve onar&#305;c&#305; &#246;zellikte bir y&#252;z kremidir. Cildinde ya&#287;lanma ve p&#252;r&#252;zl&#252; g&#246;r&#252;n&#252;m olan, g&#252;n i&#231;inde hafif dokulu bir bak&#305;m kremi arayan ki&#351;iler i&#231;in uygundur.</p>
-<h2>Dermoskin Acnegun Onar&#305;c&#305; G&#252;nd&#252;z Kremi &#214;zellikleri</h2>
+<p><strong>Freshlife Belbantl&#305; Hasta Bezi Islakl&#305;k G&#246;stergeli Large 30 Adet</strong>, yata&#287;a ba&#287;&#305;ml&#305; ve idrar ka&#231;&#305;rma sorunu ya&#351;ayan yeti&#351;kinler i&#231;in geli&#351;tirilmi&#351;, c&#305;rt c&#305;rtl&#305; bel bantlar&#305;na ve &#305;slakl&#305;k g&#246;stergesine sahip bir hasta bezidir. Evde hasta bak&#305;m&#305; yapan aileler ve bak&#305;c&#305;lar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>Freshlife Belbantl&#305; Hasta Bezi &#214;zellikleri</h2>
 <ul>
-<li>30 ml hacimli g&#252;nd&#252;z bak&#305;m kremidir.</li>
-<li>Esansiyel ya&#287; asitleri i&#231;erir.</li>
-<li>Aloe vera (Aloe Barbadensis) i&#231;eri&#287;ine sahiptir.</li>
-<li>Hamamelis virginiana yaprak ekstresi i&#231;erir.</li>
-<li>Allantoin i&#231;erir.</li>
-<li>AHA ve BHA i&#231;eri&#287;iyle cildin p&#252;r&#252;zl&#252; g&#246;r&#252;n&#252;m&#252;n&#252;n azalmas&#305;na yard&#305;mc&#305; olur.</li>
-<li>Cildi nemlendirirken do&#287;al yap&#305;s&#305;n&#305; desteklemeye yard&#305;mc&#305; olur.</li>
-<li>Boya, parafin, SLES ve parf&#252;m i&#231;ermez; paraben i&#231;ermez.</li>
+<li>Large (b&#252;y&#252;k) beden, 30 adetlik pakette sunulur.</li>
+<li>Islakl&#305;k g&#246;stergesi sayesinde bezin de&#287;i&#351;im zaman&#305; hastay&#305; rahats&#305;z etmeden anla&#351;&#305;l&#305;r.</li>
+<li>Ekstra h&#305;zl&#305; emici &#246;zel tabakas&#305; &#305;slakl&#305;&#287;&#305; h&#305;zla i&#231;ine &#231;eker.</li>
+<li>S&#305;zd&#305;rmaz yan bariyerleri ka&#231;aklar&#305; &#246;nlemeye yard&#305;mc&#305; olur.</li>
+<li>Tekstil d&#305;&#351; y&#252;zeyi cilde daha yumu&#351;ak bir temas sunar.</li>
+<li>Ayarlanabilir c&#305;rt c&#305;rtl&#305; bel bantlar&#305; v&#252;cut yap&#305;s&#305;na uyum sa&#287;lar.</li>
+<li>Belbantl&#305; yap&#305;s&#305; sayesinde yatan hastalarda kolay uygulan&#305;r.</li>
+<li>G&#252;nd&#252;z ve gece kullan&#305;m&#305;na uygundur.</li>
 </ul>
 <h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Temizlenmi&#351; ve kurulanm&#305;&#351; cilde g&#252;nd&#252;z kullan&#305;m&#305; i&#231;in uygulan&#305;r. Az miktarda &#252;r&#252;n&#252; y&#252;z ve boyun b&#246;lgesine yayarak nazik&#231;e masaj yap&#305;n ve emilmesini bekleyin. G&#246;z &#231;evresinden uzak tutun. D&#252;zenli kullan&#305;m &#246;nerilir.</p>
+<p>Bezi hastan&#305;n alt&#305;na, yan kanatlar&#305; v&#252;cudun alt&#305;nda kalacak &#351;ekilde yerle&#351;tirin ve bacak aras&#305;ndan &#246;ne do&#287;ru ge&#231;irin. C&#305;rt c&#305;rtl&#305; bantlar&#305; a&#231;arak &#246;n y&#252;zeye, bel b&#246;lgesini fazla s&#305;kmayacak &#351;ekilde yap&#305;&#351;t&#305;r&#305;n. Islakl&#305;k g&#246;stergesi renk de&#287;i&#351;tirdi&#287;inde bezi de&#287;i&#351;tirin.</p>
 <h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n, temas etmesi halinde bol suyla y&#305;kay&#305;n. Tahri&#351; olmu&#351; veya a&#231;&#305;k yaral&#305; cilde uygulamay&#305;n. K&#305;zar&#305;kl&#305;k, ka&#351;&#305;nt&#305; gibi bir tepki geli&#351;irse kullan&#305;m&#305; b&#305;rak&#305;p hekiminize dan&#305;&#351;&#305;n. AHA ve BHA i&#231;erdi&#287;inden g&#252;nd&#252;z kullan&#305;mda g&#252;ne&#351; koruyucuyla birlikte kullan&#305;lmas&#305; &#246;nerilir. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i, serin ve kuru bir yerde saklay&#305;n.</p>
-<p>Ya&#287;l&#305; ve akneye e&#287;ilimli cildi i&#231;in g&#252;nd&#252;z bak&#305;m&#305; arayanlar Dermoskin Acnegun Onar&#305;c&#305; G&#252;nd&#252;z Kremi 30 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+<p>Tek kullan&#305;ml&#305;kt&#305;r, y&#305;kay&#305;p yeniden kullanmay&#305;n. Kullan&#305;lm&#305;&#351; bezi tuvalete atmay&#305;n. Ciltte k&#305;zar&#305;kl&#305;k, tahri&#351; veya pi&#351;ik geli&#351;irse bez de&#287;i&#351;im s&#305;kl&#305;&#287;&#305;n&#305; art&#305;r&#305;n ve gerekirse hekiminize dan&#305;&#351;&#305;n. Cilt b&#252;t&#252;nl&#252;&#287;&#252; bozulmu&#351; hastalarda sa&#287;l&#305;k personelinin &#246;nerisine uyun. Kuru, serin ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; almayan bir yerde saklay&#305;n.</p>
+<p>Evde hasta bak&#305;m&#305; yapanlar Freshlife Belbantl&#305; Hasta Bezi Islakl&#305;k G&#246;stergeli Large 30 Adet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01794]]></Product_code>
-<Barcode>3600524251574</Barcode>
-<Name><![CDATA[Elseve Collagen Lifter Kolajen Peptitleri İçeren Hacim Veren Saç Bakım Kremi 250 ml]]></Name>
+<Product_code><![CDATA[FRMNV01795]]></Product_code>
+<Barcode>3600524251468</Barcode>
+<Name><![CDATA[Elseve Collagen Lifter Şampuan 300 ml]]></Name>
 <Brand><![CDATA[Elseve]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
+<subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>249.90</Price>
-<Price2>451.24</Price2>
-<Price3>269.89</Price3>
-<Price4>279.89</Price4>
-<Price5>279.89</Price5>
-<Price6>279.89</Price6>
-<Price7>451.24</Price7>
-<Price8>451.24</Price8>
+<Price>229.90</Price>
+<Price2>423.87</Price2>
+<Price3>248.29</Price3>
+<Price4>257.49</Price4>
+<Price5>257.49</Price5>
+<Price6>257.49</Price6>
+<Price7>423.87</Price7>
+<Price8>423.87</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-kolajen-peptitleri-iceren-hacim-veren-sac-bakim-kremi-250-ml-21155.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-kolajen-peptitleri-iceren-hacim-veren-sac-bakim-kremi-250-ml-21156.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-kolajen-peptitleri-iceren-hacim-veren-sac-bakim-kremi-250-ml-21157.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-kolajen-peptitleri-iceren-hacim-veren-sac-bakim-kremi-250-ml-21158.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-kolajen-peptitleri-iceren-hacim-veren-sac-bakim-kremi-250-ml-21159.jpg</Image5>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-21199.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-21200.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-21201.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-21202.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-21203.jpg</Image5>
 <Description><![CDATA[<section>
-<p><strong>Elseve Collagen Lifter Kolajen Peptitleri &#304;&#231;eren Hacim Veren Sa&#231; Bak&#305;m Kremi 250 ml</strong>, kolajen peptitleri i&#231;eren, ince telli ve hacmini kaybetmi&#351; sa&#231;lar i&#231;in geli&#351;tirilmi&#351; bir durulanan sa&#231; bak&#305;m kremidir. Sa&#231;&#305;n&#305; a&#287;&#305;rla&#351;t&#305;rmadan dolgun ve hacimli bir g&#246;r&#252;n&#252;m arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>Elseve Collagen Lifter Sa&#231; Bak&#305;m Kremi &#214;zellikleri</h2>
+<p><strong>Elseve Collagen Lifter &#350;ampuan 300 ml</strong>, kolajen peptitleri i&#231;eren, ince telli ve hacmi azalm&#305;&#351; sa&#231;lar i&#231;in geli&#351;tirilmi&#351; hacim veren bir bak&#305;m &#351;ampuan&#305;d&#305;r. Sa&#231;&#305;n&#305; y&#305;karken hem temizlemek hem de k&#246;klerden ba&#351;layan dolgun bir g&#246;r&#252;n&#252;m elde etmek isteyenler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>Elseve Collagen Lifter &#350;ampuan &#214;zellikleri</h2>
 <ul>
-<li>250 ml hacimli, durulanan sa&#231; bak&#305;m kremidir.</li>
-<li>Kolajen peptitleri (Palmitoyl Tripeptide-1 ve Palmitoyl Tetrapeptide-7) i&#231;erir.</li>
-<li>Sa&#231;&#305; k&#246;kten kald&#305;rarak hacimli bir g&#246;r&#252;n&#252;m kazand&#305;rmaya yard&#305;mc&#305; olur.</li>
-<li>A&#287; yap&#305;l&#305; &#246;zel dokusu sayesinde sa&#231; telleri &#252;zerinde e&#351;it da&#287;&#305;l&#305;r.</li>
-<li>48 saat boyunca temiz, parlak ve nemlendirilmi&#351; bir g&#246;r&#252;n&#252;m sunar.</li>
-<li>&#214;zellikle ince telli sa&#231;lar i&#231;in uygundur.</li>
-<li>Elseve Collagen Lifter &#351;ampuan ve sa&#231; spreyi ile birlikte rutin olarak kullan&#305;labilir.</li>
-<li>Sa&#231;&#305; a&#287;&#305;rla&#351;t&#305;rmayan hafif bir bak&#305;m sa&#287;lar.</li>
+<li>300 ml hacimli hacim veren bak&#305;m &#351;ampuan&#305;d&#305;r.</li>
+<li>Kolajen peptitleri i&#231;eren form&#252;le sahiptir.</li>
+<li>Sa&#231;&#305; k&#246;klerden kald&#305;rarak hacimli bir g&#246;r&#252;n&#252;m kazand&#305;rmaya yard&#305;mc&#305; olur.</li>
+<li>72 saate kadar sa&#231;&#305; a&#287;&#305;rla&#351;t&#305;rmadan hacim hissi sunar.</li>
+<li>Sa&#231;&#305;n k&#246;kleri, uzunluklar&#305; ve u&#231;lar&#305; i&#231;in birlikte kullan&#305;ma uygundur.</li>
+<li>&#214;zellikle ince telli sa&#231;lar i&#231;in geli&#351;tirilmi&#351;tir.</li>
+<li>Elseve Collagen Lifter sa&#231; bak&#305;m kremi ve sa&#231; spreyi ile ayn&#305; rutinde kullan&#305;labilir.</li>
+<li>G&#252;nl&#252;k sa&#231; bak&#305;m rutinine kolayca eklenir.</li>
 </ul>
 <h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>&#350;ampuanla y&#305;kad&#305;ktan sonra sa&#231;&#305;n&#305;z&#305;n uzunluklar&#305;na ve u&#231;lar&#305;na uygulay&#305;n. Yakla&#351;&#305;k 1 dakika bekletin ve bol suyla iyice durulay&#305;n. Her y&#305;kamada kullan&#305;labilir.</p>
+<p>Islak sa&#231;a uygulay&#305;n, sa&#231; derisine ve sa&#231; boyunca masaj yaparak k&#246;p&#252;rt&#252;n ve bol suyla durulay&#305;n. Gerekirse i&#351;lemi tekrarlay&#305;n. Ard&#305;ndan Elseve Collagen Lifter sa&#231; bak&#305;m kremi ile devam edilebilir.</p>
 <h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen, sa&#231; bak&#305;m&#305; ama&#231;l&#305; kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas etmesi halinde g&#246;z&#252;n&#252;z&#252; bol suyla y&#305;kay&#305;n. Sa&#231; derisinde k&#305;zar&#305;kl&#305;k, ka&#351;&#305;nt&#305; gibi bir tepki geli&#351;irse kullan&#305;m&#305; b&#305;rak&#305;n ve gerekirse hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n.</p>
-<p>&#304;nce telli sa&#231;lar&#305; i&#231;in hacim arayanlar Elseve Collagen Lifter Kolajen Peptitleri &#304;&#231;eren Hacim Veren Sa&#231; Bak&#305;m Kremi 250 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+<p>Yaln&#305;zca haricen, sa&#231; bak&#305;m&#305; ama&#231;l&#305; kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas etmesi halinde g&#246;z&#252;n&#252;z&#252; bol suyla y&#305;kay&#305;n. Sa&#231; derisinde ka&#351;&#305;nt&#305; veya k&#305;zar&#305;kl&#305;k geli&#351;irse kullan&#305;m&#305; b&#305;rak&#305;n ve gerekirse hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde, serin ve kuru ortamda saklay&#305;n.</p>
+<p>Sa&#231;&#305;nda hacim ve dolgunluk arayanlar Elseve Collagen Lifter &#350;ampuan 300 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01796]]></Product_code>
+<Barcode>3600542384537</Barcode>
+<Name><![CDATA[Garnier Color Naturel Çarpıcı Renkler Boya 6.35 Çarpici Altin Kahve]]></Name>
+<Brand><![CDATA[Garnier]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Saç Boyası]]></subCategory>
+<Tax>20</Tax>
+<Stock>0</Stock>
+<Miad></Miad>
+<Price>164.90</Price>
+<Price2>334.92</Price2>
+<Price3>178.09</Price3>
+<Price4>184.69</Price4>
+<Price5>184.69</Price5>
+<Price6>184.69</Price6>
+<Price7>334.92</Price7>
+<Price8>334.92</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-color-naturel-carpici-renkler-boya-6-35-carpici-altin-kahve-21204.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-color-naturel-carpici-renkler-boya-6-35-carpici-altin-kahve-21205.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-color-naturel-carpici-renkler-boya-6-35-carpici-altin-kahve-21206.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-color-naturel-carpici-renkler-boya-6-35-carpici-altin-kahve-21207.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-color-naturel-carpici-renkler-boya-6-35-carpici-altin-kahve-21208.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Garnier Color Naturel &#199;arp&#305;c&#305; Renkler Boya 6.35 &#199;arpici Altin Kahve</strong>, sa&#231;a &#231;arp&#305;c&#305; alt&#305;n kahve tonu kazand&#305;ran kal&#305;c&#305; krem sa&#231; boyas&#305;d&#305;r. Evde kendi sa&#231;&#305;n&#305; boyamak ve do&#287;al g&#246;r&#252;n&#252;ml&#252;, s&#305;cak bir kahve tonu elde etmek isteyenler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>Garnier Color Naturel 6.35 &#214;zellikleri</h2>
+<ul>
+<li>6.35 numaral&#305; &#199;arp&#305;c&#305; Alt&#305;n Kahve tonunu verir.</li>
+<li>Kal&#305;c&#305; krem sa&#231; boyas&#305;d&#305;r.</li>
+<li>10 haftaya kadar kal&#305;c&#305; renk sunar.</li>
+<li>&#304;nci &#246;z&#252; i&#231;erir.</li>
+<li>&#199;i&#231;ek ya&#287;lar&#305; i&#231;eren form&#252;le sahiptir.</li>
+<li>Sa&#231;&#305; besleyerek daha yumu&#351;ak bir g&#246;r&#252;n&#252;m elde edilmesine yard&#305;mc&#305; olur.</li>
+<li>Boyama s&#305;ras&#305;nda sa&#231; telinin &#252;zerinde koruyucu bir bariyer olu&#351;mas&#305;na destek olur.</li>
+<li>Evde tek ba&#351;&#305;na uygulamaya uygun kit halinde sunulur.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Kullanmadan 48 saat &#246;nce kutu i&#231;indeki talimata g&#246;re alerji testi yap&#305;n. Eldivenleri tak&#305;n, boya kremi ile geli&#351;tirici kremi kutudaki tarife g&#246;re kar&#305;&#351;t&#305;r&#305;n ve kuru, y&#305;kanmam&#305;&#351; sa&#231;a k&#246;klerden u&#231;lara do&#287;ru uygulay&#305;n. Kutuda belirtilen bekleme s&#252;resi dolunca sa&#231;&#305;n&#305;z&#305; su berrakla&#351;ana kadar durulay&#305;n ve verilen bak&#305;m kremini uygulay&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Sa&#231; boyalar&#305; alerjik reaksiyona yol a&#231;abilir; her uygulamadan &#246;nce alerji testi yap&#305;n. Daha &#246;nce sa&#231; boyas&#305;na tepki verdiyseniz kullanmay&#305;n. 16 ya&#351;&#305;ndan k&#252;&#231;&#252;klerde kullan&#305;lmaz. Ka&#351; ve kirpik boyamada kullanmay&#305;n. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n, temas ederse bol suyla y&#305;kay&#305;n. Sa&#231; derisi tahri&#351; veya yaral&#305; ise uygulamay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Evde alt&#305;n kahve tonunu denemek isteyenler Garnier Color Naturel &#199;arp&#305;c&#305; Renkler Boya 6.35 &#199;arpici Altin Kahve &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01797]]></Product_code>
+<Barcode>8697448351492</Barcode>
+<Name><![CDATA[Hardline Nutrition Creatine 100% Micronized 5000 mg 300 gr]]></Name>
+<Brand><![CDATA[Hardline Nutrition]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<Tax>1</Tax>
+<Stock>0</Stock>
+<Miad>2029-07-01</Miad>
+<Price>899.90</Price>
+<Price2>1340.76</Price2>
+<Price3>971.89</Price3>
+<Price4>1007.89</Price4>
+<Price5>1007.89</Price5>
+<Price6>1007.89</Price6>
+<Price7>1340.76</Price7>
+<Price8>1340.76</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-creatine-100-micronized-5000-mg-300-gr-21209.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-creatine-100-micronized-5000-mg-300-gr-21210.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-creatine-100-micronized-5000-mg-300-gr-21211.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-creatine-100-micronized-5000-mg-300-gr-21212.png</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-creatine-100-micronized-5000-mg-300-gr-21213.webp</Image5>
+<Description><![CDATA[<section>
+<p><strong>Hardline Nutrition Creatine 100% Micronized 5000 mg 300 gr</strong>, porsiyon ba&#351;&#305;na 5.000 mg mikronize kreatin monohidrat i&#231;eren, aromas&#305;z toz formda bir takviye edici g&#305;dad&#305;r. D&#252;zenli antrenman yapan ve kreatin takviyesini sade bi&#231;imde kullanmak isteyen sporcular i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p>
+<h2>Hardline Creatine 100% Micronized &#214;zellikleri</h2>
+<ul>
+<li>300 graml&#305;k ambalajda sunulur ve 60 porsiyon i&#231;erir.</li>
+<li>Her porsiyonda (1 &#246;l&#231;ek, 5 g) 5.000 mg kreatin monohidrat bulunur.</li>
+<li>Mikronize edilmi&#351; toz yap&#305;s&#305; sayesinde suda daha kolay da&#287;&#305;l&#305;r.</li>
+<li>Aromas&#305;zd&#305;r; i&#231;eceklere kar&#305;&#351;t&#305;r&#305;labilir.</li>
+<li>Tekrarl&#305; y&#252;ksek &#351;iddetli egzersizlerde fiziksel performansa katk&#305; sa&#287;layan kreatin i&#231;erir.</li>
+<li>&#350;eker ve yapay tatland&#305;r&#305;c&#305; i&#231;ermez.</li>
+<li>Laktoz ve gl&#252;ten i&#231;ermez.</li>
+<li>GDO, yapay renklendirici ve koruyucu i&#231;ermez; hayvansal i&#231;erik bar&#305;nd&#305;rmaz.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>1 porsiyonu (1 &#246;l&#231;ek, 5 g) bir bardak (200 ml) su ile kar&#305;&#351;t&#305;rarak antrenman &#246;ncesinde t&#252;ketin. G&#252;nl&#252;k 3 g kreatin al&#305;m&#305;, tekrarl&#305; k&#305;sa s&#252;reli y&#252;ksek &#351;iddetli egzersizlerde fiziksel performansa katk&#305; sa&#287;lar.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r; normal beslenmenin yerine ge&#231;mez. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, ila&#231; kullananlarda ve kronik hastal&#305;&#287;&#305; olanlarda hekime dan&#305;&#351;&#305;lmadan kullan&#305;lmamal&#305;d&#305;r. 18 ya&#351; alt&#305; i&#231;in &#246;nerilmez. Kullan&#305;m s&#252;resince yeterli s&#305;v&#305; t&#252;ketimine dikkat edin. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde, kuru ve serin ortamda saklay&#305;n.</p>
+<p>Antrenman rutinine kreatin eklemek isteyen sporcular Hardline Nutrition Creatine 100% Micronized 5000 mg 300 gr &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01798]]></Product_code>
+<Barcode>8697448351881</Barcode>
+<Name><![CDATA[Hardline Nutrition Vmax Çikolata 908 gr]]></Name>
+<Brand><![CDATA[Hardline Nutrition]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<Tax>1</Tax>
+<Stock>0</Stock>
+<Miad>2027-02-01</Miad>
+<Price>1466.00</Price>
+<Price2>2115.47</Price2>
+<Price3>1583.28</Price3>
+<Price4>1641.92</Price4>
+<Price5>1641.92</Price5>
+<Price6>1641.92</Price6>
+<Price7>2115.47</Price7>
+<Price8>2115.47</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-vmax-cikolata-908-gr-21214.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-vmax-cikolata-908-gr-21215.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-vmax-cikolata-908-gr-21216.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-vmax-cikolata-908-gr-21217.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-vmax-cikolata-908-gr-21218.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Hardline Nutrition Vmax &#199;ikolata 908 gr</strong>, bezelye proteininden &#252;retilmi&#351;, &#231;ikolata aromal&#305; bitkisel protein tozudur. Hayvansal i&#231;erik kullanmadan protein al&#305;m&#305;n&#305; art&#305;rmak isteyen, vejetaryen ve vegan beslenen sporcular i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p>
+<h2>Hardline Vmax &#199;ikolata 908 gr &#214;zellikleri</h2>
+<ul>
+<li>908 graml&#305;k ambalajda sunulur ve 32 porsiyon i&#231;erir.</li>
+<li>Protein kayna&#287;&#305; bezelye proteinidir; bitkisel kaynakl&#305;d&#305;r.</li>
+<li>Her porsiyonda (28 g) 23 g protein bulunur.</li>
+<li>4.506 mg BCAA i&#231;erir.</li>
+<li>4.203 mg glutamin &#246;nc&#252;s&#252; i&#231;erir.</li>
+<li>2.176 mg arjinin i&#231;erir.</li>
+<li>Porsiyon ba&#351;&#305;na 7,6 mg demir i&#231;erir.</li>
+<li>&#350;eker i&#231;ermez ve ilave karbonhidrat bar&#305;nd&#305;rmaz; vejetaryen ve vegan beslenmeye uygundur.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>1 porsiyonu (1 &#246;l&#231;ek, 60 cc = 28 g) 300 ml su ile kar&#305;&#351;t&#305;rarak t&#252;ketin. Antrenman &#246;ncesinde ve sonras&#305;nda kullan&#305;ma uygundur. Kar&#305;&#351;&#305;m&#305; haz&#305;rlad&#305;ktan sonra bekletmeden t&#252;ketmeniz &#246;nerilir.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r; normal beslenmenin yerine ge&#231;mez ve dengeli beslenmenin alternatifi de&#287;ildir. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, ila&#231; kullananlarda ve kronik hastal&#305;&#287;&#305; olanlarda hekime dan&#305;&#351;&#305;lmadan kullan&#305;lmamal&#305;d&#305;r. 18 ya&#351; alt&#305; i&#231;in &#246;nerilmez. Baklagil alerjisi olanlar i&#231;eri&#287;i kontrol etmelidir. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde, kuru ve serin ortamda saklay&#305;n.</p>
+<p>Bitkisel protein arayan sporcular Hardline Nutrition Vmax &#199;ikolata 908 gr &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01799]]></Product_code>
+<Barcode>8697448351553</Barcode>
+<Name><![CDATA[Hardline Nutrition Whey 3Matrix Protein Tozu Çikolata 210 gr]]></Name>
+<Brand><![CDATA[Hardline Nutrition]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<Tax>1</Tax>
+<Stock>0</Stock>
+<Miad>2029-04-01</Miad>
+<Price>944.00</Price>
+<Price2>1401.11</Price2>
+<Price3>1019.52</Price3>
+<Price4>1057.28</Price4>
+<Price5>1057.28</Price5>
+<Price6>1057.28</Price6>
+<Price7>1401.11</Price7>
+<Price8>1401.11</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-whey-3matrix-protein-tozu-cikolata-210-gr-21219.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-whey-3matrix-protein-tozu-cikolata-210-gr-21220.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-whey-3matrix-protein-tozu-cikolata-210-gr-21221.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-whey-3matrix-protein-tozu-cikolata-210-gr-21222.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-whey-3matrix-protein-tozu-cikolata-210-gr-21223.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Hardline Nutrition Whey 3Matrix Protein Tozu &#199;ikolata 210 gr</strong>, &#252;&#231; farkl&#305; peynir alt&#305; suyu proteinini bir arada sunan, &#231;ikolata aromal&#305; toz formda bir takviye edici g&#305;dad&#305;r. Whey proteinini denemek isteyen ya da yan&#305;nda ta&#351;&#305;yaca&#287;&#305; k&#252;&#231;&#252;k ambalaj arayan sporcular i&#231;in uygundur.</p>
+<h2>Hardline Whey 3Matrix &#199;ikolata 210 gr &#214;zellikleri</h2>
+<ul>
+<li>210 graml&#305;k k&#252;&#231;&#252;k ambalajda sunulur ve 7 porsiyon i&#231;erir.</li>
+<li>Whey protein konsantre, whey protein izolat ve whey protein hidrolizat kar&#305;&#351;&#305;m&#305; i&#231;erir.</li>
+<li>Her porsiyonda (30 g) 24,1 g protein bulunur.</li>
+<li>Form&#252;l&#252;ne 2.000 mg kreatin monohidrat eklenmi&#351;tir.</li>
+<li>1,4 mg B6 vitamini i&#231;erir.</li>
+<li>&#304;lave &#351;eker, karbonhidrat ve ya&#287; i&#231;ermez.</li>
+<li>GDO, yapay renklendirici ve koruyucu i&#231;ermez.</li>
+<li>Gl&#252;ten i&#231;ermez; et ve domuz t&#252;revi i&#231;ermez.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>1 porsiyonu (1 &#246;l&#231;ek, 75 cc = 30 g) 150 ml su veya az ya&#287;l&#305; s&#252;t ile kar&#305;&#351;t&#305;r&#305;n. Antrenmandan 30 dakika &#246;nce ve hemen sonra olmak &#252;zere g&#252;nde 1-2 porsiyon (30-60 g) t&#252;ketilebilir.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r; normal beslenmenin yerine ge&#231;mez. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, ila&#231; kullananlarda ve kronik hastal&#305;&#287;&#305; olanlarda hekime dan&#305;&#351;&#305;lmadan kullan&#305;lmamal&#305;d&#305;r. 18 ya&#351; alt&#305; i&#231;in &#246;nerilmez. S&#252;t proteini i&#231;erdi&#287;inden s&#252;t alerjisi olanlar&#305;n kullanmas&#305; uygun de&#287;ildir. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde, kuru ve serin ortamda saklay&#305;n.</p>
+<p>K&#252;&#231;&#252;k ambalajda whey protein arayan sporcular Hardline Nutrition Whey 3Matrix Protein Tozu &#199;ikolata 210 gr &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01800]]></Product_code>
+<Barcode>8697448351423</Barcode>
+<Name><![CDATA[Hardline Progainer Çikolata 3 kg]]></Name>
+<Brand><![CDATA[Hardline Nutrition]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<Tax>1</Tax>
+<Stock>0</Stock>
+<Miad>2029-07-01</Miad>
+<Price>2268.00</Price>
+<Price2>3213.01</Price2>
+<Price3>2449.44</Price3>
+<Price4>2540.16</Price4>
+<Price5>2540.16</Price5>
+<Price6>2540.16</Price6>
+<Price7>3213.01</Price7>
+<Price8>3213.01</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-progainer-cikolata-3-kg-21224.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-progainer-cikolata-3-kg-21225.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-progainer-cikolata-3-kg-21226.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-progainer-cikolata-3-kg-21227.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-progainer-cikolata-3-kg-21228.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Hardline Progainer &#199;ikolata 3 kg</strong>, karbonhidrat ve proteini birlikte sunan &#231;ikolata aromal&#305; toz takviye edici g&#305;dan&#305;n 3 kilograml&#305;k b&#252;y&#252;k boy ambalaj&#305;d&#305;r. D&#252;zenli olarak y&#252;ksek kalori ve protein almas&#305; gereken, uzun s&#252;reli kullan&#305;m i&#231;in ekonomik bir ambalaj arayan sporcular i&#231;in uygundur.</p>
+<h2>Hardline Progainer &#199;ikolata 3 kg &#214;zellikleri</h2>
+<ul>
+<li>3000 graml&#305;k b&#252;y&#252;k boy ambalajda sunulur ve 15 porsiyon i&#231;erir.</li>
+<li>Bir porsiyonu 787 kalori sa&#287;lar.</li>
+<li>Porsiyon ba&#351;&#305;na 38 g protein, 156 g karbonhidrat ve 1,4 g ya&#287; i&#231;erir.</li>
+<li>Porsiyon ba&#351;&#305;na 2.500 mg kreatin monohidrat i&#231;erir.</li>
+<li>Porsiyon ba&#351;&#305;na 1.000 mg L-glutamin ve 1.000 mg taurin i&#231;erir.</li>
+<li>C vitamini, B1, B2, B3, B6, B12 vitaminleri ve folik asit ile zenginle&#351;tirilmi&#351;tir.</li>
+<li>Kalsiyum, fosfor ve &#231;inko i&#231;erir.</li>
+<li>Yapay renklendirici, koruyucu ve GDO i&#231;ermez.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>1 porsiyonu (200 g, 5 &#246;l&#231;ek) 375-500 ml su veya s&#252;t ile kar&#305;&#351;t&#305;rarak t&#252;ketin. G&#252;nde 2 kez, &#246;&#287;&#252;n aralar&#305;nda ya da antrenmandan 60 dakika &#246;nce veya hemen sonra kullan&#305;labilir. Laktoz hassasiyeti olanlar&#305;n su ile kar&#305;&#351;t&#305;rmas&#305; &#246;nerilir.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r; normal beslenmenin yerine ge&#231;mez. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, ila&#231; kullananlarda ve kronik hastal&#305;&#287;&#305; olanlarda hekime dan&#305;&#351;&#305;lmadan kullan&#305;lmamal&#305;d&#305;r. 18 ya&#351; alt&#305; i&#231;in &#246;nerilmez. S&#252;t &#252;r&#252;nleri i&#231;erdi&#287;inden alerjisi olanlar i&#231;eri&#287;i kontrol etmelidir. Ambalaj&#305; a&#231;&#305;ld&#305;ktan sonra a&#287;z&#305;n&#305; kapal&#305; tutun; &#231;ocuklar&#305;n eri&#351;emeyece&#287;i yerde, kuru ve serin ortamda saklay&#305;n.</p>
+<p>Uzun s&#252;reli kullan&#305;m i&#231;in b&#252;y&#252;k boy arayan sporcular Hardline Progainer &#199;ikolata 3 kg &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01801]]></Product_code>
+<Barcode>3600524122133</Barcode>
+<Name><![CDATA[Loreal Paris Excellence Creme Saç Boyası 6.32 Altın Açık Kahve]]></Name>
+<Brand><![CDATA[L'oreal Paris]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Saç Boyası]]></subCategory>
+<Tax>20</Tax>
+<Stock>0</Stock>
+<Miad></Miad>
+<Price>439.90</Price>
+<Price2>711.25</Price2>
+<Price3>475.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/loreal-paris-excellence-creme-sac-boyasi-6-32-altin-acik-kahve-21229.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/loreal-paris-excellence-creme-sac-boyasi-6-32-altin-acik-kahve-21230.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/loreal-paris-excellence-creme-sac-boyasi-6-32-altin-acik-kahve-21231.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/loreal-paris-excellence-creme-sac-boyasi-6-32-altin-acik-kahve-21232.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/loreal-paris-excellence-creme-sac-boyasi-6-32-altin-acik-kahve-21233.webp</Image5>
+<Description><![CDATA[<section>
+<p><strong>Loreal Paris Excellence Creme Sa&#231; Boyas&#305; 6.32 Alt&#305;n A&#231;&#305;k Kahve</strong>, sa&#231;a alt&#305;n yans&#305;mal&#305; a&#231;&#305;k kahve tonu kazand&#305;ran kal&#305;c&#305; krem sa&#231; boyas&#305;d&#305;r. Beyaz tellerini kapatmak ve sa&#231;&#305;n&#305; boyarken bak&#305;m da yapmak isteyenler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>Excellence Creme 6.32 Alt&#305;n A&#231;&#305;k Kahve &#214;zellikleri</h2>
+<ul>
+<li>6.32 numaral&#305; Alt&#305;n A&#231;&#305;k Kahve tonunu verir.</li>
+<li>Kal&#305;c&#305; krem sa&#231; boyas&#305;d&#305;r.</li>
+<li>Beyaz telleri kapatarak do&#287;al bir g&#246;r&#252;n&#252;m elde edilmesine yard&#305;mc&#305; olur.</li>
+<li>&#220;&#231; a&#351;amal&#305; bak&#305;m sistemi ile boyama s&#305;ras&#305;nda sa&#231;a bak&#305;m deste&#287;i sunar.</li>
+<li>Pro-Keratin i&#231;eren form&#252;le sahiptir.</li>
+<li>Boyamadan &#246;nce kullan&#305;lan koruyucu serum i&#231;erir.</li>
+<li>Seramid i&#231;eren bak&#305;m maskesi ile birlikte sunulur.</li>
+<li>Sa&#231;&#305; a&#287;&#305;rla&#351;t&#305;rmadan besleyen bir bak&#305;m ad&#305;m&#305; i&#231;erir.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Kullanmadan 48 saat &#246;nce kutu i&#231;indeki talimata g&#246;re alerji testi yap&#305;n. Eldivenleri tak&#305;n, &#246;nce koruyucu serumu kuru sa&#231;a uygulay&#305;n, ard&#305;ndan boya kremi ile geli&#351;tiriciyi kutudaki tarife g&#246;re kar&#305;&#351;t&#305;r&#305;p sa&#231;a s&#252;r&#252;n. Belirtilen bekleme s&#252;resi sonunda su berrakla&#351;ana kadar durulay&#305;n ve verilen bak&#305;m maskesini uygulay&#305;p durulay&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Sa&#231; boyalar&#305; alerjik reaksiyona yol a&#231;abilir; her uygulamadan &#246;nce alerji testi yap&#305;n. Daha &#246;nce sa&#231; boyas&#305;na tepki verdiyseniz kullanmay&#305;n. 16 ya&#351;&#305;ndan k&#252;&#231;&#252;klerde kullan&#305;lmaz. Ka&#351; ve kirpik boyamada kullanmay&#305;n. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n, temas ederse bol suyla y&#305;kay&#305;n. Sa&#231; derisi tahri&#351; veya yaral&#305; ise uygulamay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Alt&#305;n yans&#305;mal&#305; a&#231;&#305;k kahve tonunu evde denemek isteyenler Loreal Paris Excellence Creme Sa&#231; Boyas&#305; 6.32 Alt&#305;n A&#231;&#305;k Kahve &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01802]]></Product_code>
+<Barcode>6924607701815</Barcode>
+<Name><![CDATA[Mesilife Birleşik Elektro Terapi Cihazı Ktr-2610]]></Name>
+<Brand><![CDATA[Mesilife]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
+<Tax>10</Tax>
+<Stock>0</Stock>
+<Miad></Miad>
+<Price>1619.90</Price>
+<Price2>2326.08</Price2>
+<Price3>1749.49</Price3>
+<Price4>1814.29</Price4>
+<Price5>1814.29</Price5>
+<Price6>1814.29</Price6>
+<Price7>2326.08</Price7>
+<Price8>2326.08</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-birlesik-elektro-terapi-cihazi-ktr-2610-21234.png</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-birlesik-elektro-terapi-cihazi-ktr-2610-21235.png</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-birlesik-elektro-terapi-cihazi-ktr-2610-21236.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-birlesik-elektro-terapi-cihazi-ktr-2610-21237.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-birlesik-elektro-terapi-cihazi-ktr-2610-21238.webp</Image5>
+<Description><![CDATA[<section>
+<p><strong>Mesilife Birle&#351;ik Elektro Terapi Cihaz&#305; Ktr-2610</strong>, TENS, EMS ve masaj i&#351;levlerini tek g&#246;vdede toplayan &#351;arj edilebilir bir elektro terapi cihaz&#305;d&#305;r. Kas ve eklem b&#246;lgelerindeki gerginlik ve a&#287;r&#305; hissi nedeniyle evde uygulanabilen destekleyici bir elektro stim&#252;lasyon &#231;&#246;z&#252;m&#252; arayan yeti&#351;kinler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>Mesilife Ktr-2610 &#214;zellikleri</h2>
+<ul>
+<li>TENS, EMS ve masaj modlar&#305;n&#305; tek cihazda birle&#351;tirir.</li>
+<li>&#350;arj edilebilir bataryas&#305; sayesinde s&#252;rekli pil de&#287;i&#351;tirmeye gerek b&#305;rakmaz.</li>
+<li>Ak&#305;m yo&#287;unlu&#287;u kademeli olarak ayarlanabilir.</li>
+<li>Ekran &#252;zerinden program ve yo&#287;unluk se&#231;imi yap&#305;l&#305;r.</li>
+<li>Yap&#305;&#351;kan elektrot pedleri ile cilt &#252;zerine uygulan&#305;r.</li>
+<li>K&#252;&#231;&#252;k ve hafif g&#246;vdesiyle ta&#351;&#305;nabilir kullan&#305;ma uygundur.</li>
+<li>Ta&#351;&#305;ma kab&#305; ile birlikte sunulur.</li>
+<li>Ev kullan&#305;m&#305;na y&#246;nelik pratik bir tasar&#305;ma sahiptir.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Cihaz&#305; kullanmadan &#246;nce &#351;arj edin. Elektrot pedlerini temiz ve kuru cilde, uygulama yap&#305;lacak b&#246;lgeye yap&#305;&#351;t&#305;r&#305;n ve kablolar&#305; cihaza tak&#305;n. Cihaz&#305; a&#231;&#305;p uygun program&#305; se&#231;in, ard&#305;ndan yo&#287;unlu&#287;u en d&#252;&#351;&#252;k kademeden ba&#351;layarak rahat hissetti&#287;iniz d&#252;zeye kadar art&#305;r&#305;n. Uygulama sonunda cihaz&#305; kapat&#305;n, pedleri dikkatlice &#231;&#305;kar&#305;n ve koruyucu filmine geri yap&#305;&#351;t&#305;rarak saklay&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Kalp pili veya implante edilmi&#351; elektronik cihaz ta&#351;&#305;yanlarda, gebelikte, kalp ritim bozuklu&#287;u ve epilepsi gibi durumlarda kullanmadan &#246;nce mutlaka hekiminize dan&#305;&#351;&#305;n. Pedleri kalp b&#246;lgesine, boynun &#246;n y&#252;z&#252;ne, ba&#351;a ve yaral&#305;, tahri&#351; olmu&#351; cilde uygulamay&#305;n. Cihaz t&#305;bbi tan&#305; koymaz ve hekim tedavisinin yerine ge&#231;mez. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i, kuru bir yerde saklay&#305;n.</p>
+<p>Evde pratik bir elektro terapi deste&#287;i arayanlar Mesilife Birle&#351;ik Elektro Terapi Cihaz&#305; Ktr-2610 modelini Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01803]]></Product_code>
+<Barcode>8681873073814</Barcode>
+<Name><![CDATA[Mesilife Dijital Bebek Tartısı]]></Name>
+<Brand><![CDATA[Mesilife]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Baskül]]></category>
+<Tax>20</Tax>
+<Stock>0</Stock>
+<Miad></Miad>
+<Price>2999.90</Price>
+<Price2>4214.61</Price2>
+<Price3>3239.89</Price3>
+<Price4>3359.89</Price4>
+<Price5>3359.89</Price5>
+<Price6>3359.89</Price6>
+<Price7>4214.61</Price7>
+<Price8>4214.61</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-dijital-bebek-tartisi-21239.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-dijital-bebek-tartisi-21240.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-dijital-bebek-tartisi-21241.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-dijital-bebek-tartisi-21242.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-dijital-bebek-tartisi-21243.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Mesilife Dijital Bebek Tart&#305;s&#305;</strong>, bebeklerin kilo takibi i&#231;in geli&#351;tirilmi&#351;, dijital boy &#246;l&#231;&#252;m &#252;nitesi de bulunan bir bebek tart&#305;s&#305;d&#305;r. Yenido&#287;an d&#246;neminden itibaren bebe&#287;inin kilo ve boy geli&#351;imini evde d&#252;zenli olarak izlemek isteyen ebeveynler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>Mesilife Dijital Bebek Tart&#305;s&#305; &#214;zellikleri</h2>
+<ul>
+<li>Maksimum 20 kg tart&#305;m kapasitesine sahiptir.</li>
+<li>5 gram aral&#305;kl&#305; hassas &#246;l&#231;&#252;m yapar.</li>
+<li>Dijital boy &#246;l&#231;&#252;m &#252;nitesi ile birlikte sunulur.</li>
+<li>Hareketli bebeklerde &#246;l&#231;&#252;m&#252; kolayla&#351;t&#305;ran sabitleme fonksiyonu vard&#305;r.</li>
+<li>Dara fonksiyonu ile ekran kolayca s&#305;f&#305;rlan&#305;r.</li>
+<li>K&#252;veti &#231;&#305;kar&#305;labilir; y&#252;r&#252;meye ba&#351;layan &#231;ocuklar ayakta tart&#305;labilir.</li>
+<li>Ekstra b&#252;y&#252;k ekran&#305; de&#287;erlerin rahat okunmas&#305;n&#305; sa&#287;lar.</li>
+<li>Ergonomik g&#246;vdesi g&#252;venli ve konforlu kullan&#305;m sunar.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Tart&#305;y&#305; d&#252;z, sert ve sabit bir zemine yerle&#351;tirin. Cihaz&#305; a&#231;&#305;n, ekranda s&#305;f&#305;r de&#287;erini g&#246;r&#252;n ve gerekiyorsa bebe&#287;in alt&#305;na serilecek &#246;rt&#252;y&#252; koyup dara tu&#351;uyla ekran&#305; s&#305;f&#305;rlay&#305;n. Bebe&#287;i k&#252;vete yat&#305;r&#305;n, de&#287;er sabitlenene kadar bekleyin ve ekrandaki sonucu okuyun. Boy &#246;l&#231;&#252;m&#252; i&#231;in &#246;l&#231;&#252;m &#252;nitesini bebe&#287;in boyuna g&#246;re ayarlay&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bebe&#287;i tart&#305; &#252;zerinde asla yaln&#305;z b&#305;rakmay&#305;n; &#246;l&#231;&#252;m s&#305;ras&#305;nda mutlaka bir yeti&#351;kin refakat etmelidir. Cihaz&#305; suya bat&#305;rmay&#305;n, nemli bezle silerek temizleyin. Kapasitesinin &#252;zerinde y&#252;k bindirmeyin ve darbeye maruz b&#305;rakmay&#305;n. &#214;l&#231;&#252;m sonu&#231;lar&#305; bilgilendirme ama&#231;l&#305;d&#305;r; geli&#351;im de&#287;erlendirmesi i&#231;in &#231;ocuk hekiminize dan&#305;&#351;&#305;n. Kuru ve serin bir yerde saklay&#305;n.</p>
+<p>Bebe&#287;inin kilo ve boy geli&#351;imini evde takip etmek isteyen ebeveynler Mesilife Dijital Bebek Tart&#305;s&#305;'n&#305; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01805]]></Product_code>
+<Barcode>8697595872581</Barcode>
+<Name><![CDATA[Ocean Vitamin C-SR 30 Tablet]]></Name>
+<Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[C Vitamini]]></subCategory>
+<Tax>1</Tax>
+<Stock>0</Stock>
+<Miad>2029-03-01</Miad>
+<Price>279.90</Price>
+<Price2>492.29</Price2>
+<Price3>302.29</Price3>
+<Price4>313.49</Price4>
+<Price5>313.49</Price5>
+<Price6>313.49</Price6>
+<Price7>492.29</Price7>
+<Price8>492.29</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-c-sr-30-tablet-21249.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-c-sr-30-tablet-21250.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-c-sr-30-tablet-21251.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-c-sr-30-tablet-21252.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-c-sr-30-tablet-21253.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Ocean Vitamin C-SR 30 Tablet</strong>, her tabletinde 500 mg C vitamini bulunan, uzun sal&#305;n&#305;ml&#305; tablet formunda bir takviye edici g&#305;dad&#305;r. C vitaminini g&#252;n i&#231;ine yay&#305;lan bir sal&#305;n&#305;mla almak isteyen yeti&#351;kinler ve 11 ya&#351; &#252;zeri &#231;ocuklar i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p>
+<h2>Ocean Vitamin C-SR &#214;zellikleri</h2>
+<ul>
+<li>Her tablette 500 mg C vitamini (L-askorbik asit) bulunur.</li>
+<li>Uzun sal&#305;n&#305;ml&#305; (SR, sustained release) kaplama teknolojisiyle &#252;retilmi&#351;tir.</li>
+<li>Tabletler mide asidinden etkilenmez; ince ba&#287;&#305;rsakta yava&#351; yava&#351; sal&#305;n&#305;r.</li>
+<li>C vitamini ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal i&#351;leyi&#351;ine katk&#305;da bulunur.</li>
+<li>Yorgunluk ve bitkinli&#287;in azalmas&#305;na yard&#305;mc&#305; olur.</li>
+<li>Normal kolajen olu&#351;umuna katk&#305; sa&#287;lar.</li>
+<li>Demirin emilimine yard&#305;mc&#305; olur.</li>
+<li>Glutensizdir; koruyucu ve yapay tatland&#305;r&#305;c&#305; i&#231;ermez.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Yeti&#351;kinler ve 11 ya&#351; &#252;zeri &#231;ocuklar i&#231;in g&#252;nde 1-2 tablet, tercihen yemeklerden sonra bir bardak su ile al&#305;n&#305;r. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;neminde, d&#252;zenli ila&#231; kullananlarda ve b&#246;brek ta&#351;&#305; &#246;yk&#252;s&#252; gibi &#246;zel sa&#287;l&#305;k durumlar&#305;nda kullanmadan &#246;nce hekime dan&#305;&#351;&#305;n. 25 derecenin alt&#305;nda, kuru ve serin bir yerde, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde bulundurun.</p>
+<p>C vitaminini uzun sal&#305;n&#305;ml&#305; formda almak isteyenler Ocean Vitamin C-SR 30 Tablet'i Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01806]]></Product_code>
+<Barcode>868446601005521</Barcode>
+<Name><![CDATA[Ophis Perine Vücut Temizleme Mendili 90'lı]]></Name>
+<Brand><![CDATA[Ophis]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
+<subCategory><![CDATA[Genital Bölge Temizliği]]></subCategory>
+<Tax>20</Tax>
+<Stock>0</Stock>
+<Miad></Miad>
+<Price>229.90</Price>
+<Price2>423.87</Price2>
+<Price3>248.29</Price3>
+<Price4>257.49</Price4>
+<Price5>257.49</Price5>
+<Price6>257.49</Price6>
+<Price7>423.87</Price7>
+<Price8>423.87</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-vucut-temizleme-mendili-90-li-21254.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-vucut-temizleme-mendili-90-li-21255.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-vucut-temizleme-mendili-90-li-21256.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-vucut-temizleme-mendili-90-li-21328.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-vucut-temizleme-mendili-90-li-21329.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Ophis Perine V&#252;cut Temizleme Mendili 90'l&#305;</strong>, perine b&#246;lgesinin ve v&#252;cudun g&#252;nl&#252;k temizli&#287;i i&#231;in haz&#305;rlanm&#305;&#351;, kutusunda 90 adet mendil bulunan tek kullan&#305;ml&#305;k bir hijyen &#252;r&#252;n&#252;d&#252;r. Du&#351; alman&#305;n zor oldu&#287;u durumlarda, yata&#287;a ba&#287;&#305;ml&#305; hasta bak&#305;m&#305;nda ve hareket k&#305;s&#305;tl&#305;l&#305;&#287;&#305; olan ki&#351;ilerin bak&#305;m&#305;nda pratik temizlik arayan kullan&#305;c&#305;lar ve bak&#305;m verenler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>Ophis Perine V&#252;cut Temizleme Mendili &#214;zellikleri</h2>
+<ul>
+<li>Kutusunda 90 adet temizleme mendili bulunur.</li>
+<li>Perine b&#246;lgesinin ve v&#252;cudun temizli&#287;inde kullan&#305;l&#305;r.</li>
+<li>Islak mendil formundad&#305;r; ayr&#305;ca su, sabun veya durulama gerektirmez.</li>
+<li>Her mendil tek kullan&#305;ml&#305;kt&#305;r.</li>
+<li>Du&#351; alman&#305;n m&#252;mk&#252;n olmad&#305;&#287;&#305; durumlarda v&#252;cut temizli&#287;ine yard&#305;mc&#305; olur.</li>
+<li>Hasta bak&#305;m&#305;nda ve yatak ba&#351;&#305; bak&#305;mda pratik kullan&#305;m sa&#287;lar.</li>
+<li>Kutu ambalaj&#305; sayesinde mendiller tek tek &#231;ekilerek al&#305;n&#305;r.</li>
+<li>Evde, seyahatte ve bak&#305;m ortamlar&#305;nda kullan&#305;ma uygundur.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Kutunun kapa&#287;&#305;n&#305; a&#231;&#305;p bir mendil &#231;ekin ve temizlenecek b&#246;lgeyi nazik&#231;e silin. Perine b&#246;lgesinde silme y&#246;n&#252;ne dikkat edin ve her mendili yaln&#305;zca bir kez kullan&#305;n. Kullan&#305;m sonras&#305; b&#246;lgeyi kurulay&#305;n. Nem kayb&#305;n&#305; &#246;nlemek i&#231;in kapa&#287;&#305; her kullan&#305;mdan sonra kapat&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir; yutmay&#305;n ve g&#246;z i&#231;ine uygulamay&#305;n. Kullan&#305;lm&#305;&#351; mendilleri tuvalete atmay&#305;n, &#231;&#246;p kutusuna at&#305;n. Tahri&#351;, k&#305;zar&#305;kl&#305;k veya ka&#351;&#305;nt&#305; geli&#351;irse kullan&#305;m&#305; b&#305;rak&#305;p hekiminize dan&#305;&#351;&#305;n. A&#231;&#305;k yara ve ileri derecede tahri&#351; olmu&#351; cilt &#252;zerinde kullanmadan &#246;nce sa&#287;l&#305;k personeline dan&#305;&#351;&#305;n. Kuru ve serin yerde, &#231;ocuklar&#305;n eri&#351;emeyece&#287;i bir konumda saklay&#305;n.</p>
+<p>Perine ve v&#252;cut temizli&#287;inde pratik bir &#231;&#246;z&#252;m arayanlar Ophis Perine V&#252;cut Temizleme Mendili 90'l&#305; &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01807]]></Product_code>
+<Barcode>8680176001081</Barcode>
+<Name><![CDATA[Probiomax Probiyotik 10 Kapsül]]></Name>
+<Brand><![CDATA[İmuneks]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Probiyotik]]></category>
+<Tax>1</Tax>
+<Stock>0</Stock>
+<Miad>2027-01-01</Miad>
+<Price>178.00</Price>
+<Price2>352.84</Price2>
+<Price3>192.24</Price3>
+<Price4>199.36</Price4>
+<Price5>199.36</Price5>
+<Price6>199.36</Price6>
+<Price7>352.84</Price7>
+<Price8>352.84</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/probiomax-probiyotik-10-kapsul-21257.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/probiomax-probiyotik-10-kapsul-21258.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/probiomax-probiyotik-10-kapsul-21259.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/probiomax-probiyotik-10-kapsul-21260.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/probiomax-probiyotik-10-kapsul-21261.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Probiomax Probiyotik 10 Kaps&#252;l</strong>, Saccharomyces boulardii i&#231;eren, bitkisel kaps&#252;l formunda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k beslenmesini probiyotik bir takviye ile desteklemek isteyen yeti&#351;kinler ve 11 ya&#351; &#252;zeri &#231;ocuklar i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p>
+<h2>Probiomax Probiyotik &#214;zellikleri</h2>
+<ul>
+<li>Her kaps&#252;lde 5 milyar KOB Saccharomyces boulardii bulunur.</li>
+<li>Bitkisel kaps&#252;l (hidroksipropil metil sel&#252;loz) kullan&#305;lm&#305;&#351;t&#305;r.</li>
+<li>Maltodekstrin ve nemlendirici olarak izomalt i&#231;erir.</li>
+<li>Em&#252;lgat&#246;r olarak ya&#287; asitlerinin magnezyum tuzlar&#305; kullan&#305;lm&#305;&#351;t&#305;r.</li>
+<li>Topaklanmay&#305; &#246;nleyici olarak silikon dioksit i&#231;erir.</li>
+<li>Laktoz i&#231;ermez.</li>
+<li>&#350;eker ve koruyucu madde i&#231;ermez.</li>
+<li>Kutuda 10 kaps&#252;l bulunur.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Yeti&#351;kinler ve 11 ya&#351; ve &#252;zeri &#231;ocuklar g&#252;nde 1 veya 2 kaps&#252;l, bol su ile al&#305;r. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;neminde, ba&#287;&#305;&#351;&#305;kl&#305;k sistemi bask&#305;lanm&#305;&#351; ki&#351;ilerde, damar yolu kateteri bulunanlarda ve d&#252;zenli ila&#231; kullananlarda kullanmadan &#246;nce mutlaka hekime dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305;, &#305;&#351;&#305;k ve nemden uzak bir yerde saklay&#305;n.</p>
+<p>G&#252;nl&#252;k beslenmesini probiyotik bir takviye ile desteklemek isteyenler Probiomax Probiyotik 10 Kaps&#252;l'&#252; Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01808]]></Product_code>
+<Barcode>8681511099350</Barcode>
+<Name><![CDATA[Siveno Doğal Roll-On Deodorant Besleyici Hindistan Cevizli 50 ml]]></Name>
+<Brand><![CDATA[Siveno]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
+<subCategory><![CDATA[Roll On]]></subCategory>
+<Tax>20</Tax>
+<Stock>0</Stock>
+<Miad>2026-10-01</Miad>
+<Price>249.00</Price>
+<Price2>450.01</Price2>
+<Price3>268.92</Price3>
+<Price4>278.88</Price4>
+<Price5>278.88</Price5>
+<Price6>278.88</Price6>
+<Price7>450.01</Price7>
+<Price8>450.01</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dogal-roll-on-deodorant-besleyici-hindistan-cevizli-50-ml-21262.png</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dogal-roll-on-deodorant-besleyici-hindistan-cevizli-50-ml-21263.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dogal-roll-on-deodorant-besleyici-hindistan-cevizli-50-ml-21264.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dogal-roll-on-deodorant-besleyici-hindistan-cevizli-50-ml-21265.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dogal-roll-on-deodorant-besleyici-hindistan-cevizli-50-ml-21266.webp</Image5>
+<Description><![CDATA[<section>
+<p><strong>Siveno Do&#287;al Roll-On Deodorant Besleyici Hindistan Cevizli 50 ml</strong>, potasyum &#351;ap&#305; ve hindistan cevizi i&#231;eri&#287;iyle haz&#305;rlanm&#305;&#351;, al&#252;minyum klorhidrat i&#231;ermeyen do&#287;al bir roll-on deodorand&#305;r. Terlemeyi engellemeden ter kokusuna kar&#351;&#305; &#246;nlem almak isteyen, hassas ve kuru ciltli kullan&#305;c&#305;lar i&#231;in geli&#351;tirilmi&#351;tir.</p>
+<h2>Siveno Do&#287;al Roll-On Deodorant &#214;zellikleri</h2>
+<ul>
+<li>50 ml roll-on ambalajda sunulur.</li>
+<li>Do&#287;al mineral tuz olan potasyum &#351;ap&#305; i&#231;erir.</li>
+<li>G&#246;zenekleri kapatmadan, k&#246;t&#252; kokuya neden olan bakterilere kar&#351;&#305; etki g&#246;sterir.</li>
+<li>Hindistan cevizi i&#231;eri&#287;iyle cildi besler.</li>
+<li>Zeytinya&#287;&#305;ndan elde edilen skualan i&#231;erir.</li>
+<li>E vitamini (tokoferol) ve bitkisel gliserin i&#231;erir.</li>
+<li>Al&#252;minyum klorhidrat, paraben, triklosan, sentetik parf&#252;m, boya ve alkol i&#231;ermez.</li>
+<li>Vegan ve cruelty free sertifikal&#305;d&#305;r; dermatolojik olarak test edilmi&#351;tir.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Kullanmadan &#246;nce &#351;i&#351;eyi &#231;alkalay&#305;n. Temiz ve kuru koltuk alt&#305;na ince bir tabaka halinde uygulay&#305;n. Giyinmeden &#246;nce &#252;r&#252;n&#252;n cilt &#252;zerinde kurumas&#305;n&#305; bekleyin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir. A&#287;da ve t&#305;ra&#351; sonras&#305; tahri&#351; olmu&#351; cilde, a&#231;&#305;k yara ve &#231;izik &#252;zerine uygulamay&#305;n. G&#246;z ile temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Hassasiyet geli&#351;irse kullan&#305;m&#305; b&#305;rak&#305;n ve hekiminize dan&#305;&#351;&#305;n. Do&#287;al i&#231;erikli form&#252;l&#252; nedeniyle a&#231;t&#305;ktan sonra 6 ay i&#231;inde t&#252;ketilmesi &#246;nerilir. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Do&#287;al i&#231;erikli bir roll-on arayanlar Siveno Do&#287;al Roll-On Deodorant Besleyici Hindistan Cevizli 50 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -79046,320 +79578,94 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01795]]></Product_code>
-<Barcode>3600524251468</Barcode>
-<Name><![CDATA[Elseve Collagen Lifter Şampuan 300 ml]]></Name>
+<Product_code><![CDATA[FRMNV01793]]></Product_code>
+<Barcode>8697796000035</Barcode>
+<Name><![CDATA[Dermoskin Acnegun Onarıcı Gündüz Kremi 30 ml]]></Name>
+<Brand><![CDATA[Dermoskin]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
+<subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
+<Tax>20</Tax>
+<Stock>46</Stock>
+<Miad></Miad>
+<Price>434.90</Price>
+<Price2>704.41</Price2>
+<Price3>469.69</Price3>
+<Price4>487.09</Price4>
+<Price5>487.09</Price5>
+<Price6>487.09</Price6>
+<Price7>704.41</Price7>
+<Price8>704.41</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697796000035_1.webp</Image1>
+<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697796000035_2.webp</Image2>
+<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697796000035_3.webp</Image3>
+<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697796000035_4.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Dermoskin Acnegun Onarıcı Gündüz Kremi 30 ml</strong>, yağlı ve akneye eğilimli ciltlerin gündüz bakımı için geliştirilmiş, nemlendirici ve onarıcı özellikte bir yüz kremidir. Cildinde yağlanma ve pürüzlü görünüm olan, gün içinde hafif dokulu bir bakım kremi arayan kişiler için uygundur.</p>
+<h2>Dermoskin Acnegun Onarıcı Gündüz Kremi Özellikleri</h2>
+<ul>
+<li>30 ml hacimli gündüz bakım kremidir.</li>
+<li>Esansiyel yağ asitleri içerir.</li>
+<li>Aloe vera (Aloe Barbadensis) içeriğine sahiptir.</li>
+<li>Hamamelis virginiana yaprak ekstresi içerir.</li>
+<li>Allantoin içerir.</li>
+<li>AHA ve BHA içeriğiyle cildin pürüzlü görünümünün azalmasına yardımcı olur.</li>
+<li>Cildi nemlendirirken doğal yapısını desteklemeye yardımcı olur.</li>
+<li>Boya, parafin, SLES ve parfüm içermez; paraben içermez.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Temizlenmiş ve kurulanmış cilde gündüz kullanımı için uygulanır. Az miktarda ürünü yüz ve boyun bölgesine yayarak nazikçe masaj yapın ve emilmesini bekleyin. Göz çevresinden uzak tutun. Düzenli kullanım önerilir.</p>
+<h2>Uyarılar</h2>
+<p>Yalnızca haricen kullanım içindir. Gözle temasından kaçının, temas etmesi halinde bol suyla yıkayın. Tahriş olmuş veya açık yaralı cilde uygulamayın. Kızarıklık, kaşıntı gibi bir tepki gelişirse kullanımı bırakıp hekiminize danışın. AHA ve BHA içerdiğinden gündüz kullanımda güneş koruyucuyla birlikte kullanılması önerilir. Çocukların erişemeyeceği, serin ve kuru bir yerde saklayın.</p>
+<p>Yağlı ve akneye eğilimli cildi için gündüz bakımı arayanlar Dermoskin Acnegun Onarıcı Gündüz Kremi 30 ml ürününü Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01794]]></Product_code>
+<Barcode>3600524251574</Barcode>
+<Name><![CDATA[Elseve Collagen Lifter Kolajen Peptitleri İçeren Hacim Veren Saç Bakım Kremi 250 ml]]></Name>
 <Brand><![CDATA[Elseve]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Şampuan]]></subCategory>
+<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>229.90</Price>
-<Price2>423.87</Price2>
-<Price3>248.29</Price3>
-<Price4>257.49</Price4>
-<Price5>257.49</Price5>
-<Price6>257.49</Price6>
-<Price7>423.87</Price7>
-<Price8>423.87</Price8>
+<Price>249.90</Price>
+<Price2>451.24</Price2>
+<Price3>269.89</Price3>
+<Price4>279.89</Price4>
+<Price5>279.89</Price5>
+<Price6>279.89</Price6>
+<Price7>451.24</Price7>
+<Price8>451.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251468_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251468_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251468_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251468_3.jpg</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251468_4.jpg</Image5>
+<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251574_0.jpg</Image1>
+<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251574_1.jpg</Image2>
+<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251574_2.jpg</Image3>
+<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251574_3.jpg</Image4>
+<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524251574_4.jpg</Image5>
 <Description><![CDATA[<section>
-<p><strong>Elseve Collagen Lifter Şampuan 300 ml</strong>, kolajen peptitleri içeren, ince telli ve hacmi azalmış saçlar için geliştirilmiş hacim veren bir bakım şampuanıdır. Saçını yıkarken hem temizlemek hem de köklerden başlayan dolgun bir görünüm elde etmek isteyenler için tasarlanmıştır.</p>
-<h2>Elseve Collagen Lifter Şampuan Özellikleri</h2>
+<p><strong>Elseve Collagen Lifter Kolajen Peptitleri İçeren Hacim Veren Saç Bakım Kremi 250 ml</strong>, kolajen peptitleri içeren, ince telli ve hacmini kaybetmiş saçlar için geliştirilmiş bir durulanan saç bakım kremidir. Saçını ağırlaştırmadan dolgun ve hacimli bir görünüm arayanlar için tasarlanmıştır.</p>
+<h2>Elseve Collagen Lifter Saç Bakım Kremi Özellikleri</h2>
 <ul>
-<li>300 ml hacimli hacim veren bakım şampuanıdır.</li>
-<li>Kolajen peptitleri içeren formüle sahiptir.</li>
-<li>Saçı köklerden kaldırarak hacimli bir görünüm kazandırmaya yardımcı olur.</li>
-<li>72 saate kadar saçı ağırlaştırmadan hacim hissi sunar.</li>
-<li>Saçın kökleri, uzunlukları ve uçları için birlikte kullanıma uygundur.</li>
-<li>Özellikle ince telli saçlar için geliştirilmiştir.</li>
-<li>Elseve Collagen Lifter saç bakım kremi ve saç spreyi ile aynı rutinde kullanılabilir.</li>
-<li>Günlük saç bakım rutinine kolayca eklenir.</li>
+<li>250 ml hacimli, durulanan saç bakım kremidir.</li>
+<li>Kolajen peptitleri (Palmitoyl Tripeptide-1 ve Palmitoyl Tetrapeptide-7) içerir.</li>
+<li>Saçı kökten kaldırarak hacimli bir görünüm kazandırmaya yardımcı olur.</li>
+<li>Ağ yapılı özel dokusu sayesinde saç telleri üzerinde eşit dağılır.</li>
+<li>48 saat boyunca temiz, parlak ve nemlendirilmiş bir görünüm sunar.</li>
+<li>Özellikle ince telli saçlar için uygundur.</li>
+<li>Elseve Collagen Lifter şampuan ve saç spreyi ile birlikte rutin olarak kullanılabilir.</li>
+<li>Saçı ağırlaştırmayan hafif bir bakım sağlar.</li>
 </ul>
 <h2>Nasıl Kullanılır?</h2>
-<p>Islak saça uygulayın, saç derisine ve saç boyunca masaj yaparak köpürtün ve bol suyla durulayın. Gerekirse işlemi tekrarlayın. Ardından Elseve Collagen Lifter saç bakım kremi ile devam edilebilir.</p>
+<p>Şampuanla yıkadıktan sonra saçınızın uzunluklarına ve uçlarına uygulayın. Yaklaşık 1 dakika bekletin ve bol suyla iyice durulayın. Her yıkamada kullanılabilir.</p>
 <h2>Uyarılar</h2>
-<p>Yalnızca haricen, saç bakımı amaçlı kullanım içindir. Gözle temasından kaçının; temas etmesi halinde gözünüzü bol suyla yıkayın. Saç derisinde kaşıntı veya kızarıklık gelişirse kullanımı bırakın ve gerekirse hekiminize danışın. Çocukların erişemeyeceği yerde, serin ve kuru ortamda saklayın.</p>
-<p>Saçında hacim ve dolgunluk arayanlar Elseve Collagen Lifter Şampuan 300 ml ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01792]]></Product_code>
-<Barcode>8697512322892</Barcode>
-<Name><![CDATA[Freshlife Belbantlı Hasta Bezi Islaklık Göstergeli Large 30 Adet]]></Name>
-<Brand><![CDATA[Freshlife]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Hasta Bezi]]></category>
-<Tax>10</Tax>
-<Stock>51</Stock>
-<Miad></Miad>
-<Price>486.90</Price>
-<Price2>775.57</Price2>
-<Price3>525.85</Price3>
-<Price4>545.33</Price4>
-<Price5>545.33</Price5>
-<Price6>545.33</Price6>
-<Price7>775.57</Price7>
-<Price8>775.57</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697512322892_0.webp</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697512322892_1.webp</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697512322892_2.webp</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697512322892_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697512322892_4.webp</Image5>
-<Description><![CDATA[<section>
-<p><strong>Freshlife Belbantlı Hasta Bezi Islaklık Göstergeli Large 30 Adet</strong>, yatağa bağımlı ve idrar kaçırma sorunu yaşayan yetişkinler için geliştirilmiş, cırt cırtlı bel bantlarına ve ıslaklık göstergesine sahip bir hasta bezidir. Evde hasta bakımı yapan aileler ve bakıcılar için tasarlanmıştır.</p>
-<h2>Freshlife Belbantlı Hasta Bezi Özellikleri</h2>
-<ul>
-<li>Large (büyük) beden, 30 adetlik pakette sunulur.</li>
-<li>Islaklık göstergesi sayesinde bezin değişim zamanı hastayı rahatsız etmeden anlaşılır.</li>
-<li>Ekstra hızlı emici özel tabakası ıslaklığı hızla içine çeker.</li>
-<li>Sızdırmaz yan bariyerleri kaçakları önlemeye yardımcı olur.</li>
-<li>Tekstil dış yüzeyi cilde daha yumuşak bir temas sunar.</li>
-<li>Ayarlanabilir cırt cırtlı bel bantları vücut yapısına uyum sağlar.</li>
-<li>Belbantlı yapısı sayesinde yatan hastalarda kolay uygulanır.</li>
-<li>Gündüz ve gece kullanımına uygundur.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Bezi hastanın altına, yan kanatları vücudun altında kalacak şekilde yerleştirin ve bacak arasından öne doğru geçirin. Cırt cırtlı bantları açarak ön yüzeye, bel bölgesini fazla sıkmayacak şekilde yapıştırın. Islaklık göstergesi renk değiştirdiğinde bezi değiştirin.</p>
-<h2>Uyarılar</h2>
-<p>Tek kullanımlıktır, yıkayıp yeniden kullanmayın. Kullanılmış bezi tuvalete atmayın. Ciltte kızarıklık, tahriş veya pişik gelişirse bez değişim sıklığını artırın ve gerekirse hekiminize danışın. Cilt bütünlüğü bozulmuş hastalarda sağlık personelinin önerisine uyun. Kuru, serin ve doğrudan güneş ışığı almayan bir yerde saklayın.</p>
-<p>Evde hasta bakımı yapanlar Freshlife Belbantlı Hasta Bezi Islaklık Göstergeli Large 30 Adet ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01796]]></Product_code>
-<Barcode>3600542384537</Barcode>
-<Name><![CDATA[Garnier Color Naturel Çarpıcı Renkler Boya 6.35 Çarpici Altin Kahve]]></Name>
-<Brand><![CDATA[Garnier]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Boyası]]></subCategory>
-<Tax>20</Tax>
-<Stock>1</Stock>
-<Miad></Miad>
-<Price>164.90</Price>
-<Price2>334.92</Price2>
-<Price3>178.09</Price3>
-<Price4>184.69</Price4>
-<Price5>184.69</Price5>
-<Price6>184.69</Price6>
-<Price7>334.92</Price7>
-<Price8>334.92</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600542384537_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600542384537_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600542384537_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600542384537_3.jpg</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600542384537_4.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Garnier Color Naturel Çarpıcı Renkler Boya 6.35 Çarpici Altin Kahve</strong>, saça çarpıcı altın kahve tonu kazandıran kalıcı krem saç boyasıdır. Evde kendi saçını boyamak ve doğal görünümlü, sıcak bir kahve tonu elde etmek isteyenler için tasarlanmıştır.</p>
-<h2>Garnier Color Naturel 6.35 Özellikleri</h2>
-<ul>
-<li>6.35 numaralı Çarpıcı Altın Kahve tonunu verir.</li>
-<li>Kalıcı krem saç boyasıdır.</li>
-<li>10 haftaya kadar kalıcı renk sunar.</li>
-<li>İnci özü içerir.</li>
-<li>Çiçek yağları içeren formüle sahiptir.</li>
-<li>Saçı besleyerek daha yumuşak bir görünüm elde edilmesine yardımcı olur.</li>
-<li>Boyama sırasında saç telinin üzerinde koruyucu bir bariyer oluşmasına destek olur.</li>
-<li>Evde tek başına uygulamaya uygun kit halinde sunulur.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Kullanmadan 48 saat önce kutu içindeki talimata göre alerji testi yapın. Eldivenleri takın, boya kremi ile geliştirici kremi kutudaki tarife göre karıştırın ve kuru, yıkanmamış saça köklerden uçlara doğru uygulayın. Kutuda belirtilen bekleme süresi dolunca saçınızı su berraklaşana kadar durulayın ve verilen bakım kremini uygulayın.</p>
-<h2>Uyarılar</h2>
-<p>Saç boyaları alerjik reaksiyona yol açabilir; her uygulamadan önce alerji testi yapın. Daha önce saç boyasına tepki verdiyseniz kullanmayın. 16 yaşından küçüklerde kullanılmaz. Kaş ve kirpik boyamada kullanmayın. Gözle temasından kaçının, temas ederse bol suyla yıkayın. Saç derisi tahriş veya yaralı ise uygulamayın. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Evde altın kahve tonunu denemek isteyenler Garnier Color Naturel Çarpıcı Renkler Boya 6.35 Çarpici Altin Kahve ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01797]]></Product_code>
-<Barcode>8697448351492</Barcode>
-<Name><![CDATA[Hardline Nutrition Creatine 100% Micronized 5000 mg 300 gr]]></Name>
-<Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
-<Tax>1</Tax>
-<Stock>3</Stock>
-<Miad>2029-07-01</Miad>
-<Price>899.90</Price>
-<Price2>1340.76</Price2>
-<Price3>971.89</Price3>
-<Price4>1007.89</Price4>
-<Price5>1007.89</Price5>
-<Price6>1007.89</Price6>
-<Price7>1340.76</Price7>
-<Price8>1340.76</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351492_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351492_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351492_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351492_3.png</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351492_4.webp</Image5>
-<Description><![CDATA[<section>
-<p><strong>Hardline Nutrition Creatine 100% Micronized 5000 mg 300 gr</strong>, porsiyon başına 5.000 mg mikronize kreatin monohidrat içeren, aromasız toz formda bir takviye edici gıdadır. Düzenli antrenman yapan ve kreatin takviyesini sade biçimde kullanmak isteyen sporcular için hazırlanmıştır.</p>
-<h2>Hardline Creatine 100% Micronized Özellikleri</h2>
-<ul>
-<li>300 gramlık ambalajda sunulur ve 60 porsiyon içerir.</li>
-<li>Her porsiyonda (1 ölçek, 5 g) 5.000 mg kreatin monohidrat bulunur.</li>
-<li>Mikronize edilmiş toz yapısı sayesinde suda daha kolay dağılır.</li>
-<li>Aromasızdır; içeceklere karıştırılabilir.</li>
-<li>Tekrarlı yüksek şiddetli egzersizlerde fiziksel performansa katkı sağlayan kreatin içerir.</li>
-<li>Şeker ve yapay tatlandırıcı içermez.</li>
-<li>Laktoz ve glüten içermez.</li>
-<li>GDO, yapay renklendirici ve koruyucu içermez; hayvansal içerik barındırmaz.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>1 porsiyonu (1 ölçek, 5 g) bir bardak (200 ml) su ile karıştırarak antrenman öncesinde tüketin. Günlük 3 g kreatin alımı, tekrarlı kısa süreli yüksek şiddetli egzersizlerde fiziksel performansa katkı sağlar.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır; normal beslenmenin yerine geçmez. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde, ilaç kullananlarda ve kronik hastalığı olanlarda hekime danışılmadan kullanılmamalıdır. 18 yaş altı için önerilmez. Kullanım süresince yeterli sıvı tüketimine dikkat edin. Çocukların erişemeyeceği yerde, kuru ve serin ortamda saklayın.</p>
-<p>Antrenman rutinine kreatin eklemek isteyen sporcular Hardline Nutrition Creatine 100% Micronized 5000 mg 300 gr ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01798]]></Product_code>
-<Barcode>8697448351881</Barcode>
-<Name><![CDATA[Hardline Nutrition Vmax Çikolata 908 gr]]></Name>
-<Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
-<Tax>1</Tax>
-<Stock>5</Stock>
-<Miad>2027-02-01</Miad>
-<Price>1466.00</Price>
-<Price2>2115.47</Price2>
-<Price3>1583.28</Price3>
-<Price4>1641.92</Price4>
-<Price5>1641.92</Price5>
-<Price6>1641.92</Price6>
-<Price7>2115.47</Price7>
-<Price8>2115.47</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351881_0.webp</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351881_1.webp</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351881_2.webp</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351881_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351881_4.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Hardline Nutrition Vmax Çikolata 908 gr</strong>, bezelye proteininden üretilmiş, çikolata aromalı bitkisel protein tozudur. Hayvansal içerik kullanmadan protein alımını artırmak isteyen, vejetaryen ve vegan beslenen sporcular için hazırlanmıştır.</p>
-<h2>Hardline Vmax Çikolata 908 gr Özellikleri</h2>
-<ul>
-<li>908 gramlık ambalajda sunulur ve 32 porsiyon içerir.</li>
-<li>Protein kaynağı bezelye proteinidir; bitkisel kaynaklıdır.</li>
-<li>Her porsiyonda (28 g) 23 g protein bulunur.</li>
-<li>4.506 mg BCAA içerir.</li>
-<li>4.203 mg glutamin öncüsü içerir.</li>
-<li>2.176 mg arjinin içerir.</li>
-<li>Porsiyon başına 7,6 mg demir içerir.</li>
-<li>Şeker içermez ve ilave karbonhidrat barındırmaz; vejetaryen ve vegan beslenmeye uygundur.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>1 porsiyonu (1 ölçek, 60 cc = 28 g) 300 ml su ile karıştırarak tüketin. Antrenman öncesinde ve sonrasında kullanıma uygundur. Karışımı hazırladıktan sonra bekletmeden tüketmeniz önerilir.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır; normal beslenmenin yerine geçmez ve dengeli beslenmenin alternatifi değildir. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde, ilaç kullananlarda ve kronik hastalığı olanlarda hekime danışılmadan kullanılmamalıdır. 18 yaş altı için önerilmez. Baklagil alerjisi olanlar içeriği kontrol etmelidir. Çocukların erişemeyeceği yerde, kuru ve serin ortamda saklayın.</p>
-<p>Bitkisel protein arayan sporcular Hardline Nutrition Vmax Çikolata 908 gr ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01799]]></Product_code>
-<Barcode>8697448351553</Barcode>
-<Name><![CDATA[Hardline Nutrition Whey 3Matrix Protein Tozu Çikolata 210 gr]]></Name>
-<Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
-<Tax>1</Tax>
-<Stock>5</Stock>
-<Miad>2029-04-01</Miad>
-<Price>944.00</Price>
-<Price2>1401.11</Price2>
-<Price3>1019.52</Price3>
-<Price4>1057.28</Price4>
-<Price5>1057.28</Price5>
-<Price6>1057.28</Price6>
-<Price7>1401.11</Price7>
-<Price8>1401.11</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351553_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351553_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351553_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351553_3.jpg</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351553_4.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Hardline Nutrition Whey 3Matrix Protein Tozu Çikolata 210 gr</strong>, üç farklı peynir altı suyu proteinini bir arada sunan, çikolata aromalı toz formda bir takviye edici gıdadır. Whey proteinini denemek isteyen ya da yanında taşıyacağı küçük ambalaj arayan sporcular için uygundur.</p>
-<h2>Hardline Whey 3Matrix Çikolata 210 gr Özellikleri</h2>
-<ul>
-<li>210 gramlık küçük ambalajda sunulur ve 7 porsiyon içerir.</li>
-<li>Whey protein konsantre, whey protein izolat ve whey protein hidrolizat karışımı içerir.</li>
-<li>Her porsiyonda (30 g) 24,1 g protein bulunur.</li>
-<li>Formülüne 2.000 mg kreatin monohidrat eklenmiştir.</li>
-<li>1,4 mg B6 vitamini içerir.</li>
-<li>İlave şeker, karbonhidrat ve yağ içermez.</li>
-<li>GDO, yapay renklendirici ve koruyucu içermez.</li>
-<li>Glüten içermez; et ve domuz türevi içermez.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>1 porsiyonu (1 ölçek, 75 cc = 30 g) 150 ml su veya az yağlı süt ile karıştırın. Antrenmandan 30 dakika önce ve hemen sonra olmak üzere günde 1-2 porsiyon (30-60 g) tüketilebilir.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır; normal beslenmenin yerine geçmez. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde, ilaç kullananlarda ve kronik hastalığı olanlarda hekime danışılmadan kullanılmamalıdır. 18 yaş altı için önerilmez. Süt proteini içerdiğinden süt alerjisi olanların kullanması uygun değildir. Çocukların erişemeyeceği yerde, kuru ve serin ortamda saklayın.</p>
-<p>Küçük ambalajda whey protein arayan sporcular Hardline Nutrition Whey 3Matrix Protein Tozu Çikolata 210 gr ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01800]]></Product_code>
-<Barcode>8697448351423</Barcode>
-<Name><![CDATA[Hardline Progainer Çikolata 3 kg]]></Name>
-<Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
-<Tax>1</Tax>
-<Stock>5</Stock>
-<Miad>2029-07-01</Miad>
-<Price>2268.00</Price>
-<Price2>3213.01</Price2>
-<Price3>2449.44</Price3>
-<Price4>2540.16</Price4>
-<Price5>2540.16</Price5>
-<Price6>2540.16</Price6>
-<Price7>3213.01</Price7>
-<Price8>3213.01</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351423_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351423_1.webp</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351423_2.webp</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351423_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697448351423_4.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Hardline Progainer Çikolata 3 kg</strong>, karbonhidrat ve proteini birlikte sunan çikolata aromalı toz takviye edici gıdanın 3 kilogramlık büyük boy ambalajıdır. Düzenli olarak yüksek kalori ve protein alması gereken, uzun süreli kullanım için ekonomik bir ambalaj arayan sporcular için uygundur.</p>
-<h2>Hardline Progainer Çikolata 3 kg Özellikleri</h2>
-<ul>
-<li>3000 gramlık büyük boy ambalajda sunulur ve 15 porsiyon içerir.</li>
-<li>Bir porsiyonu 787 kalori sağlar.</li>
-<li>Porsiyon başına 38 g protein, 156 g karbonhidrat ve 1,4 g yağ içerir.</li>
-<li>Porsiyon başına 2.500 mg kreatin monohidrat içerir.</li>
-<li>Porsiyon başına 1.000 mg L-glutamin ve 1.000 mg taurin içerir.</li>
-<li>C vitamini, B1, B2, B3, B6, B12 vitaminleri ve folik asit ile zenginleştirilmiştir.</li>
-<li>Kalsiyum, fosfor ve çinko içerir.</li>
-<li>Yapay renklendirici, koruyucu ve GDO içermez.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>1 porsiyonu (200 g, 5 ölçek) 375-500 ml su veya süt ile karıştırarak tüketin. Günde 2 kez, öğün aralarında ya da antrenmandan 60 dakika önce veya hemen sonra kullanılabilir. Laktoz hassasiyeti olanların su ile karıştırması önerilir.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır; normal beslenmenin yerine geçmez. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde, ilaç kullananlarda ve kronik hastalığı olanlarda hekime danışılmadan kullanılmamalıdır. 18 yaş altı için önerilmez. Süt ürünleri içerdiğinden alerjisi olanlar içeriği kontrol etmelidir. Ambalajı açıldıktan sonra ağzını kapalı tutun; çocukların erişemeyeceği yerde, kuru ve serin ortamda saklayın.</p>
-<p>Uzun süreli kullanım için büyük boy arayan sporcular Hardline Progainer Çikolata 3 kg ürününü Farmaneva'da bulabilir.</p>
+<p>Yalnızca haricen, saç bakımı amaçlı kullanım içindir. Gözle temasından kaçının; temas etmesi halinde gözünüzü bol suyla yıkayın. Saç derisinde kızarıklık, kaşıntı gibi bir tepki gelişirse kullanımı bırakın ve gerekirse hekiminize danışın. Çocukların erişemeyeceği yerde, doğrudan güneş ışığından uzakta saklayın.</p>
+<p>İnce telli saçları için hacim arayanlar Elseve Collagen Lifter Kolajen Peptitleri İçeren Hacim Veren Saç Bakım Kremi 250 ml ürününü Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -79409,52 +79715,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01801]]></Product_code>
-<Barcode>3600524122133</Barcode>
-<Name><![CDATA[Loreal Paris Excellence Creme Saç Boyası 6.32 Altın Açık Kahve]]></Name>
-<Brand><![CDATA[L'oreal Paris]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Boyası]]></subCategory>
-<Tax>20</Tax>
-<Stock>1</Stock>
-<Miad></Miad>
-<Price>439.90</Price>
-<Price2>711.25</Price2>
-<Price3>475.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524122133_0.webp</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524122133_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524122133_2.webp</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524122133_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3600524122133_4.webp</Image5>
-<Description><![CDATA[<section>
-<p><strong>Loreal Paris Excellence Creme Saç Boyası 6.32 Altın Açık Kahve</strong>, saça altın yansımalı açık kahve tonu kazandıran kalıcı krem saç boyasıdır. Beyaz tellerini kapatmak ve saçını boyarken bakım da yapmak isteyenler için tasarlanmıştır.</p>
-<h2>Excellence Creme 6.32 Altın Açık Kahve Özellikleri</h2>
-<ul>
-<li>6.32 numaralı Altın Açık Kahve tonunu verir.</li>
-<li>Kalıcı krem saç boyasıdır.</li>
-<li>Beyaz telleri kapatarak doğal bir görünüm elde edilmesine yardımcı olur.</li>
-<li>Üç aşamalı bakım sistemi ile boyama sırasında saça bakım desteği sunar.</li>
-<li>Pro-Keratin içeren formüle sahiptir.</li>
-<li>Boyamadan önce kullanılan koruyucu serum içerir.</li>
-<li>Seramid içeren bakım maskesi ile birlikte sunulur.</li>
-<li>Saçı ağırlaştırmadan besleyen bir bakım adımı içerir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Kullanmadan 48 saat önce kutu içindeki talimata göre alerji testi yapın. Eldivenleri takın, önce koruyucu serumu kuru saça uygulayın, ardından boya kremi ile geliştiriciyi kutudaki tarife göre karıştırıp saça sürün. Belirtilen bekleme süresi sonunda su berraklaşana kadar durulayın ve verilen bakım maskesini uygulayıp durulayın.</p>
-<h2>Uyarılar</h2>
-<p>Saç boyaları alerjik reaksiyona yol açabilir; her uygulamadan önce alerji testi yapın. Daha önce saç boyasına tepki verdiyseniz kullanmayın. 16 yaşından küçüklerde kullanılmaz. Kaş ve kirpik boyamada kullanmayın. Gözle temasından kaçının, temas ederse bol suyla yıkayın. Saç derisi tahriş veya yaralı ise uygulamayın. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Altın yansımalı açık kahve tonunu evde denemek isteyenler Loreal Paris Excellence Creme Saç Boyası 6.32 Altın Açık Kahve ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV01812]]></Product_code>
 <Barcode>3600524121990</Barcode>
 <Name><![CDATA[L’Oreal Paris Excellence Cool Creme Saç Boyası – 4,11 Ekstra Küllü Kahve]]></Name>
@@ -79499,96 +79759,6 @@
 <h2>Uyarılar</h2>
 <p>Saç boyaları alerjik reaksiyona yol açabilir; her uygulamadan 48 saat önce kutudaki talimata göre duyarlılık testi yapın. Kaş ve kirpik boyamak için kullanmayın. Göz ile temasından kaçının, temas hâlinde bol suyla durulayın. Uygulama sırasında eldiven kullanın ve karışımı saklamayın. 16 yaşından küçüklerde kullanmayın. Çocukların erişemeyeceği yerde saklayın.</p>
 <p>Soğuk küllü kahve tonu arayanlar L’Oreal Paris Excellence Cool Creme 4,11 Ekstra Küllü Kahve'yi Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01802]]></Product_code>
-<Barcode>6924607701815</Barcode>
-<Name><![CDATA[Mesilife Birleşik Elektro Terapi Cihazı Ktr-2610]]></Name>
-<Brand><![CDATA[Mesilife]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
-<Tax>10</Tax>
-<Stock>39</Stock>
-<Miad></Miad>
-<Price>1619.90</Price>
-<Price2>2326.08</Price2>
-<Price3>1749.49</Price3>
-<Price4>1814.29</Price4>
-<Price5>1814.29</Price5>
-<Price6>1814.29</Price6>
-<Price7>2326.08</Price7>
-<Price8>2326.08</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/6924607701815_0.png</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/6924607701815_1.png</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/6924607701815_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/6924607701815_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/6924607701815_4.webp</Image5>
-<Description><![CDATA[<section>
-<p><strong>Mesilife Birleşik Elektro Terapi Cihazı Ktr-2610</strong>, TENS, EMS ve masaj işlevlerini tek gövdede toplayan şarj edilebilir bir elektro terapi cihazıdır. Kas ve eklem bölgelerindeki gerginlik ve ağrı hissi nedeniyle evde uygulanabilen destekleyici bir elektro stimülasyon çözümü arayan yetişkinler için tasarlanmıştır.</p>
-<h2>Mesilife Ktr-2610 Özellikleri</h2>
-<ul>
-<li>TENS, EMS ve masaj modlarını tek cihazda birleştirir.</li>
-<li>Şarj edilebilir bataryası sayesinde sürekli pil değiştirmeye gerek bırakmaz.</li>
-<li>Akım yoğunluğu kademeli olarak ayarlanabilir.</li>
-<li>Ekran üzerinden program ve yoğunluk seçimi yapılır.</li>
-<li>Yapışkan elektrot pedleri ile cilt üzerine uygulanır.</li>
-<li>Küçük ve hafif gövdesiyle taşınabilir kullanıma uygundur.</li>
-<li>Taşıma kabı ile birlikte sunulur.</li>
-<li>Ev kullanımına yönelik pratik bir tasarıma sahiptir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Cihazı kullanmadan önce şarj edin. Elektrot pedlerini temiz ve kuru cilde, uygulama yapılacak bölgeye yapıştırın ve kabloları cihaza takın. Cihazı açıp uygun programı seçin, ardından yoğunluğu en düşük kademeden başlayarak rahat hissettiğiniz düzeye kadar artırın. Uygulama sonunda cihazı kapatın, pedleri dikkatlice çıkarın ve koruyucu filmine geri yapıştırarak saklayın.</p>
-<h2>Uyarılar</h2>
-<p>Kalp pili veya implante edilmiş elektronik cihaz taşıyanlarda, gebelikte, kalp ritim bozukluğu ve epilepsi gibi durumlarda kullanmadan önce mutlaka hekiminize danışın. Pedleri kalp bölgesine, boynun ön yüzüne, başa ve yaralı, tahriş olmuş cilde uygulamayın. Cihaz tıbbi tanı koymaz ve hekim tedavisinin yerine geçmez. Çocukların erişemeyeceği, kuru bir yerde saklayın.</p>
-<p>Evde pratik bir elektro terapi desteği arayanlar Mesilife Birleşik Elektro Terapi Cihazı Ktr-2610 modelini Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01803]]></Product_code>
-<Barcode>8681873073814</Barcode>
-<Name><![CDATA[Mesilife Dijital Bebek Tartısı]]></Name>
-<Brand><![CDATA[Mesilife]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Baskül]]></category>
-<Tax>20</Tax>
-<Stock>8</Stock>
-<Miad></Miad>
-<Price>2999.90</Price>
-<Price2>4214.61</Price2>
-<Price3>3239.89</Price3>
-<Price4>3359.89</Price4>
-<Price5>3359.89</Price5>
-<Price6>3359.89</Price6>
-<Price7>4214.61</Price7>
-<Price8>4214.61</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681873073814_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681873073814_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681873073814_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681873073814_3.jpg</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681873073814_4.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Mesilife Dijital Bebek Tartısı</strong>, bebeklerin kilo takibi için geliştirilmiş, dijital boy ölçüm ünitesi de bulunan bir bebek tartısıdır. Yenidoğan döneminden itibaren bebeğinin kilo ve boy gelişimini evde düzenli olarak izlemek isteyen ebeveynler için tasarlanmıştır.</p>
-<h2>Mesilife Dijital Bebek Tartısı Özellikleri</h2>
-<ul>
-<li>Maksimum 20 kg tartım kapasitesine sahiptir.</li>
-<li>5 gram aralıklı hassas ölçüm yapar.</li>
-<li>Dijital boy ölçüm ünitesi ile birlikte sunulur.</li>
-<li>Hareketli bebeklerde ölçümü kolaylaştıran sabitleme fonksiyonu vardır.</li>
-<li>Dara fonksiyonu ile ekran kolayca sıfırlanır.</li>
-<li>Küveti çıkarılabilir; yürümeye başlayan çocuklar ayakta tartılabilir.</li>
-<li>Ekstra büyük ekranı değerlerin rahat okunmasını sağlar.</li>
-<li>Ergonomik gövdesi güvenli ve konforlu kullanım sunar.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Tartıyı düz, sert ve sabit bir zemine yerleştirin. Cihazı açın, ekranda sıfır değerini görün ve gerekiyorsa bebeğin altına serilecek örtüyü koyup dara tuşuyla ekranı sıfırlayın. Bebeği küvete yatırın, değer sabitlenene kadar bekleyin ve ekrandaki sonucu okuyun. Boy ölçümü için ölçüm ünitesini bebeğin boyuna göre ayarlayın.</p>
-<h2>Uyarılar</h2>
-<p>Bebeği tartı üzerinde asla yalnız bırakmayın; ölçüm sırasında mutlaka bir yetişkin refakat etmelidir. Cihazı suya batırmayın, nemli bezle silerek temizleyin. Kapasitesinin üzerinde yük bindirmeyin ve darbeye maruz bırakmayın. Ölçüm sonuçları bilgilendirme amaçlıdır; gelişim değerlendirmesi için çocuk hekiminize danışın. Kuru ve serin bir yerde saklayın.</p>
-<p>Bebeğinin kilo ve boy gelişimini evde takip etmek isteyen ebeveynler Mesilife Dijital Bebek Tartısı'nı Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -80285,96 +80455,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01805]]></Product_code>
-<Barcode>8697595872581</Barcode>
-<Name><![CDATA[Ocean Vitamin C-SR 30 Tablet]]></Name>
-<Brand><![CDATA[Ocean]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[C Vitamini]]></subCategory>
-<Tax>1</Tax>
-<Stock>6</Stock>
-<Miad>2029-03-01</Miad>
-<Price>279.90</Price>
-<Price2>492.29</Price2>
-<Price3>302.29</Price3>
-<Price4>313.49</Price4>
-<Price5>313.49</Price5>
-<Price6>313.49</Price6>
-<Price7>492.29</Price7>
-<Price8>492.29</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697595872581_0.webp</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697595872581_1.webp</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697595872581_2.webp</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697595872581_3.jpg</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8697595872581_4.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Ocean Vitamin C-SR 30 Tablet</strong>, her tabletinde 500 mg C vitamini bulunan, uzun salınımlı tablet formunda bir takviye edici gıdadır. C vitaminini gün içine yayılan bir salınımla almak isteyen yetişkinler ve 11 yaş üzeri çocuklar için hazırlanmıştır.</p>
-<h2>Ocean Vitamin C-SR Özellikleri</h2>
-<ul>
-<li>Her tablette 500 mg C vitamini (L-askorbik asit) bulunur.</li>
-<li>Uzun salınımlı (SR, sustained release) kaplama teknolojisiyle üretilmiştir.</li>
-<li>Tabletler mide asidinden etkilenmez; ince bağırsakta yavaş yavaş salınır.</li>
-<li>C vitamini bağışıklık sisteminin normal işleyişine katkıda bulunur.</li>
-<li>Yorgunluk ve bitkinliğin azalmasına yardımcı olur.</li>
-<li>Normal kolajen oluşumuna katkı sağlar.</li>
-<li>Demirin emilimine yardımcı olur.</li>
-<li>Glutensizdir; koruyucu ve yapay tatlandırıcı içermez.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler ve 11 yaş üzeri çocuklar için günde 1-2 tablet, tercihen yemeklerden sonra bir bardak su ile alınır. Tavsiye edilen günlük porsiyonu aşmayın.</p>
-<h2>Uyarılar</h2>
-<p>Bu ürün ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Takviye edici gıdalar normal beslenmenin yerine geçemez. Hamilelik ve emzirme döneminde, düzenli ilaç kullananlarda ve böbrek taşı öyküsü gibi özel sağlık durumlarında kullanmadan önce hekime danışın. 25 derecenin altında, kuru ve serin bir yerde, doğrudan güneş ışığından uzakta saklayın. Çocukların ulaşamayacağı yerde bulundurun.</p>
-<p>C vitaminini uzun salınımlı formda almak isteyenler Ocean Vitamin C-SR 30 Tablet'i Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01806]]></Product_code>
-<Barcode>868446601005521</Barcode>
-<Name><![CDATA[Ophis Perine Vücut Temizleme Mendili 90'lı]]></Name>
-<Brand><![CDATA[Ophis]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Genital Bölge Temizliği]]></subCategory>
-<Tax>20</Tax>
-<Stock>500</Stock>
-<Miad></Miad>
-<Price>229.90</Price>
-<Price2>423.87</Price2>
-<Price3>248.29</Price3>
-<Price4>257.49</Price4>
-<Price5>257.49</Price5>
-<Price6>257.49</Price6>
-<Price7>423.87</Price7>
-<Price8>423.87</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/868446601005521_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/868446601005521_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/868446601005521_2.jpg</Image3>
-<Description><![CDATA[<section>
-<p><strong>Ophis Perine Vücut Temizleme Mendili 90'lı</strong>, perine bölgesinin ve vücudun günlük temizliği için hazırlanmış, kutusunda 90 adet mendil bulunan tek kullanımlık bir hijyen ürünüdür. Duş almanın zor olduğu durumlarda, yatağa bağımlı hasta bakımında ve hareket kısıtlılığı olan kişilerin bakımında pratik temizlik arayan kullanıcılar ve bakım verenler için tasarlanmıştır.</p>
-<h2>Ophis Perine Vücut Temizleme Mendili Özellikleri</h2>
-<ul>
-<li>Kutusunda 90 adet temizleme mendili bulunur.</li>
-<li>Perine bölgesinin ve vücudun temizliğinde kullanılır.</li>
-<li>Islak mendil formundadır; ayrıca su, sabun veya durulama gerektirmez.</li>
-<li>Her mendil tek kullanımlıktır.</li>
-<li>Duş almanın mümkün olmadığı durumlarda vücut temizliğine yardımcı olur.</li>
-<li>Hasta bakımında ve yatak başı bakımda pratik kullanım sağlar.</li>
-<li>Kutu ambalajı sayesinde mendiller tek tek çekilerek alınır.</li>
-<li>Evde, seyahatte ve bakım ortamlarında kullanıma uygundur.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Kutunun kapağını açıp bir mendil çekin ve temizlenecek bölgeyi nazikçe silin. Perine bölgesinde silme yönüne dikkat edin ve her mendili yalnızca bir kez kullanın. Kullanım sonrası bölgeyi kurulayın. Nem kaybını önlemek için kapağı her kullanımdan sonra kapatın.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanım içindir; yutmayın ve göz içine uygulamayın. Kullanılmış mendilleri tuvalete atmayın, çöp kutusuna atın. Tahriş, kızarıklık veya kaşıntı gelişirse kullanımı bırakıp hekiminize danışın. Açık yara ve ileri derecede tahriş olmuş cilt üzerinde kullanmadan önce sağlık personeline danışın. Kuru ve serin yerde, çocukların erişemeyeceği bir konumda saklayın.</p>
-<p>Perine ve vücut temizliğinde pratik bir çözüm arayanlar Ophis Perine Vücut Temizleme Mendili 90'lı ürününü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV01828]]></Product_code>
 <Barcode>3338221000637</Barcode>
 <Name><![CDATA[Phyto Phytoelixir Cleansing Care Cream 75 ml]]></Name>
@@ -80510,51 +80590,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01807]]></Product_code>
-<Barcode>8680176001081</Barcode>
-<Name><![CDATA[Probiomax Probiyotik 10 Kapsül]]></Name>
-<Brand><![CDATA[İmuneks]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Probiyotik]]></category>
-<Tax>1</Tax>
-<Stock>28</Stock>
-<Miad>2027-01-01</Miad>
-<Price>178.00</Price>
-<Price2>352.84</Price2>
-<Price3>192.24</Price3>
-<Price4>199.36</Price4>
-<Price5>199.36</Price5>
-<Price6>199.36</Price6>
-<Price7>352.84</Price7>
-<Price8>352.84</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680176001081_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680176001081_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680176001081_2.webp</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680176001081_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680176001081_4.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Probiomax Probiyotik 10 Kapsül</strong>, Saccharomyces boulardii içeren, bitkisel kapsül formunda bir takviye edici gıdadır. Günlük beslenmesini probiyotik bir takviye ile desteklemek isteyen yetişkinler ve 11 yaş üzeri çocuklar için hazırlanmıştır.</p>
-<h2>Probiomax Probiyotik Özellikleri</h2>
-<ul>
-<li>Her kapsülde 5 milyar KOB Saccharomyces boulardii bulunur.</li>
-<li>Bitkisel kapsül (hidroksipropil metil selüloz) kullanılmıştır.</li>
-<li>Maltodekstrin ve nemlendirici olarak izomalt içerir.</li>
-<li>Emülgatör olarak yağ asitlerinin magnezyum tuzları kullanılmıştır.</li>
-<li>Topaklanmayı önleyici olarak silikon dioksit içerir.</li>
-<li>Laktoz içermez.</li>
-<li>Şeker ve koruyucu madde içermez.</li>
-<li>Kutuda 10 kapsül bulunur.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler ve 11 yaş ve üzeri çocuklar günde 1 veya 2 kapsül, bol su ile alır. Tavsiye edilen günlük porsiyonu aşmayın.</p>
-<h2>Uyarılar</h2>
-<p>Bu ürün ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Takviye edici gıdalar normal beslenmenin yerine geçemez. Hamilelik ve emzirme döneminde, bağışıklık sistemi baskılanmış kişilerde, damar yolu kateteri bulunanlarda ve düzenli ilaç kullananlarda kullanmadan önce mutlaka hekime danışın. Çocukların ulaşamayacağı, ışık ve nemden uzak bir yerde saklayın.</p>
-<p>Günlük beslenmesini probiyotik bir takviye ile desteklemek isteyenler Probiomax Probiyotik 10 Kapsül'ü Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV01831]]></Product_code>
 <Barcode>8690605662615</Barcode>
 <Name><![CDATA[Sesu Tüy Dökücü Krem For Men 100 ml]]></Name>
@@ -80599,52 +80634,6 @@
 <h2>Uyarılar</h2>
 <p>Yalnızca haricen kullanım içindir; yüz, göz çevresi ve genital bölgede kullanmayın. İlk kullanımdan önce küçük bir alanda test yapın. Zedelenmiş, yaralı, güneş yanığı olan veya tahriş olmuş cilde uygulamayın. Önerilen bekleme süresini aşmayın. Kullanım sonrası 24 saat deodorant, parfüm ve güneşe maruz kalmaktan kaçının. Çocukların erişemeyeceği yerde, doğrudan güneş ışığından uzakta ve oda sıcaklığında saklayın.</p>
 <p>Pratik ve hızlı bir tüy alma yöntemi arayan erkekler Sesu Tüy Dökücü Krem For Men 100 ml'yi Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01808]]></Product_code>
-<Barcode>8681511099350</Barcode>
-<Name><![CDATA[Siveno Doğal Roll-On Deodorant Besleyici Hindistan Cevizli 50 ml]]></Name>
-<Brand><![CDATA[Siveno]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
-<Tax>20</Tax>
-<Stock>8</Stock>
-<Miad>2026-10-01</Miad>
-<Price>249.00</Price>
-<Price2>450.01</Price2>
-<Price3>268.92</Price3>
-<Price4>278.88</Price4>
-<Price5>278.88</Price5>
-<Price6>278.88</Price6>
-<Price7>450.01</Price7>
-<Price8>450.01</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681511099350_0.png</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681511099350_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681511099350_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681511099350_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8681511099350_4.webp</Image5>
-<Description><![CDATA[<section>
-<p><strong>Siveno Doğal Roll-On Deodorant Besleyici Hindistan Cevizli 50 ml</strong>, potasyum şapı ve hindistan cevizi içeriğiyle hazırlanmış, alüminyum klorhidrat içermeyen doğal bir roll-on deodorandır. Terlemeyi engellemeden ter kokusuna karşı önlem almak isteyen, hassas ve kuru ciltli kullanıcılar için geliştirilmiştir.</p>
-<h2>Siveno Doğal Roll-On Deodorant Özellikleri</h2>
-<ul>
-<li>50 ml roll-on ambalajda sunulur.</li>
-<li>Doğal mineral tuz olan potasyum şapı içerir.</li>
-<li>Gözenekleri kapatmadan, kötü kokuya neden olan bakterilere karşı etki gösterir.</li>
-<li>Hindistan cevizi içeriğiyle cildi besler.</li>
-<li>Zeytinyağından elde edilen skualan içerir.</li>
-<li>E vitamini (tokoferol) ve bitkisel gliserin içerir.</li>
-<li>Alüminyum klorhidrat, paraben, triklosan, sentetik parfüm, boya ve alkol içermez.</li>
-<li>Vegan ve cruelty free sertifikalıdır; dermatolojik olarak test edilmiştir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Kullanmadan önce şişeyi çalkalayın. Temiz ve kuru koltuk altına ince bir tabaka halinde uygulayın. Giyinmeden önce ürünün cilt üzerinde kurumasını bekleyin.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanım içindir. Ağda ve tıraş sonrası tahriş olmuş cilde, açık yara ve çizik üzerine uygulamayın. Göz ile temasından kaçının; temas hâlinde bol suyla durulayın. Hassasiyet gelişirse kullanımı bırakın ve hekiminize danışın. Doğal içerikli formülü nedeniyle açtıktan sonra 6 ay içinde tüketilmesi önerilir. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Doğal içerikli bir roll-on arayanlar Siveno Doğal Roll-On Deodorant Besleyici Hindistan Cevizli 50 ml ürününü Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
