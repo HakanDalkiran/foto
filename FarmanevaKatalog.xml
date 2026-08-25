@@ -2364,7 +2364,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>225</Stock>
+<Stock>221</Stock>
 <Miad>2026-09-01</Miad>
 <Price>156.90</Price>
 <Price2>323.97</Price2>
@@ -8106,7 +8106,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>28</Stock>
+<Stock>30</Stock>
 <Miad>2027-10-01</Miad>
 <Price>712.90</Price>
 <Price2>1084.85</Price2>
@@ -9085,7 +9085,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Oksimetre]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>960.00</Price>
 <Price2>1423.01</Price2>
@@ -20821,7 +20821,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>225</Stock>
+<Stock>224</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -33816,7 +33816,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>23</Stock>
 <Miad>2027-05-01</Miad>
 <Price>244.00</Price>
 <Price2>443.16</Price2>
@@ -52615,7 +52615,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>56</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
