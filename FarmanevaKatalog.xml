@@ -3403,7 +3403,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1099.00</Price>
 <Price2>1613.23</Price2>
@@ -4170,7 +4170,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-06-01</Miad>
 <Price>587.90</Price>
 <Price2>913.79</Price2>
@@ -7418,7 +7418,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>44</Stock>
+<Stock>42</Stock>
 <Miad>2026-12-01</Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
@@ -12178,7 +12178,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>152</Stock>
+<Stock>150</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -45279,7 +45279,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>71</Stock>
+<Stock>73</Stock>
 <Miad></Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
@@ -46040,7 +46040,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>41</Stock>
+<Stock>43</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -46267,7 +46267,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>68</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>326.84</Price2>
@@ -46890,7 +46890,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>141.75</Price>
 <Price2>303.23</Price2>
@@ -51517,7 +51517,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-03-01</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
@@ -52438,7 +52438,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>112</Stock>
+<Stock>111</Stock>
 <Miad>2029-01-01</Miad>
 <Price>374.90</Price>
 <Price2>622.30</Price2>
@@ -52704,7 +52704,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>403</Stock>
+<Stock>400</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -66820,14 +66820,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-01-01</Miad>
-<Price>998.90</Price>
-<Price2>1476.24</Price2>
-<Price3>1078.81</Price3>
-<Price4>1118.77</Price4>
-<Price5>1118.77</Price5>
-<Price6>1118.77</Price6>
-<Price7>1476.24</Price7>
-<Price8>1476.24</Price8>
+<Price>799.90</Price>
+<Price2>1203.91</Price2>
+<Price3>863.89</Price3>
+<Price4>895.89</Price4>
+<Price5>895.89</Price5>
+<Price6>895.89</Price6>
+<Price7>1203.91</Price7>
+<Price8>1203.91</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -67510,14 +67510,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>559.93</Price>
-<Price2>875.51</Price2>
-<Price3>604.72</Price3>
-<Price4>627.12</Price4>
-<Price5>627.12</Price5>
-<Price6>627.12</Price6>
-<Price7>875.51</Price7>
-<Price8>875.51</Price8>
+<Price>559.73</Price>
+<Price2>875.24</Price2>
+<Price3>604.51</Price3>
+<Price4>626.90</Price4>
+<Price5>626.90</Price5>
+<Price6>626.90</Price6>
+<Price7>875.24</Price7>
+<Price8>875.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
