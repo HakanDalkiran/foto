@@ -26871,7 +26871,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>39.80</Price>
 <Price2>163.72</Price2>
@@ -30825,7 +30825,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-06-01</Miad>
 <Price>498.00</Price>
 <Price2>790.76</Price2>
@@ -38006,7 +38006,7 @@
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Yüz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>658.90</Price>
 <Price2>1010.95</Price2>
@@ -67601,14 +67601,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>489.89</Price>
-<Price2>779.66</Price2>
-<Price3>529.08</Price3>
-<Price4>548.68</Price4>
-<Price5>548.68</Price5>
-<Price6>548.68</Price6>
-<Price7>779.66</Price7>
-<Price8>779.66</Price8>
+<Price>488.90</Price>
+<Price2>778.31</Price2>
+<Price3>528.01</Price3>
+<Price4>547.57</Price4>
+<Price5>547.57</Price5>
+<Price6>547.57</Price6>
+<Price7>778.31</Price7>
+<Price8>778.31</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
