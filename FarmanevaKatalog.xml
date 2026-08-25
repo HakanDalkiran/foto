@@ -2229,14 +2229,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2026-12-01</Miad>
-<Price>549.90</Price>
-<Price2>861.79</Price2>
-<Price3>593.89</Price3>
-<Price4>615.89</Price4>
-<Price5>615.89</Price5>
-<Price6>615.89</Price6>
-<Price7>861.79</Price7>
-<Price8>861.79</Price8>
+<Price>440.00</Price>
+<Price2>711.39</Price2>
+<Price3>475.20</Price3>
+<Price4>492.80</Price4>
+<Price5>492.80</Price5>
+<Price6>492.80</Price6>
+<Price7>711.39</Price7>
+<Price8>711.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-prosyneo-1-bebek-sutu-400-gr-7829.jpg</Image1>
@@ -68795,7 +68795,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>185</Stock>
+<Stock>184</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
