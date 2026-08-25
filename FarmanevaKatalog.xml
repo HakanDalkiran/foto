@@ -7463,7 +7463,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>42</Stock>
+<Stock>44</Stock>
 <Miad>2026-12-01</Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
@@ -13608,7 +13608,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>86</Stock>
+<Stock>85</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -26871,7 +26871,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>39.80</Price>
 <Price2>163.72</Price2>
@@ -30825,7 +30825,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2027-06-01</Miad>
 <Price>498.00</Price>
 <Price2>790.76</Price2>
@@ -46312,7 +46312,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>68</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>326.84</Price2>
@@ -46935,7 +46935,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>141.75</Price>
 <Price2>303.23</Price2>
@@ -47198,47 +47198,6 @@
 <h2>Uyar&#305;lar</h2>
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>G&#252;nl&#252;k ba&#287;&#305;&#351;&#305;kl&#305;k deste&#287;ini pratik bir i&#231;ecekle almak isteyenler Redoxon 3'l&#252; Etki'yi Farmaneva'da bulabilir.</p></section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01065]]></Product_code>
-<Barcode>8699546020454</Barcode>
-<Name><![CDATA[Redoxon 3'lü Etki 30 Efervesan Tablet]]></Name>
-<Brand><![CDATA[Redoxon]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[Multivitamin]]></subCategory>
-<Tax>1</Tax>
-<Stock>500</Stock>
-<Miad>2028-04-01</Miad>
-<Price>535.50</Price>
-<Price2>842.08</Price2>
-<Price3>578.34</Price3>
-<Price4>599.76</Price4>
-<Price5>599.76</Price5>
-<Price6>599.76</Price6>
-<Price7>842.08</Price7>
-<Price8>6300.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-10240.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-10241.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-10242.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-14499.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-14500.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Redoxon 3'l&#252; Etki 30 Efervesan Tablet</strong>, C vitamini, D vitamini ve &#231;inkoyu tek tablette bir araya getiren, suda eriyen efervesan formda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k ba&#287;&#305;&#351;&#305;kl&#305;k deste&#287;ini pratik ve lezzetli bir i&#231;ecekle almak isteyenler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>Redoxon 3'l&#252; Etki &#214;zellikleri</h2>
-<ul>
-<li>Her tablette 1000 mg C vitamini, D vitamini ve &#231;inko i&#231;erir.</li>
-<li>C, D vitaminleri ve &#231;inko ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal i&#351;leyi&#351;ine katk&#305;da bulunur.</li>
-<li>Suda h&#305;zl&#305;ca eriyen efervesan formdad&#305;r.</li>
-<li>Portakal aromas&#305;yla keyifli bir kullan&#305;m sunar.</li>
-<li>30 tabletlik ambalaj&#305; ile yakla&#351;&#305;k bir ayl&#305;k kullan&#305;m sa&#287;lar.</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>11 ya&#351; ve &#252;zeri i&#231;in g&#252;nde 1 efervesan tableti 1 bardak (200 ml) suda eritip, tercihen tok karn&#305;na i&#231;in.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>G&#252;nl&#252;k ba&#287;&#305;&#351;&#305;kl&#305;k deste&#287;ini pratik bir i&#231;ecekle almak isteyenler Redoxon 3'l&#252; Etki'yi Farmaneva g&#252;vencesiyle edinebilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01066]]></Product_code>
@@ -47790,7 +47749,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>252</Stock>
+<Stock>260</Stock>
 <Miad>2029-02-01</Miad>
 <Price>58.40</Price>
 <Price2>189.17</Price2>
@@ -52524,7 +52483,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>111</Stock>
+<Stock>112</Stock>
 <Miad>2029-01-01</Miad>
 <Price>374.90</Price>
 <Price2>622.30</Price2>
@@ -52790,7 +52749,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>400</Stock>
+<Stock>403</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -63010,7 +62969,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad>2028-12-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -66906,14 +66865,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-01-01</Miad>
-<Price>799.90</Price>
-<Price2>1203.91</Price2>
-<Price3>863.89</Price3>
-<Price4>895.89</Price4>
-<Price5>895.89</Price5>
-<Price6>895.89</Price6>
-<Price7>1203.91</Price7>
-<Price8>1203.91</Price8>
+<Price>998.90</Price>
+<Price2>1476.24</Price2>
+<Price3>1078.81</Price3>
+<Price4>1118.77</Price4>
+<Price5>1118.77</Price5>
+<Price6>1118.77</Price6>
+<Price7>1476.24</Price7>
+<Price8>1476.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -67596,14 +67555,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>559.13</Price>
-<Price2>874.42</Price2>
-<Price3>603.86</Price3>
-<Price4>626.23</Price4>
-<Price5>626.23</Price5>
-<Price6>626.23</Price6>
-<Price7>874.42</Price7>
-<Price8>874.42</Price8>
+<Price>558.70</Price>
+<Price2>873.83</Price2>
+<Price3>603.40</Price3>
+<Price4>625.74</Price4>
+<Price5>625.74</Price5>
+<Price6>625.74</Price6>
+<Price7>873.83</Price7>
+<Price8>873.83</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
