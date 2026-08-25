@@ -499,14 +499,14 @@
 <Tax>1</Tax>
 <Stock>29</Stock>
 <Miad>2026-10-01</Miad>
-<Price>219.90</Price>
-<Price2>410.18</Price2>
-<Price3>237.49</Price3>
-<Price4>246.29</Price4>
-<Price5>246.29</Price5>
-<Price6>246.29</Price6>
-<Price7>410.18</Price7>
-<Price8>410.18</Price8>
+<Price>99.00</Price>
+<Price2>244.73</Price2>
+<Price3>106.92</Price3>
+<Price4>110.88</Price4>
+<Price5>110.88</Price5>
+<Price6>110.88</Price6>
+<Price7>244.73</Price7>
+<Price8>244.73</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/allergo-vitagil-magni4-magnezyum-vitamin-d3-p5p-30-sase-7750.jpg</Image1>
@@ -2273,14 +2273,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2026-12-01</Miad>
-<Price>440.00</Price>
-<Price2>711.39</Price2>
-<Price3>475.20</Price3>
-<Price4>492.80</Price4>
-<Price5>492.80</Price5>
-<Price6>492.80</Price6>
-<Price7>711.39</Price7>
-<Price8>711.39</Price8>
+<Price>509.90</Price>
+<Price2>807.05</Price2>
+<Price3>550.69</Price3>
+<Price4>571.09</Price4>
+<Price5>571.09</Price5>
+<Price6>571.09</Price6>
+<Price7>807.05</Price7>
+<Price8>807.05</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-prosyneo-1-bebek-sutu-400-gr-7829.jpg</Image1>
@@ -3310,14 +3310,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2026-10-01</Miad>
-<Price>543.90</Price>
-<Price2>853.58</Price2>
-<Price3>587.41</Price3>
-<Price4>609.17</Price4>
-<Price5>609.17</Price5>
-<Price6>609.17</Price6>
-<Price7>853.58</Price7>
-<Price8>853.58</Price8>
+<Price>229.00</Price>
+<Price2>422.64</Price2>
+<Price3>247.32</Price3>
+<Price4>256.48</Price4>
+<Price5>256.48</Price5>
+<Price6>256.48</Price6>
+<Price7>422.64</Price7>
+<Price8>422.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/av-ne-cleanance-cleansing-gel-200-ml-7908.jpg</Image1>
@@ -3403,7 +3403,7 @@
 <Tax>20</Tax>
 <Stock>9</Stock>
 <Miad>2026-09-01</Miad>
-<Price>799.90</Price>
+<Price>440.00</Price>
 <Price2>1203.91</Price2>
 <Price3>863.89</Price3>
 <Price4>798.00</Price4>
@@ -12398,7 +12398,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>192</Stock>
+<Stock>191</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12445,7 +12445,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>152</Stock>
+<Stock>151</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -14062,7 +14062,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>88</Stock>
+<Stock>86</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -14909,14 +14909,14 @@
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad>2026-10-01</Miad>
-<Price>1499.00</Price>
-<Price2>2160.63</Price2>
-<Price3>1618.92</Price3>
-<Price4>1678.88</Price4>
-<Price5>1678.88</Price5>
-<Price6>1678.88</Price6>
-<Price7>2160.63</Price7>
-<Price8>2160.63</Price8>
+<Price>315.00</Price>
+<Price2>540.33</Price2>
+<Price3>340.20</Price3>
+<Price4>352.80</Price4>
+<Price5>352.80</Price5>
+<Price6>352.80</Price6>
+<Price7>540.33</Price7>
+<Price8>540.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-melascreen-anti-spots-cream-30-ml-8644.jpg</Image1>
@@ -17467,7 +17467,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>241</Stock>
+<Stock>240</Stock>
 <Miad></Miad>
 <Price>38.60</Price>
 <Price2>162.07</Price2>
@@ -19563,7 +19563,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -21235,14 +21235,14 @@
 <Tax>1</Tax>
 <Stock>14</Stock>
 <Miad>2026-11-01</Miad>
-<Price>159.90</Price>
-<Price2>328.07</Price2>
-<Price3>172.69</Price3>
-<Price4>179.09</Price4>
-<Price5>179.09</Price5>
-<Price6>179.09</Price6>
-<Price7>328.07</Price7>
-<Price8>328.07</Price8>
+<Price>99.90</Price>
+<Price2>245.96</Price2>
+<Price3>107.89</Price3>
+<Price4>111.89</Price4>
+<Price5>111.89</Price5>
+<Price6>111.89</Price6>
+<Price7>245.96</Price7>
+<Price8>245.96</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/imuneks-farma-imuseng-g365-30-kapsul-8887.jpg</Image1>
@@ -31466,15 +31466,15 @@
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>4</Stock>
-<Miad>2026-10-01</Miad>
+<Miad>2027-06-01</Miad>
 <Price>498.00</Price>
-<Price2>790.76</Price2>
+<Price2>790.77</Price2>
 <Price3>537.84</Price3>
 <Price4>557.76</Price4>
 <Price5>557.76</Price5>
 <Price6>557.76</Price6>
-<Price7>790.76</Price7>
-<Price8>790.76</Price8>
+<Price7>790.77</Price7>
+<Price8>790.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-saflife-gummy-60-cignenebilir-form-9386.jpg</Image1>
@@ -42983,7 +42983,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>166</Stock>
 <Miad>2026-12-01</Miad>
 <Price>216.50</Price>
 <Price2>405.53</Price2>
@@ -43450,14 +43450,14 @@
 <Tax>1</Tax>
 <Stock>36</Stock>
 <Miad>2028-10-01</Miad>
-<Price>99.90</Price>
-<Price2>245.96</Price2>
-<Price3>107.89</Price3>
-<Price4>111.89</Price4>
-<Price5>111.89</Price5>
-<Price6>111.89</Price6>
-<Price7>245.96</Price7>
-<Price8>245.96</Price8>
+<Price>103.90</Price>
+<Price2>251.44</Price2>
+<Price3>112.21</Price3>
+<Price4>116.37</Price4>
+<Price5>116.37</Price5>
+<Price6>116.37</Price6>
+<Price7>251.44</Price7>
+<Price8>251.44</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/otaci-pastisin-zencefil-portakal-24-adet-10018.jpg</Image1>
@@ -65518,7 +65518,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>127</Stock>
+<Stock>121</Stock>
 <Miad>2028-09-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -68458,7 +68458,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-04-01</Miad>
 <Price>494.90</Price>
 <Price2>786.52</Price2>
@@ -68504,7 +68504,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>70</Stock>
+<Stock>69</Stock>
 <Miad>2028-01-01</Miad>
 <Price>557.70</Price>
 <Price2>872.46</Price2>
