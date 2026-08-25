@@ -322,7 +322,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>93</Stock>
+<Stock>91</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -2364,7 +2364,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>221</Stock>
+<Stock>217</Stock>
 <Miad>2026-09-01</Miad>
 <Price>156.90</Price>
 <Price2>323.97</Price2>
@@ -13752,7 +13752,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>58</Stock>
 <Miad>2026-11-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -18839,7 +18839,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>156</Stock>
+<Stock>154</Stock>
 <Miad>2026-10-01</Miad>
 <Price>594.90</Price>
 <Price2>923.37</Price2>
@@ -20821,7 +20821,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>223</Stock>
+<Stock>224</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -21006,7 +21006,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>44</Stock>
+<Stock>41</Stock>
 <Miad>2026-09-01</Miad>
 <Price>269.90</Price>
 <Price2>478.61</Price2>
@@ -21052,7 +21052,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>182</Stock>
+<Stock>179</Stock>
 <Miad>2026-09-01</Miad>
 <Price>378.90</Price>
 <Price2>627.77</Price2>
@@ -30452,7 +30452,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>15</Stock>
 <Miad>2026-09-01</Miad>
 <Price>907.90</Price>
 <Price2>1351.71</Price2>
@@ -33862,7 +33862,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>116</Stock>
+<Stock>113</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -33953,7 +33953,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Erkek Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>0</Stock>
 <Miad>2027-02-01</Miad>
 <Price>264.00</Price>
 <Price2>470.53</Price2>
@@ -52615,7 +52615,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>56</Stock>
+<Stock>55</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -54470,7 +54470,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>312</Stock>
+<Stock>303</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -68612,7 +68612,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>117</Stock>
+<Stock>114</Stock>
 <Miad>2026-12-01</Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -69206,16 +69206,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
-<Miad>2026-10-01</Miad>
-<Price>694.90</Price>
-<Price2>1060.22</Price2>
-<Price3>750.49</Price3>
-<Price4>778.29</Price4>
-<Price5>778.29</Price5>
-<Price6>778.29</Price6>
-<Price7>1060.22</Price7>
-<Price8>1060.22</Price8>
+<Stock>2</Stock>
+<Miad>2029-02-01</Miad>
+<Price>695.90</Price>
+<Price2>1061.59</Price2>
+<Price3>751.57</Price3>
+<Price4>779.41</Price4>
+<Price5>779.41</Price5>
+<Price6>779.41</Price6>
+<Price7>1061.59</Price7>
+<Price8>1061.59</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-vm-2000-multivitamin-30-tablet-11475.jpg</Image1>
@@ -77972,7 +77972,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2027-10-01</Miad>
 <Price>339.90</Price>
 <Price2>574.40</Price2>
