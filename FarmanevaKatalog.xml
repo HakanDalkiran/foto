@@ -12219,7 +12219,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>189</Stock>
+<Stock>188</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12266,7 +12266,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>147</Stock>
+<Stock>146</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -25035,7 +25035,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>49</Stock>
+<Stock>47</Stock>
 <Miad>2027-02-01</Miad>
 <Price>498.90</Price>
 <Price2>791.99</Price2>
@@ -26914,7 +26914,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>39.80</Price>
 <Price2>163.72</Price2>
@@ -30868,7 +30868,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-06-01</Miad>
 <Price>498.00</Price>
 <Price2>790.76</Price2>
@@ -47833,7 +47833,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>260</Stock>
+<Stock>255</Stock>
 <Miad>2029-02-01</Miad>
 <Price>58.40</Price>
 <Price2>189.17</Price2>
@@ -66442,7 +66442,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-04-01</Miad>
 <Price>776.90</Price>
 <Price2>1172.44</Price2>
@@ -67502,14 +67502,14 @@
 <Tax>20</Tax>
 <Stock>69</Stock>
 <Miad>2028-01-01</Miad>
-<Price>557.30</Price>
-<Price2>871.92</Price2>
-<Price3>601.88</Price3>
-<Price4>624.18</Price4>
-<Price5>624.18</Price5>
-<Price6>624.18</Price6>
-<Price7>871.92</Price7>
-<Price8>871.92</Price8>
+<Price>557.10</Price>
+<Price2>871.64</Price2>
+<Price3>601.67</Price3>
+<Price4>623.95</Price4>
+<Price5>623.95</Price5>
+<Price6>623.95</Price6>
+<Price7>871.64</Price7>
+<Price8>871.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -67594,14 +67594,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>558.30</Price>
-<Price2>873.28</Price2>
-<Price3>602.96</Price3>
-<Price4>625.30</Price4>
-<Price5>625.30</Price5>
-<Price6>625.30</Price6>
-<Price7>873.28</Price7>
-<Price8>873.28</Price8>
+<Price>558.10</Price>
+<Price2>873.01</Price2>
+<Price3>602.75</Price3>
+<Price4>625.07</Price4>
+<Price5>625.07</Price5>
+<Price6>625.07</Price6>
+<Price7>873.01</Price7>
+<Price8>873.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -68512,7 +68512,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>47</Stock>
+<Stock>41</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
@@ -70340,15 +70340,15 @@
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
 <Stock>2</Stock>
-<Miad>2029-02-01</Miad>
+<Miad>2027-07-01</Miad>
 <Price>309.90</Price>
-<Price2>533.35</Price2>
+<Price2>533.34</Price2>
 <Price3>334.69</Price3>
 <Price4>347.09</Price4>
 <Price5>347.09</Price5>
 <Price6>347.09</Price6>
-<Price7>533.35</Price7>
-<Price8>533.35</Price8>
+<Price7>533.34</Price7>
+<Price8>533.34</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-magnezyum-sitrat-ve-p5p-vitamin-b6-60-tablet-11522.jpg</Image1>
