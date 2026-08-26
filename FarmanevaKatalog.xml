@@ -54739,7 +54739,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>308</Stock>
+<Stock>307</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -70706,16 +70706,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>2</Stock>
-<Miad>2027-10-01</Miad>
+<Stock>0</Stock>
+<Miad>2028-11-01</Miad>
 <Price>442.90</Price>
-<Price2>715.37</Price2>
+<Price2>715.36</Price2>
 <Price3>478.33</Price3>
 <Price4>496.05</Price4>
 <Price5>496.05</Price5>
 <Price6>496.05</Price6>
-<Price7>715.37</Price7>
-<Price8>715.37</Price8>
+<Price7>715.36</Price7>
+<Price8>715.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-ultra-omega-3-30-kapsul-11532.jpg</Image1>
@@ -72915,7 +72915,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-01-01</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -80680,7 +80680,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>164.80</Price>
 <Price2>334.78</Price2>
