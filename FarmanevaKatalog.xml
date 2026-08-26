@@ -7463,7 +7463,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>44</Stock>
+<Stock>42</Stock>
 <Miad>2026-12-01</Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
@@ -7967,7 +7967,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>71</Stock>
+<Stock>65</Stock>
 <Miad>2031-03-01</Miad>
 <Price>168.90</Price>
 <Price2>340.39</Price2>
@@ -8384,14 +8384,14 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2027-06-01</Miad>
-<Price>819.90</Price>
-<Price2>1231.28</Price2>
-<Price3>885.49</Price3>
-<Price4>918.29</Price4>
-<Price5>918.29</Price5>
-<Price6>918.29</Price6>
-<Price7>1231.28</Price7>
-<Price8>1231.28</Price8>
+<Price>827.90</Price>
+<Price2>1242.23</Price2>
+<Price3>894.13</Price3>
+<Price4>927.25</Price4>
+<Price5>927.25</Price5>
+<Price6>927.25</Price6>
+<Price7>1242.23</Price7>
+<Price8>1242.23</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cebrolux-nf-30-sase-8246.jpg</Image1>
@@ -11752,7 +11752,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>34</Stock>
+<Stock>32</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12219,7 +12219,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>188</Stock>
+<Stock>184</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12266,7 +12266,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>145</Stock>
+<Stock>143</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -13651,7 +13651,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>79</Stock>
+<Stock>77</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -26644,13 +26644,13 @@
 <Stock>39</Stock>
 <Miad>2027-10-01</Miad>
 <Price>39.90</Price>
-<Price2>163.84</Price2>
+<Price2>163.85</Price2>
 <Price3>43.09</Price3>
 <Price4>44.69</Price4>
 <Price5>44.69</Price5>
 <Price6>44.69</Price6>
-<Price7>163.84</Price7>
-<Price8>163.84</Price8>
+<Price7>163.85</Price7>
+<Price8>163.85</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-tens-elektrodu-8x4-cm-2-li-kablolu-9198.jpg</Image1>
@@ -47879,7 +47879,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>255</Stock>
+<Stock>250</Stock>
 <Miad>2029-02-01</Miad>
 <Price>58.40</Price>
 <Price2>189.17</Price2>
@@ -63602,7 +63602,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>3</Stock>
 <Miad>2029-02-01</Miad>
 <Price>649.90</Price>
 <Price2>998.64</Price2>
@@ -67640,14 +67640,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>556.50</Price>
-<Price2>870.82</Price2>
-<Price3>601.02</Price3>
-<Price4>623.28</Price4>
-<Price5>623.28</Price5>
-<Price6>623.28</Price6>
-<Price7>870.82</Price7>
-<Price8>870.82</Price8>
+<Price>556.30</Price>
+<Price2>870.55</Price2>
+<Price3>600.80</Price3>
+<Price4>623.06</Price4>
+<Price5>623.06</Price5>
+<Price6>623.06</Price6>
+<Price7>870.55</Price7>
+<Price8>870.55</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
