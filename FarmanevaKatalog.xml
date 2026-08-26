@@ -11332,7 +11332,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>323</Stock>
+<Stock>319</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -12219,7 +12219,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>184</Stock>
+<Stock>188</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12266,7 +12266,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>143</Stock>
+<Stock>146</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -13651,7 +13651,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>83</Stock>
+<Stock>80</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -18007,7 +18007,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>104.90</Price>
 <Price2>252.81</Price2>
@@ -25035,7 +25035,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>45</Stock>
 <Miad>2027-02-01</Miad>
 <Price>498.90</Price>
 <Price2>791.99</Price2>
@@ -26914,7 +26914,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>39.80</Price>
 <Price2>163.72</Price2>
@@ -38051,14 +38051,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
-<Price>658.90</Price>
-<Price2>1010.95</Price2>
-<Price3>711.61</Price3>
-<Price4>737.97</Price4>
-<Price5>737.97</Price5>
-<Price6>737.97</Price6>
-<Price7>1010.95</Price7>
-<Price8>1010.95</Price8>
+<Price>679.90</Price>
+<Price2>1039.69</Price2>
+<Price3>734.29</Price3>
+<Price4>761.49</Price4>
+<Price5>761.49</Price5>
+<Price6>761.49</Price6>
+<Price7>1039.69</Price7>
+<Price8>1039.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-zinc-power-lotion-200-ml-9762.jpg</Image1>
@@ -42804,7 +42804,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>33</Stock>
+<Stock>35</Stock>
 <Miad>2028-10-01</Miad>
 <Price>103.90</Price>
 <Price2>251.44</Price2>
@@ -51970,15 +51970,15 @@
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2028-03-01</Miad>
+<Miad>2027-10-01</Miad>
 <Price>679.90</Price>
-<Price2>1039.69</Price2>
+<Price2>1039.68</Price2>
 <Price3>734.29</Price3>
 <Price4>761.49</Price4>
 <Price5>761.49</Price5>
 <Price6>761.49</Price6>
-<Price7>1039.69</Price7>
-<Price8>1039.69</Price8>
+<Price7>1039.68</Price7>
+<Price8>1039.68</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-coenzyme-q-10-30-mg-60-kapsul-10420.jpg</Image1>
@@ -63053,7 +63053,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>24</Stock>
 <Miad>2028-12-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -64283,7 +64283,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -64559,7 +64559,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>121</Stock>
+<Stock>115</Stock>
 <Miad>2028-09-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -67500,16 +67500,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>68</Stock>
+<Stock>69</Stock>
 <Miad>2028-01-01</Miad>
-<Price>557.89</Price>
-<Price2>872.72</Price2>
-<Price3>602.52</Price3>
-<Price4>624.84</Price4>
-<Price5>624.84</Price5>
-<Price6>624.84</Price6>
-<Price7>872.72</Price7>
-<Price8>872.72</Price8>
+<Price>557.78</Price>
+<Price2>872.57</Price2>
+<Price3>602.40</Price3>
+<Price4>624.71</Price4>
+<Price5>624.71</Price5>
+<Price6>624.71</Price6>
+<Price7>872.57</Price7>
+<Price8>872.57</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -67594,14 +67594,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>557.50</Price>
-<Price2>872.19</Price2>
-<Price3>602.10</Price3>
-<Price4>624.40</Price4>
-<Price5>624.40</Price5>
-<Price6>624.40</Price6>
-<Price7>872.19</Price7>
-<Price8>872.19</Price8>
+<Price>556.90</Price>
+<Price2>871.37</Price2>
+<Price3>601.45</Price3>
+<Price4>623.73</Price4>
+<Price5>623.73</Price5>
+<Price6>623.73</Price6>
+<Price7>871.37</Price7>
+<Price8>871.37</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -67640,14 +67640,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>488.90</Price>
-<Price2>778.31</Price2>
-<Price3>528.01</Price3>
-<Price4>547.57</Price4>
-<Price5>547.57</Price5>
-<Price6>547.57</Price6>
-<Price7>778.31</Price7>
-<Price8>778.31</Price8>
+<Price>499.75</Price>
+<Price2>793.16</Price2>
+<Price3>539.73</Price3>
+<Price4>559.72</Price4>
+<Price5>559.72</Price5>
+<Price6>559.72</Price6>
+<Price7>793.16</Price7>
+<Price8>793.16</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -68512,7 +68512,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>37</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
