@@ -717,7 +717,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>133</Stock>
+<Stock>132</Stock>
 <Miad>2026-09-01</Miad>
 <Price>234.90</Price>
 <Price2>430.71</Price2>
@@ -18927,7 +18927,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>149</Stock>
+<Stock>148</Stock>
 <Miad>2026-10-01</Miad>
 <Price>594.90</Price>
 <Price2>923.37</Price2>
@@ -33950,7 +33950,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>72</Stock>
+<Stock>71</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -38800,7 +38800,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>121</Stock>
+<Stock>118</Stock>
 <Miad>2026-10-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -39418,7 +39418,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2027-09-01</Miad>
 <Price>627.90</Price>
 <Price2>968.53</Price2>
@@ -47745,7 +47745,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Yarabandı]]></subCategory>
 <Tax>10</Tax>
-<Stock>53</Stock>
+<Stock>57</Stock>
 <Miad>2026-12-01</Miad>
 <Price>248.90</Price>
 <Price2>449.87</Price2>
@@ -77021,7 +77021,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>69</Stock>
+<Stock>68</Stock>
 <Miad>2029-01-01</Miad>
 <Price>461.00</Price>
 <Price2>740.13</Price2>
