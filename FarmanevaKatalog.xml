@@ -16916,7 +16916,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>239</Stock>
+<Stock>240</Stock>
 <Miad></Miad>
 <Price>38.60</Price>
 <Price2>162.07</Price2>
@@ -19012,7 +19012,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>19</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -38051,14 +38051,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
-<Price>679.90</Price>
-<Price2>1039.69</Price2>
-<Price3>734.29</Price3>
-<Price4>761.49</Price4>
-<Price5>761.49</Price5>
-<Price6>761.49</Price6>
-<Price7>1039.69</Price7>
-<Price8>1039.69</Price8>
+<Price>658.90</Price>
+<Price2>1010.95</Price2>
+<Price3>711.61</Price3>
+<Price4>737.97</Price4>
+<Price5>737.97</Price5>
+<Price6>737.97</Price6>
+<Price7>1010.95</Price7>
+<Price8>1010.95</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-zinc-power-lotion-200-ml-9762.jpg</Image1>
@@ -67640,14 +67640,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>556.10</Price>
-<Price2>870.27</Price2>
-<Price3>600.59</Price3>
-<Price4>622.83</Price4>
-<Price5>622.83</Price5>
-<Price6>622.83</Price6>
-<Price7>870.27</Price7>
-<Price8>870.27</Price8>
+<Price>555.90</Price>
+<Price2>870.00</Price2>
+<Price3>600.37</Price3>
+<Price4>622.61</Price4>
+<Price5>622.61</Price5>
+<Price6>622.61</Price6>
+<Price7>870.00</Price7>
+<Price8>870.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -68328,7 +68328,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>133</Stock>
+<Stock>134</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -70612,7 +70612,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-11-01</Miad>
 <Price>442.90</Price>
 <Price2>715.36</Price2>
