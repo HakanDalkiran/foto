@@ -8059,7 +8059,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>61</Stock>
+<Stock>55</Stock>
 <Miad>2026-12-01</Miad>
 <Price>279.90</Price>
 <Price2>492.29</Price2>
@@ -18927,7 +18927,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>152</Stock>
+<Stock>151</Stock>
 <Miad>2026-10-01</Miad>
 <Price>594.90</Price>
 <Price2>923.37</Price2>
@@ -20032,7 +20032,7 @@
 <category><![CDATA[Kadın Hijyen Ürünleri]]></category>
 <subCategory><![CDATA[Genital Bölge Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad>2026-11-01</Miad>
 <Price>249.90</Price>
 <Price2>451.24</Price2>
@@ -20222,7 +20222,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>29</Stock>
 <Miad>2026-09-01</Miad>
 <Price>209.90</Price>
 <Price2>396.50</Price2>
@@ -33950,7 +33950,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>82</Stock>
+<Stock>75</Stock>
 <Miad>2027-04-01</Miad>
 <Price>302.90</Price>
 <Price2>523.77</Price2>
@@ -40765,7 +40765,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>55</Stock>
+<Stock>54</Stock>
 <Miad>2026-09-01</Miad>
 <Price>1139.00</Price>
 <Price2>1667.97</Price2>
@@ -50529,51 +50529,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01142]]></Product_code>
-<Barcode>7613287246981</Barcode>
-<Name><![CDATA[SMA Comfort 1 Bebek Sütü 400 gr]]></Name>
-<Brand><![CDATA[Sma]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Beslenme]]></category>
-<subCategory><![CDATA[Bebek Maması]]></subCategory>
-<Tax>1</Tax>
-<Stock>12</Stock>
-<Miad>2026-12-01</Miad>
-<Price>584.90</Price>
-<Price2>909.32</Price2>
-<Price3>593.00</Price3>
-<Price4>584.00</Price4>
-<Price5>581.00</Price5>
-<Price6>584.00</Price6>
-<Price7>909.69</Price7>
-<Price8>909.69</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-1-bebek-sutu-400-gr-10366.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-1-bebek-sutu-400-gr-14622.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-1-bebek-sutu-400-gr-17366.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-1-bebek-sutu-400-gr-20013.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Sma Comfort 1 Numara 400 gr</strong>, 0-6 ayl&#305;k bebekler i&#231;in geli&#351;tirilmi&#351;, k&#305;smen hidrolize protein, prebiyotik lif ve DHA i&#231;eren bir ba&#351;lang&#305;&#231; bebek s&#252;t&#252;d&#252;r. Bu &#252;r&#252;n 12'li koli olarak sunulur; her kutu 400 gr toz bebek s&#252;t&#252; i&#231;erir ve sindirim konforu d&#252;&#351;&#252;n&#252;lerek haz&#305;rlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>0-6 ay d&#246;nemine y&#246;nelik ba&#351;lang&#305;&#231; bebek s&#252;t&#252;</li>
-<li>K&#305;smen hidrolize protein yap&#305;s&#305;</li>
-<li>Prebiyotik lif (FOS ve GOS) i&#231;erir</li>
-<li>DHA ve ARA gibi ya&#287; asitleriyle desteklenmi&#351;tir</li>
-<li>Sindirim konforu d&#252;&#351;&#252;n&#252;lerek haz&#305;rlanm&#305;&#351; form&#252;l</li>
-<li>Temel vitamin ve mineralleri i&#231;erir</li>
-<li>Her kutuda 400 gr toz bebek s&#252;t&#252;</li>
-<li>12'li avantajl&#305; koli paket</li>
-<li>Haz&#305;rlamas&#305; pratik toz form</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Kaynat&#305;l&#305;p uygun s&#305;cakl&#305;&#287;a getirilmi&#351; su ile, ambalajda belirtilen &#246;l&#231;&#252; ve oranlara g&#246;re haz&#305;rlan&#305;r. Her &#246;&#287;&#252;n i&#231;in taze mama haz&#305;rlay&#305;n ve bekleyen mamay&#305; kullanmay&#305;n; kesin haz&#305;rlama miktar&#305; ve &#246;&#287;&#252;n say&#305;s&#305; i&#231;in kutu &#252;zerindeki kullan&#305;m talimat&#305;n&#305; izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Anne s&#252;t&#252; bebekler i&#231;in en iyi besindir; bu &#252;r&#252;n&#252; kullanmadan &#246;nce doktor, ebe veya sa&#287;l&#305;k dan&#305;&#351;man&#305;n&#305;za ba&#351;vurun. Yanl&#305;&#351; haz&#305;rlama ve saklama bebe&#287;in sa&#287;l&#305;&#287;&#305;n&#305; olumsuz etkileyebilir; haz&#305;rlama talimat&#305;na titizlikle uyun ve a&#231;&#305;lm&#305;&#351; kutuyu belirtilen s&#252;rede t&#252;ketin.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan SMA Comfort 1 bebek s&#252;t&#252;, g&#252;venilir al&#305;&#351;veri&#351;in adresidir.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV01143]]></Product_code>
 <Barcode>7613287246981-12</Barcode>
 <Name><![CDATA[Sma Comfort 1 Numara 400 gr 12`li]]></Name>
@@ -52789,7 +52744,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>50</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -53336,7 +53291,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>479</Stock>
+<Stock>478</Stock>
 <Miad>2026-10-01</Miad>
 <Price>566.90</Price>
 <Price2>885.05</Price2>
@@ -57065,53 +57020,6 @@
 <h2>Uyar&#305;lar</h2>
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Kafein i&#231;erdi&#287;inden hamileler, emzirenler ve &#231;ocuklar i&#231;in &#246;nerilmez; hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda hekiminize dan&#305;&#351;&#305;n.</p>
 <p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n, g&#252;nl&#252;k i&#231;ecek rutininize alternatif arayanlar i&#231;in pratik bir tercihtir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01292]]></Product_code>
-<Barcode>8809820590485</Barcode>
-<Name><![CDATA[Xaura Pain Transdermal Takviye Bandı]]></Name>
-<Brand><![CDATA[Xaura]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Medikal Krem & Sprey]]></category>
-<Tax>10</Tax>
-<Stock>10</Stock>
-<Miad>2029-01-01</Miad>
-<Price>943.19</Price>
-<Price2>1400.01</Price2>
-<Price3>999.00</Price3>
-<Price4>1200.00</Price4>
-<Price5>1200.00</Price5>
-<Price6>1200.00</Price6>
-<Price7>1200.01</Price7>
-<Price8>1200.01</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/xaura-pain-transdermal-takviye-bandi-10589.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/xaura-pain-transdermal-takviye-bandi-14841.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/xaura-pain-transdermal-takviye-bandi-17547.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/xaura-pain-transdermal-takviye-bandi-20142.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Xaura Pain Transdermal Takviye Band&#305;</strong>, cilde yap&#305;&#351;t&#305;r&#305;larak kullan&#305;lan ve i&#231;eri&#287;indeki bile&#351;enleri deri yoluyla iletti&#287;i belirtilen transdermal bantt&#305;r. Hidrolize kolajen, glukozamin ve k&#305;rm&#305;z&#305; Kore ginsengi gibi bile&#351;enleri harici kullan&#305;ma uygun bant formunda sunar; pratik bir d&#305;&#351; uygulama arayan kullan&#305;c&#305;lara y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Hidrolize kolajen, glukozamin ve k&#305;rm&#305;z&#305; Kore ginsengi i&#231;erir</li>
-<li>Cilde yap&#305;&#351;t&#305;r&#305;lan transdermal bant formundad&#305;r</li>
-<li>&#304;&#231;eri&#287;ini deri yoluyla iletmek &#252;zere tasarlanm&#305;&#351;t&#305;r</li>
-<li>Harici, tek kullan&#305;ml&#305;k uygulama sunar</li>
-<li>Uygulamas&#305; pratiktir, su ve hap gerektirmez</li>
-<li>Yan&#305;nda ta&#351;&#305;nmas&#305; kolayd&#305;r</li>
-<li>Belirli b&#246;lgeye hedefli uygulan&#305;r</li>
-<li>Temiz ve kuru cilde uygulan&#305;r</li>
-<li>Serin ve kuru yerde saklan&#305;r</li>
-<li>Xaura transdermal bant serisinin bir &#252;r&#252;n&#252;d&#252;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Uygulanacak b&#246;lgeyi temizleyip kurulad&#305;ktan sonra band&#305; cilde yap&#305;&#351;t&#305;r&#305;n ve &#246;nerilen s&#252;re boyunca b&#305;rak&#305;n. Tahri&#351; olan veya yaral&#305; ciltte kullanmay&#305;n. Kesin uygulama s&#252;resi ve ad&#305;mlar&#305; i&#231;in &#252;r&#252;n&#252;n kullan&#305;m k&#305;lavuzuna ba&#351;vurun.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Bu &#252;r&#252;n ila&#231; de&#287;ildir ve herhangi bir hastal&#305;&#287;&#305;n te&#351;his veya tedavisi amac&#305;yla kullan&#305;lmaz. Ciltte k&#305;zar&#305;kl&#305;k veya tahri&#351; olu&#351;ursa kullan&#305;m&#305; b&#305;rak&#305;n; hamilelik, emzirme veya hastal&#305;k durumunda hekiminize dan&#305;&#351;&#305;n ve kullan&#305;m k&#305;lavuzuna uyun.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n, pratik bir d&#305;&#351; uygulama arayanlar i&#231;in alternatif bir se&#231;enektir.</p>
 </section>]]></Description>
 </Product>
 <Product>
