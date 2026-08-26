@@ -11795,7 +11795,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -13694,7 +13694,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>80</Stock>
+<Stock>79</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>854.95</Price2>
@@ -15239,7 +15239,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>52</Stock>
 <Miad>2028-01-01</Miad>
 <Price>298.90</Price>
 <Price2>518.29</Price2>
@@ -25078,7 +25078,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>47</Stock>
 <Miad>2027-02-01</Miad>
 <Price>498.90</Price>
 <Price2>791.99</Price2>
@@ -44624,7 +44624,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>89</Stock>
+<Stock>85</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -45133,7 +45133,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>54</Stock>
 <Miad></Miad>
 <Price>233.90</Price>
 <Price2>429.34</Price2>
@@ -45456,7 +45456,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>69</Stock>
 <Miad></Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
@@ -52059,15 +52059,15 @@
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2027-10-01</Miad>
+<Miad>2028-03-01</Miad>
 <Price>679.90</Price>
-<Price2>1039.69</Price2>
+<Price2>1039.68</Price2>
 <Price3>734.29</Price3>
 <Price4>761.49</Price4>
 <Price5>761.49</Price5>
 <Price6>761.49</Price6>
-<Price7>1039.69</Price7>
-<Price8>1039.69</Price8>
+<Price7>1039.68</Price7>
+<Price8>1039.68</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-coenzyme-q-10-30-mg-60-kapsul-10420.jpg</Image1>
@@ -58316,7 +58316,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Cilt & Yara Problem Ürünleri]]></category>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-07-01</Miad>
 <Price>989.90</Price>
 <Price2>1463.93</Price2>
@@ -64372,7 +64372,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>2029-04-01</Miad>
 <Price>349.90</Price>
 <Price2>588.09</Price2>
@@ -65520,7 +65520,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>71</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>239.90</Price>
 <Price2>437.55</Price2>
@@ -67591,14 +67591,14 @@
 <Tax>20</Tax>
 <Stock>69</Stock>
 <Miad>2028-01-01</Miad>
-<Price>557.78</Price>
-<Price2>872.57</Price2>
-<Price3>602.40</Price3>
-<Price4>624.71</Price4>
-<Price5>624.71</Price5>
-<Price6>624.71</Price6>
-<Price7>872.57</Price7>
-<Price8>872.57</Price8>
+<Price>555.00</Price>
+<Price2>868.77</Price2>
+<Price3>599.40</Price3>
+<Price4>621.60</Price4>
+<Price5>621.60</Price5>
+<Price6>621.60</Price6>
+<Price7>868.77</Price7>
+<Price8>868.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -67729,14 +67729,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>499.75</Price>
-<Price2>793.16</Price2>
-<Price3>539.73</Price3>
-<Price4>559.72</Price4>
-<Price5>559.72</Price5>
-<Price6>559.72</Price6>
-<Price7>793.16</Price7>
-<Price8>793.16</Price8>
+<Price>487.90</Price>
+<Price2>776.94</Price2>
+<Price3>526.93</Price3>
+<Price4>546.45</Price4>
+<Price5>546.45</Price5>
+<Price6>546.45</Price6>
+<Price7>776.94</Price7>
+<Price8>776.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -68601,7 +68601,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>39</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
@@ -71801,13 +71801,13 @@
 <Stock>4</Stock>
 <Miad>2027-11-01</Miad>
 <Price>293.90</Price>
-<Price2>511.44</Price2>
+<Price2>511.45</Price2>
 <Price3>317.41</Price3>
 <Price4>329.17</Price4>
 <Price5>329.17</Price5>
 <Price6>329.17</Price6>
-<Price7>511.44</Price7>
-<Price8>511.44</Price8>
+<Price7>511.45</Price7>
+<Price8>511.45</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-coq10-200-mg-30-yumusak-kapsul-11602.jpg</Image1>
