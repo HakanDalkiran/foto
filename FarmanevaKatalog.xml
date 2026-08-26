@@ -13840,7 +13840,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>50</Stock>
 <Miad>2026-11-01</Miad>
 <Price>448.90</Price>
 <Price2>723.57</Price2>
@@ -20909,7 +20909,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>215</Stock>
+<Stock>214</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1814.40</Price>
 <Price2>2592.26</Price2>
@@ -21366,7 +21366,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>117</Stock>
+<Stock>111</Stock>
 <Miad>2029-07-01</Miad>
 <Price>52.80</Price>
 <Price2>181.51</Price2>
@@ -26641,16 +26641,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tens Cihazı Aksesuarları]]></category>
 <Tax>10</Tax>
-<Stock>26</Stock>
-<Miad>2027-11-01</Miad>
+<Stock>39</Stock>
+<Miad>2027-10-01</Miad>
 <Price>39.90</Price>
-<Price2>163.85</Price2>
+<Price2>163.84</Price2>
 <Price3>43.09</Price3>
 <Price4>44.69</Price4>
 <Price5>44.69</Price5>
 <Price6>44.69</Price6>
-<Price7>163.85</Price7>
-<Price8>163.85</Price8>
+<Price7>163.84</Price7>
+<Price8>163.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-tens-elektrodu-8x4-cm-2-li-kablolu-9198.jpg</Image1>
@@ -38331,7 +38331,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>44</Stock>
 <Miad>2027-08-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -53337,7 +53337,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>478</Stock>
+<Stock>477</Stock>
 <Miad>2026-10-01</Miad>
 <Price>566.90</Price>
 <Price2>885.05</Price2>
@@ -68742,7 +68742,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>115</Stock>
+<Stock>113</Stock>
 <Miad>2026-12-01</Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
