@@ -11614,7 +11614,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -12219,7 +12219,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>182</Stock>
+<Stock>183</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>689.49</Price2>
@@ -12266,7 +12266,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>143</Stock>
+<Stock>142</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -47476,7 +47476,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>68</Stock>
+<Stock>66</Stock>
 <Miad>2027-07-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -54217,7 +54217,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>14</Stock>
 <Miad>2030-05-01</Miad>
 <Price>718.90</Price>
 <Price2>1093.06</Price2>
@@ -63739,7 +63739,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2029-02-01</Miad>
 <Price>649.90</Price>
 <Price2>998.64</Price2>
@@ -67777,14 +67777,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>624.70</Price>
-<Price2>964.15</Price2>
-<Price3>674.68</Price3>
-<Price4>699.66</Price4>
-<Price5>699.66</Price5>
-<Price6>699.66</Price6>
-<Price7>964.15</Price7>
-<Price8>964.15</Price8>
+<Price>555.70</Price>
+<Price2>869.73</Price2>
+<Price3>600.16</Price3>
+<Price4>622.38</Price4>
+<Price5>622.38</Price5>
+<Price6>622.38</Price6>
+<Price7>869.73</Price7>
+<Price8>869.73</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -67823,14 +67823,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>487.90</Price>
-<Price2>776.94</Price2>
-<Price3>526.93</Price3>
-<Price4>546.45</Price4>
-<Price5>546.45</Price5>
-<Price6>546.45</Price6>
-<Price7>776.94</Price7>
-<Price8>776.94</Price8>
+<Price>487.80</Price>
+<Price2>776.80</Price2>
+<Price3>526.82</Price3>
+<Price4>546.34</Price4>
+<Price5>546.34</Price5>
+<Price6>546.34</Price6>
+<Price7>776.80</Price7>
+<Price8>776.80</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
