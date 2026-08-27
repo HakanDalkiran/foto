@@ -11614,7 +11614,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>32</Stock>
+<Stock>31</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -17097,7 +17097,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>35</Stock>
 <Miad></Miad>
 <Price>91.70</Price>
 <Price2>234.74</Price2>
@@ -34135,16 +34135,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Erkek Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2027-02-01</Miad>
-<Price>264.00</Price>
-<Price2>470.53</Price2>
-<Price3>285.12</Price3>
-<Price4>295.68</Price4>
-<Price5>295.68</Price5>
-<Price6>295.68</Price6>
-<Price7>470.53</Price7>
-<Price8>470.53</Price8>
+<Stock>6</Stock>
+<Miad>2029-01-01</Miad>
+<Price>364.90</Price>
+<Price2>608.62</Price2>
+<Price3>394.09</Price3>
+<Price4>408.69</Price4>
+<Price5>408.69</Price5>
+<Price6>408.69</Price6>
+<Price7>608.62</Price7>
+<Price8>608.62</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-saw-palmetto-formula-60-tablet-9507.jpg</Image1>
@@ -68974,7 +68974,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>180</Stock>
+<Stock>182</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
