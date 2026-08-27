@@ -852,7 +852,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>83</Stock>
+<Stock>84</Stock>
 <Miad>2027-08-01</Miad>
 <Price>212.90</Price>
 <Price2>400.60</Price2>
@@ -1031,7 +1031,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-05-01</Miad>
 <Price>34.90</Price>
 <Price2>157.01</Price2>
@@ -8337,7 +8337,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>74</Stock>
+<Stock>75</Stock>
 <Miad>2030-05-01</Miad>
 <Price>69.90</Price>
 <Price2>204.91</Price2>
@@ -11332,7 +11332,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>319</Stock>
+<Stock>317</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>369.13</Price2>
@@ -11614,7 +11614,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>28</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>748.20</Price2>
@@ -11708,7 +11708,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>56</Stock>
+<Stock>55</Stock>
 <Miad></Miad>
 <Price>319.00</Price>
 <Price2>545.80</Price2>
@@ -11752,7 +11752,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>734.52</Price2>
@@ -12266,7 +12266,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>141</Stock>
+<Stock>140</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -13746,7 +13746,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>105</Stock>
+<Stock>103</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -17052,7 +17052,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>91.00</Price>
 <Price2>233.78</Price2>
@@ -19755,7 +19755,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>37</Stock>
+<Stock>42</Stock>
 <Miad>2028-02-01</Miad>
 <Price>478.00</Price>
 <Price2>763.39</Price2>
@@ -22883,7 +22883,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>13</Stock>
 <Miad>2028-04-01</Miad>
 <Price>864.90</Price>
 <Price2>1292.87</Price2>
@@ -33854,15 +33854,15 @@
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
 <Stock>4</Stock>
-<Miad>2029-03-01</Miad>
-<Price>498.90</Price>
-<Price2>791.99</Price2>
-<Price3>538.81</Price3>
-<Price4>558.77</Price4>
-<Price5>558.77</Price5>
-<Price6>558.77</Price6>
-<Price7>791.99</Price7>
-<Price8>791.99</Price8>
+<Miad>2029-08-01</Miad>
+<Price>487.90</Price>
+<Price2>776.94</Price2>
+<Price3>526.93</Price3>
+<Price4>546.45</Price4>
+<Price5>546.45</Price5>
+<Price6>546.45</Price6>
+<Price7>776.94</Price7>
+<Price8>776.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-bromelain-forte-60-tablet-9492.jpg</Image1>
@@ -41135,7 +41135,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>44</Stock>
+<Stock>43</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1698.90</Price>
 <Price2>2434.19</Price2>
@@ -51234,8 +51234,8 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>242</Stock>
-<Miad>2026-09-01</Miad>
+<Stock>6</Stock>
+<Miad>2027-07-01</Miad>
 <Price>453.90</Price>
 <Price2>730.40</Price2>
 <Price3>490.21</Price3>
@@ -61078,7 +61078,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>182.90</Price>
 <Price2>359.55</Price2>
@@ -63738,7 +63738,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2029-02-01</Miad>
 <Price>649.90</Price>
 <Price2>998.64</Price2>
@@ -64741,7 +64741,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>115</Stock>
+<Stock>109</Stock>
 <Miad>2028-09-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -78977,13 +78977,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>486.90</Price>
-<Price2>775.56</Price2>
+<Price2>775.57</Price2>
 <Price3>525.85</Price3>
 <Price4>545.33</Price4>
 <Price5>545.33</Price5>
 <Price6>545.33</Price6>
-<Price7>775.56</Price7>
-<Price8>775.56</Price8>
+<Price7>775.57</Price7>
+<Price8>775.57</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/freshlife-belbantli-hasta-bezi-islaklik-gostergeli-large-30-adet-21141.webp</Image1>
@@ -79067,13 +79067,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>434.90</Price>
-<Price2>704.40</Price2>
+<Price2>704.41</Price2>
 <Price3>469.69</Price3>
 <Price4>487.09</Price4>
 <Price5>487.09</Price5>
 <Price6>487.09</Price6>
-<Price7>704.40</Price7>
-<Price8>704.40</Price8>
+<Price7>704.41</Price7>
+<Price8>704.41</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-acnegun-onarici-gunduz-kremi-30-ml-21151.webp</Image1>
@@ -79113,13 +79113,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>249.90</Price>
-<Price2>451.25</Price2>
+<Price2>451.24</Price2>
 <Price3>269.89</Price3>
 <Price4>279.89</Price4>
 <Price5>279.89</Price5>
 <Price6>279.89</Price6>
-<Price7>451.25</Price7>
-<Price8>451.25</Price8>
+<Price7>451.24</Price7>
+<Price8>451.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-kolajen-peptitleri-iceren-hacim-veren-sac-bakim-kremi-250-ml-21155.jpg</Image1>
@@ -79159,13 +79159,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
-<Price2>423.86</Price2>
+<Price2>423.87</Price2>
 <Price3>248.29</Price3>
 <Price4>257.49</Price4>
 <Price5>257.49</Price5>
 <Price6>257.49</Price6>
-<Price7>423.86</Price7>
-<Price8>423.86</Price8>
+<Price7>423.87</Price7>
+<Price8>423.87</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-21199.jpg</Image1>
@@ -79205,13 +79205,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>164.90</Price>
-<Price2>334.93</Price2>
+<Price2>334.92</Price2>
 <Price3>178.09</Price3>
 <Price4>184.69</Price4>
 <Price5>184.69</Price5>
 <Price6>184.69</Price6>
-<Price7>334.93</Price7>
-<Price8>334.93</Price8>
+<Price7>334.92</Price7>
+<Price8>334.92</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-color-naturel-carpici-renkler-boya-6-35-carpici-altin-kahve-21204.jpg</Image1>
@@ -79250,13 +79250,13 @@
 <Stock>0</Stock>
 <Miad>2029-07-01</Miad>
 <Price>899.90</Price>
-<Price2>1340.77</Price2>
+<Price2>1340.76</Price2>
 <Price3>971.89</Price3>
 <Price4>1007.89</Price4>
 <Price5>1007.89</Price5>
 <Price6>1007.89</Price6>
-<Price7>1340.77</Price7>
-<Price8>1340.77</Price8>
+<Price7>1340.76</Price7>
+<Price8>1340.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-creatine-100-micronized-5000-mg-300-gr-21209.jpg</Image1>
@@ -79295,13 +79295,13 @@
 <Stock>0</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1466.00</Price>
-<Price2>2115.46</Price2>
+<Price2>2115.47</Price2>
 <Price3>1583.28</Price3>
 <Price4>1641.92</Price4>
 <Price5>1641.92</Price5>
 <Price6>1641.92</Price6>
-<Price7>2115.46</Price7>
-<Price8>2115.46</Price8>
+<Price7>2115.47</Price7>
+<Price8>2115.47</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-vmax-cikolata-908-gr-21214.webp</Image1>
@@ -79340,13 +79340,13 @@
 <Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>944.00</Price>
-<Price2>1401.10</Price2>
+<Price2>1401.11</Price2>
 <Price3>1019.52</Price3>
 <Price4>1057.28</Price4>
 <Price5>1057.28</Price5>
 <Price6>1057.28</Price6>
-<Price7>1401.10</Price7>
-<Price8>1401.10</Price8>
+<Price7>1401.11</Price7>
+<Price8>1401.11</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-whey-3matrix-protein-tozu-cikolata-210-gr-21219.jpg</Image1>
@@ -79385,13 +79385,13 @@
 <Stock>0</Stock>
 <Miad>2029-07-01</Miad>
 <Price>2268.00</Price>
-<Price2>3213.00</Price2>
+<Price2>3213.01</Price2>
 <Price3>2449.44</Price3>
 <Price4>2540.16</Price4>
 <Price5>2540.16</Price5>
 <Price6>2540.16</Price6>
-<Price7>3213.00</Price7>
-<Price8>3213.00</Price8>
+<Price7>3213.01</Price7>
+<Price8>3213.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-progainer-cikolata-3-kg-21224.jpg</Image1>
@@ -79431,13 +79431,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>439.90</Price>
-<Price2>711.24</Price2>
+<Price2>711.25</Price2>
 <Price3>475.09</Price3>
 <Price4>492.69</Price4>
 <Price5>492.69</Price5>
 <Price6>492.69</Price6>
-<Price7>711.24</Price7>
-<Price8>711.24</Price8>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/loreal-paris-excellence-creme-sac-boyasi-6-32-altin-acik-kahve-21229.webp</Image1>
@@ -79476,13 +79476,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>1619.90</Price>
-<Price2>2326.09</Price2>
+<Price2>2326.08</Price2>
 <Price3>1749.49</Price3>
 <Price4>1814.29</Price4>
 <Price5>1814.29</Price5>
 <Price6>1814.29</Price6>
-<Price7>2326.09</Price7>
-<Price8>2326.09</Price8>
+<Price7>2326.08</Price7>
+<Price8>2326.08</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-birlesik-elektro-terapi-cihazi-ktr-2610-21234.png</Image1>
@@ -79521,13 +79521,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>2999.90</Price>
-<Price2>4214.60</Price2>
+<Price2>4214.61</Price2>
 <Price3>3239.89</Price3>
 <Price4>3359.89</Price4>
 <Price5>3359.89</Price5>
 <Price6>3359.89</Price6>
-<Price7>4214.60</Price7>
-<Price8>4214.60</Price8>
+<Price7>4214.61</Price7>
+<Price8>4214.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-dijital-bebek-tartisi-21239.jpg</Image1>
@@ -79567,13 +79567,13 @@
 <Stock>0</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.90</Price>
-<Price2>492.28</Price2>
+<Price2>492.29</Price2>
 <Price3>302.29</Price3>
 <Price4>313.49</Price4>
 <Price5>313.49</Price5>
 <Price6>313.49</Price6>
-<Price7>492.28</Price7>
-<Price8>492.28</Price8>
+<Price7>492.29</Price7>
+<Price8>492.29</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-c-sr-30-tablet-21249.webp</Image1>
@@ -79612,13 +79612,13 @@
 <Stock>0</Stock>
 <Miad>2027-01-01</Miad>
 <Price>178.00</Price>
-<Price2>352.85</Price2>
+<Price2>352.84</Price2>
 <Price3>192.24</Price3>
 <Price4>199.36</Price4>
 <Price5>199.36</Price5>
 <Price6>199.36</Price6>
-<Price7>352.85</Price7>
-<Price8>352.85</Price8>
+<Price7>352.84</Price7>
+<Price8>352.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/probiomax-probiyotik-10-kapsul-21257.jpg</Image1>
@@ -79658,13 +79658,13 @@
 <Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>249.00</Price>
-<Price2>450.00</Price2>
+<Price2>450.01</Price2>
 <Price3>268.92</Price3>
 <Price4>278.88</Price4>
 <Price5>278.88</Price5>
 <Price6>278.88</Price6>
-<Price7>450.00</Price7>
-<Price8>450.00</Price8>
+<Price7>450.01</Price7>
+<Price8>450.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dogal-roll-on-deodorant-besleyici-hindistan-cevizli-50-ml-21262.png</Image1>
@@ -79704,13 +79704,13 @@
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
 <Price>1244.90</Price>
-<Price2>1812.91</Price2>
+<Price2>1812.90</Price2>
 <Price3>1344.49</Price3>
 <Price4>1394.29</Price4>
 <Price5>1394.29</Price5>
 <Price6>1394.29</Price6>
-<Price7>1812.91</Price7>
-<Price8>1812.91</Price8>
+<Price7>1812.90</Price7>
+<Price8>1812.90</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/av-ne-cleanance-comedomed-peeling-yikama-jeli-400-ml-21348.jpg</Image1>
@@ -79749,13 +79749,13 @@
 <Stock>13</Stock>
 <Miad>2029-08-01</Miad>
 <Price>849.90</Price>
-<Price2>1272.34</Price2>
+<Price2>1272.35</Price2>
 <Price3>917.89</Price3>
 <Price4>951.89</Price4>
 <Price5>951.89</Price5>
 <Price6>951.89</Price6>
-<Price7>1272.34</Price7>
-<Price8>1272.34</Price8>
+<Price7>1272.35</Price7>
+<Price8>1272.35</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ayset-insulin-enjektor-1-ml-21353.jpg</Image1>
@@ -79795,13 +79795,13 @@
 <Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>583.90</Price>
-<Price2>908.33</Price2>
+<Price2>908.32</Price2>
 <Price3>630.61</Price3>
 <Price4>653.97</Price4>
 <Price5>653.97</Price5>
 <Price6>653.97</Price6>
-<Price7>908.33</Price7>
-<Price8>908.33</Price8>
+<Price7>908.32</Price7>
+<Price8>908.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hipp-3-organik-combiotik-devam-sutu-350-gr-21358.webp</Image1>
@@ -79886,13 +79886,13 @@
 <Stock>0</Stock>
 <Miad>2026-11-01</Miad>
 <Price>748.70</Price>
-<Price2>1133.84</Price2>
+<Price2>1133.85</Price2>
 <Price3>808.60</Price3>
 <Price4>838.54</Price4>
 <Price5>838.54</Price5>
 <Price6>838.54</Price6>
-<Price7>1133.84</Price7>
-<Price8>1133.84</Price8>
+<Price7>1133.85</Price7>
+<Price8>1133.85</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-full-life-30-kapsul-21368.jpg</Image1>
@@ -80254,13 +80254,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>1246.90</Price>
-<Price2>1815.62</Price2>
+<Price2>1815.63</Price2>
 <Price3>1346.65</Price3>
 <Price4>1396.53</Price4>
 <Price5>1396.53</Price5>
 <Price6>1396.53</Price6>
-<Price7>1815.62</Price7>
-<Price8>1815.62</Price8>
+<Price7>1815.63</Price7>
+<Price8>1815.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nuxe-huile-solaire-bronzlastirici-yuz-ve-vucut-yagi-spf30-150-ml-21408.jpg</Image1>
@@ -80580,13 +80580,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>399.90</Price>
-<Price2>656.50</Price2>
+<Price2>656.51</Price2>
 <Price3>431.89</Price3>
 <Price4>447.89</Price4>
 <Price5>447.89</Price5>
 <Price6>447.89</Price6>
-<Price7>656.50</Price7>
-<Price8>656.50</Price8>
+<Price7>656.51</Price7>
+<Price8>656.51</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytoelixir-cleansing-care-cream-75-ml-21443.jpg</Image1>
@@ -80626,13 +80626,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>499.90</Price>
-<Price2>793.37</Price2>
+<Price2>793.36</Price2>
 <Price3>539.89</Price3>
 <Price4>559.89</Price4>
 <Price5>559.89</Price5>
 <Price6>559.89</Price6>
-<Price7>793.37</Price7>
-<Price8>793.37</Price8>
+<Price7>793.36</Price7>
+<Price8>793.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytovolume-jelly-mask-ince-telli-saclar-icin-maske-150-ml-21447.png</Image1>
@@ -80672,13 +80672,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>799.90</Price>
-<Price2>1203.90</Price2>
+<Price2>1203.91</Price2>
 <Price3>863.89</Price3>
 <Price4>895.89</Price4>
 <Price5>895.89</Price5>
 <Price6>895.89</Price6>
-<Price7>1203.90</Price7>
-<Price8>1203.90</Price8>
+<Price7>1203.91</Price7>
+<Price8>1203.91</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-violet-purple-mask-200-ml-21450.jpg</Image1>
@@ -80811,13 +80811,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>1274.00</Price>
-<Price2>1852.73</Price2>
+<Price2>1852.72</Price2>
 <Price3>1375.92</Price3>
 <Price4>1426.88</Price4>
 <Price5>1426.88</Price5>
 <Price6>1426.88</Price6>
-<Price7>1852.73</Price7>
-<Price8>1852.73</Price8>
+<Price7>1852.72</Price7>
+<Price8>1852.72</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hardline-nutrition-progainer-cikolata-1406-gr-21600.webp</Image1>
@@ -80857,13 +80857,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>394.90</Price>
-<Price2>649.66</Price2>
+<Price2>649.67</Price2>
 <Price3>426.49</Price3>
 <Price4>442.29</Price4>
 <Price5>442.29</Price5>
 <Price6>442.29</Price6>
-<Price7>649.66</Price7>
-<Price8>649.66</Price8>
+<Price7>649.67</Price7>
+<Price8>649.67</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbtlife-quattro-30-tablet-21605.jpg</Image1>
@@ -80903,13 +80903,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>3499.90</Price>
-<Price2>4898.87</Price2>
+<Price2>4898.86</Price2>
 <Price3>3779.89</Price3>
 <Price4>3919.89</Price4>
 <Price5>3919.89</Price5>
 <Price6>3919.89</Price6>
-<Price7>4898.87</Price7>
-<Price8>4898.87</Price8>
+<Price7>4898.86</Price7>
+<Price8>4898.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vichy-dercos-aminexil-clinical-r-e-g-e-n-booster-90-ml-21610.jpg</Image1>
@@ -80948,13 +80948,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>260.90</Price>
-<Price2>466.28</Price2>
+<Price2>466.29</Price2>
 <Price3>281.77</Price3>
 <Price4>292.21</Price4>
 <Price5>292.21</Price5>
 <Price6>292.21</Price6>
-<Price7>466.28</Price7>
-<Price8>466.28</Price8>
+<Price7>466.29</Price7>
+<Price8>466.29</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ds-seffaf-su-gecirmez-hazir-pansuman-yara-ortusu-9-cm-x-25-cm-5-li-21620.jpg</Image1>
@@ -81126,13 +81126,13 @@
 <Stock>1</Stock>
 <Miad></Miad>
 <Price>3666.90</Price>
-<Price2>5127.41</Price2>
+<Price2>5127.40</Price2>
 <Price3>3960.25</Price3>
 <Price4>4106.93</Price4>
 <Price5>4106.93</Price5>
 <Price6>4106.93</Price6>
-<Price7>5127.41</Price7>
-<Price8>5127.41</Price8>
+<Price7>5127.40</Price7>
+<Price8>5127.40</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytocyane-kadin-tipi-kronik-sac-dokulmesi-karsiti-bakim-12-x-5-ml-21633.webp</Image1>
