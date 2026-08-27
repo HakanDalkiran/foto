@@ -2141,12 +2141,12 @@
 <Miad>2027-01-01</Miad>
 <Price>949.00</Price>
 <Price2>1407.96</Price2>
-<Price3>826.89</Price3>
+<Price3>1024.92</Price3>
 <Price4>1062.88</Price4>
 <Price5>1062.88</Price5>
 <Price6>1062.88</Price6>
-<Price7>1135.00</Price7>
-<Price8>1135.00</Price8>
+<Price7>1407.96</Price7>
+<Price8>1407.96</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-pronutra-3-devam-sutu-900-gr-9-12-ay-7824.jpg</Image1>
@@ -4635,7 +4635,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>3635.45</Price>
-<Price2>5084.37</Price2>
+<Price2>5084.36</Price2>
 <Price3>3926.29</Price3>
 <Price4>4071.70</Price4>
 <Price5>4071.70</Price5>
@@ -4776,7 +4776,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>3545.45</Price>
-<Price2>4961.21</Price2>
+<Price2>4961.20</Price2>
 <Price3>3829.09</Price3>
 <Price4>3970.90</Price4>
 <Price5>3970.90</Price5>
@@ -4916,7 +4916,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>3635.45</Price>
-<Price2>5084.37</Price2>
+<Price2>5084.36</Price2>
 <Price3>3926.29</Price3>
 <Price4>4071.70</Price4>
 <Price5>4071.70</Price5>
@@ -6349,7 +6349,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>1454.75</Price>
-<Price2>2100.09</Price2>
+<Price2>2100.08</Price2>
 <Price3>1571.13</Price3>
 <Price4>1629.32</Price4>
 <Price5>1629.32</Price5>
