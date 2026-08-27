@@ -322,7 +322,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>80</Stock>
+<Stock>71</Stock>
 <Miad>2027-06-01</Miad>
 <Price>489.90</Price>
 <Price2>779.68</Price2>
@@ -14774,7 +14774,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>150</Stock>
+<Stock>149</Stock>
 <Miad>2026-10-01</Miad>
 <Price>912.00</Price>
 <Price2>1357.32</Price2>
@@ -18975,7 +18975,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>146</Stock>
+<Stock>145</Stock>
 <Miad>2026-10-01</Miad>
 <Price>594.90</Price>
 <Price2>923.37</Price2>
@@ -34135,16 +34135,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Erkek Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
-<Miad>2029-01-01</Miad>
+<Stock>20</Stock>
+<Miad>2027-02-01</Miad>
 <Price>364.90</Price>
-<Price2>608.62</Price2>
+<Price2>608.63</Price2>
 <Price3>394.09</Price3>
 <Price4>408.69</Price4>
 <Price5>408.69</Price5>
 <Price6>408.69</Price6>
-<Price7>608.62</Price7>
-<Price8>608.62</Price8>
+<Price7>608.63</Price7>
+<Price8>608.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-saw-palmetto-formula-60-tablet-9507.jpg</Image1>
@@ -38894,7 +38894,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>118</Stock>
+<Stock>115</Stock>
 <Miad>2026-10-01</Miad>
 <Price>629.00</Price>
 <Price2>970.04</Price2>
@@ -54739,7 +54739,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>305</Stock>
+<Stock>301</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1051.90</Price>
 <Price2>1548.78</Price2>
@@ -55295,7 +55295,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>1349.00</Price>
 <Price2>1955.36</Price2>
@@ -55389,7 +55389,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>16</Stock>
 <Miad></Miad>
 <Price>1529.90</Price>
 <Price2>2202.92</Price2>
@@ -71073,7 +71073,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1249.90</Price>
 <Price2>1819.74</Price2>
