@@ -15387,13 +15387,13 @@
 <Stock>5</Stock>
 <Miad>2027-10-01</Miad>
 <Price>358.90</Price>
-<Price2>522.25</Price2>
+<Price2>522.24</Price2>
 <Price3>304.00</Price3>
 <Price4>326.00</Price4>
 <Price5>326.00</Price5>
 <Price6>326.00</Price6>
-<Price7>456.01</Price7>
-<Price8>456.01</Price8>
+<Price7>456.00</Price7>
+<Price8>456.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/enterogermina-kids-5-ml-10-flakon-8688.jpg</Image1>
@@ -17144,7 +17144,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>91.00</Price>
 <Price2>233.78</Price2>
