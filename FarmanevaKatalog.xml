@@ -852,7 +852,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>84</Stock>
+<Stock>83</Stock>
 <Miad>2027-08-01</Miad>
 <Price>212.90</Price>
 <Price2>400.60</Price2>
@@ -8337,7 +8337,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>75</Stock>
+<Stock>74</Stock>
 <Miad>2030-05-01</Miad>
 <Price>69.90</Price>
 <Price2>204.91</Price2>
@@ -12266,7 +12266,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>142</Stock>
+<Stock>141</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -19755,7 +19755,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>37</Stock>
 <Miad>2028-02-01</Miad>
 <Price>478.00</Price>
 <Price2>763.39</Price2>
@@ -22883,7 +22883,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2028-04-01</Miad>
 <Price>864.90</Price>
 <Price2>1292.87</Price2>
@@ -34183,16 +34183,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-01-01</Miad>
-<Price>200.90</Price>
-<Price2>384.18</Price2>
-<Price3>216.97</Price3>
-<Price4>225.01</Price4>
-<Price5>225.01</Price5>
-<Price6>225.01</Price6>
-<Price7>384.18</Price7>
-<Price8>384.18</Price8>
+<Stock>4</Stock>
+<Miad>2029-02-01</Miad>
+<Price>278.90</Price>
+<Price2>490.92</Price2>
+<Price3>301.21</Price3>
+<Price4>312.37</Price4>
+<Price5>312.37</Price5>
+<Price6>312.37</Price6>
+<Price7>490.92</Price7>
+<Price8>490.92</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-vitamin-d3k2-sprey-30-ml-9508.jpg</Image1>
@@ -36761,7 +36761,7 @@
 <category><![CDATA[El & Ayak Bakımı]]></category>
 <subCategory><![CDATA[Ayak Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>415.90</Price>
 <Price2>678.41</Price2>
@@ -64512,16 +64512,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2029-01-01</Miad>
-<Price>277.90</Price>
-<Price2>489.56</Price2>
-<Price3>300.13</Price3>
-<Price4>311.25</Price4>
-<Price5>311.25</Price5>
-<Price6>311.25</Price6>
-<Price7>489.56</Price7>
-<Price8>489.56</Price8>
+<Stock>4</Stock>
+<Miad>2029-04-01</Miad>
+<Price>374.90</Price>
+<Price2>622.30</Price2>
+<Price3>404.89</Price3>
+<Price4>419.89</Price4>
+<Price5>419.89</Price5>
+<Price6>419.89</Price6>
+<Price7>622.30</Price7>
+<Price8>622.30</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-multivitamin-mineral-energy-60-tablet-11264.jpg</Image1>
@@ -65062,7 +65062,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>7</Stock>
 <Miad>2028-10-01</Miad>
 <Price>114.90</Price>
 <Price2>266.49</Price2>
@@ -67777,14 +67777,14 @@
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad>2028-08-01</Miad>
-<Price>555.70</Price>
-<Price2>869.73</Price2>
-<Price3>600.16</Price3>
-<Price4>622.38</Price4>
-<Price5>622.38</Price5>
-<Price6>622.38</Price6>
-<Price7>869.73</Price7>
-<Price8>869.73</Price8>
+<Price>555.00</Price>
+<Price2>868.77</Price2>
+<Price3>599.40</Price3>
+<Price4>621.60</Price4>
+<Price5>621.60</Price5>
+<Price6>621.60</Price6>
+<Price7>868.77</Price7>
+<Price8>868.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -67823,14 +67823,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>487.80</Price>
-<Price2>776.80</Price2>
-<Price3>526.82</Price3>
-<Price4>546.34</Price4>
-<Price5>546.34</Price5>
-<Price6>546.34</Price6>
-<Price7>776.80</Price7>
-<Price8>776.80</Price8>
+<Price>486.90</Price>
+<Price2>775.57</Price2>
+<Price3>525.85</Price3>
+<Price4>545.33</Price4>
+<Price5>545.33</Price5>
+<Price6>545.33</Price6>
+<Price7>775.57</Price7>
+<Price8>775.57</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
