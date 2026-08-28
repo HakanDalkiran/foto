@@ -4352,16 +4352,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>598.90</Price>
-<Price2>928.84</Price2>
-<Price3>646.81</Price3>
-<Price4>670.77</Price4>
-<Price5>670.77</Price5>
-<Price6>670.77</Price6>
-<Price7>928.84</Price7>
-<Price8>928.84</Price8>
+<Stock>12</Stock>
+<Miad>2026-12-01</Miad>
+<Price>624.90</Price>
+<Price2>964.43</Price2>
+<Price3>674.89</Price3>
+<Price4>699.89</Price4>
+<Price5>699.89</Price5>
+<Price6>699.89</Price6>
+<Price7>964.43</Price7>
+<Price8>964.43</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bebelac-1-bebek-sutu-800-gr-7966.jpg</Image1>
