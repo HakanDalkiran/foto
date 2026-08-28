@@ -4540,16 +4540,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>747.50</Price>
-<Price2>1132.20</Price2>
-<Price3>807.30</Price3>
-<Price4>837.20</Price4>
-<Price5>837.20</Price5>
-<Price6>837.20</Price6>
-<Price7>1132.20</Price7>
-<Price8>1132.20</Price8>
+<Stock>12</Stock>
+<Miad>2027-01-01</Miad>
+<Price>864.80</Price>
+<Price2>1292.73</Price2>
+<Price3>933.98</Price3>
+<Price4>968.58</Price4>
+<Price5>968.58</Price5>
+<Price6>968.58</Price6>
+<Price7>1292.73</Price7>
+<Price8>1292.73</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bebelac-gold-1-800-gr-7979.jpg</Image1>
@@ -19060,16 +19060,16 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2027-01-01</Miad>
-<Price>284.90</Price>
-<Price2>499.14</Price2>
-<Price3>307.69</Price3>
-<Price4>319.09</Price4>
-<Price5>319.09</Price5>
-<Price6>319.09</Price6>
-<Price7>499.14</Price7>
-<Price8>499.14</Price8>
+<Stock>12</Stock>
+<Miad>2027-08-01</Miad>
+<Price>259.90</Price>
+<Price2>464.92</Price2>
+<Price3>280.69</Price3>
+<Price4>291.09</Price4>
+<Price5>291.09</Price5>
+<Price6>291.09</Price6>
+<Price7>464.92</Price7>
+<Price8>464.92</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/gluco-dr-super-sensor-seker-olcum-stribi-50-li-8824.jpg</Image1>
