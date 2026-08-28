@@ -99,7 +99,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>1298.90</Price>
 <Price2>1886.79</Price2>
@@ -2182,7 +2182,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>8</Stock>
 <Miad>2027-04-01</Miad>
 <Price>924.90</Price>
 <Price2>1374.98</Price2>
@@ -7418,7 +7418,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>38</Stock>
+<Stock>39</Stock>
 <Miad>2026-12-01</Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
@@ -11569,7 +11569,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>28</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -13514,7 +13514,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>76</Stock>
+<Stock>77</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>812.20</Price2>
@@ -19709,7 +19709,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>5</Stock>
 <Miad>2028-01-01</Miad>
 <Price>199.90</Price>
 <Price2>382.81</Price2>
@@ -46757,7 +46757,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>65</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>326.84</Price2>
@@ -46846,7 +46846,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>121.90</Price>
 <Price2>276.07</Price2>
@@ -47117,7 +47117,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>146.90</Price>
 <Price2>310.28</Price2>
@@ -59445,7 +59445,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>418.00</Price>
 <Price2>681.28</Price2>
@@ -62964,15 +62964,15 @@
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
 <Stock>2</Stock>
-<Miad>2027-01-01</Miad>
+<Miad>2028-02-01</Miad>
 <Price>619.90</Price>
-<Price2>957.58</Price2>
+<Price2>957.59</Price2>
 <Price3>669.49</Price3>
 <Price4>694.29</Price4>
 <Price5>694.29</Price5>
 <Price6>694.29</Price6>
-<Price7>957.58</Price7>
-<Price8>957.58</Price8>
+<Price7>957.59</Price7>
+<Price8>957.59</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/lifextra-onhepa-30-yumusak-kapsul-11208.jpg</Image1>
@@ -67456,7 +67456,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>68</Stock>
+<Stock>69</Stock>
 <Miad>2028-01-01</Miad>
 <Price>555.00</Price>
 <Price2>868.77</Price2>
