@@ -2182,7 +2182,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>10</Stock>
 <Miad>2027-04-01</Miad>
 <Price>924.90</Price>
 <Price2>1374.98</Price2>
@@ -19106,7 +19106,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>14</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -59629,7 +59629,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>418.00</Price>
 <Price2>681.28</Price2>
@@ -63148,15 +63148,15 @@
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
 <Stock>2</Stock>
-<Miad>2028-02-01</Miad>
+<Miad>2027-01-01</Miad>
 <Price>619.90</Price>
-<Price2>957.58</Price2>
+<Price2>957.59</Price2>
 <Price3>669.49</Price3>
 <Price4>694.29</Price4>
 <Price5>694.29</Price5>
 <Price6>694.29</Price6>
-<Price7>957.58</Price7>
-<Price8>957.58</Price8>
+<Price7>957.59</Price7>
+<Price8>957.59</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/lifextra-onhepa-30-yumusak-kapsul-11208.jpg</Image1>
@@ -63604,7 +63604,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>96</Stock>
+<Stock>95</Stock>
 <Miad></Miad>
 <Price>1559.90</Price>
 <Price2>2243.97</Price2>
@@ -73768,7 +73768,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>7</Stock>
 <Miad>2027-05-01</Miad>
 <Price>1089.00</Price>
 <Price2>1599.55</Price2>
