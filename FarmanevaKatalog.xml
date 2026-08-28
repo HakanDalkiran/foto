@@ -99,7 +99,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>25</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>1298.90</Price>
 <Price2>1886.79</Price2>
@@ -7463,7 +7463,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>39</Stock>
+<Stock>38</Stock>
 <Miad>2026-12-01</Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
@@ -11614,7 +11614,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -11752,7 +11752,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>697.79</Price2>
@@ -12266,7 +12266,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>140</Stock>
+<Stock>139</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1012.41</Price2>
@@ -13605,7 +13605,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>77</Stock>
+<Stock>76</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>812.20</Price2>
@@ -15525,7 +15525,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>8</Stock>
 <Miad>2027-03-01</Miad>
 <Price>925.00</Price>
 <Price2>1375.11</Price2>
@@ -68464,7 +68464,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>60</Stock>
+<Stock>59</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -69062,7 +69062,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>180</Stock>
+<Stock>179</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
