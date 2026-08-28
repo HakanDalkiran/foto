@@ -40025,7 +40025,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>43</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -63650,15 +63650,15 @@
 <subCategory><![CDATA[Bitkisel Yağlar]]></subCategory>
 <Tax>10</Tax>
 <Stock>3</Stock>
-<Miad>2028-07-01</Miad>
+<Miad>2026-09-01</Miad>
 <Price>283.90</Price>
-<Price2>497.77</Price2>
+<Price2>497.76</Price2>
 <Price3>306.61</Price3>
 <Price4>317.97</Price4>
 <Price5>317.97</Price5>
 <Price6>317.97</Price6>
-<Price7>497.77</Price7>
-<Price8>497.77</Price8>
+<Price7>497.76</Price7>
+<Price8>497.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-corekotu-yagi-30-kapsul-11237.jpg</Image1>
@@ -64056,7 +64056,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-08-01</Miad>
 <Price>959.90</Price>
 <Price2>1422.87</Price2>
