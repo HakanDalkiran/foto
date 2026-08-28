@@ -2584,16 +2584,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
+<Stock>2</Stock>
+<Miad>2027-10-01</Miad>
 <Price>862.50</Price>
 <Price2>1289.58</Price2>
-<Price3>931.50</Price3>
-<Price4>966.00</Price4>
-<Price5>966.00</Price5>
-<Price6>966.00</Price6>
-<Price7>1289.58</Price7>
-<Price8>1289.58</Price8>
+<Price3>5200.00</Price3>
+<Price4>7999.00</Price4>
+<Price5>7999.00</Price5>
+<Price6>7999.00</Price6>
+<Price7>7999.00</Price7>
+<Price8>7999.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/argivit-focus-tb-10-adet-7864.jpg</Image1>
