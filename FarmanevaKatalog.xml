@@ -12221,7 +12221,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>134</Stock>
+<Stock>131</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>1012.41</Price2>
@@ -12914,7 +12914,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>687.39</Price2>
@@ -18967,7 +18967,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>11</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -24994,14 +24994,14 @@
 <Tax>1</Tax>
 <Stock>47</Stock>
 <Miad>2027-02-01</Miad>
-<Price>498.90</Price>
-<Price2>791.99</Price2>
-<Price3>538.81</Price3>
-<Price4>558.77</Price4>
-<Price5>558.77</Price5>
-<Price6>558.77</Price6>
-<Price7>791.99</Price7>
-<Price8>791.99</Price8>
+<Price>539.90</Price>
+<Price2>848.10</Price2>
+<Price3>583.09</Price3>
+<Price4>604.69</Price4>
+<Price5>604.69</Price5>
+<Price6>604.69</Price6>
+<Price7>848.10</Price7>
+<Price8>848.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-all-day-60-tablet-9128.jpg</Image1>
@@ -51469,7 +51469,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad>2031-01-01</Miad>
 <Price>1198.90</Price>
 <Price2>1749.94</Price2>
@@ -53900,14 +53900,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2029-02-01</Miad>
-<Price>748.90</Price>
-<Price2>1134.12</Price2>
-<Price3>808.81</Price3>
-<Price4>838.77</Price4>
-<Price5>838.77</Price5>
-<Price6>838.77</Price6>
-<Price7>1134.12</Price7>
-<Price8>1134.12</Price8>
+<Price>735.90</Price>
+<Price2>1116.33</Price2>
+<Price3>794.77</Price3>
+<Price4>824.21</Price4>
+<Price5>824.21</Price5>
+<Price6>824.21</Price6>
+<Price7>1116.33</Price7>
+<Price8>1116.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/tab-ilac-magnimore-plus-30-sase-10490.jpg</Image1>
@@ -53944,14 +53944,14 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>14</Stock>
-<Miad>2030-05-01</Miad>
-<Price>718.90</Price>
+<Stock>12</Stock>
+<Miad>2030-01-01</Miad>
+<Price>739.90</Price>
 <Price2>1093.06</Price2>
-<Price3>629.99</Price3>
+<Price3>776.41</Price3>
 <Price4>805.17</Price4>
 <Price5>805.17</Price5>
-<Price6>635.00</Price6>
+<Price6>805.17</Price6>
 <Price7>1093.06</Price7>
 <Price8>1093.06</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -57413,14 +57413,14 @@
 <Tax>10</Tax>
 <Stock>47</Stock>
 <Miad>2030-04-01</Miad>
-<Price>489.00</Price>
-<Price2>778.45</Price2>
-<Price3>528.12</Price3>
-<Price4>547.68</Price4>
-<Price5>547.68</Price5>
-<Price6>547.68</Price6>
-<Price7>778.45</Price7>
-<Price8>778.45</Price8>
+<Price>524.90</Price>
+<Price2>827.58</Price2>
+<Price3>566.89</Price3>
+<Price4>587.89</Price4>
+<Price5>587.89</Price5>
+<Price6>587.89</Price6>
+<Price7>827.58</Price7>
+<Price8>827.58</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-60-tablet-10614.jpg</Image1>
@@ -57458,14 +57458,14 @@
 <Tax>10</Tax>
 <Stock>4</Stock>
 <Miad>2030-03-01</Miad>
-<Price>494.80</Price>
-<Price2>786.38</Price2>
-<Price3>534.38</Price3>
-<Price4>554.18</Price4>
-<Price5>554.18</Price5>
-<Price6>554.18</Price6>
-<Price7>786.38</Price7>
-<Price8>786.38</Price8>
+<Price>539.90</Price>
+<Price2>848.10</Price2>
+<Price3>583.09</Price3>
+<Price4>604.69</Price4>
+<Price5>604.69</Price5>
+<Price6>604.69</Price6>
+<Price7>848.10</Price7>
+<Price8>848.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-gm-60-tablet-10615.jpg</Image1>
@@ -62964,14 +62964,14 @@
 <Tax>10</Tax>
 <Stock>22</Stock>
 <Miad>2029-04-01</Miad>
-<Price>1138.90</Price>
-<Price2>1667.83</Price2>
-<Price3>1230.01</Price3>
-<Price4>1275.57</Price4>
-<Price5>1275.57</Price5>
-<Price6>1275.57</Price6>
-<Price7>1667.83</Price7>
-<Price8>1667.83</Price8>
+<Price>1198.90</Price>
+<Price2>1749.94</Price2>
+<Price3>1294.81</Price3>
+<Price4>1342.77</Price4>
+<Price5>1342.77</Price5>
+<Price6>1342.77</Price6>
+<Price7>1749.94</Price7>
+<Price8>1749.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-magnesium-l-threonate-90-kapsul-11212.jpg</Image1>
@@ -68240,14 +68240,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>766.13</Price2>
-<Price3>518.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>711.25</Price2>
+<Price3>475.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
