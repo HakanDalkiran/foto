@@ -1395,7 +1395,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad>2026-10-01</Miad>
 <Price>98.90</Price>
 <Price2>244.59</Price2>
@@ -3219,7 +3219,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2026-10-01</Miad>
 <Price>229.00</Price>
 <Price2>422.64</Price2>
@@ -16366,7 +16366,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>102.00</Price>
 <Price2>248.84</Price2>
@@ -16959,7 +16959,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>91.00</Price>
 <Price2>233.78</Price2>
@@ -17004,7 +17004,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>91.70</Price>
 <Price2>234.74</Price2>
@@ -21369,14 +21369,14 @@
 <Tax>10</Tax>
 <Stock>10</Stock>
 <Miad>2030-07-01</Miad>
-<Price>52.80</Price>
-<Price2>181.51</Price2>
-<Price3>57.02</Price3>
-<Price4>59.14</Price4>
-<Price5>59.14</Price5>
-<Price6>59.14</Price6>
-<Price7>181.51</Price7>
-<Price8>181.51</Price8>
+<Price>54.90</Price>
+<Price2>184.38</Price2>
+<Price3>59.29</Price3>
+<Price4>61.49</Price4>
+<Price5>61.49</Price5>
+<Price6>61.49</Price6>
+<Price7>184.38</Price7>
+<Price8>184.38</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/kurmed-fix-flaster-5cm-x-5m-8906.jpg</Image1>
@@ -33027,7 +33027,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>118.00</Price>
 <Price2>270.73</Price2>
@@ -37913,7 +37913,7 @@
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Yüz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>658.90</Price>
 <Price2>1010.95</Price2>
@@ -63372,7 +63372,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-02-01</Miad>
 <Price>649.90</Price>
 <Price2>998.64</Price2>
