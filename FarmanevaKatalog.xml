@@ -25171,51 +25171,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00576]]></Product_code>
-<Barcode>8680133000751</Barcode>
-<Name><![CDATA[Magnimore Plus 120 Tablet]]></Name>
-<Brand><![CDATA[Magnimore]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Mineraller]]></category>
-<subCategory><![CDATA[Magnezyum]]></subCategory>
-<Tax>1</Tax>
-<Stock>7</Stock>
-<Miad>2030-03-01</Miad>
-<Price>1429.90</Price>
-<Price2>2141.47</Price2>
-<Price3>1264.00</Price3>
-<Price4>1663.20</Price4>
-<Price5>1663.20</Price5>
-<Price6>1238.00</Price6>
-<Price7>2141.47</Price7>
-<Price8>2141.47</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-plus-120-tablet-9139.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-plus-120-tablet-9140.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-plus-120-tablet-13415.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-plus-120-tablet-13416.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-plus-120-tablet-16642.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Magnimore Plus 120 Tablet</strong>, patentli ATA-Mg&#174; (magnezyum asetil taurat) formunda magnezyum i&#231;eren bir takviyedir. Y&#252;ksek biyoyararlan&#305;ml&#305; magnezyumu uzun s&#252;re kullanmak isteyenler i&#231;in 120 tabletlik ekonomik ambalajda sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Patentli ATA-Mg&#174; (magnezyum asetil taurat) i&#231;erir.</li>
-<li>Y&#252;ksek biyoyararlan&#305;ml&#305; bir magnezyum formudur.</li>
-<li>Magnezyum, kaslar&#305;n normal i&#351;leyi&#351;ine katk&#305; sa&#287;lar.</li>
-<li>Sinir sistemini ve yorgunlu&#287;un azalmas&#305;n&#305; destekler.</li>
-<li>Pratik, g&#252;nde tek tablet kullan&#305;m&#305;yla kolay uygulan&#305;r.</li>
-<li>120 tabletlik uzun &#246;m&#252;rl&#252;, ekonomik ambalajda sunulur.</li>
-<li>Yeti&#351;kinler i&#231;in uygundur.</li>
-<li>D&#252;zenli, uzun s&#252;reli kullan&#305;ma uygundur ve s&#305;k s&#305;k t&#252;kenmez.</li>
-<li>Sa&#287;l&#305;kl&#305; bir ya&#351;am tarz&#305;n&#305;n destekleyicisi olarak d&#252;&#351;&#252;n&#252;lebilir.</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle g&#252;nde 1 tablet, bir bardak su ile t&#252;ketilir. Kesin doz i&#231;in &#252;r&#252;n ambalaj&#305;ndaki talimat&#305; izleyin; &#246;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir sa&#287;l&#305;k sorununuz varsa veya ila&#231; kullan&#305;yorsan&#305;z hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Magnimore Plus'&#305; ekonomik boyda isteyenler 120 tabletlik ambalaj&#305; Farmaneva'da bulabilir.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00577]]></Product_code>
 <Barcode>8680133000911</Barcode>
 <Name><![CDATA[Magnimore Plus 30 Tablet]]></Name>
@@ -29940,7 +29895,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>628.90</Price>
 <Price2>969.90</Price2>
