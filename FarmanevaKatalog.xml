@@ -17687,7 +17687,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>252.00</Price>
 <Price2>454.11</Price2>
@@ -41322,11 +41322,11 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>208.18</Price>
 <Price2>394.14</Price2>
-<Price3>224.83</Price3>
+<Price3>158.00</Price3>
 <Price4>233.16</Price4>
 <Price5>233.16</Price5>
 <Price6>233.16</Price6>
