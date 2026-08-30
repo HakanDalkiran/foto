@@ -11526,7 +11526,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -13566,7 +13566,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>105</Stock>
+<Stock>104</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>297.37</Price2>
@@ -55896,7 +55896,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2026-12-01</Miad>
 <Price>239.90</Price>
 <Price2>437.55</Price2>
@@ -57959,7 +57959,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-12-01</Miad>
 <Price>829.80</Price>
 <Price2>1244.83</Price2>
@@ -63242,16 +63242,16 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2029-02-01</Miad>
 <Price>649.90</Price>
-<Price2>968.68</Price2>
+<Price2>998.64</Price2>
 <Price3>701.89</Price3>
 <Price4>727.89</Price4>
 <Price5>727.89</Price5>
 <Price6>727.89</Price6>
 <Price7>998.64</Price7>
-<Price8>968.68</Price8>
+<Price8>998.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-berliv-lipozomal-berberin-30-kapsul-11233.jpg</Image1>
@@ -67280,14 +67280,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.90</Price>
-<Price2>772.84</Price2>
-<Price3>523.69</Price3>
-<Price4>543.09</Price4>
-<Price5>543.09</Price5>
-<Price6>543.09</Price6>
-<Price7>772.84</Price7>
-<Price8>772.84</Price8>
+<Price>499.75</Price>
+<Price2>793.16</Price2>
+<Price3>539.73</Price3>
+<Price4>559.72</Price4>
+<Price5>559.72</Price5>
+<Price6>559.72</Price6>
+<Price7>793.16</Price7>
+<Price8>793.16</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -68016,14 +68016,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>711.25</Price2>
-<Price3>475.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>766.13</Price2>
+<Price3>518.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
