@@ -55936,16 +55936,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-01-01</Miad>
-<Price>257.90</Price>
-<Price2>462.19</Price2>
-<Price3>278.53</Price3>
-<Price4>288.85</Price4>
-<Price5>288.85</Price5>
-<Price6>288.85</Price6>
-<Price7>462.19</Price7>
-<Price8>462.19</Price8>
+<Stock>8</Stock>
+<Miad>2026-12-01</Miad>
+<Price>239.90</Price>
+<Price2>437.55</Price2>
+<Price3>259.09</Price3>
+<Price4>268.69</Price4>
+<Price5>268.69</Price5>
+<Price6>268.69</Price6>
+<Price7>437.55</Price7>
+<Price8>437.55</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-5-htp-complex-62-kapsul-eski-ambalaj-10565.jpg</Image1>
@@ -80845,16 +80845,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
+<Stock>1</Stock>
+<Miad>2028-09-01</Miad>
 <Price>2750.00</Price>
-<Price2>3872.62</Price2>
+<Price2>3872.63</Price2>
 <Price3>2970.00</Price3>
 <Price4>3080.00</Price4>
 <Price5>3080.00</Price5>
 <Price6>3080.00</Price6>
-<Price7>3872.62</Price7>
-<Price8>3872.62</Price8>
+<Price7>3872.63</Price7>
+<Price8>3872.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/av-ne-cleanance-comedomed-intensive-serum-30-ml-21743.jpg</Image1>
@@ -80890,7 +80890,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2029-08-01</Miad>
 <Price>924.70</Price>
 <Price2>1374.70</Price2>
@@ -80935,16 +80935,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2029-07-01</Miad>
-<Price>844.90</Price>
-<Price2>1265.50</Price2>
-<Price3>912.49</Price3>
-<Price4>946.29</Price4>
-<Price5>946.29</Price5>
-<Price6>946.29</Price6>
-<Price7>1265.50</Price7>
-<Price8>1265.50</Price8>
+<Price>840.90</Price>
+<Price2>1260.02</Price2>
+<Price3>908.17</Price3>
+<Price4>941.81</Price4>
+<Price5>941.81</Price5>
+<Price6>941.81</Price6>
+<Price7>1260.02</Price7>
+<Price8>1260.02</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-artroflex-hya-c-ii-90-tablet-21751.jpg</Image1>
@@ -80980,16 +80980,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2029-07-01</Miad>
-<Price>929.90</Price>
-<Price2>1381.82</Price2>
-<Price3>1004.29</Price3>
-<Price4>1041.49</Price4>
-<Price5>1041.49</Price5>
-<Price6>1041.49</Price6>
-<Price7>1381.82</Price7>
-<Price8>1381.82</Price8>
+<Price>919.90</Price>
+<Price2>1368.13</Price2>
+<Price3>993.49</Price3>
+<Price4>1030.29</Price4>
+<Price5>1030.29</Price5>
+<Price6>1030.29</Price6>
+<Price7>1368.13</Price7>
+<Price8>1368.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-artroflex-plus-collagen-90-tablet-21756.jpg</Image1>
@@ -81026,7 +81026,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1189.90</Price>
 <Price2>1737.63</Price2>
@@ -81072,7 +81072,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>2799.90</Price>
 <Price2>3940.91</Price2>
@@ -81118,7 +81118,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>13</Stock>
 <Miad></Miad>
 <Price>449.99</Price>
 <Price2>725.06</Price2>
@@ -81209,16 +81209,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
+<Stock>9</Stock>
+<Miad>2029-03-01</Miad>
 <Price>359.90</Price>
-<Price2>601.77</Price2>
+<Price2>601.76</Price2>
 <Price3>388.69</Price3>
 <Price4>403.09</Price4>
 <Price5>403.09</Price5>
 <Price6>403.09</Price6>
-<Price7>601.77</Price7>
-<Price8>601.77</Price8>
+<Price7>601.76</Price7>
+<Price8>601.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-milk-thistle-complex-meryem-ana-dikeni-tohum-ekstresi-60-kapsul-21777.jpg</Image1>
@@ -81255,16 +81255,16 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
+<Stock>15</Stock>
+<Miad>2026-09-01</Miad>
 <Price>398.90</Price>
-<Price2>655.14</Price2>
+<Price2>655.15</Price2>
 <Price3>430.81</Price3>
 <Price4>446.77</Price4>
 <Price5>446.77</Price5>
 <Price6>446.77</Price6>
-<Price7>655.14</Price7>
-<Price8>655.14</Price8>
+<Price7>655.15</Price7>
+<Price8>655.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/imunol-surup-150-ml-21781.jpg</Image1>
@@ -81300,7 +81300,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>1201.18</Price2>
@@ -81531,7 +81531,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>1198.90</Price>
 <Price2>1749.94</Price2>
@@ -81623,16 +81623,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-03-01</Miad>
-<Price>274.90</Price>
-<Price2>485.45</Price2>
-<Price3>296.89</Price3>
-<Price4>307.89</Price4>
-<Price5>307.89</Price5>
-<Price6>307.89</Price6>
-<Price7>485.45</Price7>
-<Price8>485.45</Price8>
+<Stock>6</Stock>
+<Miad>2029-07-01</Miad>
+<Price>274.40</Price>
+<Price2>484.77</Price2>
+<Price3>296.35</Price3>
+<Price4>307.33</Price4>
+<Price5>307.33</Price5>
+<Price6>307.33</Price6>
+<Price7>484.77</Price7>
+<Price8>484.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-d3k2-vitamin-120-tablet-21859.webp</Image1>
@@ -81716,14 +81716,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
-<Price>698.90</Price>
-<Price2>1065.69</Price2>
-<Price3>754.81</Price3>
-<Price4>782.77</Price4>
-<Price5>782.77</Price5>
-<Price6>782.77</Price6>
-<Price7>1065.69</Price7>
-<Price8>1065.69</Price8>
+<Price>398.90</Price>
+<Price2>655.14</Price2>
+<Price3>430.81</Price3>
+<Price4>446.77</Price4>
+<Price5>446.77</Price5>
+<Price6>446.77</Price6>
+<Price7>655.14</Price7>
+<Price8>655.14</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytodefrisant-shampoo-250-ml-21866.jpg</Image1>
