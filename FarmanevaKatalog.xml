@@ -18970,7 +18970,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -38293,7 +38293,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>63</Stock>
+<Stock>62</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -49499,7 +49499,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad>2028-03-01</Miad>
 <Price>256.90</Price>
 <Price2>460.82</Price2>
@@ -50925,13 +50925,13 @@
 <Stock>0</Stock>
 <Miad>2027-07-01</Miad>
 <Price>453.90</Price>
-<Price2>730.40</Price2>
+<Price2>730.41</Price2>
 <Price3>490.21</Price3>
 <Price4>508.37</Price4>
 <Price5>508.37</Price5>
 <Price6>508.37</Price6>
-<Price7>730.40</Price7>
-<Price8>730.40</Price8>
+<Price7>730.41</Price7>
+<Price8>730.41</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-400-gr-3-adet-10389.jpg</Image1>
@@ -64337,7 +64337,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>109</Stock>
+<Stock>106</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -68336,7 +68336,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>72</Stock>
+<Stock>71</Stock>
 <Miad>2029-02-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -81445,7 +81445,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2029-03-01</Miad>
 <Price>989.90</Price>
 <Price2>1463.93</Price2>
