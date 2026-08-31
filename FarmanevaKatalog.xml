@@ -1350,7 +1350,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>60</Stock>
+<Stock>59</Stock>
 <Miad>2026-10-01</Miad>
 <Price>206.50</Price>
 <Price2>391.85</Price2>
@@ -2093,7 +2093,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1649.90</Price>
 <Price2>2367.14</Price2>
@@ -2182,7 +2182,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>0</Stock>
 <Miad>2027-04-01</Miad>
 <Price>924.90</Price>
 <Price2>1374.98</Price2>
@@ -8017,7 +8017,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>179</Stock>
+<Stock>174</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>1201.18</Price2>
@@ -9088,16 +9088,16 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>2028-09-01</Miad>
-<Price>127.90</Price>
-<Price2>284.28</Price2>
-<Price3>138.13</Price3>
-<Price4>143.25</Price4>
-<Price5>143.25</Price5>
-<Price6>143.25</Price6>
-<Price7>284.28</Price7>
-<Price8>284.28</Price8>
+<Price>154.90</Price>
+<Price2>321.23</Price2>
+<Price3>167.29</Price3>
+<Price4>173.49</Price4>
+<Price5>173.49</Price5>
+<Price6>173.49</Price6>
+<Price7>321.23</Price7>
+<Price8>321.23</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cistus-antivirus-balli-limonlu-pastil-10-adet-8312.jpg</Image1>
@@ -17188,7 +17188,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>137.90</Price>
 <Price2>297.97</Price2>
@@ -17371,7 +17371,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>79.90</Price>
 <Price2>218.59</Price2>
@@ -17690,7 +17690,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>121.90</Price>
 <Price2>276.07</Price2>
@@ -17919,7 +17919,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad></Miad>
 <Price>104.90</Price>
 <Price2>252.81</Price2>
@@ -25232,7 +25232,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>14</Stock>
 <Miad>2028-02-01</Miad>
 <Price>608.90</Price>
 <Price2>942.53</Price2>
@@ -29995,7 +29995,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1038.90</Price>
 <Price2>1485.05</Price2>
@@ -38669,16 +38669,16 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2028-09-01</Miad>
 <Price>629.00</Price>
-<Price2>940.94</Price2>
+<Price2>970.04</Price2>
 <Price3>679.32</Price3>
 <Price4>704.48</Price4>
 <Price5>704.48</Price5>
 <Price6>704.48</Price6>
 <Price7>970.04</Price7>
-<Price8>940.94</Price8>
+<Price8>970.04</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-90-tablet-eski-ambalaj-9802.jpg</Image1>
@@ -41654,7 +41654,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>45</Stock>
 <Miad>2026-11-01</Miad>
 <Price>308.00</Price>
 <Price2>530.75</Price2>
@@ -44912,7 +44912,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>233.90</Price>
 <Price2>429.34</Price2>
@@ -45417,7 +45417,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>35</Stock>
 <Miad></Miad>
 <Price>114.00</Price>
 <Price2>265.26</Price2>
@@ -46801,7 +46801,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>152.00</Price>
 <Price2>317.26</Price2>
@@ -49995,7 +49995,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad>2029-05-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
@@ -52524,7 +52524,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>6</Stock>
 <Miad>2028-07-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -52613,7 +52613,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>396</Stock>
+<Stock>390</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -57779,7 +57779,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1668.90</Price>
 <Price2>2393.14</Price2>
@@ -59709,7 +59709,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>268.00</Price2>
@@ -65806,7 +65806,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>12</Stock>
 <Miad>2028-12-01</Miad>
 <Price>282.90</Price>
 <Price2>496.40</Price2>
@@ -67462,7 +67462,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-04-01</Miad>
 <Price>649.80</Price>
 <Price2>998.50</Price2>
@@ -73773,7 +73773,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>25</Stock>
 <Miad>2027-07-01</Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
