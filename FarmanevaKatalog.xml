@@ -2586,7 +2586,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>84</Stock>
+<Stock>83</Stock>
 <Miad>2026-11-01</Miad>
 <Price>597.90</Price>
 <Price2>927.48</Price2>
@@ -9088,7 +9088,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>25</Stock>
 <Miad>2028-09-01</Miad>
 <Price>154.90</Price>
 <Price2>321.23</Price2>
@@ -53763,7 +53763,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>926.11</Price2>
@@ -63787,7 +63787,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2028-08-01</Miad>
 <Price>959.90</Price>
 <Price2>1380.18</Price2>
