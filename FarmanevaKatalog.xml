@@ -3176,7 +3176,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2026-10-01</Miad>
 <Price>229.00</Price>
 <Price2>422.64</Price2>
@@ -8017,7 +8017,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>174</Stock>
+<Stock>179</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>1201.18</Price2>
@@ -11526,7 +11526,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>27</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -11990,7 +11990,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Vücut Losyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>124</Stock>
+<Stock>125</Stock>
 <Miad></Miad>
 <Price>149.00</Price>
 <Price2>297.50</Price2>
@@ -12177,7 +12177,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>180</Stock>
+<Stock>181</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>655.02</Price2>
@@ -13612,7 +13612,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>103</Stock>
+<Stock>104</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>297.37</Price2>
@@ -16463,7 +16463,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -20318,7 +20318,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>170</Stock>
+<Stock>171</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>166.59</Price2>
@@ -30041,7 +30041,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1038.90</Price>
 <Price2>1485.05</Price2>
@@ -41700,7 +41700,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>46</Stock>
 <Miad>2026-11-01</Miad>
 <Price>308.00</Price>
 <Price2>530.75</Price2>
@@ -43040,49 +43040,6 @@
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n tedavisi veya &#246;nlenmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n, dengeli ve &#231;e&#351;itli beslenmenin yerini tutmaz; hamilelik, emzirme, d&#252;zenli ila&#231; kullan&#305;m&#305; veya s&#252;regelen bir rahats&#305;zl&#305;k durumunda hekiminize dan&#305;&#351;&#305;n.</p>
 <p>Farmaneva g&#252;vencesiyle bitkisel i&#231;erikli g&#252;nl&#252;k deste&#287;i evinize ta&#351;&#305;r.</p>
 </section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00973]]></Product_code>
-<Barcode>5021265248643</Barcode>
-<Name><![CDATA[Perfectil 30 Tablet]]></Name>
-<Brand><![CDATA[Perfectil]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Saç, Cilt ve Tırnak]]></category>
-<Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2028-01-01</Miad>
-<Price>1070.75</Price>
-<Price2>1100.00</Price2>
-<Price3>787.00</Price3>
-<Price4>1199.24</Price4>
-<Price5>1199.24</Price5>
-<Price6>1199.24</Price6>
-<Price7>1574.57</Price7>
-<Price8>1200.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/perfectil-30-tablet-10030.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/perfectil-30-tablet-10031.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/perfectil-30-tablet-14291.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/perfectil-30-tablet-14292.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/perfectil-30-tablet-17149.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Perfectil 30 Tablet</strong>, biotin, &#231;inko, selenyum ve &#252;z&#252;m &#231;ekirde&#287;i ekstresi gibi i&#231;eriklerle sa&#231;, cilt ve t&#305;rnak sa&#287;l&#305;&#287;&#305;n&#305; desteklemeye y&#246;nelik bir g&#252;zellik multivitaminidir. Sa&#231;, cilt ve t&#305;rnaklar&#305;na kapsaml&#305; bir destek arayanlar i&#231;in 30 tabletlik ambalajda sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Biotin, &#231;inko ve selenyum i&#231;erir.</li>
-<li>Biotin, &#231;inko ve selenyum sa&#231;&#305;n korunmas&#305;na katk&#305; sa&#287;lar.</li>
-<li>Selenyum ve &#231;inko t&#305;rnaklar&#305;n korunmas&#305;na katk&#305; sa&#287;lar.</li>
-<li>C vitamini normal kollajen olu&#351;umuna katk&#305; sa&#287;lar.</li>
-<li>&#220;z&#252;m &#231;ekirde&#287;i ekstresiyle desteklenmi&#351;tir.</li>
-<li>Sa&#231;, cilt ve t&#305;rna&#287;&#305; tek &#252;r&#252;nde destekler.</li>
-<li>G&#252;nde tek tablet pratik kullan&#305;m sa&#287;lar.</li>
-<li>30 tabletlik ambalajda sunulur.</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle g&#252;nde 1 tablet, tercihen &#246;&#287;&#252;nle birlikte bir bardak su ile t&#252;ketilir. Optimal sonu&#231; i&#231;in en az 3 ay d&#252;zenli kullan&#305;m &#246;nerilir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir sa&#287;l&#305;k sorununuz varsa veya ila&#231; kullan&#305;yorsan&#305;z hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Sa&#231;, cilt ve t&#305;rnaklar&#305;na kapsaml&#305; bir destek arayanlar Perfectil'i Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00974]]></Product_code>
@@ -52702,7 +52659,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>390</Stock>
+<Stock>396</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -53762,7 +53719,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>68</Stock>
+<Stock>69</Stock>
 <Miad>2030-02-01</Miad>
 <Price>884.90</Price>
 <Price2>1320.24</Price2>
@@ -53898,7 +53855,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>125</Stock>
+<Stock>126</Stock>
 <Miad>2030-05-01</Miad>
 <Price>1128.90</Price>
 <Price2>1654.15</Price2>
@@ -66265,14 +66222,14 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad>2029-02-01</Miad>
-<Price>729.90</Price>
-<Price2>1108.12</Price2>
-<Price3>788.29</Price3>
-<Price4>817.49</Price4>
-<Price5>817.49</Price5>
-<Price6>817.49</Price6>
-<Price7>1108.12</Price7>
-<Price8>1108.12</Price8>
+<Price>600.00</Price>
+<Price2>930.35</Price2>
+<Price3>648.00</Price3>
+<Price4>672.00</Price4>
+<Price5>672.00</Price5>
+<Price6>672.00</Price6>
+<Price7>930.35</Price7>
+<Price8>930.35</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -67827,7 +67784,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>55</Stock>
 <Miad>2029-05-01</Miad>
 <Price>298.90</Price>
 <Price2>518.29</Price2>
@@ -67965,7 +67922,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>56</Stock>
+<Stock>57</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -73862,7 +73819,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>31</Stock>
 <Miad>2027-07-01</Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
