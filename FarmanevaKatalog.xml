@@ -11670,9 +11670,9 @@
 <Price>448.90</Price>
 <Price2>723.57</Price2>
 <Price3>484.81</Price3>
-<Price4>469.00</Price4>
-<Price5>469.00</Price5>
-<Price6>469.00</Price6>
+<Price4>502.77</Price4>
+<Price5>502.77</Price5>
+<Price6>502.77</Price6>
 <Price7>723.57</Price7>
 <Price8>723.57</Price8>
 <CurrencyType>TRL</CurrencyType>
@@ -12224,7 +12224,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>129</Stock>
+<Stock>131</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>1012.41</Price2>
@@ -21780,7 +21780,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>439.00</Price>
 <Price2>710.02</Price2>
@@ -46133,7 +46133,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>117.90</Price>
 <Price2>270.60</Price2>
@@ -47572,7 +47572,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Yarabandı]]></subCategory>
 <Tax>10</Tax>
-<Stock>20</Stock>
+<Stock>4</Stock>
 <Miad>2029-11-01</Miad>
 <Price>248.90</Price>
 <Price2>449.87</Price2>
@@ -47882,7 +47882,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2031-04-01</Miad>
 <Price>319.90</Price>
 <Price2>547.03</Price2>
@@ -59755,7 +59755,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>268.00</Price2>
@@ -73911,16 +73911,16 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
-<Price>169.00</Price>
-<Price2>340.53</Price2>
-<Price3>182.52</Price3>
-<Price4>189.28</Price4>
-<Price5>189.28</Price5>
-<Price6>189.28</Price6>
-<Price7>340.53</Price7>
-<Price8>340.53</Price8>
+<Price>169.90</Price>
+<Price2>341.76</Price2>
+<Price3>183.49</Price3>
+<Price4>190.29</Price4>
+<Price5>190.29</Price5>
+<Price6>190.29</Price6>
+<Price7>341.76</Price7>
+<Price8>341.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/flipper-dis-fircasi-kabi-yesil-baykus-11732.jpg</Image1>
@@ -74737,7 +74737,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>669.90</Price>
 <Price2>1026.01</Price2>
@@ -77576,7 +77576,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
