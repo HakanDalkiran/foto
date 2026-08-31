@@ -4309,7 +4309,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>624.90</Price>
 <Price2>964.43</Price2>
@@ -4355,7 +4355,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
 <Price>609.90</Price>
 <Price2>943.90</Price2>
@@ -4450,7 +4450,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>42</Stock>
+<Stock>0</Stock>
 <Miad>2027-11-01</Miad>
 <Price>609.90</Price>
 <Price2>943.90</Price2>
@@ -25232,7 +25232,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>16</Stock>
 <Miad>2028-02-01</Miad>
 <Price>608.90</Price>
 <Price2>942.53</Price2>
@@ -42067,7 +42067,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad>2027-10-01</Miad>
 <Price>469.00</Price>
 <Price2>751.08</Price2>
@@ -44166,7 +44166,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>559.90</Price>
 <Price2>875.47</Price2>
@@ -44912,7 +44912,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>53</Stock>
 <Miad></Miad>
 <Price>233.90</Price>
 <Price2>429.34</Price2>
@@ -46801,7 +46801,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>152.00</Price>
 <Price2>317.26</Price2>
@@ -59709,7 +59709,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>268.00</Price2>
@@ -65806,7 +65806,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>14</Stock>
 <Miad>2028-12-01</Miad>
 <Price>282.90</Price>
 <Price2>496.40</Price2>
@@ -66082,7 +66082,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2028-04-01</Miad>
 <Price>776.90</Price>
 <Price2>1172.44</Price2>
@@ -66174,7 +66174,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2029-02-01</Miad>
 <Price>600.00</Price>
 <Price2>930.35</Price2>
@@ -66404,7 +66404,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1085.00</Price>
 <Price2>1594.07</Price2>
@@ -66680,7 +66680,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>5</Stock>
 <Miad>2028-09-01</Miad>
 <Price>619.00</Price>
 <Price2>956.35</Price2>
@@ -66818,7 +66818,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>13</Stock>
 <Miad>2028-05-01</Miad>
 <Price>949.90</Price>
 <Price2>1409.19</Price2>
@@ -67002,7 +67002,7 @@
 <category><![CDATA[Göz Çevresi Bakımı]]></category>
 <subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2028-04-01</Miad>
 <Price>688.50</Price>
 <Price2>1051.46</Price2>
@@ -67048,7 +67048,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>5</Stock>
 <Miad>2029-01-01</Miad>
 <Price>621.90</Price>
 <Price2>960.32</Price2>
@@ -67094,7 +67094,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2028-04-01</Miad>
 <Price>494.90</Price>
 <Price2>786.52</Price2>
@@ -67140,7 +67140,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>69</Stock>
+<Stock>149</Stock>
 <Miad>2028-01-01</Miad>
 <Price>555.00</Price>
 <Price2>868.77</Price2>
@@ -67186,7 +67186,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2028-04-01</Miad>
 <Price>647.90</Price>
 <Price2>995.90</Price2>
@@ -67232,7 +67232,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>56</Stock>
 <Miad>2028-08-01</Miad>
 <Price>555.00</Price>
 <Price2>868.77</Price2>
@@ -67416,7 +67416,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2028-04-01</Miad>
 <Price>644.90</Price>
 <Price2>991.80</Price2>
@@ -67462,7 +67462,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2028-04-01</Miad>
 <Price>649.80</Price>
 <Price2>998.50</Price2>
@@ -67508,7 +67508,7 @@
 <category><![CDATA[Göz Çevresi Bakımı]]></category>
 <subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>8</Stock>
 <Miad>2028-07-01</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -67554,16 +67554,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2028-01-01</Miad>
+<Stock>12</Stock>
+<Miad>2028-07-01</Miad>
 <Price>699.90</Price>
-<Price2>1067.06</Price2>
+<Price2>1067.07</Price2>
 <Price3>755.89</Price3>
 <Price4>783.89</Price4>
 <Price5>783.89</Price5>
 <Price6>783.89</Price6>
-<Price7>1067.06</Price7>
-<Price8>1067.06</Price8>
+<Price7>1067.07</Price7>
+<Price8>1067.07</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-soothing-cleansing-cream-foam-200-ml-11418.jpg</Image1>
@@ -67600,7 +67600,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>8</Stock>
 <Miad>2028-04-01</Miad>
 <Price>798.75</Price>
 <Price2>1202.34</Price2>
@@ -67646,7 +67646,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2028-04-01</Miad>
 <Price>1199.90</Price>
 <Price2>1751.31</Price2>
@@ -67692,7 +67692,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2029-04-01</Miad>
 <Price>449.00</Price>
 <Price2>723.71</Price2>
@@ -72415,7 +72415,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>698.90</Price>
 <Price2>1065.69</Price2>
@@ -72458,7 +72458,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Onarıcı & Yenileyici Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2028-05-01</Miad>
 <Price>687.90</Price>
 <Price2>1050.64</Price2>
@@ -77484,7 +77484,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2028-04-01</Miad>
 <Price>329.80</Price>
 <Price2>560.58</Price2>
