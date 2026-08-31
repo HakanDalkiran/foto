@@ -8157,15 +8157,15 @@
 <subCategory><![CDATA[Bit ve Sirke Önleyiciler]]></subCategory>
 <Tax>20</Tax>
 <Stock>283</Stock>
-<Miad>2026-09-01</Miad>
-<Price>17.90</Price>
-<Price2>133.75</Price2>
-<Price3>19.33</Price3>
-<Price4>20.05</Price4>
-<Price5>20.05</Price5>
-<Price6>20.05</Price6>
-<Price7>133.75</Price7>
-<Price8>133.75</Price8>
+<Miad></Miad>
+<Price>28.90</Price>
+<Price2>148.80</Price2>
+<Price3>31.21</Price3>
+<Price4>32.37</Price4>
+<Price5>32.37</Price5>
+<Price6>32.37</Price6>
+<Price7>148.80</Price7>
+<Price8>148.80</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/capila-bit-sampuani-200-ml-8243.jpg</Image1>
@@ -11620,7 +11620,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>54</Stock>
 <Miad></Miad>
 <Price>319.00</Price>
 <Price2>518.51</Price2>
@@ -11710,7 +11710,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>697.79</Price2>
@@ -56173,16 +56173,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
-<Miad>2026-09-01</Miad>
-<Price>998.90</Price>
-<Price2>1476.24</Price2>
-<Price3>1078.81</Price3>
-<Price4>1118.77</Price4>
-<Price5>1118.77</Price5>
-<Price6>1118.77</Price6>
-<Price7>1476.24</Price7>
-<Price8>1476.24</Price8>
+<Stock>6</Stock>
+<Miad></Miad>
+<Price>949.90</Price>
+<Price2>1409.19</Price2>
+<Price3>1025.89</Price3>
+<Price4>1063.89</Price4>
+<Price5>1063.89</Price5>
+<Price6>1063.89</Price6>
+<Price7>1409.19</Price7>
+<Price8>1409.19</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-jasmine-orman-meyveli-aromali-30-sase-50-ml-10572.jpg</Image1>
@@ -67968,7 +67968,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>125</Stock>
+<Stock>116</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -68062,14 +68062,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>711.25</Price2>
-<Price3>475.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>766.13</Price2>
+<Price3>518.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68520,7 +68520,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>297</Stock>
+<Stock>295</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
@@ -77576,7 +77576,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>36</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
@@ -81261,7 +81261,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>0</Stock>
 <Miad>2026-09-01</Miad>
 <Price>398.90</Price>
 <Price2>655.14</Price2>
