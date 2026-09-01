@@ -7378,13 +7378,13 @@
 <Stock>35</Stock>
 <Miad>2027-10-01</Miad>
 <Price>384.90</Price>
-<Price2>635.98</Price2>
+<Price2>635.99</Price2>
 <Price3>415.69</Price3>
 <Price4>431.09</Price4>
 <Price5>431.09</Price5>
 <Price6>431.09</Price6>
-<Price7>635.98</Price7>
-<Price8>635.98</Price8>
+<Price7>635.99</Price7>
+<Price8>635.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/blephaclean-steril-goz-pedi-20-li-8220.jpg</Image1>
@@ -9497,7 +9497,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2029-01-01</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
@@ -17417,7 +17417,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>79.90</Price>
 <Price2>218.59</Price2>
@@ -49951,16 +49951,16 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>192.90</Price>
-<Price2>373.22</Price2>
+<Price2>373.23</Price2>
 <Price3>208.33</Price3>
 <Price4>216.05</Price4>
 <Price5>216.05</Price5>
 <Price6>216.05</Price6>
-<Price7>373.22</Price7>
-<Price8>373.22</Price8>
+<Price7>373.23</Price7>
+<Price8>373.23</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dudak-koruyucu-yogun-etki-10352.jpg</Image1>
