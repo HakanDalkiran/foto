@@ -11620,7 +11620,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>55</Stock>
 <Miad></Miad>
 <Price>319.00</Price>
 <Price2>518.51</Price2>
@@ -11710,7 +11710,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>697.79</Price2>
@@ -29258,16 +29258,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-04-01</Miad>
 <Price>629.90</Price>
-<Price2>942.13</Price2>
+<Price2>971.27</Price2>
 <Price3>680.29</Price3>
 <Price4>705.49</Price4>
 <Price5>705.49</Price5>
 <Price6>705.49</Price6>
 <Price7>971.27</Price7>
-<Price8>942.13</Price8>
+<Price8>971.27</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-benfolife-60-kapsul-9343.jpg</Image1>
@@ -29394,7 +29394,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2027-04-01</Miad>
 <Price>998.90</Price>
 <Price2>1431.95</Price2>
@@ -30832,7 +30832,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>3</Stock>
 <Miad>2027-05-01</Miad>
 <Price>369.90</Price>
 <Price2>597.00</Price2>
@@ -33078,7 +33078,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>118.00</Price>
 <Price2>270.73</Price2>
@@ -33305,7 +33305,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>271.96</Price2>
@@ -42437,7 +42437,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>44</Stock>
 <Miad>2028-06-01</Miad>
 <Price>179.90</Price>
 <Price2>355.44</Price2>
@@ -58005,7 +58005,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>7</Stock>
 <Miad>2028-12-01</Miad>
 <Price>829.80</Price>
 <Price2>1244.83</Price2>
@@ -63426,7 +63426,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2028-08-01</Miad>
 <Price>357.90</Price>
 <Price2>581.07</Price2>
@@ -63787,7 +63787,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>1</Stock>
 <Miad>2028-08-01</Miad>
 <Price>959.90</Price>
 <Price2>1380.18</Price2>
@@ -66774,14 +66774,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-09-01</Miad>
-<Price>698.90</Price>
-<Price2>1065.69</Price2>
-<Price3>754.81</Price3>
-<Price4>782.77</Price4>
-<Price5>782.77</Price5>
-<Price6>782.77</Price6>
-<Price7>1065.69</Price7>
-<Price8>1065.69</Price8>
+<Price>675.00</Price>
+<Price2>1032.99</Price2>
+<Price3>729.00</Price3>
+<Price4>756.00</Price4>
+<Price5>756.00</Price5>
+<Price6>756.00</Price6>
+<Price7>1032.99</Price7>
+<Price8>1032.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.jpg</Image1>
@@ -67326,14 +67326,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>499.75</Price>
-<Price2>793.16</Price2>
-<Price3>539.73</Price3>
-<Price4>559.72</Price4>
-<Price5>559.72</Price5>
-<Price6>559.72</Price6>
-<Price7>793.16</Price7>
-<Price8>793.16</Price8>
+<Price>484.90</Price>
+<Price2>772.84</Price2>
+<Price3>523.69</Price3>
+<Price4>543.09</Price4>
+<Price5>543.09</Price5>
+<Price6>543.09</Price6>
+<Price7>772.84</Price7>
+<Price8>772.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -67922,7 +67922,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>56</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -68428,7 +68428,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>24</Stock>
 <Miad>2028-04-01</Miad>
 <Price>380.00</Price>
 <Price2>629.28</Price2>
