@@ -4086,14 +4086,14 @@
 <Tax>10</Tax>
 <Stock>4</Stock>
 <Miad>2027-11-01</Miad>
-<Price>357.90</Price>
-<Price2>599.04</Price2>
-<Price3>386.53</Price3>
-<Price4>400.85</Price4>
-<Price5>400.85</Price5>
-<Price6>400.85</Price6>
-<Price7>599.04</Price7>
-<Price8>599.04</Price8>
+<Price>358.90</Price>
+<Price2>600.40</Price2>
+<Price3>387.61</Price3>
+<Price4>401.97</Price4>
+<Price5>401.97</Price5>
+<Price6>401.97</Price6>
+<Price7>600.40</Price7>
+<Price8>600.40</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bausch-lomb-renu-multiplus-lens-solusyonu-360-ml-7959.jpg</Image1>
@@ -8017,7 +8017,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>175</Stock>
+<Stock>171</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>1201.18</Price2>
@@ -8480,16 +8480,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>73</Stock>
 <Miad></Miad>
-<Price>978.00</Price>
-<Price2>1447.64</Price2>
-<Price3>1056.24</Price3>
-<Price4>1095.36</Price4>
-<Price5>1095.36</Price5>
-<Price6>1095.36</Price6>
-<Price7>1447.64</Price7>
-<Price8>1447.64</Price8>
+<Price>858.90</Price>
+<Price2>1284.65</Price2>
+<Price3>927.61</Price3>
+<Price4>961.97</Price4>
+<Price5>961.97</Price5>
+<Price6>961.97</Price6>
+<Price7>1284.65</Price7>
+<Price8>1284.65</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cerave-hydrating-cleanser-473-ml-nemlendiren-temizleyici-8258.png</Image1>
@@ -11244,7 +11244,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>316</Stock>
+<Stock>315</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>350.67</Price2>
@@ -11526,7 +11526,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -11620,7 +11620,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>48</Stock>
 <Miad></Miad>
 <Price>319.00</Price>
 <Price2>518.51</Price2>
@@ -13426,7 +13426,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>194.90</Price>
 <Price2>357.17</Price2>
@@ -18240,7 +18240,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>96</Stock>
+<Stock>95</Stock>
 <Miad>2027-09-01</Miad>
 <Price>998.90</Price>
 <Price2>1476.24</Price2>
@@ -38340,7 +38340,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>60</Stock>
+<Stock>61</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -67969,7 +67969,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>52</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -68015,7 +68015,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>99</Stock>
+<Stock>97</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
