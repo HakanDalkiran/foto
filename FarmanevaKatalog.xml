@@ -8017,7 +8017,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>171</Stock>
+<Stock>175</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>1201.18</Price2>
@@ -11244,7 +11244,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>315</Stock>
+<Stock>316</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>350.67</Price2>
@@ -11526,7 +11526,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -11620,7 +11620,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>48</Stock>
+<Stock>51</Stock>
 <Miad></Miad>
 <Price>319.00</Price>
 <Price2>518.51</Price2>
@@ -13426,7 +13426,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>194.90</Price>
 <Price2>357.17</Price2>
@@ -18970,7 +18970,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -20318,7 +20318,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>171</Stock>
+<Stock>169</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>166.59</Price2>
@@ -50972,13 +50972,13 @@
 <Stock>0</Stock>
 <Miad>2027-07-01</Miad>
 <Price>453.90</Price>
-<Price2>730.41</Price2>
+<Price2>730.40</Price2>
 <Price3>490.21</Price3>
 <Price4>508.37</Price4>
 <Price5>508.37</Price5>
 <Price6>508.37</Price6>
-<Price7>730.41</Price7>
-<Price8>730.41</Price8>
+<Price7>730.40</Price7>
+<Price8>730.40</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-400-gr-3-adet-10389.jpg</Image1>
@@ -66821,14 +66821,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-09-01</Miad>
-<Price>675.00</Price>
-<Price2>1032.99</Price2>
-<Price3>729.00</Price3>
-<Price4>756.00</Price4>
-<Price5>756.00</Price5>
-<Price6>756.00</Price6>
-<Price7>1032.99</Price7>
-<Price8>1032.99</Price8>
+<Price>698.90</Price>
+<Price2>1065.69</Price2>
+<Price3>754.81</Price3>
+<Price4>782.77</Price4>
+<Price5>782.77</Price5>
+<Price6>782.77</Price6>
+<Price7>1065.69</Price7>
+<Price8>1065.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.jpg</Image1>
@@ -67373,14 +67373,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.90</Price>
-<Price2>772.84</Price2>
-<Price3>523.69</Price3>
-<Price4>543.09</Price4>
-<Price5>543.09</Price5>
-<Price6>543.09</Price6>
-<Price7>772.84</Price7>
-<Price8>772.84</Price8>
+<Price>499.75</Price>
+<Price2>793.16</Price2>
+<Price3>539.73</Price3>
+<Price4>559.72</Price4>
+<Price5>559.72</Price5>
+<Price6>559.72</Price6>
+<Price7>793.16</Price7>
+<Price8>793.16</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -68015,7 +68015,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>97</Stock>
+<Stock>91</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
