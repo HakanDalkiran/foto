@@ -26742,13 +26742,13 @@
 <Stock>17</Stock>
 <Miad>2029-03-01</Miad>
 <Price>2185.42</Price>
-<Price2>3100.01</Price2>
+<Price2>3100.00</Price2>
 <Price3>2100.00</Price3>
 <Price4>4900.00</Price4>
 <Price5>4900.00</Price5>
 <Price6>4900.00</Price6>
-<Price7>2900.01</Price7>
-<Price8>2900.01</Price8>
+<Price7>2900.00</Price7>
+<Price8>2900.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9205.jpg</Image1>
@@ -26788,13 +26788,13 @@
 <Stock>5</Stock>
 <Miad>2029-03-01</Miad>
 <Price>726.36</Price>
-<Price2>1499.01</Price2>
+<Price2>1499.00</Price2>
 <Price3>899.00</Price3>
 <Price4>813.52</Price4>
 <Price5>813.52</Price5>
 <Price6>1200.00</Price6>
-<Price7>1103.28</Price7>
-<Price8>2900.01</Price8>
+<Price7>1103.27</Price7>
+<Price8>2900.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9209.jpg</Image1>
@@ -47665,16 +47665,16 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Yarabandı]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2029-11-01</Miad>
+<Stock>4</Stock>
+<Miad>2026-12-01</Miad>
 <Price>248.90</Price>
-<Price2>449.87</Price2>
+<Price2>449.86</Price2>
 <Price3>268.81</Price3>
 <Price4>278.77</Price4>
 <Price5>278.77</Price5>
 <Price6>278.77</Price6>
-<Price7>449.87</Price7>
-<Price8>449.87</Price8>
+<Price7>449.86</Price7>
+<Price8>449.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/roll-bant-tekstil-yarabandi-30-kutu-10-luk-10256.jpg</Image1>
@@ -76754,7 +76754,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>64</Stock>
+<Stock>60</Stock>
 <Miad>2029-01-01</Miad>
 <Price>461.00</Price>
 <Price2>740.13</Price2>
