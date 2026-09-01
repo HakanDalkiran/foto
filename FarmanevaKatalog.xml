@@ -9457,13 +9457,13 @@
 <Stock>0</Stock>
 <Miad>2028-11-01</Miad>
 <Price>533.78</Price>
-<Price2>788.60</Price2>
+<Price2>788.61</Price2>
 <Price3>597.00</Price3>
 <Price4>597.83</Price4>
 <Price5>597.83</Price5>
 <Price6>597.83</Price6>
-<Price7>788.60</Price7>
-<Price8>788.60</Price8>
+<Price7>788.61</Price7>
+<Price8>788.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cosakondrin-plus-60-tablet-8325.jpg</Image1>
@@ -14078,7 +14078,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2028-09-01</Miad>
 <Price>225.00</Price>
 <Price2>417.16</Price2>
@@ -17189,7 +17189,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>79.90</Price>
 <Price2>218.59</Price2>
@@ -17417,7 +17417,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>79.90</Price>
 <Price2>218.59</Price2>
@@ -25418,7 +25418,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>794.90</Price>
 <Price2>1197.07</Price2>
@@ -45818,7 +45818,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>32</Stock>
+<Stock>30</Stock>
 <Miad></Miad>
 <Price>62.90</Price>
 <Price2>195.33</Price2>
@@ -47572,7 +47572,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Yarabandı]]></subCategory>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2029-11-01</Miad>
 <Price>248.90</Price>
 <Price2>449.87</Price2>
@@ -47882,7 +47882,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>19</Stock>
+<Stock>8</Stock>
 <Miad>2031-04-01</Miad>
 <Price>319.90</Price>
 <Price2>547.03</Price2>
@@ -51657,7 +51657,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-01-01</Miad>
 <Price>745.00</Price>
 <Price2>1128.78</Price2>
@@ -66082,7 +66082,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-04-01</Miad>
 <Price>723.80</Price>
 <Price2>1099.77</Price2>
@@ -67968,7 +67968,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>113</Stock>
+<Stock>112</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -81352,7 +81352,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-05-01</Miad>
 <Price>948.90</Price>
 <Price2>1407.82</Price2>
@@ -81445,7 +81445,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2029-03-01</Miad>
 <Price>989.90</Price>
 <Price2>1463.93</Price2>
