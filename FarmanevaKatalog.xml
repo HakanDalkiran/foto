@@ -99,7 +99,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>1298.90</Price>
 <Price2>1886.79</Price2>
@@ -2046,7 +2046,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1074.00</Price>
 <Price2>1579.02</Price2>
@@ -8667,7 +8667,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>91</Stock>
 <Miad></Miad>
 <Price>1048.90</Price>
 <Price2>1544.67</Price2>
@@ -11526,7 +11526,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -18887,14 +18887,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2028-10-01</Miad>
-<Price>568.80</Price>
-<Price2>887.65</Price2>
-<Price3>614.30</Price3>
-<Price4>637.06</Price4>
-<Price5>637.06</Price5>
-<Price6>637.06</Price6>
-<Price7>887.65</Price7>
-<Price8>887.65</Price8>
+<Price>583.90</Price>
+<Price2>908.32</Price2>
+<Price3>630.61</Price3>
+<Price4>653.97</Price4>
+<Price5>653.97</Price5>
+<Price6>653.97</Price6>
+<Price7>908.32</Price7>
+<Price8>908.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/generica-sidefer-20-sticks-8818.jpg</Image1>
@@ -26784,7 +26784,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Bit ve Sirke Önleyiciler]]></subCategory>
 <Tax>10</Tax>
-<Stock>64</Stock>
+<Stock>69</Stock>
 <Miad>2029-09-01</Miad>
 <Price>68.90</Price>
 <Price2>203.54</Price2>
@@ -31443,7 +31443,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>122</Stock>
+<Stock>123</Stock>
 <Miad>2027-11-01</Miad>
 <Price>115.90</Price>
 <Price2>267.86</Price2>
@@ -31489,7 +31489,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>256</Stock>
+<Stock>258</Stock>
 <Miad>2027-11-01</Miad>
 <Price>107.00</Price>
 <Price2>255.68</Price2>
@@ -31627,7 +31627,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>66</Stock>
 <Miad>2027-11-01</Miad>
 <Price>119.90</Price>
 <Price2>273.33</Price2>
@@ -31721,7 +31721,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>122.90</Price>
 <Price2>277.44</Price2>
@@ -38340,7 +38340,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>61</Stock>
+<Stock>60</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -42719,7 +42719,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>16</Stock>
 <Miad>2028-10-01</Miad>
 <Price>103.90</Price>
 <Price2>251.44</Price2>
@@ -47753,7 +47753,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>247</Stock>
+<Stock>251</Stock>
 <Miad>2029-02-01</Miad>
 <Price>58.40</Price>
 <Price2>189.17</Price2>
@@ -49951,16 +49951,16 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2026-10-01</Miad>
+<Stock>1</Stock>
+<Miad>2029-03-01</Miad>
 <Price>192.90</Price>
-<Price2>373.23</Price2>
+<Price2>373.22</Price2>
 <Price3>208.33</Price3>
 <Price4>216.05</Price4>
 <Price5>216.05</Price5>
 <Price6>216.05</Price6>
-<Price7>373.23</Price7>
-<Price8>373.23</Price8>
+<Price7>373.22</Price7>
+<Price8>373.22</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-dudak-koruyucu-yogun-etki-10352.jpg</Image1>
@@ -52617,7 +52617,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>10</Stock>
 <Miad>2028-07-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -55989,7 +55989,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2026-12-01</Miad>
 <Price>239.90</Price>
 <Price2>437.55</Price2>
@@ -63243,7 +63243,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>91</Stock>
+<Stock>93</Stock>
 <Miad></Miad>
 <Price>1559.90</Price>
 <Price2>2243.97</Price2>
@@ -64384,7 +64384,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>101</Stock>
+<Stock>104</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -65853,7 +65853,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>12</Stock>
 <Miad>2027-05-01</Miad>
 <Price>274.90</Price>
 <Price2>485.45</Price2>
@@ -68015,7 +68015,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>102</Stock>
+<Stock>99</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
