@@ -9497,7 +9497,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2029-01-01</Miad>
 <Price>748.90</Price>
 <Price2>1134.12</Price2>
@@ -22606,7 +22606,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-07-01</Miad>
 <Price>1149.90</Price>
 <Price2>1682.89</Price2>
