@@ -11620,7 +11620,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>53</Stock>
 <Miad></Miad>
 <Price>319.00</Price>
 <Price2>518.51</Price2>
@@ -15944,7 +15944,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -15991,7 +15991,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>139.90</Price>
 <Price2>300.70</Price2>
@@ -16463,7 +16463,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -18970,7 +18970,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -26731,99 +26731,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00612]]></Product_code>
-<Barcode>8680760510098-2</Barcode>
-<Name><![CDATA[Minoxil Forte Deri Spreyi %5 60 ml 2 Adet]]></Name>
-<Brand><![CDATA[Minoxil]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
-<Tax>10</Tax>
-<Stock>17</Stock>
-<Miad>2029-03-01</Miad>
-<Price>2185.42</Price>
-<Price2>3100.00</Price2>
-<Price3>2100.00</Price3>
-<Price4>4900.00</Price4>
-<Price5>4900.00</Price5>
-<Price6>4900.00</Price6>
-<Price7>2900.00</Price7>
-<Price8>2900.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9205.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9206.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9207.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9208.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-13481.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Minoxil Forte Deri Spreyi %5 60 ml (2 Adet)</strong>, her mililitresinde 50 mg minoksidil bulunan, do&#287;rudan sa&#231; derisine uygulanan topikal bir &#231;&#246;zeltidir. Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik bak&#305;m arayan yeti&#351;kinlere y&#246;neliktir; bu paket iki adet 60 ml &#351;i&#351;eden olu&#351;ur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>%5 oran&#305;nda minoksidil i&#231;eren topikal deri spreyi &#231;&#246;zeltisidir</li>
-<li>Her 60 ml &#351;i&#351;ede yakla&#351;&#305;k 3 g minoksidil bulunur</li>
-<li>Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik kullan&#305;l&#305;r</li>
-<li>Sprey ba&#351;l&#305;&#287;&#305; sayesinde sa&#231; derisine kolay uygulan&#305;r</li>
-<li>Kuru sa&#231; ve sa&#231; derisine uygulanacak bi&#231;imde tasarlanm&#305;&#351;t&#305;r</li>
-<li>Androgenetik tipte sa&#231; d&#246;k&#252;lmesi bak&#305;m&#305;nda tercih edilir</li>
-<li>Bu paket iki adet 60 ml &#351;i&#351;e i&#231;erir</li>
-<li>Yaln&#305;zca haricen, sa&#231; derisine uygulanmak &#252;zere tasarlanm&#305;&#351;t&#305;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle kuru sa&#231; ve sa&#231; derisine sabah ve ak&#351;am olmak &#252;zere g&#252;nde iki kez uygulan&#305;r. Kesin doz, uygulama miktar&#305; ve kullan&#305;m s&#252;resi i&#231;in &#252;r&#252;n&#252;n kullanma talimat&#305;n&#305; okuyun ve hekiminizin ya da eczac&#305;n&#305;z&#305;n &#246;nerilerine uyun.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;l&#305;r; g&#246;z, a&#287;&#305;z ve mukoza ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas h&#226;linde bol suyla durulay&#305;n. Kullanmadan &#246;nce &#252;r&#252;n prospekt&#252;s&#252;n&#252; okuyun; gebelik, emzirme veya mevcut bir rahats&#305;zl&#305;k durumunda hekiminize ya da eczac&#305;n&#305;za dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva, sa&#231; bak&#305;m&#305; rutininizde g&#252;venle yer verebilece&#287;iniz &#252;r&#252;nleri &#246;zenle sunar.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00613]]></Product_code>
-<Barcode>8680760510098</Barcode>
-<Name><![CDATA[Minoxil Forte Deri Spreyi %5 60 ml]]></Name>
-<Brand><![CDATA[Minoxil]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
-<Tax>10</Tax>
-<Stock>5</Stock>
-<Miad>2029-03-01</Miad>
-<Price>726.36</Price>
-<Price2>1499.00</Price2>
-<Price3>899.00</Price3>
-<Price4>813.52</Price4>
-<Price5>813.52</Price5>
-<Price6>1200.00</Price6>
-<Price7>1103.27</Price7>
-<Price8>2900.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9209.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9210.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9211.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9212.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-13485.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Minoxil Forte Deri Spreyi %5 60 ml</strong>, her mililitresinde 50 mg minoksidil bulunan, do&#287;rudan sa&#231; derisine uygulanan topikal bir &#231;&#246;zeltidir. Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik bak&#305;m arayan yeti&#351;kinlere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>%5 oran&#305;nda minoksidil i&#231;eren topikal deri spreyi &#231;&#246;zeltisidir</li>
-<li>60 ml &#351;i&#351;ede yakla&#351;&#305;k 3 g minoksidil bulunur</li>
-<li>Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik kullan&#305;l&#305;r</li>
-<li>Sprey ba&#351;l&#305;&#287;&#305; sayesinde sa&#231; derisine kolay uygulan&#305;r</li>
-<li>Kuru sa&#231; ve sa&#231; derisine uygulanacak bi&#231;imde tasarlanm&#305;&#351;t&#305;r</li>
-<li>Androgenetik tipte sa&#231; d&#246;k&#252;lmesi bak&#305;m&#305;nda tercih edilir</li>
-<li>Etkisi i&#231;in uzun s&#252;reli ve d&#252;zenli kullan&#305;m gerektirir</li>
-<li>Pratik 60 ml &#351;i&#351;e hacmiyle sunulur</li>
-<li>Yaln&#305;zca haricen, sa&#231; derisine uygulanmak &#252;zere tasarlanm&#305;&#351;t&#305;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle kuru sa&#231; ve sa&#231; derisine sabah ve ak&#351;am olmak &#252;zere g&#252;nde iki kez uygulan&#305;r. Kesin doz, uygulama miktar&#305; ve kullan&#305;m s&#252;resi i&#231;in &#252;r&#252;n&#252;n kullanma talimat&#305;n&#305; okuyun ve hekiminizin ya da eczac&#305;n&#305;z&#305;n &#246;nerilerine uyun.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;l&#305;r; g&#246;z, a&#287;&#305;z ve mukoza ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas h&#226;linde bol suyla durulay&#305;n. Kullanmadan &#246;nce &#252;r&#252;n prospekt&#252;s&#252;n&#252; okuyun; gebelik, emzirme veya mevcut bir rahats&#305;zl&#305;k durumunda hekiminize ya da eczac&#305;n&#305;za dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva, sa&#231; bak&#305;m&#305; rutininizde g&#252;venle yer verebilece&#287;iniz &#252;r&#252;nleri &#246;zenle sunar.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00614]]></Product_code>
 <Barcode>8683930619218</Barcode>
 <Name><![CDATA[Moon Life Beyazlatıcı Kremi SPF50+50 ml]]></Name>
@@ -26970,7 +26877,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>56</Stock>
+<Stock>54</Stock>
 <Miad></Miad>
 <Price>42.90</Price>
 <Price2>167.96</Price2>
@@ -27060,7 +26967,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>40</Stock>
 <Miad></Miad>
 <Price>42.90</Price>
 <Price2>167.96</Price2>
@@ -33171,7 +33078,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>118.00</Price>
 <Price2>270.73</Price2>
@@ -33398,7 +33305,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>271.96</Price2>
@@ -38386,7 +38293,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>62</Stock>
+<Stock>61</Stock>
 <Miad>2028-12-01</Miad>
 <Price>358.90</Price>
 <Price2>600.40</Price2>
@@ -39566,16 +39473,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2027-08-01</Miad>
 <Price>274.00</Price>
-<Price2>469.69</Price2>
+<Price2>484.22</Price2>
 <Price3>295.92</Price3>
 <Price4>306.88</Price4>
 <Price5>306.88</Price5>
 <Price6>306.88</Price6>
 <Price7>484.22</Price7>
-<Price8>469.69</Price8>
+<Price8>484.22</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-methyl-b12-sprey-1000-mg-5-ml-eski-ambalaj-9860.jpg</Image1>
@@ -47668,13 +47575,13 @@
 <Stock>4</Stock>
 <Miad>2026-12-01</Miad>
 <Price>248.90</Price>
-<Price2>449.86</Price2>
+<Price2>449.87</Price2>
 <Price3>268.81</Price3>
 <Price4>278.77</Price4>
 <Price5>278.77</Price5>
 <Price6>278.77</Price6>
-<Price7>449.86</Price7>
-<Price8>449.86</Price8>
+<Price7>449.87</Price7>
+<Price8>449.87</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/roll-bant-tekstil-yarabandi-30-kutu-10-luk-10256.jpg</Image1>
@@ -49592,7 +49499,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>50</Stock>
 <Miad>2028-03-01</Miad>
 <Price>256.90</Price>
 <Price2>460.82</Price2>
@@ -52752,7 +52659,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>396</Stock>
+<Stock>395</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -59848,7 +59755,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>268.00</Price2>
@@ -66083,7 +65990,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>41</Stock>
+<Stock>40</Stock>
 <Miad></Miad>
 <Price>149.90</Price>
 <Price2>314.39</Price2>
@@ -68061,7 +67968,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>112</Stock>
+<Stock>108</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -68155,14 +68062,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>766.13</Price2>
-<Price3>518.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>711.25</Price2>
+<Price3>475.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68613,7 +68520,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>295</Stock>
+<Stock>293</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
@@ -73912,7 +73819,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad>2027-07-01</Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
