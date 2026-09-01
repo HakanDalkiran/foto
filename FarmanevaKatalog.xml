@@ -99,7 +99,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>25</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>1298.90</Price>
 <Price2>1886.79</Price2>
@@ -8017,7 +8017,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>179</Stock>
+<Stock>175</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>1201.18</Price2>
@@ -12224,7 +12224,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>131</Stock>
+<Stock>129</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>1012.41</Price2>
@@ -15944,7 +15944,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>25</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -15991,7 +15991,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>139.90</Price>
 <Price2>300.70</Price2>
@@ -16463,7 +16463,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>504.61</Price2>
@@ -19712,7 +19712,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>199.90</Price>
 <Price2>382.81</Price2>
@@ -26784,7 +26784,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Bit ve Sirke Önleyiciler]]></subCategory>
 <Tax>10</Tax>
-<Stock>74</Stock>
+<Stock>69</Stock>
 <Miad>2029-09-01</Miad>
 <Price>68.90</Price>
 <Price2>203.54</Price2>
@@ -30915,6 +30915,53 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00705]]></Product_code>
+<Barcode>8680645531019</Barcode>
+<Name><![CDATA[Nbt Life Time Magnezyum 60 Kapsül]]></Name>
+<Brand><![CDATA[Nbt Life]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>24</Stock>
+<Miad>2029-03-01</Miad>
+<Price>609.90</Price>
+<Price2>943.90</Price2>
+<Price3>658.69</Price3>
+<Price4>683.09</Price4>
+<Price5>683.09</Price5>
+<Price6>683.09</Price6>
+<Price7>943.90</Price7>
+<Price8>943.90</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-time-magnezyum-60-kapsul-9389.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-time-magnezyum-60-kapsul-9390.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-time-magnezyum-60-kapsul-13665.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-time-magnezyum-60-kapsul-13666.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-time-magnezyum-60-kapsul-16805.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>NBT Life Time Magnezyum 60 Kaps&#252;l</strong>, magnezyumu aktif B6 vitamini (P5P) ile birle&#351;tiren, kas ve sinir sistemini desteklemeye y&#246;nelik bir takviyedir. G&#252;nl&#252;k magnezyum deste&#287;ini P5P ile birlikte almak isteyenler i&#231;in 60 kaps&#252;ll&#252;k ambalajda sunulur.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Magnezyum i&#231;eren bir form&#252;le sahiptir.</li>
+<li>Aktif B6 vitamini (P5P) ile desteklenmi&#351;tir.</li>
+<li>Magnezyum, kaslar&#305;n normal i&#351;leyi&#351;ine katk&#305; sa&#287;lar.</li>
+<li>Sinir sisteminin normal i&#351;leyi&#351;ine ve yorgunlu&#287;un azalmas&#305;na destek olur.</li>
+<li>P5P, B6 vitamininin do&#287;rudan kullan&#305;labilen formudur.</li>
+<li>Pratik, g&#252;nl&#252;k kaps&#252;l kullan&#305;m&#305; sa&#287;lar.</li>
+<li>Yeti&#351;kinler i&#231;in uygundur.</li>
+<li>60 kaps&#252;ll&#252;k ambalajda sunulur.</li>
+<li>&#304;&#231;eri&#287;iyle g&#252;nl&#252;k ihtiyaca destek olmaya y&#246;neliktir.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Genellikle g&#252;nde 1 kaps&#252;l, bir bardak su ile t&#252;ketilir. Kesin doz i&#231;in &#252;r&#252;n ambalaj&#305;ndaki talimat&#305; izleyin; &#246;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir sa&#287;l&#305;k sorununuz varsa veya ila&#231; kullan&#305;yorsan&#305;z hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Magnezyumu P5P ile birlikte isteyenler NBT Life Time Magnezyum'u Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00706]]></Product_code>
 <Barcode>8680645531019-2</Barcode>
 <Name><![CDATA[Nbt Life Time Magnezyum 60 Kapsül 2'li]]></Name>
@@ -31396,7 +31443,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>124</Stock>
+<Stock>123</Stock>
 <Miad>2027-11-01</Miad>
 <Price>115.90</Price>
 <Price2>267.86</Price2>
@@ -31442,7 +31489,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>260</Stock>
+<Stock>258</Stock>
 <Miad>2027-11-01</Miad>
 <Price>107.00</Price>
 <Price2>255.68</Price2>
@@ -31580,7 +31627,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>66</Stock>
 <Miad>2027-11-01</Miad>
 <Price>119.90</Price>
 <Price2>273.33</Price2>
@@ -31674,7 +31721,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>122.90</Price>
 <Price2>277.44</Price2>
@@ -47706,7 +47753,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>255</Stock>
+<Stock>251</Stock>
 <Miad>2029-02-01</Miad>
 <Price>58.40</Price>
 <Price2>189.17</Price2>
@@ -49904,7 +49951,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2029-03-01</Miad>
 <Price>192.90</Price>
 <Price2>373.23</Price2>
@@ -52118,7 +52165,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-09-01</Miad>
 <Price>362.90</Price>
 <Price2>605.88</Price2>
@@ -52659,7 +52706,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>395</Stock>
+<Stock>394</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -64337,7 +64384,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>106</Stock>
+<Stock>103</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -65806,7 +65853,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>17</Stock>
+<Stock>12</Stock>
 <Miad>2027-05-01</Miad>
 <Price>274.90</Price>
 <Price2>485.45</Price2>
@@ -65990,7 +66037,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>40</Stock>
+<Stock>39</Stock>
 <Miad></Miad>
 <Price>149.90</Price>
 <Price2>314.39</Price2>
@@ -67968,7 +68015,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>108</Stock>
+<Stock>105</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -68062,14 +68109,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>711.25</Price2>
-<Price3>475.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>766.13</Price2>
+<Price3>518.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68336,7 +68383,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>71</Stock>
+<Stock>70</Stock>
 <Miad>2029-02-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -73819,7 +73866,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>29</Stock>
 <Miad>2027-07-01</Miad>
 <Price>148.90</Price>
 <Price2>313.02</Price2>
@@ -77576,7 +77623,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>35</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
