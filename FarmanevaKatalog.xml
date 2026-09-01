@@ -2046,7 +2046,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1074.00</Price>
 <Price2>1579.02</Price2>
@@ -12224,7 +12224,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>129</Stock>
+<Stock>131</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>1012.41</Price2>
@@ -17234,7 +17234,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>137.90</Price>
 <Price2>297.97</Price2>
@@ -18970,7 +18970,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>10</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>860.42</Price2>
@@ -19712,7 +19712,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>2028-01-01</Miad>
 <Price>199.90</Price>
 <Price2>382.81</Price2>
@@ -33352,7 +33352,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>271.96</Price2>
@@ -45865,7 +45865,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>32</Stock>
 <Miad></Miad>
 <Price>62.90</Price>
 <Price2>195.33</Price2>
@@ -47620,15 +47620,15 @@
 <subCategory><![CDATA[Yarabandı]]></subCategory>
 <Tax>10</Tax>
 <Stock>4</Stock>
-<Miad>2026-12-01</Miad>
+<Miad>2029-11-01</Miad>
 <Price>248.90</Price>
-<Price2>449.87</Price2>
+<Price2>449.86</Price2>
 <Price3>268.81</Price3>
 <Price4>278.77</Price4>
 <Price5>278.77</Price5>
 <Price6>278.77</Price6>
-<Price7>449.87</Price7>
-<Price8>449.87</Price8>
+<Price7>449.86</Price7>
+<Price8>449.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/roll-bant-tekstil-yarabandi-30-kutu-10-luk-10256.jpg</Image1>
@@ -47929,7 +47929,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>19</Stock>
 <Miad>2031-04-01</Miad>
 <Price>319.90</Price>
 <Price2>547.03</Price2>
@@ -49546,7 +49546,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>51</Stock>
 <Miad>2028-03-01</Miad>
 <Price>256.90</Price>
 <Price2>460.82</Price2>
@@ -51704,7 +51704,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad>2028-01-01</Miad>
 <Price>745.00</Price>
 <Price2>1128.78</Price2>
@@ -52165,7 +52165,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2029-09-01</Miad>
 <Price>362.90</Price>
 <Price2>605.88</Price2>
@@ -59802,7 +59802,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>268.00</Price2>
@@ -66129,7 +66129,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>2028-04-01</Miad>
 <Price>723.80</Price>
 <Price2>1099.77</Price2>
@@ -68015,7 +68015,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>91</Stock>
+<Stock>90</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -68109,14 +68109,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>711.25</Price2>
-<Price3>475.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>766.13</Price2>
+<Price3>518.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68383,7 +68383,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>70</Stock>
+<Stock>71</Stock>
 <Miad>2029-02-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -71579,7 +71579,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2029-03-01</Miad>
 <Price>367.90</Price>
 <Price2>612.72</Price2>
@@ -77623,7 +77623,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>36</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>391.02</Price2>
