@@ -1579,7 +1579,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>1899.82</Price>
-<Price2>2709.15</Price2>
+<Price2>2071.81</Price2>
 <Price3>2071.81</Price3>
 <Price4>2127.80</Price4>
 <Price5>2127.80</Price5>
@@ -1626,7 +1626,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>929.90</Price>
-<Price2>1381.82</Price2>
+<Price2>1024.29</Price2>
 <Price3>1024.29</Price3>
 <Price4>1041.49</Price4>
 <Price5>1041.49</Price5>
@@ -1955,7 +1955,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>1201.07</Price>
-<Price2>1752.91</Price2>
+<Price2>1317.16</Price2>
 <Price3>1317.16</Price3>
 <Price4>1345.20</Price4>
 <Price5>1345.20</Price5>
@@ -2049,7 +2049,7 @@
 <Stock>10</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1074.00</Price>
-<Price2>1579.02</Price2>
+<Price2>1179.92</Price2>
 <Price3>1179.92</Price3>
 <Price4>1202.88</Price4>
 <Price5>1202.88</Price5>
@@ -2230,7 +2230,7 @@
 <Stock>6</Stock>
 <Miad>2026-12-01</Miad>
 <Price>509.90</Price>
-<Price2>807.05</Price2>
+<Price2>570.69</Price2>
 <Price3>570.69</Price3>
 <Price4>571.09</Price4>
 <Price5>571.09</Price5>
@@ -4312,7 +4312,7 @@
 <Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>624.90</Price>
-<Price2>964.43</Price2>
+<Price2>694.89</Price2>
 <Price3>694.89</Price3>
 <Price4>699.89</Price4>
 <Price5>699.89</Price5>
@@ -4500,7 +4500,7 @@
 <Stock>12</Stock>
 <Miad>2027-01-01</Miad>
 <Price>864.80</Price>
-<Price2>1292.73</Price2>
+<Price2>953.98</Price2>
 <Price3>953.98</Price3>
 <Price4>968.58</Price4>
 <Price5>968.58</Price5>
@@ -4547,7 +4547,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>3635.45</Price>
-<Price2>5084.36</Price2>
+<Price2>3946.29</Price2>
 <Price3>3946.29</Price3>
 <Price4>4071.70</Price4>
 <Price5>4071.70</Price5>
@@ -4594,7 +4594,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>747.50</Price>
-<Price2>1132.20</Price2>
+<Price2>827.30</Price2>
 <Price3>827.30</Price3>
 <Price4>837.20</Price4>
 <Price5>837.20</Price5>
@@ -15344,7 +15344,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>925.00</Price>
-<Price2>1375.11</Price2>
+<Price2>1019.00</Price2>
 <Price3>1019.00</Price3>
 <Price4>1036.00</Price4>
 <Price5>1036.00</Price5>
@@ -15392,7 +15392,7 @@
 <Stock>8</Stock>
 <Miad>2027-03-01</Miad>
 <Price>925.00</Price>
-<Price2>1375.11</Price2>
+<Price2>1019.00</Price2>
 <Price3>1019.00</Price3>
 <Price4>1036.00</Price4>
 <Price5>1036.00</Price5>
@@ -19159,7 +19159,7 @@
 <Stock>0</Stock>
 <Miad>2028-09-01</Miad>
 <Price>674.90</Price>
-<Price2>1032.85</Price2>
+<Price2>748.89</Price2>
 <Price3>748.89</Price3>
 <Price4>755.89</Price4>
 <Price5>755.89</Price5>
@@ -19302,7 +19302,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>674.90</Price>
-<Price2>1032.85</Price2>
+<Price2>748.89</Price2>
 <Price3>748.89</Price3>
 <Price4>755.89</Price4>
 <Price5>755.89</Price5>
@@ -50368,7 +50368,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>2636.36</Price>
-<Price2>3717.11</Price2>
+<Price2>2867.27</Price2>
 <Price3>2867.27</Price3>
 <Price4>2952.72</Price4>
 <Price5>2952.72</Price5>
@@ -50415,7 +50415,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>598.90</Price>
-<Price2>928.84</Price2>
+<Price2>666.81</Price2>
 <Price3>666.81</Price3>
 <Price4>670.77</Price4>
 <Price5>670.77</Price5>
@@ -50647,7 +50647,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>413.38</Price>
-<Price2>674.96</Price2>
+<Price2>466.45</Price2>
 <Price3>466.45</Price3>
 <Price4>462.99</Price4>
 <Price5>462.99</Price5>
@@ -50694,7 +50694,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>859.90</Price>
-<Price2>1286.02</Price2>
+<Price2>948.69</Price2>
 <Price3>948.69</Price3>
 <Price4>963.09</Price4>
 <Price5>963.09</Price5>
@@ -50741,7 +50741,7 @@
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>462.90</Price>
-<Price2>742.73</Price2>
+<Price2>519.93</Price2>
 <Price3>519.93</Price3>
 <Price4>518.45</Price4>
 <Price5>518.45</Price5>
@@ -50786,7 +50786,7 @@
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>372.73</Price>
-<Price2>619.33</Price2>
+<Price2>422.55</Price2>
 <Price3>422.55</Price3>
 <Price4>417.46</Price4>
 <Price5>417.46</Price5>
@@ -57783,7 +57783,7 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>1649.90</Price>
-<Price2>2367.14</Price2>
+<Price2>1801.89</Price2>
 <Price3>1801.89</Price3>
 <Price4>1847.89</Price4>
 <Price5>1847.89</Price5>
@@ -68524,7 +68524,7 @@
 <Stock>6</Stock>
 <Miad>2028-02-01</Miad>
 <Price>1214.90</Price>
-<Price2>1771.84</Price2>
+<Price2>1332.09</Price2>
 <Price3>1332.09</Price3>
 <Price4>1360.69</Price4>
 <Price5>1360.69</Price5>
@@ -74281,7 +74281,7 @@
 <Stock>5</Stock>
 <Miad>2027-12-01</Miad>
 <Price>577.90</Price>
-<Price2>900.11</Price2>
+<Price2>644.13</Price2>
 <Price3>644.13</Price3>
 <Price4>647.25</Price4>
 <Price5>647.25</Price5>
@@ -77948,7 +77948,7 @@
 <Stock>6</Stock>
 <Miad>2028-03-01</Miad>
 <Price>462.90</Price>
-<Price2>742.73</Price2>
+<Price2>519.93</Price2>
 <Price3>519.93</Price3>
 <Price4>518.45</Price4>
 <Price5>518.45</Price5>
