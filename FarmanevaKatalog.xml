@@ -9817,7 +9817,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kolonyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>98</Stock>
+<Stock>96</Stock>
 <Miad></Miad>
 <Price>65.90</Price>
 <Price2>199.43</Price2>
@@ -26877,7 +26877,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>53</Stock>
 <Miad></Miad>
 <Price>42.90</Price>
 <Price2>167.96</Price2>
@@ -63474,15 +63474,15 @@
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
 <Stock>1</Stock>
-<Miad>2028-08-01</Miad>
+<Miad>2027-02-01</Miad>
 <Price>357.90</Price>
-<Price2>581.07</Price2>
+<Price2>581.06</Price2>
 <Price3>406.53</Price3>
 <Price4>400.85</Price4>
 <Price5>400.85</Price5>
 <Price6>400.85</Price6>
-<Price7>599.04</Price7>
-<Price8>581.07</Price8>
+<Price7>599.03</Price7>
+<Price8>581.06</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-d3k2-1000-iu-damla-20-ml-11239.jpg</Image1>
@@ -68015,7 +68015,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>69</Stock>
+<Stock>68</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -68109,14 +68109,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>711.25</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>766.13</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68477,14 +68477,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>380.00</Price>
-<Price2>629.28</Price2>
-<Price3>430.40</Price3>
-<Price4>425.60</Price4>
-<Price5>425.60</Price5>
-<Price6>425.60</Price6>
-<Price7>629.28</Price7>
-<Price8>629.28</Price8>
+<Price>397.89</Price>
+<Price2>653.76</Price2>
+<Price3>449.72</Price3>
+<Price4>445.64</Price4>
+<Price5>445.64</Price5>
+<Price6>445.64</Price6>
+<Price7>653.76</Price7>
+<Price8>653.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.jpg</Image1>
@@ -68567,7 +68567,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>290</Stock>
+<Stock>287</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1671.26</Price2>
