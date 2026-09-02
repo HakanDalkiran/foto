@@ -2182,16 +2182,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>7</Stock>
 <Miad>2027-04-01</Miad>
-<Price>924.90</Price>
-<Price2>1374.98</Price2>
-<Price3>1018.89</Price3>
-<Price4>1035.89</Price4>
-<Price5>1035.89</Price5>
-<Price6>1035.89</Price6>
-<Price7>1374.98</Price7>
-<Price8>1374.98</Price8>
+<Price>1049.90</Price>
+<Price2>1546.04</Price2>
+<Price3>1153.89</Price3>
+<Price4>1175.89</Price4>
+<Price5>1175.89</Price5>
+<Price6>1175.89</Price6>
+<Price7>1546.04</Price7>
+<Price8>1546.04</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-pronutra-4-devam-sutu-900-gr-1-2-yas-7827.jpg</Image1>
@@ -44211,7 +44211,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>498.90</Price>
 <Price2>791.99</Price2>
@@ -52617,7 +52617,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>1</Stock>
 <Miad>2028-07-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -59802,7 +59802,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>268.00</Price2>
@@ -66635,7 +66635,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>5</Stock>
 <Miad>2029-01-01</Miad>
 <Price>790.00</Price>
 <Price2>1190.36</Price2>
@@ -67235,14 +67235,14 @@
 <Tax>20</Tax>
 <Stock>149</Stock>
 <Miad>2028-01-01</Miad>
-<Price>555.00</Price>
-<Price2>868.77</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.77</Price7>
-<Price8>868.77</Price8>
+<Price>597.30</Price>
+<Price2>926.66</Price2>
+<Price3>665.08</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -68015,7 +68015,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Biberon]]></subCategory>
 <Tax>20</Tax>
-<Stock>49</Stock>
+<Stock>47</Stock>
 <Miad>2029-04-01</Miad>
 <Price>228.90</Price>
 <Price2>422.50</Price2>
@@ -68109,14 +68109,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>766.13</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>711.25</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68477,14 +68477,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>380.00</Price>
-<Price2>629.28</Price2>
-<Price3>430.40</Price3>
-<Price4>425.60</Price4>
-<Price5>425.60</Price5>
-<Price6>425.60</Price6>
-<Price7>629.28</Price7>
-<Price8>629.28</Price8>
+<Price>444.90</Price>
+<Price2>718.10</Price2>
+<Price3>500.49</Price3>
+<Price4>498.29</Price4>
+<Price5>498.29</Price5>
+<Price6>498.29</Price6>
+<Price7>718.10</Price7>
+<Price8>718.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.jpg</Image1>
