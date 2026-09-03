@@ -3176,7 +3176,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2026-10-01</Miad>
 <Price>229.00</Price>
 <Price2>422.64</Price2>
@@ -8480,7 +8480,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>1284.65</Price2>
@@ -11990,7 +11990,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Vücut Losyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>125</Stock>
+<Stock>124</Stock>
 <Miad></Miad>
 <Price>149.00</Price>
 <Price2>297.50</Price2>
@@ -16874,7 +16874,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>178</Stock>
+<Stock>207</Stock>
 <Miad></Miad>
 <Price>38.60</Price>
 <Price2>162.07</Price2>
@@ -21325,7 +21325,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>84</Stock>
+<Stock>89</Stock>
 <Miad>2030-07-01</Miad>
 <Price>42.89</Price>
 <Price2>167.94</Price2>
@@ -26509,7 +26509,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Stetoskop]]></category>
 <Tax>10</Tax>
-<Stock>34</Stock>
+<Stock>33</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>271.96</Price2>
@@ -26877,7 +26877,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>42.90</Price>
 <Price2>167.96</Price2>
@@ -29948,14 +29948,14 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
-<Price>628.90</Price>
-<Price2>969.90</Price2>
-<Price3>699.21</Price3>
-<Price4>704.37</Price4>
-<Price5>704.37</Price5>
-<Price6>704.37</Price6>
-<Price7>969.90</Price7>
-<Price8>969.90</Price8>
+<Price>658.90</Price>
+<Price2>1010.95</Price2>
+<Price3>731.61</Price3>
+<Price4>737.97</Price4>
+<Price5>737.97</Price5>
+<Price6>737.97</Price6>
+<Price7>1010.95</Price7>
+<Price8>1010.95</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-endofer-30-kapsul-9364.jpg</Image1>
@@ -30313,16 +30313,16 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2027-04-01</Miad>
-<Price>509.90</Price>
-<Price2>782.84</Price2>
+<Stock>3</Stock>
+<Miad>2029-01-01</Miad>
+<Price>560.00</Price>
+<Price2>782.85</Price2>
 <Price3>570.69</Price3>
 <Price4>571.09</Price4>
 <Price5>571.09</Price5>
 <Price6>571.09</Price6>
-<Price7>807.05</Price7>
-<Price8>782.84</Price8>
+<Price7>807.06</Price7>
+<Price8>782.85</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magneffer-60-kapsul-9374.jpg</Image1>
@@ -42208,7 +42208,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2027-01-01</Miad>
 <Price>104.90</Price>
 <Price2>252.81</Price2>
@@ -44496,7 +44496,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>82</Stock>
+<Stock>83</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -45328,7 +45328,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>68</Stock>
 <Miad></Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
@@ -46089,7 +46089,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>41</Stock>
+<Stock>42</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -60307,7 +60307,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>118.70</Price>
 <Price2>271.69</Price2>
@@ -63473,16 +63473,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2027-02-01</Miad>
+<Stock>12</Stock>
+<Miad>2028-04-01</Miad>
 <Price>357.90</Price>
-<Price2>599.04</Price2>
+<Price2>599.05</Price2>
 <Price3>406.53</Price3>
 <Price4>400.85</Price4>
 <Price5>400.85</Price5>
 <Price6>400.85</Price6>
-<Price7>599.04</Price7>
-<Price8>599.04</Price8>
+<Price7>599.05</Price7>
+<Price8>599.05</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-d3k2-1000-iu-damla-20-ml-11239.jpg</Image1>
@@ -63567,13 +63567,13 @@
 <Stock>13</Stock>
 <Miad>2027-04-01</Miad>
 <Price>1759.90</Price>
-<Price2>2123.54</Price2>
+<Price2>2123.55</Price2>
 <Price3>1661.49</Price3>
 <Price4>1702.29</Price4>
 <Price5>1702.29</Price5>
 <Price6>1702.29</Price6>
-<Price7>2189.22</Price7>
-<Price8>2123.54</Price8>
+<Price7>2189.23</Price7>
+<Price8>2123.55</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-fucoidon-60-kapsul-11243.jpg</Image1>
