@@ -64750,7 +64750,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>149.50</Price>
 <Price2>313.84</Price2>
@@ -65072,7 +65072,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>149.50</Price>
 <Price2>313.84</Price2>
@@ -76982,7 +76982,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Çinko]]></subCategory>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>252.50</Price>
 <Price2>454.80</Price2>
@@ -80313,7 +80313,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2028-06-01</Miad>
 <Price>645.90</Price>
 <Price2>993.16</Price2>
