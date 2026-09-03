@@ -7375,7 +7375,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad>2027-10-01</Miad>
 <Price>384.90</Price>
 <Price2>635.99</Price2>
@@ -29621,16 +29621,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-09-01</Miad>
-<Price>1339.90</Price>
-<Price2>1942.90</Price2>
-<Price3>1467.09</Price3>
-<Price4>1500.69</Price4>
-<Price5>1500.69</Price5>
-<Price6>1500.69</Price6>
-<Price7>1942.90</Price7>
-<Price8>1942.90</Price8>
+<Stock>3</Stock>
+<Miad>2029-06-01</Miad>
+<Price>1449.90</Price>
+<Price2>2093.44</Price2>
+<Price3>1585.89</Price3>
+<Price4>1623.89</Price4>
+<Price5>1623.89</Price5>
+<Price6>1623.89</Price6>
+<Price7>2093.44</Price7>
+<Price8>2093.44</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-cognilife-60-kapsul-9357.jpg</Image1>
@@ -30265,7 +30265,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-05-01</Miad>
 <Price>2849.90</Price>
 <Price2>3889.06</Price2>
@@ -38106,7 +38106,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2027-08-01</Miad>
 <Price>397.00</Price>
 <Price2>652.54</Price2>
@@ -47169,7 +47169,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>249</Stock>
+<Stock>248</Stock>
 <Miad>2028-07-01</Miad>
 <Price>344.90</Price>
 <Price2>581.25</Price2>
@@ -52620,13 +52620,13 @@
 <Stock>1</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
-<Price2>608.63</Price2>
+<Price2>608.62</Price2>
 <Price3>414.09</Price3>
 <Price4>408.69</Price4>
 <Price5>408.69</Price5>
 <Price6>408.69</Price6>
-<Price7>608.63</Price7>
-<Price8>608.63</Price8>
+<Price7>608.62</Price7>
+<Price8>608.62</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sterimar-burun-spreyi-deniz-suyu-100-ml-10441.jpg</Image1>
@@ -61685,7 +61685,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-03-01</Miad>
 <Price>1299.90</Price>
 <Price2>1888.16</Price2>
@@ -64384,7 +64384,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>102</Stock>
+<Stock>100</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -68567,7 +68567,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>276</Stock>
+<Stock>275</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1252.71</Price2>
@@ -72296,7 +72296,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2027-03-01</Miad>
 <Price>668.90</Price>
 <Price2>993.90</Price2>
@@ -76115,7 +76115,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad></Miad>
 <Price>669.90</Price>
 <Price2>1026.01</Price2>
