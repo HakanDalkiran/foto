@@ -18057,7 +18057,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>84.90</Price>
 <Price2>225.44</Price2>
@@ -63567,13 +63567,13 @@
 <Stock>13</Stock>
 <Miad>2027-04-01</Miad>
 <Price>1759.90</Price>
-<Price2>2123.55</Price2>
+<Price2>2123.54</Price2>
 <Price3>1661.49</Price3>
 <Price4>1702.29</Price4>
 <Price5>1702.29</Price5>
 <Price6>1702.29</Price6>
-<Price7>2189.23</Price7>
-<Price8>2123.55</Price8>
+<Price7>2189.22</Price7>
+<Price8>2123.54</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-fucoidon-60-kapsul-11243.jpg</Image1>
@@ -64750,7 +64750,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>2029-04-01</Miad>
 <Price>149.50</Price>
 <Price2>313.84</Price2>
@@ -65072,7 +65072,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2029-04-01</Miad>
 <Price>149.50</Price>
 <Price2>313.84</Price2>
@@ -77393,7 +77393,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
@@ -80313,7 +80313,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>17</Stock>
 <Miad>2028-06-01</Miad>
 <Price>645.90</Price>
 <Price2>993.16</Price2>
