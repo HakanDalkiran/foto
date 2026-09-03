@@ -7471,13 +7471,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>789.90</Price>
-<Price2>1190.22</Price2>
+<Price2>1190.23</Price2>
 <Price3>873.09</Price3>
 <Price4>884.69</Price4>
 <Price5>884.69</Price5>
 <Price6>884.69</Price6>
-<Price7>1190.22</Price7>
-<Price8>1190.22</Price8>
+<Price7>1190.23</Price7>
+<Price8>1190.23</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bmc-n5-solunum-cihazi-maskesi-xlarge-8224.jpg</Image1>
@@ -10608,7 +10608,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2028-12-01</Miad>
 <Price>988.90</Price>
 <Price2>1462.56</Price2>
@@ -16694,7 +16694,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>244.90</Price>
 <Price2>444.40</Price2>
@@ -16874,7 +16874,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>208</Stock>
+<Stock>178</Stock>
 <Miad></Miad>
 <Price>38.60</Price>
 <Price2>162.07</Price2>
@@ -21325,7 +21325,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>89</Stock>
+<Stock>84</Stock>
 <Miad>2030-07-01</Miad>
 <Price>42.89</Price>
 <Price2>167.94</Price2>
@@ -29394,7 +29394,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>13</Stock>
 <Miad>2027-04-01</Miad>
 <Price>1160.00</Price>
 <Price2>1431.95</Price2>
@@ -30783,16 +30783,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>14</Stock>
 <Miad>2027-06-01</Miad>
-<Price>498.00</Price>
-<Price2>790.76</Price2>
-<Price3>557.84</Price3>
-<Price4>557.76</Price4>
-<Price5>557.76</Price5>
-<Price6>557.76</Price6>
-<Price7>790.76</Price7>
-<Price8>790.76</Price8>
+<Price>798.90</Price>
+<Price2>1202.54</Price2>
+<Price3>882.81</Price3>
+<Price4>894.77</Price4>
+<Price5>894.77</Price5>
+<Price6>894.77</Price6>
+<Price7>1202.54</Price7>
+<Price8>1202.54</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-saflife-gummy-60-cignenebilir-form-9386.jpg</Image1>
@@ -35082,7 +35082,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1299.90</Price>
 <Price2>1888.16</Price2>
@@ -42208,7 +42208,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2027-01-01</Miad>
 <Price>104.90</Price>
 <Price2>252.81</Price2>
@@ -48330,7 +48330,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>9</Stock>
+<Stock>11</Stock>
 <Miad>2028-05-01</Miad>
 <Price>184.90</Price>
 <Price2>362.29</Price2>
@@ -52706,7 +52706,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>393</Stock>
+<Stock>394</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -63564,16 +63564,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
-<Stock>1</Stock>
-<Miad>2027-11-01</Miad>
-<Price>1519.90</Price>
-<Price2>2123.55</Price2>
+<Stock>13</Stock>
+<Miad>2027-04-01</Miad>
+<Price>1759.90</Price>
+<Price2>2123.54</Price2>
 <Price3>1661.49</Price3>
 <Price4>1702.29</Price4>
 <Price5>1702.29</Price5>
 <Price6>1702.29</Price6>
-<Price7>2189.23</Price7>
-<Price8>2123.55</Price8>
+<Price7>2189.22</Price7>
+<Price8>2123.54</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-fucoidon-60-kapsul-11243.jpg</Image1>
@@ -63834,16 +63834,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2028-08-01</Miad>
-<Price>959.90</Price>
-<Price2>1422.87</Price2>
-<Price3>1056.69</Price3>
-<Price4>1075.09</Price4>
-<Price5>1075.09</Price5>
-<Price6>1075.09</Price6>
-<Price7>1422.87</Price7>
-<Price8>1422.87</Price8>
+<Stock>17</Stock>
+<Miad>2029-03-01</Miad>
+<Price>1029.90</Price>
+<Price2>1518.67</Price2>
+<Price3>1132.29</Price3>
+<Price4>1153.49</Price4>
+<Price5>1153.49</Price5>
+<Price6>1153.49</Price6>
+<Price7>1518.67</Price7>
+<Price8>1518.67</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-resqa-30-kapsul-11253.jpg</Image1>
@@ -76115,7 +76115,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>43</Stock>
+<Stock>44</Stock>
 <Miad></Miad>
 <Price>669.90</Price>
 <Price2>1026.01</Price2>
