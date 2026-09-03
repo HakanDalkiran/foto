@@ -52617,7 +52617,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>364.90</Price>
 <Price2>608.62</Price2>
@@ -75336,7 +75336,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2028-11-01</Miad>
 <Price>529.00</Price>
 <Price2>833.19</Price2>
