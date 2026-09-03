@@ -2046,7 +2046,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>1</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1074.00</Price>
 <Price2>1179.92</Price2>
@@ -2182,7 +2182,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>0</Stock>
 <Miad>2027-04-01</Miad>
 <Price>1049.90</Price>
 <Price2>1153.89</Price2>
@@ -30041,7 +30041,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1038.90</Price>
 <Price2>1485.05</Price2>
@@ -30316,13 +30316,13 @@
 <Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>560.00</Price>
-<Price2>782.84</Price2>
+<Price2>782.85</Price2>
 <Price3>570.69</Price3>
 <Price4>571.09</Price4>
 <Price5>571.09</Price5>
 <Price6>571.09</Price6>
-<Price7>807.05</Price7>
-<Price8>782.84</Price8>
+<Price7>807.06</Price7>
+<Price8>782.85</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magneffer-60-kapsul-9374.jpg</Image1>
@@ -67969,7 +67969,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>45</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
