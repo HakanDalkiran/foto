@@ -8480,7 +8480,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>65</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>1284.65</Price2>
@@ -10608,7 +10608,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-12-01</Miad>
 <Price>988.90</Price>
 <Price2>1462.56</Price2>
@@ -11620,7 +11620,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>50</Stock>
 <Miad></Miad>
 <Price>319.00</Price>
 <Price2>518.51</Price2>
@@ -12224,7 +12224,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>122</Stock>
+<Stock>126</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>1012.41</Price2>
@@ -13517,7 +13517,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>76</Stock>
+<Stock>75</Stock>
 <Miad></Miad>
 <Price>544.90</Price>
 <Price2>812.20</Price2>
@@ -14689,14 +14689,14 @@
 <Tax>1</Tax>
 <Stock>10</Stock>
 <Miad>2027-10-01</Miad>
-<Price>538.90</Price>
-<Price2>846.73</Price2>
-<Price3>602.01</Price3>
-<Price4>603.57</Price4>
-<Price5>603.57</Price5>
-<Price6>603.57</Price6>
-<Price7>846.73</Price7>
-<Price8>846.73</Price8>
+<Price>554.90</Price>
+<Price2>868.63</Price2>
+<Price3>619.29</Price3>
+<Price4>621.49</Price4>
+<Price5>621.49</Price5>
+<Price6>621.49</Price6>
+<Price7>868.63</Price7>
+<Price8>868.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/easyfishoil-30-jel-tablet-12955.jpg</Image1>
@@ -19111,7 +19111,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>123</Stock>
+<Stock>121</Stock>
 <Miad></Miad>
 <Price>429.90</Price>
 <Price2>697.57</Price2>
@@ -21325,7 +21325,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>94</Stock>
+<Stock>89</Stock>
 <Miad>2030-07-01</Miad>
 <Price>42.89</Price>
 <Price2>167.94</Price2>
@@ -29396,7 +29396,7 @@
 <Tax>1</Tax>
 <Stock>1</Stock>
 <Miad>2027-04-01</Miad>
-<Price>998.90</Price>
+<Price>1160.00</Price>
 <Price2>1431.95</Price2>
 <Price3>1098.81</Price3>
 <Price4>1118.77</Price4>
@@ -29535,16 +29535,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
-<Miad>2027-04-01</Miad>
+<Stock>11</Stock>
+<Miad>2027-12-01</Miad>
 <Price>1048.00</Price>
-<Price2>1471.92</Price2>
+<Price2>1471.93</Price2>
 <Price3>1131.32</Price3>
 <Price4>1152.48</Price4>
 <Price5>1152.48</Price5>
 <Price6>1152.48</Price6>
-<Price7>1517.44</Price7>
-<Price8>1471.92</Price8>
+<Price7>1517.45</Price7>
+<Price8>1471.93</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-cleanlife-60-kapsul-9355.jpg</Image1>
@@ -29621,7 +29621,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2029-06-01</Miad>
 <Price>1449.90</Price>
 <Price2>2093.44</Price2>
@@ -29852,16 +29852,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
-<Miad>2026-12-01</Miad>
+<Stock>8</Stock>
+<Miad>2029-04-01</Miad>
 <Price>489.90</Price>
-<Price2>736.38</Price2>
+<Price2>736.39</Price2>
 <Price3>532.89</Price3>
 <Price4>531.89</Price4>
 <Price5>531.89</Price5>
 <Price6>531.89</Price6>
-<Price7>759.15</Price7>
-<Price8>736.38</Price8>
+<Price7>759.16</Price7>
+<Price8>736.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-duobalance-pre-30-sase-9362.jpg</Image1>
@@ -32222,14 +32222,14 @@
 <Tax>20</Tax>
 <Stock>88</Stock>
 <Miad></Miad>
-<Price>109.00</Price>
-<Price2>258.42</Price2>
-<Price3>137.72</Price3>
-<Price4>122.08</Price4>
-<Price5>122.08</Price5>
-<Price6>122.08</Price6>
-<Price7>258.42</Price7>
-<Price8>258.42</Price8>
+<Price>108.90</Price>
+<Price2>258.28</Price2>
+<Price3>137.61</Price3>
+<Price4>121.97</Price4>
+<Price5>121.97</Price5>
+<Price6>121.97</Price6>
+<Price7>258.28</Price7>
+<Price8>258.28</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-gozenek-arindirici-temizleme-bantlari-4-lu-9440.jpg</Image1>
@@ -39986,7 +39986,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>40</Stock>
+<Stock>39</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>1264.26</Price2>
@@ -40634,7 +40634,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-11-01</Miad>
 <Price>739.90</Price>
 <Price2>1121.80</Price2>
@@ -44496,7 +44496,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>83</Stock>
+<Stock>82</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -45328,7 +45328,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>69</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
@@ -46089,7 +46089,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>43</Stock>
+<Stock>41</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>423.87</Price2>
@@ -47573,14 +47573,14 @@
 <Tax>10</Tax>
 <Stock>5</Stock>
 <Miad>2028-10-01</Miad>
-<Price>514.90</Price>
-<Price2>813.89</Price2>
-<Price3>576.09</Price3>
-<Price4>576.69</Price4>
-<Price5>576.69</Price5>
-<Price6>576.69</Price6>
-<Price7>813.89</Price7>
-<Price8>813.89</Price8>
+<Price>521.90</Price>
+<Price2>823.47</Price2>
+<Price3>583.65</Price3>
+<Price4>584.53</Price4>
+<Price5>584.53</Price5>
+<Price6>584.53</Price6>
+<Price7>823.47</Price7>
+<Price8>823.47</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rohto-dry-aid-goz-damlasi-10-ml-10255.jpg</Image1>
@@ -48330,7 +48330,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>11</Stock>
+<Stock>9</Stock>
 <Miad>2028-05-01</Miad>
 <Price>184.90</Price>
 <Price2>362.29</Price2>
@@ -49951,7 +49951,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-03-01</Miad>
 <Price>192.90</Price>
 <Price2>373.23</Price2>
@@ -52706,7 +52706,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>394</Stock>
+<Stock>393</Stock>
 <Miad>2029-01-01</Miad>
 <Price>369.90</Price>
 <Price2>615.46</Price2>
@@ -58278,7 +58278,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>1198.90</Price>
 <Price2>1749.94</Price2>
@@ -60307,7 +60307,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>118.70</Price>
 <Price2>271.69</Price2>
@@ -63243,7 +63243,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>93</Stock>
+<Stock>91</Stock>
 <Miad></Miad>
 <Price>1559.90</Price>
 <Price2>2243.97</Price2>
@@ -63335,16 +63335,16 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2029-02-01</Miad>
-<Price>649.90</Price>
-<Price2>998.64</Price2>
-<Price3>721.89</Price3>
-<Price4>727.89</Price4>
-<Price5>727.89</Price5>
-<Price6>727.89</Price6>
-<Price7>998.64</Price7>
-<Price8>998.64</Price8>
+<Stock>6</Stock>
+<Miad>2029-05-01</Miad>
+<Price>749.90</Price>
+<Price2>1135.49</Price2>
+<Price3>829.89</Price3>
+<Price4>839.89</Price4>
+<Price5>839.89</Price5>
+<Price6>839.89</Price6>
+<Price7>1135.49</Price7>
+<Price8>1135.49</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-berliv-lipozomal-berberin-30-kapsul-11233.jpg</Image1>
@@ -63427,16 +63427,16 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Yağlar]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2026-09-01</Miad>
-<Price>283.90</Price>
-<Price2>497.77</Price2>
-<Price3>326.61</Price3>
-<Price4>317.97</Price4>
-<Price5>317.97</Price5>
-<Price6>317.97</Price6>
-<Price7>497.77</Price7>
-<Price8>497.77</Price8>
+<Stock>10</Stock>
+<Miad>2028-07-01</Miad>
+<Price>294.90</Price>
+<Price2>512.82</Price2>
+<Price3>338.49</Price3>
+<Price4>330.29</Price4>
+<Price5>330.29</Price5>
+<Price6>330.29</Price6>
+<Price7>512.82</Price7>
+<Price8>512.82</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-corekotu-yagi-30-kapsul-11237.jpg</Image1>
@@ -74232,16 +74232,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
-<Miad>2027-02-01</Miad>
-<Price>618.90</Price>
-<Price2>956.21</Price2>
-<Price3>688.41</Price3>
-<Price4>693.17</Price4>
-<Price5>693.17</Price5>
-<Price6>693.17</Price6>
-<Price7>956.21</Price7>
-<Price8>956.21</Price8>
+<Stock>1</Stock>
+<Miad>2029-06-01</Miad>
+<Price>640.00</Price>
+<Price2>985.09</Price2>
+<Price3>711.20</Price3>
+<Price4>716.80</Price4>
+<Price5>716.80</Price5>
+<Price6>716.80</Price6>
+<Price7>985.09</Price7>
+<Price8>985.09</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/gynopol-20-sase-11756.jpg</Image1>
@@ -76115,7 +76115,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>44</Stock>
+<Stock>43</Stock>
 <Miad></Miad>
 <Price>669.90</Price>
 <Price2>1026.01</Price2>
