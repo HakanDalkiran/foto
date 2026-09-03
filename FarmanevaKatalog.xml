@@ -7787,7 +7787,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2026-10-01</Miad>
 <Price>884.90</Price>
 <Price2>1320.24</Price2>
@@ -29854,7 +29854,7 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2026-12-01</Miad>
-<Price>474.90</Price>
+<Price>489.90</Price>
 <Price2>736.38</Price2>
 <Price3>532.89</Price3>
 <Price4>531.89</Price4>
@@ -52617,16 +52617,16 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Göz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2028-07-01</Miad>
+<Stock>1</Stock>
+<Miad>2026-10-01</Miad>
 <Price>364.90</Price>
-<Price2>608.62</Price2>
+<Price2>608.63</Price2>
 <Price3>414.09</Price3>
 <Price4>408.69</Price4>
 <Price5>408.69</Price5>
 <Price6>408.69</Price6>
-<Price7>608.62</Price7>
-<Price8>608.62</Price8>
+<Price7>608.63</Price7>
+<Price8>608.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sterimar-burun-spreyi-deniz-suyu-100-ml-10441.jpg</Image1>
@@ -77531,7 +77531,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>2029-04-01</Miad>
 <Price>238.50</Price>
 <Price2>435.64</Price2>
@@ -80313,7 +80313,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>18</Stock>
 <Miad>2028-06-01</Miad>
 <Price>645.90</Price>
 <Price2>993.16</Price2>
