@@ -27286,7 +27286,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-03-01</Miad>
 <Price>459.90</Price>
 <Price2>738.62</Price2>
@@ -29535,9 +29535,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>3</Stock>
 <Miad>2027-04-01</Miad>
-<Price>1029.00</Price>
+<Price>1048.00</Price>
 <Price2>1471.92</Price2>
 <Price3>1131.32</Price3>
 <Price4>1152.48</Price4>
@@ -79389,7 +79389,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Boyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>439.90</Price>
 <Price2>711.25</Price2>
