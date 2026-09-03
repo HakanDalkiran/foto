@@ -2046,7 +2046,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>10</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1074.00</Price>
 <Price2>1179.92</Price2>
@@ -2183,7 +2183,7 @@
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>7</Stock>
-<Miad>2026-10-01</Miad>
+<Miad>2027-04-01</Miad>
 <Price>1049.90</Price>
 <Price2>1153.89</Price2>
 <Price3>1153.89</Price3>
@@ -4355,7 +4355,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2027-10-01</Miad>
 <Price>609.90</Price>
 <Price2>678.69</Price2>
@@ -8017,7 +8017,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>169</Stock>
+<Stock>167</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>1201.18</Price2>
@@ -11526,7 +11526,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>710.79</Price2>
@@ -13612,7 +13612,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>101</Stock>
+<Stock>104</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>297.37</Price2>
@@ -16694,7 +16694,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>244.90</Price>
 <Price2>444.40</Price2>
@@ -20318,7 +20318,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>161</Stock>
+<Stock>162</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>166.59</Price2>
@@ -26731,52 +26731,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00612]]></Product_code>
-<Barcode>8680760510098-2</Barcode>
-<Name><![CDATA[Minoxil Forte Deri Spreyi %5 60 ml 2 Adet]]></Name>
-<Brand><![CDATA[Minoxil]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
-<Tax>10</Tax>
-<Stock>17</Stock>
-<Miad>2029-03-01</Miad>
-<Price>1340.00</Price>
-<Price2>3100.00</Price2>
-<Price3>2120.00</Price3>
-<Price4>4900.00</Price4>
-<Price5>4900.00</Price5>
-<Price6>4900.00</Price6>
-<Price7>2900.00</Price7>
-<Price8>2900.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9205.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9206.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9207.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9208.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-13481.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Minoxil Forte Deri Spreyi %5 60 ml (2 Adet)</strong>, her mililitresinde 50 mg minoksidil bulunan, do&#287;rudan sa&#231; derisine uygulanan topikal bir &#231;&#246;zeltidir. Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik bak&#305;m arayan yeti&#351;kinlere y&#246;neliktir; bu paket iki adet 60 ml &#351;i&#351;eden olu&#351;ur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>%5 oran&#305;nda minoksidil i&#231;eren topikal deri spreyi &#231;&#246;zeltisidir</li>
-<li>Her 60 ml &#351;i&#351;ede yakla&#351;&#305;k 3 g minoksidil bulunur</li>
-<li>Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik kullan&#305;l&#305;r</li>
-<li>Sprey ba&#351;l&#305;&#287;&#305; sayesinde sa&#231; derisine kolay uygulan&#305;r</li>
-<li>Kuru sa&#231; ve sa&#231; derisine uygulanacak bi&#231;imde tasarlanm&#305;&#351;t&#305;r</li>
-<li>Androgenetik tipte sa&#231; d&#246;k&#252;lmesi bak&#305;m&#305;nda tercih edilir</li>
-<li>Bu paket iki adet 60 ml &#351;i&#351;e i&#231;erir</li>
-<li>Yaln&#305;zca haricen, sa&#231; derisine uygulanmak &#252;zere tasarlanm&#305;&#351;t&#305;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle kuru sa&#231; ve sa&#231; derisine sabah ve ak&#351;am olmak &#252;zere g&#252;nde iki kez uygulan&#305;r. Kesin doz, uygulama miktar&#305; ve kullan&#305;m s&#252;resi i&#231;in &#252;r&#252;n&#252;n kullanma talimat&#305;n&#305; okuyun ve hekiminizin ya da eczac&#305;n&#305;z&#305;n &#246;nerilerine uyun.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;l&#305;r; g&#246;z, a&#287;&#305;z ve mukoza ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas h&#226;linde bol suyla durulay&#305;n. Kullanmadan &#246;nce &#252;r&#252;n prospekt&#252;s&#252;n&#252; okuyun; gebelik, emzirme veya mevcut bir rahats&#305;zl&#305;k durumunda hekiminize ya da eczac&#305;n&#305;za dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva, sa&#231; bak&#305;m&#305; rutininizde g&#252;venle yer verebilece&#287;iniz &#252;r&#252;nleri &#246;zenle sunar.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00614]]></Product_code>
 <Barcode>8683930619218</Barcode>
 <Name><![CDATA[Moon Life Beyazlatıcı Kremi SPF50+50 ml]]></Name>
@@ -30311,7 +30265,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad>2028-05-01</Miad>
 <Price>2849.90</Price>
 <Price2>3889.06</Price2>
@@ -32671,7 +32625,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>27</Stock>
 <Miad>2027-07-01</Miad>
 <Price>189.00</Price>
 <Price2>367.90</Price2>
@@ -38152,7 +38106,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>22</Stock>
 <Miad>2027-08-01</Miad>
 <Price>397.00</Price>
 <Price2>652.54</Price2>
@@ -40356,7 +40310,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>125</Stock>
+<Stock>124</Stock>
 <Miad>2028-02-01</Miad>
 <Price>328.90</Price>
 <Price2>559.35</Price2>
@@ -44257,7 +44211,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>498.90</Price>
 <Price2>791.99</Price2>
@@ -59848,7 +59802,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>13</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>268.00</Price2>
@@ -66681,7 +66635,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>5</Stock>
 <Miad>2029-01-01</Miad>
 <Price>790.00</Price>
 <Price2>1190.36</Price2>
@@ -68015,7 +67969,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>51</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>499.14</Price2>
@@ -72342,7 +72296,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2027-03-01</Miad>
 <Price>668.90</Price>
 <Price2>993.90</Price2>
@@ -74278,16 +74232,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>12</Stock>
 <Miad>2029-06-01</Miad>
-<Price>640.00</Price>
-<Price2>985.09</Price2>
-<Price3>711.20</Price3>
-<Price4>716.80</Price4>
-<Price5>716.80</Price5>
-<Price6>716.80</Price6>
-<Price7>985.09</Price7>
-<Price8>985.09</Price8>
+<Price>649.90</Price>
+<Price2>998.64</Price2>
+<Price3>721.89</Price3>
+<Price4>727.89</Price4>
+<Price5>727.89</Price5>
+<Price6>727.89</Price6>
+<Price7>998.64</Price7>
+<Price8>998.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/gynopol-20-sase-11756.jpg</Image1>
