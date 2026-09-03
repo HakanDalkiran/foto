@@ -7787,7 +7787,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>884.90</Price>
 <Price2>1320.24</Price2>
@@ -29538,13 +29538,13 @@
 <Stock>11</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1048.00</Price>
-<Price2>1471.93</Price2>
+<Price2>1471.92</Price2>
 <Price3>1131.32</Price3>
 <Price4>1152.48</Price4>
 <Price5>1152.48</Price5>
 <Price6>1152.48</Price6>
-<Price7>1517.45</Price7>
-<Price8>1471.93</Price8>
+<Price7>1517.44</Price7>
+<Price8>1471.92</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-cleanlife-60-kapsul-9355.jpg</Image1>
@@ -29855,13 +29855,13 @@
 <Stock>8</Stock>
 <Miad>2029-04-01</Miad>
 <Price>489.90</Price>
-<Price2>736.39</Price2>
+<Price2>736.38</Price2>
 <Price3>532.89</Price3>
 <Price4>531.89</Price4>
 <Price5>531.89</Price5>
 <Price6>531.89</Price6>
-<Price7>759.16</Price7>
-<Price8>736.39</Price8>
+<Price7>759.15</Price7>
+<Price8>736.38</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-duobalance-pre-30-sase-9362.jpg</Image1>
@@ -77393,7 +77393,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>214.90</Price>
 <Price2>403.34</Price2>
@@ -79434,16 +79434,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-11-01</Miad>
-<Price>748.70</Price>
-<Price2>1133.85</Price2>
-<Price3>828.60</Price3>
-<Price4>838.54</Price4>
-<Price5>838.54</Price5>
-<Price6>838.54</Price6>
-<Price7>1133.85</Price7>
-<Price8>1133.85</Price8>
+<Stock>8</Stock>
+<Miad>2029-04-01</Miad>
+<Price>784.90</Price>
+<Price2>1183.39</Price2>
+<Price3>867.69</Price3>
+<Price4>879.09</Price4>
+<Price5>879.09</Price5>
+<Price6>879.09</Price6>
+<Price7>1183.39</Price7>
+<Price8>1183.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-full-life-30-kapsul-21368.jpg</Image1>
@@ -80313,7 +80313,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2028-06-01</Miad>
 <Price>645.90</Price>
 <Price2>993.16</Price2>
