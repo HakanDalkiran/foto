@@ -21053,7 +21053,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>849.90</Price>
 <Price2>937.89</Price2>
@@ -80313,7 +80313,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>15</Stock>
 <Miad>2028-06-01</Miad>
 <Price>645.90</Price>
 <Price2>717.57</Price2>
