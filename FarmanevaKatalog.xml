@@ -8480,7 +8480,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>62</Stock>
+<Stock>64</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>947.61</Price2>
@@ -11990,7 +11990,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Vücut Losyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>124</Stock>
+<Stock>122</Stock>
 <Miad></Miad>
 <Price>149.00</Price>
 <Price2>172.87</Price2>
@@ -12224,7 +12224,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>117</Stock>
+<Stock>121</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>737.07</Price2>
@@ -12506,7 +12506,7 @@
 <Tax>10</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
-<Price>615.90</Price>
+<Price>572.90</Price>
 <Price2>651.91</Price2>
 <Price3>651.91</Price3>
 <Price4>655.32</Price4>
@@ -24721,14 +24721,14 @@
 <Tax>1</Tax>
 <Stock>4</Stock>
 <Miad>2027-10-01</Miad>
-<Price>549.90</Price>
-<Price2>613.89</Price2>
-<Price3>613.89</Price3>
-<Price4>615.89</Price4>
-<Price5>615.89</Price5>
-<Price6>615.89</Price6>
-<Price7>861.79</Price7>
-<Price8>861.79</Price8>
+<Price>598.90</Price>
+<Price2>666.81</Price2>
+<Price3>666.81</Price3>
+<Price4>670.77</Price4>
+<Price5>670.77</Price5>
+<Price6>670.77</Price6>
+<Price7>928.84</Price7>
+<Price8>928.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/lifextra-d-riboz-30-sase-9113.jpg</Image1>
@@ -32534,7 +32534,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>181.50</Price>
 <Price2>216.02</Price2>
@@ -39986,7 +39986,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>39</Stock>
+<Stock>35</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>931.52</Price2>
@@ -40913,14 +40913,14 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2027-01-01</Miad>
-<Price>569.00</Price>
-<Price2>634.52</Price2>
-<Price3>634.52</Price3>
-<Price4>637.28</Price4>
-<Price5>637.28</Price5>
-<Price6>637.28</Price6>
-<Price7>887.93</Price7>
-<Price8>887.93</Price8>
+<Price>668.90</Price>
+<Price2>742.41</Price2>
+<Price3>742.41</Price3>
+<Price4>749.17</Price4>
+<Price5>749.17</Price5>
+<Price6>749.17</Price6>
+<Price7>1024.64</Price7>
+<Price8>1024.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/omepa-balik-yagi-1500-mg-30-yumusak-kapsul-9925.jpg</Image1>
@@ -41747,7 +41747,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>45</Stock>
 <Miad>2026-11-01</Miad>
 <Price>308.00</Price>
 <Price2>352.64</Price2>
@@ -44815,7 +44815,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>74</Stock>
+<Stock>71</Stock>
 <Miad></Miad>
 <Price>239.00</Price>
 <Price2>278.12</Price2>
@@ -45955,7 +45955,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>41</Stock>
+<Stock>39</Stock>
 <Miad></Miad>
 <Price>216.00</Price>
 <Price2>253.28</Price2>
@@ -46089,7 +46089,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>41</Stock>
 <Miad></Miad>
 <Price>229.90</Price>
 <Price2>268.29</Price2>
@@ -54241,14 +54241,14 @@
 <Tax>1</Tax>
 <Stock>7</Stock>
 <Miad>2027-12-01</Miad>
-<Price>383.90</Price>
-<Price2>434.61</Price2>
-<Price3>434.61</Price3>
-<Price4>429.97</Price4>
-<Price5>429.97</Price5>
-<Price6>429.97</Price6>
-<Price7>634.62</Price7>
-<Price8>634.62</Price8>
+<Price>418.90</Price>
+<Price2>472.41</Price2>
+<Price3>472.41</Price3>
+<Price4>469.17</Price4>
+<Price5>469.17</Price5>
+<Price6>469.17</Price6>
+<Price7>682.51</Price7>
+<Price8>682.51</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/tab-ilac-tabvitamins-passiflora-plus-30-tablet-10501.jpg</Image1>
@@ -54335,14 +54335,14 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2028-11-01</Miad>
-<Price>619.00</Price>
-<Price2>688.52</Price2>
-<Price3>688.52</Price3>
-<Price4>693.28</Price4>
-<Price5>693.28</Price5>
-<Price6>693.28</Price6>
-<Price7>956.35</Price7>
-<Price8>956.35</Price8>
+<Price>648.90</Price>
+<Price2>720.81</Price2>
+<Price3>720.81</Price3>
+<Price4>726.77</Price4>
+<Price5>726.77</Price5>
+<Price6>726.77</Price6>
+<Price7>997.27</Price7>
+<Price8>997.27</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/tab-ilac-zeolit-lifextra-2000-mg-45-sase-10503.jpg</Image1>
@@ -57326,7 +57326,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>107</Stock>
+<Stock>106</Stock>
 <Miad>2030-04-01</Miad>
 <Price>524.90</Price>
 <Price2>586.89</Price2>
@@ -64292,7 +64292,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>242</Stock>
+<Stock>241</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>591.21</Price2>
@@ -65164,7 +65164,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>65</Stock>
 <Miad></Miad>
 <Price>239.90</Price>
 <Price2>279.09</Price2>
@@ -65531,7 +65531,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>188.90</Price>
 <Price2>224.01</Price2>
@@ -67969,7 +67969,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>34</Stock>
+<Stock>41</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -68109,14 +68109,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
