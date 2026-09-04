@@ -11244,7 +11244,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>313</Stock>
+<Stock>310</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -11526,7 +11526,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>499.04</Price2>
@@ -12177,7 +12177,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>177</Stock>
+<Stock>178</Stock>
 <Miad></Miad>
 <Price>424.00</Price>
 <Price2>455.02</Price2>
@@ -12224,7 +12224,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>117</Stock>
+<Stock>119</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>737.07</Price2>
@@ -13426,7 +13426,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>194.90</Price>
 <Price2>219.97</Price2>
@@ -16463,7 +16463,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>288.90</Price>
 <Price2>332.01</Price2>
@@ -19111,7 +19111,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>121</Stock>
+<Stock>113</Stock>
 <Miad></Miad>
 <Price>429.90</Price>
 <Price2>484.29</Price2>
@@ -25420,14 +25420,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
-<Price>794.90</Price>
-<Price2>878.49</Price2>
-<Price3>878.49</Price3>
-<Price4>890.29</Price4>
-<Price5>890.29</Price5>
-<Price6>890.29</Price6>
-<Price7>1197.07</Price7>
-<Price8>1197.07</Price8>
+<Price>699.90</Price>
+<Price2>775.89</Price2>
+<Price3>775.89</Price3>
+<Price4>783.89</Price4>
+<Price5>783.89</Price5>
+<Price6>783.89</Price6>
+<Price7>1067.06</Price7>
+<Price8>1067.06</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/maybelline-new-york-lifter-gloss-nemlendirici-dudak-parlaticisi-bubblegum-24-9152.jpg</Image1>
@@ -32534,7 +32534,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>32</Stock>
 <Miad></Miad>
 <Price>181.50</Price>
 <Price2>216.02</Price2>
@@ -39091,7 +39091,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>33</Stock>
+<Stock>31</Stock>
 <Miad>2027-06-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -39332,7 +39332,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2027-07-01</Miad>
 <Price>450.00</Price>
 <Price2>506.00</Price2>
@@ -55989,7 +55989,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2026-12-01</Miad>
 <Price>239.90</Price>
 <Price2>279.09</Price2>
@@ -59315,7 +59315,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>418.00</Price>
 <Price2>471.44</Price2>
@@ -61044,7 +61044,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>10</Tax>
-<Stock>14</Stock>
+<Stock>12</Stock>
 <Miad>2029-03-01</Miad>
 <Price>624.00</Price>
 <Price2>693.92</Price2>
@@ -64431,7 +64431,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>98</Stock>
+<Stock>96</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>375.21</Price2>
@@ -66682,7 +66682,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2029-01-01</Miad>
 <Price>790.00</Price>
 <Price2>873.20</Price2>
@@ -66868,14 +66868,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-09-01</Miad>
-<Price>698.90</Price>
-<Price2>774.81</Price2>
-<Price3>774.81</Price3>
-<Price4>782.77</Price4>
-<Price5>782.77</Price5>
-<Price6>782.77</Price6>
-<Price7>1065.69</Price7>
-<Price8>1065.69</Price8>
+<Price>675.00</Price>
+<Price2>749.00</Price2>
+<Price3>749.00</Price3>
+<Price4>756.00</Price4>
+<Price5>756.00</Price5>
+<Price6>756.00</Price6>
+<Price7>1032.99</Price7>
+<Price8>1032.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.jpg</Image1>
@@ -67282,14 +67282,14 @@
 <Tax>20</Tax>
 <Stock>149</Stock>
 <Miad>2028-01-01</Miad>
-<Price>555.00</Price>
-<Price2>619.40</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.77</Price7>
-<Price8>868.77</Price8>
+<Price>597.30</Price>
+<Price2>665.08</Price2>
+<Price3>665.08</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -67372,16 +67372,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>50</Stock>
 <Miad>2028-08-01</Miad>
-<Price>555.00</Price>
-<Price2>619.40</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.77</Price7>
-<Price8>868.77</Price8>
+<Price>624.70</Price>
+<Price2>694.68</Price2>
+<Price3>694.68</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -67420,14 +67420,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>499.75</Price>
-<Price2>559.73</Price2>
-<Price3>559.73</Price3>
-<Price4>559.72</Price4>
-<Price5>559.72</Price5>
-<Price6>559.72</Price6>
-<Price7>793.16</Price7>
-<Price8>793.16</Price8>
+<Price>484.90</Price>
+<Price2>543.69</Price2>
+<Price3>543.69</Price3>
+<Price4>543.09</Price4>
+<Price5>543.09</Price5>
+<Price6>543.09</Price6>
+<Price7>772.84</Price7>
+<Price8>772.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -68016,7 +68016,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>39</Stock>
+<Stock>33</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -68156,14 +68156,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68524,14 +68524,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>380.00</Price>
-<Price2>430.40</Price2>
-<Price3>430.40</Price3>
-<Price4>425.60</Price4>
-<Price5>425.60</Price5>
-<Price6>425.60</Price6>
-<Price7>629.28</Price7>
-<Price8>629.28</Price8>
+<Price>444.90</Price>
+<Price2>500.49</Price2>
+<Price3>500.49</Price3>
+<Price4>498.29</Price4>
+<Price5>498.29</Price5>
+<Price6>498.29</Price6>
+<Price7>718.10</Price7>
+<Price8>718.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.jpg</Image1>
@@ -73271,7 +73271,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>849.90</Price>
 <Price2>937.89</Price2>
@@ -73408,7 +73408,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>2027-05-01</Miad>
 <Price>1089.00</Price>
 <Price2>1196.12</Price2>
@@ -74787,14 +74787,14 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>959.90</Price>
-<Price2>1056.69</Price2>
-<Price3>1056.69</Price3>
-<Price4>1075.09</Price4>
-<Price5>1075.09</Price5>
-<Price6>1075.09</Price6>
-<Price7>1422.87</Price7>
-<Price8>1422.87</Price8>
+<Price>879.90</Price>
+<Price2>970.29</Price2>
+<Price3>970.29</Price3>
+<Price4>985.49</Price4>
+<Price5>985.49</Price5>
+<Price6>985.49</Price6>
+<Price7>1313.39</Price7>
+<Price8>1313.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-infaillible-matte-resistance-likit-mat-ruj-summer-flying-625-11808.jpg</Image1>
@@ -74925,14 +74925,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
-<Price>959.90</Price>
-<Price2>1056.69</Price2>
-<Price3>1056.69</Price3>
-<Price4>1075.09</Price4>
-<Price5>1075.09</Price5>
-<Price6>1075.09</Price6>
-<Price7>1422.87</Price7>
-<Price8>1422.87</Price8>
+<Price>879.90</Price>
+<Price2>970.29</Price2>
+<Price3>970.29</Price3>
+<Price4>985.49</Price4>
+<Price5>985.49</Price5>
+<Price6>985.49</Price6>
+<Price7>1313.39</Price7>
+<Price8>1313.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-matte-resistance-liquid-lipstick-5-ml-major-crush-120-11819.jpg</Image1>
@@ -75934,16 +75934,16 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
-<Price>699.90</Price>
-<Price2>775.89</Price2>
-<Price3>775.89</Price3>
-<Price4>783.89</Price4>
-<Price5>783.89</Price5>
-<Price6>783.89</Price6>
-<Price7>1067.06</Price7>
-<Price8>1067.06</Price8>
+<Price>619.90</Price>
+<Price2>689.49</Price2>
+<Price3>689.49</Price3>
+<Price4>694.29</Price4>
+<Price5>694.29</Price5>
+<Price6>694.29</Price6>
+<Price7>957.58</Price7>
+<Price8>957.58</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/maybelline-new-york-lifter-plump-dudak-parlaticisi-red-flag-004-11897.jpg</Image1>
@@ -75982,14 +75982,14 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>619.90</Price>
-<Price2>689.49</Price2>
-<Price3>689.49</Price3>
-<Price4>694.29</Price4>
-<Price5>694.29</Price5>
-<Price6>694.29</Price6>
-<Price7>957.58</Price7>
-<Price8>957.58</Price8>
+<Price>549.90</Price>
+<Price2>613.89</Price2>
+<Price3>613.89</Price3>
+<Price4>615.89</Price4>
+<Price5>615.89</Price5>
+<Price6>615.89</Price6>
+<Price7>861.79</Price7>
+<Price8>861.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/maybelline-new-york-maybelline-fondoten-fit-me-no-105-11902.jpg</Image1>
@@ -76028,14 +76028,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
-<Price>384.90</Price>
-<Price2>435.69</Price2>
-<Price3>435.69</Price3>
-<Price4>431.09</Price4>
-<Price5>431.09</Price5>
-<Price6>431.09</Price6>
-<Price7>635.99</Price7>
-<Price8>635.99</Price8>
+<Price>339.90</Price>
+<Price2>387.09</Price2>
+<Price3>387.09</Price3>
+<Price4>380.69</Price4>
+<Price5>380.69</Price5>
+<Price6>380.69</Price6>
+<Price7>574.40</Price7>
+<Price8>574.40</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/maybelline-new-york-tattoo-liner-ink-pen-black-11906.jpg</Image1>
