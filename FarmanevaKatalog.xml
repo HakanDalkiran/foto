@@ -2046,7 +2046,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1074.00</Price>
 <Price2>1179.92</Price2>
@@ -2054,8 +2054,8 @@
 <Price4>1202.88</Price4>
 <Price5>1202.88</Price5>
 <Price6>1202.88</Price6>
-<Price7>1579.02</Price7>
-<Price8>1579.02</Price8>
+<Price7>1579.03</Price7>
+<Price8>1579.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-pronutra-1-devam-sutu-900-gr-0-6-ay-7815.jpg</Image1>
