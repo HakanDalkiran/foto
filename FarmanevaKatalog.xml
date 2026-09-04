@@ -3220,7 +3220,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>1</Stock>
 <Miad>2026-10-01</Miad>
 <Price>229.00</Price>
 <Price2>267.32</Price2>
@@ -3997,15 +3997,15 @@
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2026-10-01</Miad>
+<Miad>2028-01-01</Miad>
 <Price>195.90</Price>
 <Price2>231.57</Price2>
 <Price3>231.57</Price3>
 <Price4>219.41</Price4>
 <Price5>219.41</Price5>
 <Price6>219.41</Price6>
-<Price7>377.34</Price7>
-<Price8>377.34</Price8>
+<Price7>377.33</Price7>
+<Price8>377.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/balparmak-apitera-propolisli-cocuk-spreyi-7953.jpg</Image1>
@@ -8061,7 +8061,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>165</Stock>
+<Stock>167</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>881.73</Price2>
@@ -11570,7 +11570,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>499.04</Price2>
@@ -11754,7 +11754,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>488.78</Price2>
@@ -13332,7 +13332,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>48</Stock>
+<Stock>50</Stock>
 <Miad></Miad>
 <Price>299.90</Price>
 <Price2>327.70</Price2>
@@ -16964,7 +16964,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>206</Stock>
+<Stock>207</Stock>
 <Miad></Miad>
 <Price>38.60</Price>
 <Price2>61.69</Price2>
@@ -20408,7 +20408,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>162</Stock>
+<Stock>160</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -24900,7 +24900,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad>2027-09-01</Miad>
 <Price>1329.90</Price>
 <Price2>1456.29</Price2>
@@ -24946,7 +24946,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Erkek Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad>2028-11-01</Miad>
 <Price>399.90</Price>
 <Price2>451.89</Price2>
@@ -25824,7 +25824,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>37</Stock>
+<Stock>38</Stock>
 <Miad></Miad>
 <Price>698.90</Price>
 <Price2>774.81</Price2>
@@ -26644,7 +26644,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Stetoskop]]></category>
 <Tax>10</Tax>
-<Stock>32</Stock>
+<Stock>33</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>148.41</Price2>
@@ -27012,7 +27012,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>42.90</Price>
 <Price2>66.33</Price2>
@@ -45044,7 +45044,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>38</Stock>
 <Miad></Miad>
 <Price>152.00</Price>
 <Price2>184.16</Price2>
@@ -47482,7 +47482,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>2028-02-01</Miad>
 <Price>276.90</Price>
 <Price2>319.05</Price2>
@@ -58369,7 +58369,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>3</Stock>
 <Miad>2028-12-01</Miad>
 <Price>829.80</Price>
 <Price2>916.18</Price2>
@@ -60119,7 +60119,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>145.28</Price2>
@@ -66078,7 +66078,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>31</Stock>
 <Miad>2028-08-01</Miad>
 <Price>284.00</Price>
 <Price2>326.72</Price2>
@@ -66124,7 +66124,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>26</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -66354,7 +66354,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>38</Stock>
 <Miad></Miad>
 <Price>149.90</Price>
 <Price2>181.89</Price2>
@@ -67138,14 +67138,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-09-01</Miad>
-<Price>675.00</Price>
-<Price2>749.00</Price2>
-<Price3>749.00</Price3>
-<Price4>756.00</Price4>
-<Price5>756.00</Price5>
-<Price6>756.00</Price6>
-<Price7>1032.99</Price7>
-<Price8>1032.99</Price8>
+<Price>698.90</Price>
+<Price2>774.81</Price2>
+<Price3>774.81</Price3>
+<Price4>782.77</Price4>
+<Price5>782.77</Price5>
+<Price6>782.77</Price6>
+<Price7>1065.69</Price7>
+<Price8>1065.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.jpg</Image1>
@@ -67690,14 +67690,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.90</Price>
-<Price2>543.69</Price2>
-<Price3>543.69</Price3>
-<Price4>543.09</Price4>
-<Price5>543.09</Price5>
-<Price6>543.09</Price6>
-<Price7>772.84</Price7>
-<Price8>772.84</Price8>
+<Price>499.75</Price>
+<Price2>559.73</Price2>
+<Price3>559.73</Price3>
+<Price4>559.72</Price4>
+<Price5>559.72</Price5>
+<Price6>559.72</Price6>
+<Price7>793.16</Price7>
+<Price8>793.16</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -68884,7 +68884,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>273</Stock>
+<Stock>274</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1252.71</Price2>
@@ -72825,7 +72825,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>2029-01-01</Miad>
 <Price>698.90</Price>
 <Price2>774.81</Price2>
