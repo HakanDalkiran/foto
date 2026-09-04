@@ -15483,7 +15483,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>15</Stock>
 <Miad>2027-03-01</Miad>
 <Price>1149.90</Price>
 <Price2>1261.89</Price2>
@@ -18970,7 +18970,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>6</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>612.81</Price2>
@@ -41747,7 +41747,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>44</Stock>
+<Stock>45</Stock>
 <Miad>2026-11-01</Miad>
 <Price>308.00</Price>
 <Price2>352.64</Price2>
@@ -42530,7 +42530,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>122</Stock>
+<Stock>121</Stock>
 <Miad>2027-03-01</Miad>
 <Price>164.90</Price>
 <Price2>198.09</Price2>
@@ -54092,7 +54092,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>37</Stock>
+<Stock>35</Stock>
 <Miad>2028-01-01</Miad>
 <Price>957.50</Price>
 <Price2>1054.10</Price2>
@@ -55989,7 +55989,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2026-12-01</Miad>
 <Price>239.90</Price>
 <Price2>279.09</Price2>
@@ -63245,7 +63245,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>76</Stock>
+<Stock>77</Stock>
 <Miad></Miad>
 <Price>1498.90</Price>
 <Price2>1638.81</Price2>
@@ -64339,7 +64339,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>240</Stock>
+<Stock>241</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>591.21</Price2>
@@ -66316,14 +66316,14 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad>2029-02-01</Miad>
-<Price>600.00</Price>
-<Price2>668.00</Price2>
-<Price3>668.00</Price3>
-<Price4>672.00</Price4>
-<Price5>672.00</Price5>
-<Price6>672.00</Price6>
-<Price7>930.35</Price7>
-<Price8>930.35</Price8>
+<Price>729.90</Price>
+<Price2>808.29</Price2>
+<Price3>808.29</Price3>
+<Price4>817.49</Price4>
+<Price5>817.49</Price5>
+<Price6>817.49</Price6>
+<Price7>1108.12</Price7>
+<Price8>1108.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -66684,14 +66684,14 @@
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad>2029-01-01</Miad>
-<Price>790.00</Price>
-<Price2>873.20</Price2>
-<Price3>873.20</Price3>
-<Price4>884.80</Price4>
-<Price5>884.80</Price5>
-<Price6>884.80</Price6>
-<Price7>1190.36</Price7>
-<Price8>1190.36</Price8>
+<Price>998.90</Price>
+<Price2>1098.81</Price2>
+<Price3>1098.81</Price3>
+<Price4>1118.77</Price4>
+<Price5>1118.77</Price5>
+<Price6>1118.77</Price6>
+<Price7>1476.24</Price7>
+<Price8>1476.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -66914,14 +66914,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>650.00</Price>
-<Price2>722.00</Price2>
-<Price3>722.00</Price3>
-<Price4>728.00</Price4>
-<Price5>728.00</Price5>
-<Price6>728.00</Price6>
-<Price7>998.77</Price7>
-<Price8>998.77</Price8>
+<Price>728.80</Price>
+<Price2>807.10</Price2>
+<Price3>807.10</Price3>
+<Price4>816.26</Price4>
+<Price5>816.26</Price5>
+<Price6>816.26</Price6>
+<Price7>1106.61</Price7>
+<Price8>1106.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -67282,14 +67282,14 @@
 <Tax>20</Tax>
 <Stock>149</Stock>
 <Miad>2028-01-01</Miad>
-<Price>555.00</Price>
-<Price2>619.40</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.77</Price7>
-<Price8>868.77</Price8>
+<Price>597.30</Price>
+<Price2>665.08</Price2>
+<Price3>665.08</Price3>
+<Price4>668.98</Price4>
+<Price5>668.98</Price5>
+<Price6>668.98</Price6>
+<Price7>926.66</Price7>
+<Price8>926.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -67374,14 +67374,14 @@
 <Tax>20</Tax>
 <Stock>54</Stock>
 <Miad>2028-08-01</Miad>
-<Price>555.00</Price>
-<Price2>619.40</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.77</Price7>
-<Price8>868.77</Price8>
+<Price>624.70</Price>
+<Price2>694.68</Price2>
+<Price3>694.68</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -68016,7 +68016,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>40</Stock>
+<Stock>41</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -68156,14 +68156,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68524,14 +68524,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>380.00</Price>
-<Price2>430.40</Price2>
-<Price3>430.40</Price3>
-<Price4>425.60</Price4>
-<Price5>425.60</Price5>
-<Price6>425.60</Price6>
-<Price7>629.28</Price7>
-<Price8>629.28</Price8>
+<Price>444.90</Price>
+<Price2>500.49</Price2>
+<Price3>500.49</Price3>
+<Price4>498.29</Price4>
+<Price5>498.29</Price5>
+<Price6>498.29</Price6>
+<Price7>718.10</Price7>
+<Price8>718.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.jpg</Image1>
