@@ -99,7 +99,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>24</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>1298.90</Price>
 <Price2>1422.81</Price2>
@@ -3766,7 +3766,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Nebulizatör]]></category>
 <Tax>10</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad></Miad>
 <Price>838.90</Price>
 <Price2>926.01</Price2>
@@ -11332,7 +11332,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>312</Stock>
+<Stock>311</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -11614,7 +11614,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>499.04</Price2>
@@ -12312,7 +12312,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>111</Stock>
+<Stock>110</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>737.07</Price2>
@@ -13049,7 +13049,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>480.57</Price2>
@@ -13141,7 +13141,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>94</Stock>
+<Stock>93</Stock>
 <Miad></Miad>
 <Price>384.90</Price>
 <Price2>414.91</Price2>
@@ -16872,7 +16872,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>244.90</Price>
 <Price2>284.49</Price2>
@@ -20541,7 +20541,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>160</Stock>
+<Stock>159</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -27097,7 +27097,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>39.80</Price>
 <Price2>62.98</Price2>
@@ -39455,7 +39455,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2027-09-01</Miad>
 <Price>648.90</Price>
 <Price2>720.81</Price2>
@@ -40902,7 +40902,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2027-11-01</Miad>
 <Price>739.90</Price>
 <Price2>819.09</Price2>
@@ -66073,7 +66073,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-02-01</Miad>
 <Price>208.90</Price>
 <Price2>245.61</Price2>
@@ -68419,7 +68419,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -73904,7 +73904,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>499.04</Price2>
@@ -74639,14 +74639,14 @@
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
-<Price>409.90</Price>
-<Price2>462.69</Price2>
-<Price3>462.69</Price3>
-<Price4>459.09</Price4>
-<Price5>459.09</Price5>
-<Price6>459.09</Price6>
-<Price7>670.20</Price7>
-<Price8>670.20</Price8>
+<Price>364.90</Price>
+<Price2>414.09</Price2>
+<Price3>414.09</Price3>
+<Price4>408.69</Price4>
+<Price5>408.69</Price5>
+<Price6>408.69</Price6>
+<Price7>608.62</Price7>
+<Price8>608.62</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/garnier-saf-ve-temiz-bha-niasinamid-gunluk-gunes-koruyucu-fluid-yuz-kremi-spf50-40-ml-11751.jpg</Image1>
