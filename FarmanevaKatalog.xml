@@ -11614,7 +11614,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>16</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>499.04</Price2>
@@ -12312,7 +12312,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>110</Stock>
+<Stock>107</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>737.07</Price2>
@@ -13049,7 +13049,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>50</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>480.57</Price2>
@@ -19065,14 +19065,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2028-10-01</Miad>
-<Price>583.90</Price>
-<Price2>650.61</Price2>
-<Price3>650.61</Price3>
-<Price4>653.97</Price4>
-<Price5>653.97</Price5>
-<Price6>653.97</Price6>
-<Price7>908.32</Price7>
-<Price8>908.32</Price8>
+<Price>586.90</Price>
+<Price2>653.85</Price2>
+<Price3>653.85</Price3>
+<Price4>657.33</Price4>
+<Price5>657.33</Price5>
+<Price6>657.33</Price6>
+<Price7>912.42</Price7>
+<Price8>912.42</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/generica-sidefer-20-sticks-8818.jpg</Image1>
@@ -20541,7 +20541,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>159</Stock>
+<Stock>158</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -68419,7 +68419,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>31</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -73904,7 +73904,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>16</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>499.04</Price2>
