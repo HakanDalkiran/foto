@@ -8337,7 +8337,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>75</Stock>
+<Stock>65</Stock>
 <Miad>2030-05-01</Miad>
 <Price>69.90</Price>
 <Price2>95.49</Price2>
@@ -13188,7 +13188,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>77</Stock>
+<Stock>76</Stock>
 <Miad></Miad>
 <Price>374.90</Price>
 <Price2>404.65</Price2>
@@ -64284,7 +64284,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2029-03-01</Miad>
 <Price>1029.90</Price>
 <Price2>1132.29</Price2>
