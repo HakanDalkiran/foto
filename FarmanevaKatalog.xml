@@ -9178,14 +9178,14 @@
 <Tax>1</Tax>
 <Stock>25</Stock>
 <Miad>2028-09-01</Miad>
-<Price>154.90</Price>
-<Price2>187.29</Price2>
-<Price3>187.29</Price3>
-<Price4>173.49</Price4>
-<Price5>173.49</Price5>
-<Price6>173.49</Price6>
-<Price7>321.23</Price7>
-<Price8>321.23</Price8>
+<Price>137.90</Price>
+<Price2>168.93</Price2>
+<Price3>168.93</Price3>
+<Price4>154.45</Price4>
+<Price5>154.45</Price5>
+<Price6>154.45</Price6>
+<Price7>297.97</Price7>
+<Price8>297.97</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cistus-antivirus-balli-limonlu-pastil-10-adet-8312.jpg</Image1>
@@ -12312,7 +12312,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>107</Stock>
+<Stock>105</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>737.07</Price2>
@@ -13049,7 +13049,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>51</Stock>
 <Miad></Miad>
 <Price>448.90</Price>
 <Price2>480.57</Price2>
@@ -27508,7 +27508,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-03-01</Miad>
 <Price>758.90</Price>
 <Price2>839.61</Price2>
@@ -28166,15 +28166,15 @@
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
-<Miad>2029-03-01</Miad>
-<Price>1176.90</Price>
-<Price2>1291.05</Price2>
-<Price3>1291.05</Price3>
-<Price4>1318.13</Price4>
-<Price5>1318.13</Price5>
-<Price6>1318.13</Price6>
-<Price7>1719.84</Price7>
-<Price8>1719.84</Price8>
+<Miad></Miad>
+<Price>1179.90</Price>
+<Price2>1294.29</Price2>
+<Price3>1294.29</Price3>
+<Price4>1321.49</Price4>
+<Price5>1321.49</Price5>
+<Price6>1321.49</Price6>
+<Price7>1723.94</Price7>
+<Price8>1723.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mustela-stelatopia-cleansing-gel-500ml-9276.jpg</Image1>
@@ -42015,7 +42015,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad>2026-11-01</Miad>
 <Price>308.00</Price>
 <Price2>352.64</Price2>
@@ -64834,7 +64834,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>96</Stock>
+<Stock>94</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>375.21</Price2>
@@ -81758,7 +81758,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>14</Stock>
 <Miad>2026-09-01</Miad>
 <Price>398.90</Price>
 <Price2>450.81</Price2>
