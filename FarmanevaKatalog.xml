@@ -2227,7 +2227,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>3</Stock>
 <Miad>2026-12-01</Miad>
 <Price>509.90</Price>
 <Price2>570.69</Price2>
@@ -11710,7 +11710,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>488.78</Price2>
