@@ -11711,7 +11711,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>456.90</Price>
 <Price2>488.78</Price2>
@@ -48066,7 +48066,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>284</Stock>
+<Stock>283</Stock>
 <Miad>2030-04-01</Miad>
 <Price>91.90</Price>
 <Price2>119.25</Price2>
