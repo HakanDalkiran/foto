@@ -81758,7 +81758,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>109</Stock>
 <Miad>2028-02-01</Miad>
 <Price>598.90</Price>
 <Price2>666.81</Price2>
@@ -81785,7 +81785,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>111</Stock>
 <Miad>2026-12-01</Miad>
 <Price>628.90</Price>
 <Price2>699.21</Price2>
@@ -81833,7 +81833,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>112</Stock>
 <Miad>2026-12-01</Miad>
 <Price>689.90</Price>
 <Price2>765.09</Price2>
@@ -81861,7 +81861,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2028-07-01</Miad>
 <Price>599.90</Price>
 <Price2>667.89</Price2>
@@ -81889,7 +81889,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2028-01-01</Miad>
 <Price>444.00</Price>
 <Price2>499.52</Price2>
@@ -81917,7 +81917,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>2028-09-01</Miad>
 <Price>248.90</Price>
 <Price2>288.81</Price2>
@@ -81965,7 +81965,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>35</Stock>
 <Miad>2027-10-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -81992,7 +81992,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>7</Stock>
 <Miad>2027-11-01</Miad>
 <Price>919.90</Price>
 <Price2>1013.49</Price2>
@@ -82019,7 +82019,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>2028-03-01</Miad>
 <Price>1064.90</Price>
 <Price2>1170.09</Price2>
@@ -82046,7 +82046,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>2027-07-01</Miad>
 <Price>689.00</Price>
 <Price2>764.12</Price2>
@@ -82090,7 +82090,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>14</Stock>
 <Miad>2028-03-01</Miad>
 <Price>775.00</Price>
 <Price2>857.00</Price2>
@@ -82117,7 +82117,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>11</Stock>
 <Miad>2028-04-01</Miad>
 <Price>464.90</Price>
 <Price2>522.09</Price2>
@@ -82162,7 +82162,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1014.90</Price>
 <Price2>1116.09</Price2>
@@ -82177,6 +82177,7 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-lium-erkek-tipi-dokulme-onleyici-serum-100-ml-puansiz-21967.png</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-lium-erkek-tipi-dokulme-onleyici-serum-100-ml-puansiz-22033.png</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-lium-erkek-tipi-dokulme-onleyici-serum-100-ml-puansiz-22087.png</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-lium-erkek-tipi-dokulme-onleyici-serum-100-ml-puansiz-22104.png</Image4>
 <Description><![CDATA[<section><p><strong>Phyto Lium+ Erkek Tipi D&#246;k&#252;lme &#214;nleyici Serum 100 ml</strong>, erkeklerde genetik ve hormonal fakt&#246;rlerle ili&#351;kili hafiften orta &#351;iddette sa&#231; d&#246;k&#252;lmesini &#246;nlemek ve sa&#231; k&#246;klerini g&#252;&#231;lendirmek i&#231;in geli&#351;tirilmi&#351; bir bitkisel destek serumudur. Erkek tipinde sa&#231; d&#246;k&#252;lmesi (androgenetik alopeci) ya&#351;ayan 18 ya&#351; ve &#252;zeri erkekler i&#231;in uygundur.</p>
 <h2>Phyto Lium+ Erkek Tipi D&#246;k&#252;lme &#214;nleyici Serum 10 &#214;zellikleri</h2>
 <ul>
@@ -82206,7 +82207,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>3499.90</Price>
 <Price2>3799.89</Price2>
@@ -82221,6 +82222,7 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytokeratine-extreme-maske-200-ml-extreme-sampuan-200-ml-21968.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytokeratine-extreme-maske-200-ml-extreme-sampuan-200-ml-22034.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytokeratine-extreme-maske-200-ml-extreme-sampuan-200-ml-22088.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytokeratine-extreme-maske-200-ml-extreme-sampuan-200-ml-22105.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Phyto Phytokeratine Extreme Maske 200 ml + Extreme &#350;ampuan 200 ml</strong>, k&#305;r&#305;k, i&#351;lenmi&#351; ve kurulanm&#305;&#351; sa&#231;lara yo&#287;un onar&#305;m ve g&#252;&#231;lendirme sa&#287;layan profesyonel bir sa&#231; bak&#305;m&#305; setidir. K&#305;vr&#305;k, i&#351;lenmi&#351;, boyal&#305; veya termik i&#351;lemlerle zarar g&#246;rm&#252;&#351; sa&#231; tipleri i&#231;in &#246;zel olarak geli&#351;tirilen bu duo, sa&#231; liflerini i&#231;ten d&#305;&#351;&#305;na kadar besleyerek esnekli&#287;i art&#305;r&#305;r ve k&#305;r&#305;lmaya kar&#351;&#305; dayan&#305;kl&#305;l&#305;&#287;&#305; y&#252;kseltir.</p><h2>Phyto Phytokeratine Extreme Maske 200 ml + Extreme &#214;zellikleri</h2><ul><li>Keratin ve bitkisel proteinler yo&#287;un &#351;ekilde i&#231;erir</li><li>Sa&#231; lifini derinlemesine onar&#305;r ve yap&#305;s&#305;n&#305; yeniden olu&#351;turur</li><li>K&#305;r&#305;lmay&#305; %90 oran&#305;nda azalt&#305;r (laboratuvar testlerine dayal&#305;)</li><li>Sa&#231;&#305;n elastikli&#287;ini ve shinene (parlakl&#305;&#287;&#305;n&#305;) art&#305;r&#305;r</li><li>K&#252;flemeyi ve statikli&#287;i azaltarak hafif ve y&#246;netilebilir sa&#231; sa&#287;lar</li><li>Renkli ve kemiklenmi&#351; sa&#231;lar i&#231;in g&#252;venli, renk kayb&#305;na yol a&#231;maz</li><li>S&#252;lfat, paraben ve silikon i&#231;ermez, hassas skallara uygundur</li><li>Bitkisel ekstraklerle (phytokeratin) do&#287;al beslenme ve korunma sa&#287;lar</li><li>Kullan&#305;m sonras&#305; sa&#231; daha silkinir, a&#231;&#305;kg&#246;zl&#252; ve sa&#287;l&#305;kl&#305; g&#246;r&#252;n&#252;r</li><li>Profesyonel salon sonu&#231;lar&#305;n&#305; evde elde etmenizi sa&#287;lar</li><li>200 ml kapasitesi ile uzun s&#252;reli kullan&#305;m imkan&#305; sunar</li><li>Maske ve &#351;ampuan&#305;n sentezli form&#252;lasyonu, birbirini tamamlay&#305;c&#305; etki g&#246;sterir</li><li>Her iki &#252;r&#252;n de dermatolojik olarak test edilmi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Phyto Phytokeratine Extreme &#350;ampuan&#305;, &#305;slak sa&#231; &#252;zerine yeterli miktarda al&#305;narak hafif&#231;e k&#246;klerden u&#231;lara kadar masajla uygulan&#305;r. 1-2 dakika bekletildikten sonra, s&#305;cak olmayan suyla iyi &#351;ekilde y&#305;kan&#305;r. Daha sonra, Phyto Phytokeratine Extreme Maske, &#351;ampuan sonras&#305; &#305;slak sa&#231;&#305;n orta ve u&#231; k&#305;s&#305;mlar&#305;na odaklanarak, k&#246;kten ka&#231;&#305;narak uygulan&#305;r. Maske, sa&#231; &#252;zerinde 5-10 dakika bekletilir; daha derin etkile i&#231;in sa&#231; ba&#351;l&#305; bir du&#351; bonneti ile sar&#305;larak &#305;s&#305; alt&#305;nda b&#305;rak&#305;labilir. Ard&#305;ndan, s&#305;cak olmayan suyla thoroughly (tamamen) y&#305;kan&#305;r. En iyi sonu&#231;lar i&#231;in, haftada 2-3 kez kullan&#305;lmal&#305;d&#305;r. Kuru veya &#231;ok i&#351;lenmi&#351; sa&#231;lar i&#231;in, maske kullan&#305;m sonras&#305; hafif bir sa&#231; ya&#287;&#305; veya ser&#252;m&#252;yle sonland&#305;r&#305;labilir.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;z d&#305;&#351;a kullan&#305;m i&#231;in uygundur. G&#246;zle temas edilirse, hemen &#231;ok miktarda suyla y&#305;kan&#305;r. &#304;ritasyon veya alerjik reaksiyon olu&#351;ursa, kullan&#305;m durdurulur ve hekime veya eczac&#305;ya dan&#305;&#351;&#305;l&#305;r. &#199;ocuklar&#305;n elinden tutulamaz; 3 ya&#351; alt&#305; &#231;ocuklar taraf&#305;ndan kullan&#305;lmamal&#305;d&#305;r. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta, s&#305;cakl&#305;k 25&#176;C'yi ge&#231;meyen ortamda saklan&#305;r. Kapat&#305;&#287;&#305; iyi kapal&#305; tutulur. De&#287;i&#351;iklik veya bozulma g&#246;r&#252;rseniz, kullanmay&#305;n.</p><p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -82232,7 +82234,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1599.90</Price>
 <Price2>1747.89</Price2>
@@ -82247,6 +82249,7 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytolaque-soie-spray-400-ml-dogal-tutuslu-sac-sekillendirici-sac-spreyi-21969.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytolaque-soie-spray-400-ml-dogal-tutuslu-sac-sekillendirici-sac-spreyi-22035.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytolaque-soie-spray-400-ml-dogal-tutuslu-sac-sekillendirici-sac-spreyi-22089.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytolaque-soie-spray-400-ml-dogal-tutuslu-sac-sekillendirici-sac-spreyi-22106.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Phyto Phytolaque Soie Spray 400 ml - Do&#287;al Tutu&#351;lu Sa&#231; &#350;ekillendirici Sa&#231; Spreyi</strong>, hafif tutu&#351; sa&#287;layarak sa&#231;&#305;n do&#287;al hareketini koruyan ve frizz'i azaltan profesyonel bir sa&#231; &#351;ekillendirici spredir. &#304;nce ve orta kal&#305;nl&#305;ktaki sa&#231; tipleri i&#231;in ideal olup, g&#252;nl&#252;k kullan&#305;m i&#231;in uygun, a&#287;&#305;r b&#305;rakmayan form&#252;l&#252; sayesinde sa&#231; esnekli&#287;i ve parlakl&#305;&#287;&#305;n&#305; art&#305;r&#305;r.</p>
 <h2>Phyto Phytolaque Soie Spray 400 ml - Do&#287;al Tutu&#351; &#214;zellikleri</h2>
 <ul>
@@ -82273,7 +82276,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Erkek Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>2027-05-01</Miad>
 <Price>2544.90</Price>
 <Price2>2768.49</Price2>
@@ -82301,7 +82304,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad>2028-09-01</Miad>
 <Price>679.50</Price>
 <Price2>753.86</Price2>
@@ -82344,7 +82347,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2028-05-01</Miad>
 <Price>544.90</Price>
 <Price2>608.49</Price2>
@@ -82388,7 +82391,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1079.90</Price>
 <Price2>1186.29</Price2>
@@ -82450,6 +82453,7 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-anti-scales-cleansing-gel-200-ml-21981.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-anti-scales-cleansing-gel-200-ml-22047.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-anti-scales-cleansing-gel-200-ml-22098.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-anti-scales-cleansing-gel-200-ml-22108.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 ml</strong>, yumu&#351;ak ve etkili bir temizleme jelidir. Seboreik dermatit, yass&#305; ve k&#305;rm&#305;z&#305; lekeler, ka&#351;&#305;nt&#305; ve descamasyon gibi belirtileri yat&#305;&#351;t&#305;ran form&#252;lasyonla, hassas ve tendencia g&#246;steren cilt tipleri i&#231;in &#246;zel olarak geli&#351;tirilmi&#351;tir. G&#252;nl&#252;k kullan&#305;m i&#231;in uygun olup, y&#252;z ve v&#252;cut gibi etkilenebilecek alanlarda kullan&#305;labilir.</p><h2>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 m &#214;zellikleri</h2><ul><li>Seboreik dermatit ve yass&#305; lekeler i&#231;in klinik olarak test edilmi&#351; form&#252;lasyon</li><li>Pirocton olamin ve s&#305;klopiroksamin gibi aktif bile&#351;enler i&#231;erir</li><li>Cilt barrieresini bozmadan temizler, nemini korur</li><li>Ka&#351;&#305;nt&#305;, k&#305;zar&#305;kl&#305;k ve descamasyonu azaltmaya yard&#305;mc&#305; olur</li><li>Yumu&#351;ak jel tekst&#252;r&#252;, hafif k&#246;p&#252;kleyerek temizler</li><li>Parf&#252;m ve renk maddesi i&#231;ermez, allergen riskini d&#252;&#351;&#252;r&#252;r</li><li>Hassas ciltler i&#231;in uygun, g&#246;zle temas&#305; durumunda hemen y&#305;kay&#305;n</li><li>200 ml praktik pompal&#305; flakon ile kontroll&#252; kullan&#305;m sa&#287;lar</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Gelini &#305;slak cilt &#252;zerine yeterli miktarda al&#305;n ve yuvarlak hareketlerle hafif&#231;e masaj edin. &#214;zellikle etkilenmi&#351; b&#246;lgelere odaklanarak 30-60 saniye boyunca masaj yap&#305;n. Ard&#305;ndan, s&#305;cak olmayan suyla thoroughly y&#305;kay&#305;n. G&#252;nl&#252;k kullan&#305;m i&#231;in sabah ve/veya ak&#351;am kullan&#305;labilir. Kozmetik &#252;r&#252;nler &#252;zerinden kullan&#305;lacaksa, &#246;nce temizleme yap&#305;p ard&#305;ndan di&#287;er &#252;r&#252;nleri uygulay&#305;n. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas durumunda hemen bol miktarda suyla y&#305;kay&#305;n ve gerekirse bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p><h2>Uyar&#305;lar</h2><p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas durumunda hemen bol miktarda suyla y&#305;kay&#305;n ve tahri&#351; devam ederse bir hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n elinden ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan korundu&#287;u ortamda saklay&#305;n. &#304;la&#231; etkile&#351;imi riski d&#252;&#351;&#252;k olsa da, di&#287;er topical (cilt &#252;zeri) &#252;r&#252;nler kullan&#305;yorsan&#305;z, bir arada kullanmadan &#246;nce eczac&#305;n&#305;za veya dermatolo&#287;&#305;n&#305;za dan&#305;&#351;&#305;n. H&#252;cre d&#246;d&#252;r&#252;c&#252; veya a&#351;&#305;r&#305; azot i&#231;eren &#252;r&#252;nlerle ayn&#305; anda kullanmay&#305;n. 3 ya&#351;&#305;ndan k&#252;&#231;&#252;k &#231;ocuklarda kullan&#305;m &#246;ncesi bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;lmas&#305; &#246;nerilir. &#304;stenmeyen bir reaksiyon g&#246;zlemlenirse, kullan&#305;m&#305; durdurun ve bir sa&#287;l&#305;k profesyoneline ba&#351;vurun. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -82503,6 +82507,7 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/duobalance-hp-30-kapsul-21987.png</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/duobalance-hp-30-kapsul-22053.png</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/duobalance-hp-30-kapsul-22099.png</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/duobalance-hp-30-kapsul-22109.png</Image4>
 <Description><![CDATA[<section><p><strong>DuoBalance HP 30 Kaps&#252;l</strong>, g&#252;nl&#252;k ya&#351;amda stres ve yorgunluk hissetti&#287;i d&#246;nemlerde dengeyi desteklemek isteyen yeti&#351;kinler i&#231;in haz&#305;rlanm&#305;&#351; bir besin takviyesidir. Kaps&#252;l form&#252;lasyonu, g&#252;nl&#252;k rutine kolayca entegre edilebilir ve aktif ya&#351;am s&#252;rd&#252;renlerin ihtiya&#231; duydu&#287;u mikro besin deste&#287;i sunmay&#305; hedefler.</p><h2>DuoBalance HP 30 Kaps&#252;l &#214;zellikleri</h2><ul><li>G&#252;nl&#252;k kullan&#305;m i&#231;in uygun kaps&#252;l formunda sunulur</li><li>Y&#252;ksek biyokullan&#305;labilirlikli bile&#351;enler i&#231;erir</li><li>Stres y&#246;netimi destekleyici form&#252;lasyon</li><li>Yorgunluk hissi azaltmaya yard&#305;mc&#305; olabilir</li><li>G&#252;nl&#252;k aktivite performans&#305;n&#305; destekler</li><li>Besin dengesini tamamlay&#305;c&#305; &#246;zellik ta&#351;&#305;r</li><li>Kolay sindirilebilir ve emilir</li><li>G&#252;venli ve standart &#252;retim s&#252;re&#231;leriyle &#252;retilir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in &#246;nerilen kullan&#305;m: G&#252;nl&#252;k 1 (bir) kaps&#252;l, &#246;&#287;le yeme&#287;inden sonra veya eczac&#305;n&#305;n/hekimizin &#246;nerdi&#287;i &#351;ekilde suyla birlikte al&#305;nmaktad&#305;r. A&#351;&#305;r&#305; konsumdan ka&#231;&#305;n&#305;lmal&#305; ve kullan&#305;m s&#252;resi hakk&#305;nda profesyonel dan&#305;&#351;ma al&#305;nmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve tedavi ama&#231;l&#305; kullan&#305;lmamal&#305;d&#305;r. Hamilelik, emzirme d&#246;nemleri veya kronik bir hastal&#305;&#287;&#305;n&#305;z varsa kullan&#305;mdan &#246;nce hekiminize veya eczac&#305;n&#305;za dan&#305;&#351;&#305;n&#305;z. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin, kuru ve &#305;s&#305;t&#305;lmayan bir ortamda saklay&#305;n&#305;z. Etikette belirtilen g&#252;nl&#252;k &#246;nerilen miktar&#305; a&#351;may&#305;n&#305;z. Alerjik bir durumunuz varsa i&#231;erik listesini dikkatle kontrol ediniz.</p><p>DuoBalance HP 30 Kaps&#252;l, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -82575,6 +82580,7 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magsi-p5p-vitamin-b6-90-kapsul-21990.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magsi-p5p-vitamin-b6-90-kapsul-22056.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magsi-p5p-vitamin-b6-90-kapsul-22102.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magsi-p5p-vitamin-b6-90-kapsul-22111.jpg</Image4>
 <Description><![CDATA[<section><p><strong>NBT Life Magsi P5P Vitamin B6 90 Kaps&#252;l</strong>, piridoksin fosfat (P5P) &#351;eklindeki aktif B6 vitamini i&#231;erir ve n&#246;rolojik fonksiyonlar&#305; destekler, protein metabolizmas&#305;n&#305; d&#252;zenler ve hormonel dengeyi korumaya yard&#305;mc&#305; olur. Yeti&#351;kinler ve &#246;zellikle stresli ya&#351;am temposu olanlar, sporcular ve diyet program&#305; uygulayanlar i&#231;in uygundur.</p><h2>NBT Life Magsi P5P Vitamin B6 90 Kaps&#252;l &#214;zellikleri</h2><ul><li>Aktif B6 vitami ni (P5P) &#351;eklinde, do&#287;rudan kullan&#305;ma haz&#305;r</li><li>Her kaps&#252;l 25 mg piridoksin fosfat i&#231;erir</li><li>90 kaps&#252;l, 3 ayl&#305;k kullan&#305;m i&#231;in yeterli miktar</li><li>N&#246;rotransmitter sentezini destekler (serotonin, dopamin, GABA)</li><li>Protein ve aminoasid metabolizmas&#305;nda kofakt&#246;r rol&#252; oynar</li><li>Hemoglobin sentezinde etkili, k&#305;rm&#305;z&#305; kan h&#252;cresi olu&#351;umunu destekler</li><li>&#304;mm&#252;n sistem fonksiyonunu d&#252;zenler, antikor &#252;retimine katk&#305; sa&#287;lar</li><li>Hormonel dengeyi destekler, &#246;zellikle estrogen metabolizmas&#305;nda etkili</li><li>Gluten, laktoz, soya ve s&#252;t &#252;r&#252;nleri i&#231;ermez</li><li>GMO-free, vejetaryen kaps&#252;l (hipromeloz) ile &#252;retilmi&#351;tir</li><li>T&#252;rkiye'de GMP standartlar&#305;nda &#252;retilmi&#351;, kalite kontrol&#252; ge&#231;mi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 kaps&#252;l, &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte su ile al&#305;nmas&#305; &#246;nerilir. Kaps&#252;l&#252; &#231;emek veya &#231;i&#287;nemeyin, b&#252;t&#252;n olarak yutun. G&#252;nl&#252;k &#246;nerilen doz a&#351;&#305;lmamal&#305;d&#305;r. Uzun s&#252;reli kullan&#305;m i&#231;in sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p><h2>Uyar&#305;lar</h2><p>&#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta ve nemden korunarak saklay&#305;n. Hamilelik ve emzirme d&#246;neminde kullanmadan &#246;nce hekiminize veya eczac&#305;n&#305;za dan&#305;&#351;&#305;n. Kronik hastal&#305;k (&#246;zellikle b&#246;brek veya karaci&#287;er yetmezli&#287;i) kullananlar, ila&#231; kullananlar veya d&#252;zenli tedavi g&#246;ren ki&#351;iler kullan&#305;mdan &#246;nce profesyonel dan&#305;&#351;mal&#305;d&#305;r. A&#351;&#305;r&#305; t&#252;ketim (g&#252;nl&#252;k 100 mg &#252;zeri) uzun s&#252;reli olarak sinir hasar&#305;na yol a&#231;abilir. Etiketten belirtilen g&#252;nl&#252;k doz a&#351;&#305;lmamal&#305;d&#305;r. &#350;iddetli yan etki g&#246;zlemlenirse kullan&#305;m b&#305;rak&#305;lmal&#305; ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurulmal&#305;d&#305;r. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -82601,6 +82607,7 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-mix-vitamin-b12-30-kapsul-21991.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-mix-vitamin-b12-30-kapsul-22057.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-mix-vitamin-b12-30-kapsul-22103.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-mix-vitamin-b12-30-kapsul-22112.jpg</Image4>
 <Description><![CDATA[<section><p><strong>NBT Life Mix Vitamin B12 30 Kaps&#252;l</strong>, vitamin B12 eksikli&#287;ini &#246;nlemek ve desteklemek i&#231;in geli&#351;tirilmi&#351; bir besin takviyesidir. Yeti&#351;kinler ve &#246;zellikle v&#233;g&#233;taryen, vegan ya&#351;am tarz&#305; benimseyenler, ya&#351;l&#305; bireyler ve sindirim sistemiyle ilgili absorpsiyon zorluklar&#305; ya&#351;ayanlar i&#231;in uygundur.</p><h2>NBT Life Mix Vitamin B12 30 Kaps&#252;l &#214;zellikleri</h2><ul><li>Her kaps&#252;lde 1000 &#181;g (1 mg) metilcobalamin bi&#231;iminde aktif vitamin B12 bulunur.</li><li>Metilcobalamin, vitamin B12'nin en biyolojik olarak aktif ve kullan&#305;m haz&#305;r&#305; formudur.</li><li>Sinir sistemi fonksiyonunu destekler ve n&#246;rotrasmitter sentezinde rol oynar.</li><li>K&#305;rm&#305;z&#305; kan h&#252;cresi &#252;retimi ve DNA sentezinde gerekli olan bir fakt&#246;rd&#252;r.</li><li>Yorgunluk ve yetersizlik hissi hissetmeyi azaltmaya yard&#305;mc&#305; olabilir.</li><li>Hom&#246;cistein seviyelerinin normal aral&#305;kta tutulmas&#305;na katk&#305; sa&#287;lar.</li><li>Enerji metabolizmas&#305;n&#305; destekler ve h&#252;cresel seviyede ATP &#252;retimine yard&#305;mc&#305; olur.</li><li>Gluten, lakt&#243;z, soya ve s&#252;t &#252;r&#252;nleri i&#231;ermez; v&#233;g&#233;taryen ve vegan uyumludur.</li><li>Renkleyici, tatland&#305;r&#305;c&#305; ve konserverant i&#231;ermez.</li><li>Gastrointestinal tolerans&#305; iyi olan bir form&#252;lasyondur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 (bir) kaps&#252;l, &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte su ile yutulur. A&#351;&#305;r&#305; t&#252;ketimden ka&#231;&#305;n&#305;lmal&#305; ve &#246;nerilen g&#252;nl&#252;k doz a&#351;&#305;lmamal&#305;d&#305;r. Kullan&#305;m s&#252;resi ve doz, bireysel ihtiya&#231; ve sa&#287;l&#305;k durumu g&#246;re de&#287;i&#351;ebilece&#287;inden, uzun s&#252;reli kullan&#305;m &#246;ncesinde bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;lmas&#305; &#246;nerilir.</p><h2>Uyar&#305;lar</h2><p>Besin takviyeleri, dengeli ve &#231;e&#351;itli bir beslenmenin yerini tutamaz. Hamilelik, emzilik s&#252;resi veya kronik bir hastal&#305;k (&#246;zellikle karaci&#287;er veya b&#246;brek yetmezli&#287;i) bulunanlar, kullan&#305;mdan &#246;nce hekimi veya eczac&#305;s&#305;na dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; &#351;ekilde, 25&#176;C&#8217;yi a&#351;mayan, nemli olmayan ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; olmayan vi&#351;neli bir ortamda saklanmal&#305;d&#305;r. &#350;iddetli yan etki g&#246;zlemlenirse kullan&#305;m durdurulmal&#305; ve sa&#287;l&#305;k profesyoneline ba&#351;vurulmal&#305;d&#305;r. &#220;r&#252;n, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
