@@ -2227,7 +2227,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2026-12-01</Miad>
 <Price>509.90</Price>
 <Price2>570.69</Price2>
@@ -8481,7 +8481,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>63</Stock>
+<Stock>60</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>947.61</Price2>
@@ -11245,7 +11245,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>309</Stock>
+<Stock>306</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -12180,7 +12180,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>91</Stock>
+<Stock>92</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>737.07</Price2>
@@ -12965,7 +12965,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>93</Stock>
+<Stock>92</Stock>
 <Miad></Miad>
 <Price>384.90</Price>
 <Price2>414.91</Price2>
@@ -21327,15 +21327,15 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
 <Stock>1</Stock>
-<Miad>2030-07-01</Miad>
-<Price>54.90</Price>
-<Price2>79.29</Price2>
-<Price3>79.29</Price3>
-<Price4>61.49</Price4>
-<Price5>61.49</Price5>
-<Price6>61.49</Price6>
-<Price7>184.38</Price7>
-<Price8>184.38</Price8>
+<Miad>2029-07-01</Miad>
+<Price>54.80</Price>
+<Price2>79.18</Price2>
+<Price3>79.18</Price3>
+<Price4>61.38</Price4>
+<Price5>61.38</Price5>
+<Price6>61.38</Price6>
+<Price7>184.24</Price7>
+<Price8>184.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/kurmed-fix-flaster-5cm-x-5m-8906.jpg</Image1>
@@ -41704,7 +41704,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>42</Stock>
+<Stock>43</Stock>
 <Miad>2026-11-01</Miad>
 <Price>308.00</Price>
 <Price2>352.64</Price2>
@@ -49596,7 +49596,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>71</Stock>
+<Stock>70</Stock>
 <Miad>2029-05-01</Miad>
 <Price>205.90</Price>
 <Price2>242.37</Price2>
@@ -66003,7 +66003,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>35</Stock>
 <Miad></Miad>
 <Price>149.90</Price>
 <Price2>181.89</Price2>
@@ -67625,7 +67625,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>9</Stock>
 <Miad>2028-07-01</Miad>
 <Price>699.90</Price>
 <Price2>775.89</Price2>
@@ -68095,14 +68095,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -74568,7 +74568,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>699.90</Price>
 <Price2>775.89</Price2>
@@ -76501,7 +76501,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>2420.90</Price>
 <Price2>2634.57</Price2>
@@ -77611,7 +77611,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>35</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>242.37</Price2>
@@ -81804,7 +81804,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>109</Stock>
+<Stock>0</Stock>
 <Miad>2028-02-01</Miad>
 <Price>598.90</Price>
 <Price2>666.81</Price2>
@@ -81816,10 +81816,10 @@
 <Price8>928.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546090426_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546090426_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546090426_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Elenatal 1 30 Tablet</strong>, gebelik öncesi, gebelik ve laktasyon döneminde kullanılan özel bir gebelik vitamini ve mineraller takviyesidir. Folik asit, demir, kalsiyum, D vitamini ve diğer temel mikro besinlerin dengeli kombinasyonu ile anne ve bebek sağlığını destekler.</p><h2>Elenatal 1 30 Tablet Özellikleri</h2><ul><li>Gebelik öncesi, gebelik ve laktasyon döneminde kullanım için özel olarak formulate edilmiştir.</li><li>Her tablet 400 mikrogram folik asit içerir, nöralboruğu açığı riskini azaltmaya yardımcı olur.</li><li>Demir içeriği, gebelikteki kan hacmi artışıyla birlikte demir ihtiyacını karşılamaya destek olur.</li><li>Kalsiyum ve D vitamini, bebek kemik gelişimi ve anne kemik sağlığını destekler.</li><li>B12 ve B6 vitamilleri, enerji üretilmesi ve nöron fonksiyonu için önemlidir.</li><li>Cinko ve selenyum gibi mikromineraller, bağışıklık sistemi ve hücre bölünmesini destekler.</li><li>Gluten içermez, laktoz içermediği için hassas sistemlere uygun olabilir.</li><li>Boje ve yapay renk maddeleri içermez.</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için önerilen kullanım: Günlük 1 tablet, öğle yemeği veya akşam yemeği ile birlikte suyla alınması önerir. Tabletleri çiğnemeyin, ezmeyin veya parçalamayın. Gebelik öncesinden gebelik boyunca ve laktasyon döneminde düzenli olarak kullanılabilir. Kullanım süresi ve dozajı hakkında emin değilseniz, eczacınız veya hekiminizle danışın.</p><h2>Uyarılar</h2><p>Bu ürün bir ilaç değildir, tıbbi tedavinin yerini tutmaz. Gebelik, emzirme veya kronik bir hastalığınız varsa, kullanmadan önce hekiminiz veya eczacınızla görüşün. Çocukların ulaşamayacağı şekilde, 25°C’yi aşmayan sıcaklıkta ve nemli olmayan ortamda saklayın. Önerilen günlük doz aşılmamalıdır. Fazla konsumsiyonun beklenmedik etkilere yol açabileceğini unutmayın. Etiketteki tüm bilgileri okuduktan sonra kullanın. Elenatal 1 30 Tablet, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-1-30-tablet-21931.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-1-30-tablet-21932.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-1-30-tablet-21933.jpg</Image3>
+<Description><![CDATA[<section><p><strong>Elenatal 1 30 Tablet</strong>, gebelik &#246;ncesi, gebelik ve laktasyon d&#246;neminde kullan&#305;lan &#246;zel bir gebelik vitamini ve mineraller takviyesidir. Folik asit, demir, kalsiyum, D vitamini ve di&#287;er temel mikro besinlerin dengeli kombinasyonu ile anne ve bebek sa&#287;l&#305;&#287;&#305;n&#305; destekler.</p><h2>Elenatal 1 30 Tablet &#214;zellikleri</h2><ul><li>Gebelik &#246;ncesi, gebelik ve laktasyon d&#246;neminde kullan&#305;m i&#231;in &#246;zel olarak formulate edilmi&#351;tir.</li><li>Her tablet 400 mikrogram folik asit i&#231;erir, n&#246;ralboru&#287;u a&#231;&#305;&#287;&#305; riskini azaltmaya yard&#305;mc&#305; olur.</li><li>Demir i&#231;eri&#287;i, gebelikteki kan hacmi art&#305;&#351;&#305;yla birlikte demir ihtiyac&#305;n&#305; kar&#351;&#305;lamaya destek olur.</li><li>Kalsiyum ve D vitamini, bebek kemik geli&#351;imi ve anne kemik sa&#287;l&#305;&#287;&#305;n&#305; destekler.</li><li>B12 ve B6 vitamilleri, enerji &#252;retilmesi ve n&#246;ron fonksiyonu i&#231;in &#246;nemlidir.</li><li>Cinko ve selenyum gibi mikromineraller, ba&#287;&#305;&#351;&#305;kl&#305;k sistemi ve h&#252;cre b&#246;l&#252;nmesini destekler.</li><li>Gluten i&#231;ermez, laktoz i&#231;ermedi&#287;i i&#231;in hassas sistemlere uygun olabilir.</li><li>Boje ve yapay renk maddeleri i&#231;ermez.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in &#246;nerilen kullan&#305;m: G&#252;nl&#252;k 1 tablet, &#246;&#287;le yeme&#287;i veya ak&#351;am yeme&#287;i ile birlikte suyla al&#305;nmas&#305; &#246;nerir. Tabletleri &#231;i&#287;nemeyin, ezmeyin veya par&#231;alamay&#305;n. Gebelik &#246;ncesinden gebelik boyunca ve laktasyon d&#246;neminde d&#252;zenli olarak kullan&#305;labilir. Kullan&#305;m s&#252;resi ve dozaj&#305; hakk&#305;nda emin de&#287;ilseniz, eczac&#305;n&#305;z veya hekiminizle dan&#305;&#351;&#305;n.</p><h2>Uyar&#305;lar</h2><p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir, t&#305;bbi tedavinin yerini tutmaz. Gebelik, emzirme veya kronik bir hastal&#305;&#287;&#305;n&#305;z varsa, kullanmadan &#246;nce hekiminiz veya eczac&#305;n&#305;zla g&#246;r&#252;&#351;&#252;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; &#351;ekilde, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta ve nemli olmayan ortamda saklay&#305;n. &#214;nerilen g&#252;nl&#252;k doz a&#351;&#305;lmamal&#305;d&#305;r. Fazla konsumsiyonun beklenmedik etkilere yol a&#231;abilece&#287;ini unutmay&#305;n. Etiketteki t&#252;m bilgileri okuduktan sonra kullan&#305;n. Elenatal 1 30 Tablet, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01866]]></Product_code>
@@ -81829,7 +81829,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>111</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>628.90</Price>
 <Price2>699.21</Price2>
@@ -81841,31 +81841,31 @@
 <Price8>969.90</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546190386_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546190386_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546190386_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Elenatal 2 30 Kapsül</strong>, gebelik ve laktasyon dönemindeki annelerin günlük vitamin ve minerale ihtiyaçlarını karşılamak için özel olarak geliştirilmiş bir prenatal multivitamin takviyesidir. Folik asit, demir, kalsiyum ve D vitamini gibi kritik besinleri dengeli oranlarda içererek, gebelikte beyin ve omurilik développerliğini destekler, anne kanını zenginleştirerek demir eksikliği riskini azaltır ve kemik sağlığını korur. Laktasyon döneminde ise annenin sütü üzerinden bebeğe aktarılacak besinlerin yeterliliğini sağlayarak, hem annenin hem de bebeğin beslenme dengesi için kapsayıcı bir destek sunar.</p>
-<h2>Elenatal 2 30 Kapsül Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-2-30-kapsul-21934.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-2-30-kapsul-21935.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-2-30-kapsul-21936.jpg</Image3>
+<Description><![CDATA[<section><p><strong>Elenatal 2 30 Kaps&#252;l</strong>, gebelik ve laktasyon d&#246;nemindeki annelerin g&#252;nl&#252;k vitamin ve minerale ihtiya&#231;lar&#305;n&#305; kar&#351;&#305;lamak i&#231;in &#246;zel olarak geli&#351;tirilmi&#351; bir prenatal multivitamin takviyesidir. Folik asit, demir, kalsiyum ve D vitamini gibi kritik besinleri dengeli oranlarda i&#231;ererek, gebelikte beyin ve omurilik d&#233;velopperli&#287;ini destekler, anne kan&#305;n&#305; zenginle&#351;tirerek demir eksikli&#287;i riskini azalt&#305;r ve kemik sa&#287;l&#305;&#287;&#305;n&#305; korur. Laktasyon d&#246;neminde ise annenin s&#252;t&#252; &#252;zerinden bebe&#287;e aktar&#305;lacak besinlerin yeterlili&#287;ini sa&#287;layarak, hem annenin hem de bebe&#287;in beslenme dengesi i&#231;in kapsay&#305;c&#305; bir destek sunar.</p>
+<h2>Elenatal 2 30 Kaps&#252;l &#214;zellikleri</h2>
 <ul>
-<li>Gebelik ve laktasyon döneminde kullanım için özel olarak formulate edilmiştir.</li>
-<li>400 µg folik asit içerir; nöral tüplerin doğru gelişimi için kritik öneme sahiptir.</li>
-<li>14 mg demir (ferrous fumarate) içerir; anne kanının üretimini destekler ve demir eksikliği riskini azaltır.</li>
-<li>200 mg kalsiyum içerir; anne ve bebeğin kemik gelişimi ve diş sağlığı için esastır.</li>
-<li>10 µg D3 vitamini içerir; kalsiyum emilimini artırır ve bağışıklık sistemini destekler.</li>
-<li>B12 ve B6 vitamini içerir; enerji üretimi, nöron fonksiyonu ve homosistein metabolizması için gerekli.</li>
-<li>Cinko ve selenyum gibi antioksidan mineraller içerir; hücre hasarına karşı koruyucu etki gösterir.</li>
-<li>Gluten, laktóz ve jeyen içermez; hassas sistemli anneler için uygundur.</li>
-<li>Gastrointestinal rahatsızlığı azaltıcı yumuşak kapsül formülasyonu ile üretilmiştir.</li>
-<li>Her gün 1 kapsül önerilen doz ile kullanım kolaylığı sağlar.</li>
-<li>30 günlük kullanım için uygun ambalaj ile pratik tedavi süresi sunar.</li>
-<li>Türkiye Cumhuriyeti Sağlık Bakanlığı tarafından onaylanmış bir prenatal takviyedir.</li>
-<li>Farmaneva'da güvenilir ve orijinal olarak temin edilebilir.</li>
+<li>Gebelik ve laktasyon d&#246;neminde kullan&#305;m i&#231;in &#246;zel olarak formulate edilmi&#351;tir.</li>
+<li>400 &#181;g folik asit i&#231;erir; n&#246;ral t&#252;plerin do&#287;ru geli&#351;imi i&#231;in kritik &#246;neme sahiptir.</li>
+<li>14 mg demir (ferrous fumarate) i&#231;erir; anne kan&#305;n&#305;n &#252;retimini destekler ve demir eksikli&#287;i riskini azalt&#305;r.</li>
+<li>200 mg kalsiyum i&#231;erir; anne ve bebe&#287;in kemik geli&#351;imi ve di&#351; sa&#287;l&#305;&#287;&#305; i&#231;in esast&#305;r.</li>
+<li>10 &#181;g D3 vitamini i&#231;erir; kalsiyum emilimini art&#305;r&#305;r ve ba&#287;&#305;&#351;&#305;kl&#305;k sistemini destekler.</li>
+<li>B12 ve B6 vitamini i&#231;erir; enerji &#252;retimi, n&#246;ron fonksiyonu ve homosistein metabolizmas&#305; i&#231;in gerekli.</li>
+<li>Cinko ve selenyum gibi antioksidan mineraller i&#231;erir; h&#252;cre hasar&#305;na kar&#351;&#305; koruyucu etki g&#246;sterir.</li>
+<li>Gluten, lakt&#243;z ve jeyen i&#231;ermez; hassas sistemli anneler i&#231;in uygundur.</li>
+<li>Gastrointestinal rahats&#305;zl&#305;&#287;&#305; azalt&#305;c&#305; yumu&#351;ak kaps&#252;l form&#252;lasyonu ile &#252;retilmi&#351;tir.</li>
+<li>Her g&#252;n 1 kaps&#252;l &#246;nerilen doz ile kullan&#305;m kolayl&#305;&#287;&#305; sa&#287;lar.</li>
+<li>30 g&#252;nl&#252;k kullan&#305;m i&#231;in uygun ambalaj ile pratik tedavi s&#252;resi sunar.</li>
+<li>T&#252;rkiye Cumhuriyeti Sa&#287;l&#305;k Bakanl&#305;&#287;&#305; taraf&#305;ndan onaylanm&#305;&#351; bir prenatal takviyedir.</li>
+<li>Farmaneva'da g&#252;venilir ve orijinal olarak temin edilebilir.</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Elenatal 2 30 Kapsül, gebelik planlamasından başlayarak gebelik tüm süresi ve laktasyon döneminde günlük 1 kapsül olarak alınmalıdır. Kapsülü, öğle veya akşam yemeği ile birlikte, bir bardak suyla yutulması önerilir. Boş cona alınmamalıdır; mide rahatsızlığı riskini azaltmak için yemek sonrası tercih edilmelidir. Günlük önerilen doz aşılmamalıdır; daha fazla alım ekstra fayda sağlamaz ve bazı minerallerin birikmesiyle ilgili riskleri artırabilir. Kullanım süresi hakkında emin değilseniz, kullanmaya başlamadan önce hekabiniz veya eczacınızla danışınız.</p>
-<h2>Uyarılar</h2>
-<p>Bu ürün bir ilaç değildir; besin takviyesi kategorisindedir ve herhangi bir hastalığı tedavi, önleme veya iyileştirme iddiasında bulunmaz. Gebelikte veya emzirirken kullanmadan önce mutlaka hekabiniz veya eczacınızla danışınız. Özellikle kan dilüayıcı ilaçlar (örneğin varfarin), antibiyotikler veya diğer takviyeler kullanıyorsanız, etkileşim riski için profesyonel danışmanlık alın. Ürünü sıcaklık 25°C'yi geçirmeyen, nemli olmayan ve doğrudan güneş ışığından korunan vişneli, serbest havalandırılan bir ortamda saklayın. Çocukların ulaşamayacağı yerde tutun. Şiddetli mide bulantısı, kusma, éştiyağsızlık veya алерjik reaksiyon (örneğin cilt çıkıntısı, ödem, nefes darlığı) gözlemlenirse kullanımı durdurun ve hemen sağlık profesyoneline başvurun. Aşırı demir alımı özellikle çocuklar için tehlikelidir; dolayısıyla ürünü çocukların elinden uzak tutun. Etiketindeki tüm bilgileri okuduktan sonra kullanmaya başlayın.</p>
-<p>Elenatal 2 30 Kapsül, Farmaneva'da orijinal ve güvenilir olarak bulabilirsiniz.</p></section>]]></Description>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Elenatal 2 30 Kaps&#252;l, gebelik planlamas&#305;ndan ba&#351;layarak gebelik t&#252;m s&#252;resi ve laktasyon d&#246;neminde g&#252;nl&#252;k 1 kaps&#252;l olarak al&#305;nmal&#305;d&#305;r. Kaps&#252;l&#252;, &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte, bir bardak suyla yutulmas&#305; &#246;nerilir. Bo&#351; cona al&#305;nmamal&#305;d&#305;r; mide rahats&#305;zl&#305;&#287;&#305; riskini azaltmak i&#231;in yemek sonras&#305; tercih edilmelidir. G&#252;nl&#252;k &#246;nerilen doz a&#351;&#305;lmamal&#305;d&#305;r; daha fazla al&#305;m ekstra fayda sa&#287;lamaz ve baz&#305; minerallerin birikmesiyle ilgili riskleri art&#305;rabilir. Kullan&#305;m s&#252;resi hakk&#305;nda emin de&#287;ilseniz, kullanmaya ba&#351;lamadan &#246;nce hekabiniz veya eczac&#305;n&#305;zla dan&#305;&#351;&#305;n&#305;z.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir; besin takviyesi kategorisindedir ve herhangi bir hastal&#305;&#287;&#305; tedavi, &#246;nleme veya iyile&#351;tirme iddias&#305;nda bulunmaz. Gebelikte veya emzirirken kullanmadan &#246;nce mutlaka hekabiniz veya eczac&#305;n&#305;zla dan&#305;&#351;&#305;n&#305;z. &#214;zellikle kan dil&#252;ay&#305;c&#305; ila&#231;lar (&#246;rne&#287;in varfarin), antibiyotikler veya di&#287;er takviyeler kullan&#305;yorsan&#305;z, etkile&#351;im riski i&#231;in profesyonel dan&#305;&#351;manl&#305;k al&#305;n. &#220;r&#252;n&#252; s&#305;cakl&#305;k 25&#176;C'yi ge&#231;irmeyen, nemli olmayan ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan korunan vi&#351;neli, serbest havaland&#305;r&#305;lan bir ortamda saklay&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde tutun. &#350;iddetli mide bulant&#305;s&#305;, kusma, &#233;&#351;tiya&#287;s&#305;zl&#305;k veya &#1072;&#1083;&#1077;&#1088;jik reaksiyon (&#246;rne&#287;in cilt &#231;&#305;k&#305;nt&#305;s&#305;, &#246;dem, nefes darl&#305;&#287;&#305;) g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve hemen sa&#287;l&#305;k profesyoneline ba&#351;vurun. A&#351;&#305;r&#305; demir al&#305;m&#305; &#246;zellikle &#231;ocuklar i&#231;in tehlikelidir; dolay&#305;s&#305;yla &#252;r&#252;n&#252; &#231;ocuklar&#305;n elinden uzak tutun. Etiketindeki t&#252;m bilgileri okuduktan sonra kullanmaya ba&#351;lay&#305;n.</p>
+<p>Elenatal 2 30 Kaps&#252;l, Farmaneva'da orijinal ve g&#252;venilir olarak bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01867]]></Product_code>
@@ -81875,7 +81875,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>112</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>689.90</Price>
 <Price2>765.09</Price2>
@@ -81887,10 +81887,10 @@
 <Price8>1053.38</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546190362_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546190362_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699546190362_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Elenatal 3 30 Kapsül</strong>, 3. trimester gebelik döneminde kullanımına özel olarak geliştirilmiş gebelik vitamini takviyesidir. Gebelik son döneminde anne ve bebek ihtiyaçlarını karşılamak için folik asit, demir, kalsiyum, DHA ve diğer temel vitamin ve minerallerden oluşan kapsül formülasyonu sunar.</p><h2>Elenatal 3 30 Kapsül Özellikleri</h2><ul><li>30 günlük kullanım için 30 kapsül içerir</li><li>Gebelik 3. trimestresi için özel formülasyon</li><li>Folik asit içerir ve nöral tüplerin gelişimini destekler</li><li>Demir içerir ve gebelik anemisini önlemeye yardımcı olur</li><li>Kalsiyum ve D vitamini içerir ve bebek kemik gelişimini destekler</li><li>DHA (omega-3) içerir ve bebek beyn ve göz gelişimine katkı sağlar</li><li>C vitamini içerir ve demir emilimini artırır</li><li>B12 vitamini içerir ve nöron fonksiyonunu destekler</li><li>Gluten içermez ve laktoz intoleransı olanlar için uygundur</li><li>Boşta alınması önerilen kapsül formudur</li></ul><h2>Nasıl Kullanılır?</h2><p>Elenatal 3, gebelik 3. trimestresi başından doğuma kadar günlük 1 kapsül olarak alınır. Kapsülü öğle veya akşam yemeği ile birlikte, bir bardak suyla yutulması önerir. Boşta alınması absorpsiyonu artırabilir ancak mide bulantısı yaşayanlar öğle yemeği ile birlikte alabilir. Günlük önerilen doz aşılmamalıdır. Kullanım süresi hakkında eczacınız veya hekiminizle danışmanız gerekir.</p><h2>Uyarılar</h2><p>Bu ürün bir ilaç değildir ve gebelikteki besin ihtiyaçlarını tamamlamak için bir takviyedir. Hekiminizin önerdiği gebelik kontrollerini ihmal etmeyin. Aşırı demir alımı mide bulantısı, kabızlık veya mide ağrısı veroorabilir. Böyle bir durum yaşarsanız kullanımı geçici olarak durdurun ve eczacınıza danışın. Vitamin A içeriği yüksek olan diğer takviyelerle birlikte kullanılmamalıdır. 18 yaş altındaki bireyler için uygundur. Şişirme, gaz veya hafif mide rahatsızlığı gibi yan etkiler gözlemlenirse kullanımı bırakın ve sağlık uzmanına başvurun. Saklama: 25°C’yi aşmayan, nemli ve ısıya karşı koruyucu bir yerde, çocukların ulaşamayacağı şekilde kapalı tutulur.</p><p>Elenatal 3 30 Kapsül, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-3-30-kapsul-21937.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-3-30-kapsul-21938.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elenatal-3-30-kapsul-21939.jpg</Image3>
+<Description><![CDATA[<section><p><strong>Elenatal 3 30 Kaps&#252;l</strong>, 3. trimester gebelik d&#246;neminde kullan&#305;m&#305;na &#246;zel olarak geli&#351;tirilmi&#351; gebelik vitamini takviyesidir. Gebelik son d&#246;neminde anne ve bebek ihtiya&#231;lar&#305;n&#305; kar&#351;&#305;lamak i&#231;in folik asit, demir, kalsiyum, DHA ve di&#287;er temel vitamin ve minerallerden olu&#351;an kaps&#252;l form&#252;lasyonu sunar.</p><h2>Elenatal 3 30 Kaps&#252;l &#214;zellikleri</h2><ul><li>30 g&#252;nl&#252;k kullan&#305;m i&#231;in 30 kaps&#252;l i&#231;erir</li><li>Gebelik 3. trimestresi i&#231;in &#246;zel form&#252;lasyon</li><li>Folik asit i&#231;erir ve n&#246;ral t&#252;plerin geli&#351;imini destekler</li><li>Demir i&#231;erir ve gebelik anemisini &#246;nlemeye yard&#305;mc&#305; olur</li><li>Kalsiyum ve D vitamini i&#231;erir ve bebek kemik geli&#351;imini destekler</li><li>DHA (omega-3) i&#231;erir ve bebek beyn ve g&#246;z geli&#351;imine katk&#305; sa&#287;lar</li><li>C vitamini i&#231;erir ve demir emilimini art&#305;r&#305;r</li><li>B12 vitamini i&#231;erir ve n&#246;ron fonksiyonunu destekler</li><li>Gluten i&#231;ermez ve laktoz intolerans&#305; olanlar i&#231;in uygundur</li><li>Bo&#351;ta al&#305;nmas&#305; &#246;nerilen kaps&#252;l formudur</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Elenatal 3, gebelik 3. trimestresi ba&#351;&#305;ndan do&#287;uma kadar g&#252;nl&#252;k 1 kaps&#252;l olarak al&#305;n&#305;r. Kaps&#252;l&#252; &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte, bir bardak suyla yutulmas&#305; &#246;nerir. Bo&#351;ta al&#305;nmas&#305; absorpsiyonu art&#305;rabilir ancak mide bulant&#305;s&#305; ya&#351;ayanlar &#246;&#287;le yeme&#287;i ile birlikte alabilir. G&#252;nl&#252;k &#246;nerilen doz a&#351;&#305;lmamal&#305;d&#305;r. Kullan&#305;m s&#252;resi hakk&#305;nda eczac&#305;n&#305;z veya hekiminizle dan&#305;&#351;man&#305;z gerekir.</p><h2>Uyar&#305;lar</h2><p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve gebelikteki besin ihtiya&#231;lar&#305;n&#305; tamamlamak i&#231;in bir takviyedir. Hekiminizin &#246;nerdi&#287;i gebelik kontrollerini ihmal etmeyin. A&#351;&#305;r&#305; demir al&#305;m&#305; mide bulant&#305;s&#305;, kab&#305;zl&#305;k veya mide a&#287;r&#305;s&#305; veroorabilir. B&#246;yle bir durum ya&#351;arsan&#305;z kullan&#305;m&#305; ge&#231;ici olarak durdurun ve eczac&#305;n&#305;za dan&#305;&#351;&#305;n. Vitamin A i&#231;eri&#287;i y&#252;ksek olan di&#287;er takviyelerle birlikte kullan&#305;lmamal&#305;d&#305;r. 18 ya&#351; alt&#305;ndaki bireyler i&#231;in uygundur. &#350;i&#351;irme, gaz veya hafif mide rahats&#305;zl&#305;&#287;&#305; gibi yan etkiler g&#246;zlemlenirse kullan&#305;m&#305; b&#305;rak&#305;n ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurun. Saklama: 25&#176;C&#8217;yi a&#351;mayan, nemli ve &#305;s&#305;ya kar&#351;&#305; koruyucu bir yerde, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; &#351;ekilde kapal&#305; tutulur.</p><p>Elenatal 3 30 Kaps&#252;l, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01868]]></Product_code>
@@ -81901,7 +81901,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-07-01</Miad>
 <Price>599.90</Price>
 <Price2>667.89</Price2>
@@ -81913,10 +81913,10 @@
 <Price8>930.21</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3504105037581_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3504105037581_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3504105037581_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Mustela Stelatopia Intense 30 ml</strong>, atopik ve çok kuru ciltli bebekler ve çocuklar için özel olarak geliştirilmiş yoğun nemlendirici bir cremdir. Hassas cilt tipi olan 0+ yaş grubu bebeklerden yetişkinlere kadar güvenle kullanılabilir.</p><h2>Mustela Stelatopia Intense 30 ml Özellikleri</h2><ul><li>AtoPIK cilt belirtilerini azaltmaya yardımcı olur</li><li>Cilt bariyerini güçlendirir ve nem tutar</li><li>Uzun süreli nemlendirme etkisi sağlar</li><li>Hassas cilt için hipoalerjenik formülasyon</li><li>Paraben, ftalat ve fenoksi etanol içermez</li><li>Doğal kaynaklı avokado perseosi ve şeya yağı içerir</li><li>Klinik olarak atopik ciltte etkili ve güvenli olduğu gösterilmiştir</li><li>Hızlı emilir, yapışmaz ve yağlı bırakmaz</li><li>Günlük kullanım için uygundur, banyo sonrası uygulanması önerilir</li></ul><h2>Nasıl Kullanılır?</h2><p>Temiz ve nemli cilt üzerine hafifçe masaj yaparak uygulayın. Özellikle banyo sonrası veya cilt hissi gerediğinde 1-2 kez gün içinde kullanılabilir. Hassas bölgelere (yüz, kollarnın iç kısmı, diz arkası vb.) güvenle uygulanabilir. Kullanım öncesi elinizi yıkayın ve ürünü temiz ellerle alın.</p><h2>Uyarılar</h2><p>Yalnız dış kullanım içindir. Gözle temas edilirse, hemen bol suyla yıkayın. İrritasyon veya alerjik reaksiyon oluşursa kullanımı durdurun ve hekime veya eczacıya danışın. 3 yaş altındaki çocuklarda kullanım öncesi bir cilt testi yapılması önerilir. Serin, kuru ve doğrudan güneş ışığından uzakta saklayın. Çocukların elinin ulaşamayacağı güvenli bir yerde depolayın. Son kullanma tarihini kontrol edin, expired ürün kullanmayın.</p><p>Mustela Stelatopia Intense 30 ml ürününü Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mustela-stelatopia-intense-30-ml-21940.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mustela-stelatopia-intense-30-ml-21941.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mustela-stelatopia-intense-30-ml-21942.jpg</Image3>
+<Description><![CDATA[<section><p><strong>Mustela Stelatopia Intense 30 ml</strong>, atopik ve &#231;ok kuru ciltli bebekler ve &#231;ocuklar i&#231;in &#246;zel olarak geli&#351;tirilmi&#351; yo&#287;un nemlendirici bir cremdir. Hassas cilt tipi olan 0+ ya&#351; grubu bebeklerden yeti&#351;kinlere kadar g&#252;venle kullan&#305;labilir.</p><h2>Mustela Stelatopia Intense 30 ml &#214;zellikleri</h2><ul><li>AtoPIK cilt belirtilerini azaltmaya yard&#305;mc&#305; olur</li><li>Cilt bariyerini g&#252;&#231;lendirir ve nem tutar</li><li>Uzun s&#252;reli nemlendirme etkisi sa&#287;lar</li><li>Hassas cilt i&#231;in hipoalerjenik form&#252;lasyon</li><li>Paraben, ftalat ve fenoksi etanol i&#231;ermez</li><li>Do&#287;al kaynakl&#305; avokado perseosi ve &#351;eya ya&#287;&#305; i&#231;erir</li><li>Klinik olarak atopik ciltte etkili ve g&#252;venli oldu&#287;u g&#246;sterilmi&#351;tir</li><li>H&#305;zl&#305; emilir, yap&#305;&#351;maz ve ya&#287;l&#305; b&#305;rakmaz</li><li>G&#252;nl&#252;k kullan&#305;m i&#231;in uygundur, banyo sonras&#305; uygulanmas&#305; &#246;nerilir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Temiz ve nemli cilt &#252;zerine hafif&#231;e masaj yaparak uygulay&#305;n. &#214;zellikle banyo sonras&#305; veya cilt hissi geredi&#287;inde 1-2 kez g&#252;n i&#231;inde kullan&#305;labilir. Hassas b&#246;lgelere (y&#252;z, kollarn&#305;n i&#231; k&#305;sm&#305;, diz arkas&#305; vb.) g&#252;venle uygulanabilir. Kullan&#305;m &#246;ncesi elinizi y&#305;kay&#305;n ve &#252;r&#252;n&#252; temiz ellerle al&#305;n.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;z d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas edilirse, hemen bol suyla y&#305;kay&#305;n. &#304;rritasyon veya alerjik reaksiyon olu&#351;ursa kullan&#305;m&#305; durdurun ve hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. 3 ya&#351; alt&#305;ndaki &#231;ocuklarda kullan&#305;m &#246;ncesi bir cilt testi yap&#305;lmas&#305; &#246;nerilir. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. &#199;ocuklar&#305;n elinin ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde depolay&#305;n. Son kullanma tarihini kontrol edin, expired &#252;r&#252;n kullanmay&#305;n.</p><p>Mustela Stelatopia Intense 30 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01869]]></Product_code>
@@ -81927,7 +81927,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>444.00</Price>
 <Price2>499.52</Price2>
@@ -81939,10 +81939,10 @@
 <Price8>716.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141297_0.png</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141297_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141297_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life B Active Trio 30 Tablet</strong>, B1, B6 ve B12 vitaminlerinin aktif formlerini birleştiren bir besin takviyesidir. Günlük stres, yorgunluk ve sinir sistemi yorgunluğunu hisseten yetişkinler için uygun olarak formulatededir. B vitamini kompleksi, enerji üretimi, nörolojik fonksiyon ve kırmızı kan hücreleri oluşumu için esastır. Özellikle yoğun çalışma temposu, düzensiz beslenme veya yaşla birlikte B vitamini emimi azalan bireyler için destek amaçlıdır. Etiketten belirtilen günlük kullanım dozunu aşmamaya dikkat ediniz.</p><h2>New Life B Active Trio 30 Tablet Özellikleri</h2><ul><li>B1 (Tiamin) olarak benfotiamin içerir</li><li>B6 (Piridoksin) olarak piridoxal-5-fosfat (P-5-P) formunda bulunur</li><li>B12 (Kobalamin) olarak metilkobalamin içerir</li><li>Aktif B vitamini formları, doğrudan vücut tarafından kullanılabilir</li><li>Her tablette B1: 100 mg, B6: 50 mg, B12: 500 mcg</li><li>Gluten, laktóz, şeker ve yapay renk maddesi içermez</li><li>Vejetaryenler ve veganlar için uygundur</li><li>Gastrointestinal rahatsızlık riskini azaltan mikroenkapsülasyon teknolojisi kullanılmıştır</li><li>30 tabletlik paket, 1 ay kullanım için yeterlidir</li><li>Üretim süreci GMP ve ISO 22000 standartlarına uygun olarak denetlenmiştir</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günlük 1 tablet, öğle yemeğinden sonra veya öğle yemeğiyle birlikte su ile yutulmalıdır. Tablet çözülmüş, çiğnenmiş veya parçalanmamalıdır. Günlük önerilen doz aşılmamalıdır. Kullanım süresi, bireysel ihtiyaç ve sağlık durumu göre değişebilir; uzun süreli kullanım için sağlık uzmanına danışınız. İlaç kullanıyorsanız, etkileşim riskini önlemek için eczacınıza veya hekiminize gösteriniz.</p><h2>Uyarılar</h2><p>Besin takviyesi olarak kullanılır; ilaç değil, tedavi veya önleyici etkisi claim edilmez. Hamilelik, emzirme veya kronik hastalık (diyabet, karaciğer veya böbrek yetmezliği gibi) bulunanlar kullanmadan önce hekime danışmalıdır. Çocukların ulaşamayacağı, sıcak ve nemli olmayan, 25°C’yi geçmeyen ortamda,オリجinal ambalajında saklanmalıdır. Şiddetli yan etki (aşırı terleme, cilt发红, baş dönmesi) oluşursa kullanım durdurulmalı ve sağlık uzmanına başvurulmalıdır. Ürün tüketime uygun değilse veya son kullanma tarihi geçmişse tüketilmemelidir. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b-active-trio-30-tablet-21943.png</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b-active-trio-30-tablet-21944.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b-active-trio-30-tablet-21945.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life B Active Trio 30 Tablet</strong>, B1, B6 ve B12 vitaminlerinin aktif formlerini birle&#351;tiren bir besin takviyesidir. G&#252;nl&#252;k stres, yorgunluk ve sinir sistemi yorgunlu&#287;unu hisseten yeti&#351;kinler i&#231;in uygun olarak formulatededir. B vitamini kompleksi, enerji &#252;retimi, n&#246;rolojik fonksiyon ve k&#305;rm&#305;z&#305; kan h&#252;creleri olu&#351;umu i&#231;in esast&#305;r. &#214;zellikle yo&#287;un &#231;al&#305;&#351;ma temposu, d&#252;zensiz beslenme veya ya&#351;la birlikte B vitamini emimi azalan bireyler i&#231;in destek ama&#231;l&#305;d&#305;r. Etiketten belirtilen g&#252;nl&#252;k kullan&#305;m dozunu a&#351;mamaya dikkat ediniz.</p><h2>New Life B Active Trio 30 Tablet &#214;zellikleri</h2><ul><li>B1 (Tiamin) olarak benfotiamin i&#231;erir</li><li>B6 (Piridoksin) olarak piridoxal-5-fosfat (P-5-P) formunda bulunur</li><li>B12 (Kobalamin) olarak metilkobalamin i&#231;erir</li><li>Aktif B vitamini formlar&#305;, do&#287;rudan v&#252;cut taraf&#305;ndan kullan&#305;labilir</li><li>Her tablette B1: 100 mg, B6: 50 mg, B12: 500 mcg</li><li>Gluten, lakt&#243;z, &#351;eker ve yapay renk maddesi i&#231;ermez</li><li>Vejetaryenler ve veganlar i&#231;in uygundur</li><li>Gastrointestinal rahats&#305;zl&#305;k riskini azaltan mikroenkaps&#252;lasyon teknolojisi kullan&#305;lm&#305;&#351;t&#305;r</li><li>30 tabletlik paket, 1 ay kullan&#305;m i&#231;in yeterlidir</li><li>&#220;retim s&#252;reci GMP ve ISO 22000 standartlar&#305;na uygun olarak denetlenmi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 tablet, &#246;&#287;le yeme&#287;inden sonra veya &#246;&#287;le yeme&#287;iyle birlikte su ile yutulmal&#305;d&#305;r. Tablet &#231;&#246;z&#252;lm&#252;&#351;, &#231;i&#287;nenmi&#351; veya par&#231;alanmamal&#305;d&#305;r. G&#252;nl&#252;k &#246;nerilen doz a&#351;&#305;lmamal&#305;d&#305;r. Kullan&#305;m s&#252;resi, bireysel ihtiya&#231; ve sa&#287;l&#305;k durumu g&#246;re de&#287;i&#351;ebilir; uzun s&#252;reli kullan&#305;m i&#231;in sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n&#305;z. &#304;la&#231; kullan&#305;yorsan&#305;z, etkile&#351;im riskini &#246;nlemek i&#231;in eczac&#305;n&#305;za veya hekiminize g&#246;steriniz.</p><h2>Uyar&#305;lar</h2><p>Besin takviyesi olarak kullan&#305;l&#305;r; ila&#231; de&#287;il, tedavi veya &#246;nleyici etkisi claim edilmez. Hamilelik, emzirme veya kronik hastal&#305;k (diyabet, karaci&#287;er veya b&#246;brek yetmezli&#287;i gibi) bulunanlar kullanmadan &#246;nce hekime dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305;, s&#305;cak ve nemli olmayan, 25&#176;C&#8217;yi ge&#231;meyen ortamda,&#12458;&#12522;&#1580;inal ambalaj&#305;nda saklanmal&#305;d&#305;r. &#350;iddetli yan etki (a&#351;&#305;r&#305; terleme, cilt&#21457;&#32418;, ba&#351; d&#246;nmesi) olu&#351;ursa kullan&#305;m durdurulmal&#305; ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurulmal&#305;d&#305;r. &#220;r&#252;n t&#252;ketime uygun de&#287;ilse veya son kullanma tarihi ge&#231;mi&#351;se t&#252;ketilmemelidir. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01870]]></Product_code>
@@ -81953,7 +81953,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad>2028-09-01</Miad>
 <Price>248.90</Price>
 <Price2>288.81</Price2>
@@ -81965,30 +81965,30 @@
 <Price8>449.87</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141280_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141280_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141280_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life B12 Plus Methylcobalamin 30 Tablet</strong>, vitamini B12'nin aktif ve biyolojik olarak kullanılabilir formu olan metilcobalamin içerir. Bu form, vitamini B12'nin doğal olarak vücutta bulunan şekli olup, sinir sistemi sağlığını destekler, kan hücrelerinin üretimine katkı sağlar ve yorgunluk hissi azaltmada etkili olabilir. Yetişkinler ve özellikle végétaryen veya vegan beslenmeyenler, yaşlılar ve sindirim sistemi sorunları olanlar için uygun bir destek olarak kullanılabilir.</p>
-<h2>New Life B12 Plus Methylcobalamin 30 Tablet Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b12-plus-methylcobalamin-30-tablet-21946.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b12-plus-methylcobalamin-30-tablet-21947.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b12-plus-methylcobalamin-30-tablet-21948.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life B12 Plus Methylcobalamin 30 Tablet</strong>, vitamini B12'nin aktif ve biyolojik olarak kullan&#305;labilir formu olan metilcobalamin i&#231;erir. Bu form, vitamini B12'nin do&#287;al olarak v&#252;cutta bulunan &#351;ekli olup, sinir sistemi sa&#287;l&#305;&#287;&#305;n&#305; destekler, kan h&#252;crelerinin &#252;retimine katk&#305; sa&#287;lar ve yorgunluk hissi azaltmada etkili olabilir. Yeti&#351;kinler ve &#246;zellikle v&#233;g&#233;taryen veya vegan beslenmeyenler, ya&#351;l&#305;lar ve sindirim sistemi sorunlar&#305; olanlar i&#231;in uygun bir destek olarak kullan&#305;labilir.</p>
+<h2>New Life B12 Plus Methylcobalamin 30 Tablet &#214;zellikleri</h2>
 <ul>
 <li>Her tablette 1000 mcg metilcobalamin (B12) bulunur</li>
-<li>Aktif biyolojik kullanılabilir B12 formu ile yüksek emilimi sağlar</li>
-<li>Sinir sistemi fonksiyonunu destekler ve nörolojik sağlığa katkıda bulunur</li>
-<li>Kırmızı kan hücresi üretiminde rol oynar ve anemi riskini azaltmaya yardımcı olabilir</li>
-<li>Enerji üretimi ve metabolizma süreçlerini destekler</li>
-<li>Homosistein seviyelerinin dengelenmesine katkı sağlar</li>
-<li>Yorgunluk, zayıflık ve konsantrasyon zorlukları hissettiyenler için faydalı olabilir</li>
-<li>Vegan ve végétaryen beslenmeyenler için B12 takviyesi olarak uygundur</li>
-<li>Gluten, laktóz, soya ve süt ürünleri içermez</li>
-<li>Renk, tat ve konserverans maddeleri içermez</li>
-<li>Gastrointestinal rahatsızlığa neden olma riski düşük olan formülasyon</li>
-<li>30 tabletlik paket, günlük kullanım için uygun sürede tüketim sağlar</li>
-<li>Üretim sürecinde kalite kontrol standartlarına uygun olarak üretilmiştir</li>
+<li>Aktif biyolojik kullan&#305;labilir B12 formu ile y&#252;ksek emilimi sa&#287;lar</li>
+<li>Sinir sistemi fonksiyonunu destekler ve n&#246;rolojik sa&#287;l&#305;&#287;a katk&#305;da bulunur</li>
+<li>K&#305;rm&#305;z&#305; kan h&#252;cresi &#252;retiminde rol oynar ve anemi riskini azaltmaya yard&#305;mc&#305; olabilir</li>
+<li>Enerji &#252;retimi ve metabolizma s&#252;re&#231;lerini destekler</li>
+<li>Homosistein seviyelerinin dengelenmesine katk&#305; sa&#287;lar</li>
+<li>Yorgunluk, zay&#305;fl&#305;k ve konsantrasyon zorluklar&#305; hissettiyenler i&#231;in faydal&#305; olabilir</li>
+<li>Vegan ve v&#233;g&#233;taryen beslenmeyenler i&#231;in B12 takviyesi olarak uygundur</li>
+<li>Gluten, lakt&#243;z, soya ve s&#252;t &#252;r&#252;nleri i&#231;ermez</li>
+<li>Renk, tat ve konserverans maddeleri i&#231;ermez</li>
+<li>Gastrointestinal rahats&#305;zl&#305;&#287;a neden olma riski d&#252;&#351;&#252;k olan form&#252;lasyon</li>
+<li>30 tabletlik paket, g&#252;nl&#252;k kullan&#305;m i&#231;in uygun s&#252;rede t&#252;ketim sa&#287;lar</li>
+<li>&#220;retim s&#252;recinde kalite kontrol standartlar&#305;na uygun olarak &#252;retilmi&#351;tir</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler için günlük 1 tablet, öğün sırasında veya öğün sonrası su ile yutulur. Tabletleri çiğnemeyin veya parçalamayın. Günlük önerilen doz aşılmamalıdır. Kullanım süresi ve doz, bireysel ihtiyaç ve sağlık duruma göre değişebileceği için, uzun süreli kullanım öncesinde bir sağlık uzmanına danışılması önerilir. Özellikle hamilelik, emzileme veya kronik hastalık bulunanlar kullanımdan önce doktora veya eczacıya danışmalıdır.</p>
-<h2>Uyarılar</h2>
-<p>Bu ürün bir takviyedir ve ilaç değil; tedavi veya koruyucu bir ilaç olarak kullanılmamalıdır. Kronik hastalık (özellikle karaciğer veya böbrek yetmezliği) bulunanlar, ilaç kullanıyorsanız veya gebelik/emzileme sürecindeyseniz kullanımdan önce hekime veya eczacıya danışın. Çocukların ulaşamayacağı güvenli ve kuru bir ortamda, 25°C'i aşmayan sıcaklıkta ve doğrudan güneş ışığından korunarak saklayın. Şiddetli yan etkiler (aşırı алерji, şişlik, nefes darlığı) gözlemlenirse kullanımı hemen durdurun ve acil tıbbi yardım alın. Aşırı tüketimden kaçının; aşırı B12 alımı nadiren yan etkiye yol açabilir. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 tablet, &#246;&#287;&#252;n s&#305;ras&#305;nda veya &#246;&#287;&#252;n sonras&#305; su ile yutulur. Tabletleri &#231;i&#287;nemeyin veya par&#231;alamay&#305;n. G&#252;nl&#252;k &#246;nerilen doz a&#351;&#305;lmamal&#305;d&#305;r. Kullan&#305;m s&#252;resi ve doz, bireysel ihtiya&#231; ve sa&#287;l&#305;k duruma g&#246;re de&#287;i&#351;ebilece&#287;i i&#231;in, uzun s&#252;reli kullan&#305;m &#246;ncesinde bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;lmas&#305; &#246;nerilir. &#214;zellikle hamilelik, emzileme veya kronik hastal&#305;k bulunanlar kullan&#305;mdan &#246;nce doktora veya eczac&#305;ya dan&#305;&#351;mal&#305;d&#305;r.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n bir takviyedir ve ila&#231; de&#287;il; tedavi veya koruyucu bir ila&#231; olarak kullan&#305;lmamal&#305;d&#305;r. Kronik hastal&#305;k (&#246;zellikle karaci&#287;er veya b&#246;brek yetmezli&#287;i) bulunanlar, ila&#231; kullan&#305;yorsan&#305;z veya gebelik/emzileme s&#252;recindeyseniz kullan&#305;mdan &#246;nce hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; g&#252;venli ve kuru bir ortamda, 25&#176;C'i a&#351;mayan s&#305;cakl&#305;kta ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan korunarak saklay&#305;n. &#350;iddetli yan etkiler (a&#351;&#305;r&#305; &#1072;&#1083;&#1077;&#1088;ji, &#351;i&#351;lik, nefes darl&#305;&#287;&#305;) g&#246;zlemlenirse kullan&#305;m&#305; hemen durdurun ve acil t&#305;bbi yard&#305;m al&#305;n. A&#351;&#305;r&#305; t&#252;ketimden ka&#231;&#305;n&#305;n; a&#351;&#305;r&#305; B12 al&#305;m&#305; nadiren yan etkiye yol a&#231;abilir. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01871]]></Product_code>
@@ -81999,7 +81999,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>35</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -82011,10 +82011,10 @@
 <Price8>723.57</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141006_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141006_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141006_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life B12 Plus Methylcobalamin 60 Tablet</strong>, metilcobalamin biçiminde B12 vitamini içeren bir takviyedir ve özellikle B12 eksikliği riski olan yetişkinler, vegetarianler, yaşlılar ve sindirim sistemi sorunları olanlar için uygundur.</p><h2>New Life B12 Plus Methylcobalamin 60 Tablet Özellikleri</h2><ul><li>Her tablet 1000 mcg metilcobalamin (B12 vitamini) içerir</li><li>B12'nin en aktif ve biyolojik olarak kullanılabilir formu olan metilcobalamin kullanılmıştır</li><li>Nöron fonksiyonunu destekler ve sinir sisteminin sağlıklı çalışması için gerekli olan B12'yi sağlar</li><li>Kırmızı kan hücresi üretimine katkı sağlar ve anemi riskini azaltmaya yardımcı olur</li><li>Enerji üretimi ve metabolizma süreçlerinde önemli rol oynar</li><li>Homosistein seviyelerinin dengelenmesine destek olur</li><li>Sinir hücrelerinin yenilenmesini ve korumasını destekler</li><li>Vejetaryen ve vegan yaşam tarzını izleyenler için ideal bir B12 kaynağıdır</li><li>Gluten, laktoz, soja ve süt ürünleri içermez</li><li>Renkleyici, tatlandırıcı ve konserver maddeler içermez</li><li>60 tabletlik paketle uzun süreli kullanım için uygundur</li><li>Gastrointestinal sistemde iyi tolerelenir ve sindirime kolaydır</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günlük 1 tablet, öğün sırasında veya öğün sonrası su ile yutulur. Doktor veya eczacı tarafından farklı bir dozaj önerilmediği sürece aşırı kullanımından kaçınılmalıdır. Tabletleri çemek veya parçalamayın, bütün olarak alınmalıdır.</p><h2>Uyarılar</h2><p>Bu ürün bir takviyedir ve ilaç değildir. Hastalıkların tedavisi, önlenmesi veya tedavisinde kullanılamaz. Hamilelik, emzirme süresi veya kronik bir hastalığınız varsa (özellikle sindirim, böbrek veya kalp hastalıkları) kullanmadan önce hekiminize veya eczacınıza danışın. Çocukların ulaşamayacağı güvenli, kuru ve sıcak olmayan bir ortamda saklayın. Şiddetli yan etki gözlemlenirse kullanımı durdurun ve sağlık uzmanına başvurun. Aşırı tüketimden kaçının. Yeni Life B12 Plus Methylcobalamin 60 Tablet, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b12-plus-methylcobalamin-60-tablet-21949.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b12-plus-methylcobalamin-60-tablet-21950.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b12-plus-methylcobalamin-60-tablet-21951.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life B12 Plus Methylcobalamin 60 Tablet</strong>, metilcobalamin bi&#231;iminde B12 vitamini i&#231;eren bir takviyedir ve &#246;zellikle B12 eksikli&#287;i riski olan yeti&#351;kinler, vegetarianler, ya&#351;l&#305;lar ve sindirim sistemi sorunlar&#305; olanlar i&#231;in uygundur.</p><h2>New Life B12 Plus Methylcobalamin 60 Tablet &#214;zellikleri</h2><ul><li>Her tablet 1000 mcg metilcobalamin (B12 vitamini) i&#231;erir</li><li>B12'nin en aktif ve biyolojik olarak kullan&#305;labilir formu olan metilcobalamin kullan&#305;lm&#305;&#351;t&#305;r</li><li>N&#246;ron fonksiyonunu destekler ve sinir sisteminin sa&#287;l&#305;kl&#305; &#231;al&#305;&#351;mas&#305; i&#231;in gerekli olan B12'yi sa&#287;lar</li><li>K&#305;rm&#305;z&#305; kan h&#252;cresi &#252;retimine katk&#305; sa&#287;lar ve anemi riskini azaltmaya yard&#305;mc&#305; olur</li><li>Enerji &#252;retimi ve metabolizma s&#252;re&#231;lerinde &#246;nemli rol oynar</li><li>Homosistein seviyelerinin dengelenmesine destek olur</li><li>Sinir h&#252;crelerinin yenilenmesini ve korumas&#305;n&#305; destekler</li><li>Vejetaryen ve vegan ya&#351;am tarz&#305;n&#305; izleyenler i&#231;in ideal bir B12 kayna&#287;&#305;d&#305;r</li><li>Gluten, laktoz, soja ve s&#252;t &#252;r&#252;nleri i&#231;ermez</li><li>Renkleyici, tatland&#305;r&#305;c&#305; ve konserver maddeler i&#231;ermez</li><li>60 tabletlik paketle uzun s&#252;reli kullan&#305;m i&#231;in uygundur</li><li>Gastrointestinal sistemde iyi tolerelenir ve sindirime kolayd&#305;r</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 tablet, &#246;&#287;&#252;n s&#305;ras&#305;nda veya &#246;&#287;&#252;n sonras&#305; su ile yutulur. Doktor veya eczac&#305; taraf&#305;ndan farkl&#305; bir dozaj &#246;nerilmedi&#287;i s&#252;rece a&#351;&#305;r&#305; kullan&#305;m&#305;ndan ka&#231;&#305;n&#305;lmal&#305;d&#305;r. Tabletleri &#231;emek veya par&#231;alamay&#305;n, b&#252;t&#252;n olarak al&#305;nmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Bu &#252;r&#252;n bir takviyedir ve ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n tedavisi, &#246;nlenmesi veya tedavisinde kullan&#305;lamaz. Hamilelik, emzirme s&#252;resi veya kronik bir hastal&#305;&#287;&#305;n&#305;z varsa (&#246;zellikle sindirim, b&#246;brek veya kalp hastal&#305;klar&#305;) kullanmadan &#246;nce hekiminize veya eczac&#305;n&#305;za dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; g&#252;venli, kuru ve s&#305;cak olmayan bir ortamda saklay&#305;n. &#350;iddetli yan etki g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurun. A&#351;&#305;r&#305; t&#252;ketimden ka&#231;&#305;n&#305;n. Yeni Life B12 Plus Methylcobalamin 60 Tablet, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01872]]></Product_code>
@@ -82024,7 +82024,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>0</Stock>
 <Miad>2027-11-01</Miad>
 <Price>919.90</Price>
 <Price2>1013.49</Price2>
@@ -82036,10 +82036,10 @@
 <Price8>1368.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141211_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141211_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141211_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life Bergacol 60 Tablet</strong>, bergamot ve kolesterol destekleyici bitkisel bileşenlerden oluşan bir besin takviyesidir ve kolesterol seviyelerini dengelemek isteyen yetişkinler için uygundur.</p><h2>New Life Bergacol 60 Tablet Özellikleri</h2><ul><li>Her tablet 500 mg standartlaştırılmış bergamot ekstraktı içerir</li><li>Kolesterol metabolizmasını destekleyen flavonoidler ve polifenoller sağlar</li><li>Doğal kaynaklı ve bitkisel bileşenlerden üretilmiştir</li><li>Gluten içermez ve végétaryenler için uygundur</li><li>Laiktoz, şeker ve yapay renk maddeleri içermez</li><li>GMO içermeyen ve allergen düşük formülasyon sunar</li><li>Kolesterol seviyelerini dengelemek için günlük kullanım için tasarlanmıştır</li><li>60 tabletlik ambalajla 2 aylık kullanım süresi sağlar</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günlük 1 tablet, öğle yemeğinden sonra bir bardak suyla tüketilmesi önerilir. Aşırı kullanımından kaçının ve önerilen doz aşmayın. Sürekli kullanım için en az 8-12 hafta önerilir. Tabletleri çözüp veya çiğneyerek almayın, bütün olarak yutunuz.</p><h2>Uyarılar</h2><p>Hamilelik ve emzirme süresi içinde kullanmadan önce hekiminize veya eczacınızla danışınız. Kolesterol lowering ilacı kullanan kişiler bu ürünü kullanmadan önce profesyonel danışmalıdır. Çocukların ulaşamayacağı serin, kuru ve ısıtılmamış bir ortamda saklayınız. Şiddetli yan etki gözlemlenirse kullanımı durdurun ve sağlık uzmanına başvurun. Etiket üzerindeki önerilen doz aşılmamalıdır. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-bergacol-60-tablet-21952.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-bergacol-60-tablet-21953.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-bergacol-60-tablet-21954.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life Bergacol 60 Tablet</strong>, bergamot ve kolesterol destekleyici bitkisel bile&#351;enlerden olu&#351;an bir besin takviyesidir ve kolesterol seviyelerini dengelemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>New Life Bergacol 60 Tablet &#214;zellikleri</h2><ul><li>Her tablet 500 mg standartla&#351;t&#305;r&#305;lm&#305;&#351; bergamot ekstrakt&#305; i&#231;erir</li><li>Kolesterol metabolizmas&#305;n&#305; destekleyen flavonoidler ve polifenoller sa&#287;lar</li><li>Do&#287;al kaynakl&#305; ve bitkisel bile&#351;enlerden &#252;retilmi&#351;tir</li><li>Gluten i&#231;ermez ve v&#233;g&#233;taryenler i&#231;in uygundur</li><li>Laiktoz, &#351;eker ve yapay renk maddeleri i&#231;ermez</li><li>GMO i&#231;ermeyen ve allergen d&#252;&#351;&#252;k form&#252;lasyon sunar</li><li>Kolesterol seviyelerini dengelemek i&#231;in g&#252;nl&#252;k kullan&#305;m i&#231;in tasarlanm&#305;&#351;t&#305;r</li><li>60 tabletlik ambalajla 2 ayl&#305;k kullan&#305;m s&#252;resi sa&#287;lar</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 tablet, &#246;&#287;le yeme&#287;inden sonra bir bardak suyla t&#252;ketilmesi &#246;nerilir. A&#351;&#305;r&#305; kullan&#305;m&#305;ndan ka&#231;&#305;n&#305;n ve &#246;nerilen doz a&#351;may&#305;n. S&#252;rekli kullan&#305;m i&#231;in en az 8-12 hafta &#246;nerilir. Tabletleri &#231;&#246;z&#252;p veya &#231;i&#287;neyerek almay&#305;n, b&#252;t&#252;n olarak yutunuz.</p><h2>Uyar&#305;lar</h2><p>Hamilelik ve emzirme s&#252;resi i&#231;inde kullanmadan &#246;nce hekiminize veya eczac&#305;n&#305;zla dan&#305;&#351;&#305;n&#305;z. Kolesterol lowering ilac&#305; kullanan ki&#351;iler bu &#252;r&#252;n&#252; kullanmadan &#246;nce profesyonel dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin, kuru ve &#305;s&#305;t&#305;lmam&#305;&#351; bir ortamda saklay&#305;n&#305;z. &#350;iddetli yan etki g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurun. Etiket &#252;zerindeki &#246;nerilen doz a&#351;&#305;lmamal&#305;d&#305;r. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01873]]></Product_code>
@@ -82049,7 +82049,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>0</Stock>
 <Miad>2028-03-01</Miad>
 <Price>1064.90</Price>
 <Price2>1170.09</Price2>
@@ -82061,10 +82061,10 @@
 <Price8>1566.57</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140955_0.png</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140955_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140955_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life EFA One 45 Softgel</strong>, esansiyel yağ asitleri (EFA) içerikli bir besin takviyesi olup, özellikle omega-3, omega-6 ve omega-9 yağ asitlerini dengeli oranlarda sağlar. Kalp, beyin ve göz sağlığını desteklemek isteyen yetişkinler için uygundur.</p><h2>New Life EFA One 45 Softgel Özellikleri</h2><ul><li>Her softgel kapsül 1000 mg balık yağı ve bitkisel yağlar karışımı içerir</li><li>EPA ve DHA gibi omega-3 yağ asitlerini sağlar</li><li>GLA (gamma-linolenik asit) gibi omega-6 yağ asitlerini içerir</li><li>Oleik asit gibi omega-9 yağ asitlerini sağlar</li><li>Kaliteli moleküler destilasyona tabi tutulmuş temiz yağ kaynağı kullanılır</li><li>Burun tutamayan, yutulması kolay softgel kapsül formülü</li><li>Gluten, laktoz ve jeyen içermez</li><li>GMO içermeyen, doğal kaynaklardan elde edilen formülasyon</li><li>Antioksidan koruyucu ile karşılamış, oksidasyon karşıtı koruma sağlar</li><li>Ürün, GMP standartlarına uygun tesislerde üretilmiştir</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günlük 1-2 softgel kapsül, öğün sırasında veya eczacı/hekim tavsiyesiyle tüketilmektedir. Kapsülü suyla birlikte yutun, kırmayın veya çiğneyin. Maksimum günlük dozunu aşmayın.</p><h2>Uyarılar</h2><p>Kullanmadan önce hamile, emzirenler, kronik hastalık (özellikle kan amaçlı ilaç kullananlar) bulunan ve düzenli ilaç kullanan kişiler hekime veya eczacıya danışmalıdır. Ürün, çocukların ulaşamayacağı serin, kuru ve ısıtılmayan bir ortamda saklanmalıdır. Direkt güneş ışığı ve nemden korunmalıdır. Alerji geçmişi olanlar, içerik listesini dikkatlice kontrol etmeli. Şiddetli yan etki oluşursa kullanım durdurulmalı ve sağlık uzmanına başvurulmalıdır. 12 yaş altı çocuklar için kullanım önerilmez. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-efa-one-45-softgel-21955.png</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-efa-one-45-softgel-21956.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-efa-one-45-softgel-21957.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life EFA One 45 Softgel</strong>, esansiyel ya&#287; asitleri (EFA) i&#231;erikli bir besin takviyesi olup, &#246;zellikle omega-3, omega-6 ve omega-9 ya&#287; asitlerini dengeli oranlarda sa&#287;lar. Kalp, beyin ve g&#246;z sa&#287;l&#305;&#287;&#305;n&#305; desteklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>New Life EFA One 45 Softgel &#214;zellikleri</h2><ul><li>Her softgel kaps&#252;l 1000 mg bal&#305;k ya&#287;&#305; ve bitkisel ya&#287;lar kar&#305;&#351;&#305;m&#305; i&#231;erir</li><li>EPA ve DHA gibi omega-3 ya&#287; asitlerini sa&#287;lar</li><li>GLA (gamma-linolenik asit) gibi omega-6 ya&#287; asitlerini i&#231;erir</li><li>Oleik asit gibi omega-9 ya&#287; asitlerini sa&#287;lar</li><li>Kaliteli molek&#252;ler destilasyona tabi tutulmu&#351; temiz ya&#287; kayna&#287;&#305; kullan&#305;l&#305;r</li><li>Burun tutamayan, yutulmas&#305; kolay softgel kaps&#252;l form&#252;l&#252;</li><li>Gluten, laktoz ve jeyen i&#231;ermez</li><li>GMO i&#231;ermeyen, do&#287;al kaynaklardan elde edilen form&#252;lasyon</li><li>Antioksidan koruyucu ile kar&#351;&#305;lam&#305;&#351;, oksidasyon kar&#351;&#305;t&#305; koruma sa&#287;lar</li><li>&#220;r&#252;n, GMP standartlar&#305;na uygun tesislerde &#252;retilmi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1-2 softgel kaps&#252;l, &#246;&#287;&#252;n s&#305;ras&#305;nda veya eczac&#305;/hekim tavsiyesiyle t&#252;ketilmektedir. Kaps&#252;l&#252; suyla birlikte yutun, k&#305;rmay&#305;n veya &#231;i&#287;neyin. Maksimum g&#252;nl&#252;k dozunu a&#351;may&#305;n.</p><h2>Uyar&#305;lar</h2><p>Kullanmadan &#246;nce hamile, emzirenler, kronik hastal&#305;k (&#246;zellikle kan ama&#231;l&#305; ila&#231; kullananlar) bulunan ve d&#252;zenli ila&#231; kullanan ki&#351;iler hekime veya eczac&#305;ya dan&#305;&#351;mal&#305;d&#305;r. &#220;r&#252;n, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin, kuru ve &#305;s&#305;t&#305;lmayan bir ortamda saklanmal&#305;d&#305;r. Direkt g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; ve nemden korunmal&#305;d&#305;r. Alerji ge&#231;mi&#351;i olanlar, i&#231;erik listesini dikkatlice kontrol etmeli. &#350;iddetli yan etki olu&#351;ursa kullan&#305;m durdurulmal&#305; ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurulmal&#305;d&#305;r. 12 ya&#351; alt&#305; &#231;ocuklar i&#231;in kullan&#305;m &#246;nerilmez. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01874]]></Product_code>
@@ -82074,7 +82074,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>0</Stock>
 <Miad>2027-07-01</Miad>
 <Price>689.00</Price>
 <Price2>764.12</Price2>
@@ -82086,27 +82086,27 @@
 <Price8>1052.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140290_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140290_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140290_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life EFA S-1200 mg 45 Kapsül</strong>, esansiyel yağ asitleri (EFA) içerir ve özellikle omega-3, omega-6 ve omega-9 yağ asitlerini dengeli bir oranda sağlar. Bu kapsül, günlük diyette yeterli essensiyel yağ asiti almayan yetişkinler için destek amaçlı bir besin takviyesidir.</p>
-<h2>New Life EFA S-1200 mg 45 Kapsül Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-efa-s-1200-mg-45-kapsul-21958.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-efa-s-1200-mg-45-kapsul-21959.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-efa-s-1200-mg-45-kapsul-21960.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life EFA S-1200 mg 45 Kaps&#252;l</strong>, esansiyel ya&#287; asitleri (EFA) i&#231;erir ve &#246;zellikle omega-3, omega-6 ve omega-9 ya&#287; asitlerini dengeli bir oranda sa&#287;lar. Bu kaps&#252;l, g&#252;nl&#252;k diyette yeterli essensiyel ya&#287; asiti almayan yeti&#351;kinler i&#231;in destek ama&#231;l&#305; bir besin takviyesidir.</p>
+<h2>New Life EFA S-1200 mg 45 Kaps&#252;l &#214;zellikleri</h2>
 <ul>
-<li>Her kapsül 1200 mg esansiyel yağ asit karışımı içerir</li>
-<li>Omega-3, omega-6 ve omega-9 yağ asitlerini dengeli oranlarda sağlar</li>
-<li>Balık yağı, keten tohumu yağı ve bürgülü yağı gibi bitkisel kaynaklardan elde edilir</li>
-<li>Kolesterol metabolizmasını destekleyebilir</li>
-<li>Nörolojik fonksiyonlara katkı sağlayabilir</li>
-<li>Cilt sağlığına olumlu etkisi olabilir</li>
-<li>İflamasyon dengelemesinde destekleyici rol oynayabilir</li>
-<li>Günlük yaşamda yeterli EFA alımını destekler</li>
-<li>45 kapsül ile 1,5 ay kullanım süresi sunar</li>
-<li>Gastrointestinal rahatsızlığı azaltmak için enterik kaplı formülasyon</li>
+<li>Her kaps&#252;l 1200 mg esansiyel ya&#287; asit kar&#305;&#351;&#305;m&#305; i&#231;erir</li>
+<li>Omega-3, omega-6 ve omega-9 ya&#287; asitlerini dengeli oranlarda sa&#287;lar</li>
+<li>Bal&#305;k ya&#287;&#305;, keten tohumu ya&#287;&#305; ve b&#252;rg&#252;l&#252; ya&#287;&#305; gibi bitkisel kaynaklardan elde edilir</li>
+<li>Kolesterol metabolizmas&#305;n&#305; destekleyebilir</li>
+<li>N&#246;rolojik fonksiyonlara katk&#305; sa&#287;layabilir</li>
+<li>Cilt sa&#287;l&#305;&#287;&#305;na olumlu etkisi olabilir</li>
+<li>&#304;flamasyon dengelemesinde destekleyici rol oynayabilir</li>
+<li>G&#252;nl&#252;k ya&#351;amda yeterli EFA al&#305;m&#305;n&#305; destekler</li>
+<li>45 kaps&#252;l ile 1,5 ay kullan&#305;m s&#252;resi sunar</li>
+<li>Gastrointestinal rahats&#305;zl&#305;&#287;&#305; azaltmak i&#231;in enterik kapl&#305; form&#252;lasyon</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler için günlük 1-2 kapsül, öğle veya akşam yemeği ile birlikte suyla alınması önerilir. Kapsülü bitirip veya çiğnemeyin. En iyi sonuçlar için düzenli kullanım önemlidir. Kullanım süresi ve dozajı kişisel ihtiyaçlara göre değişebileceğinden, uzun süreli kullanım için bir sağlık uzmanına danışın.</p>
-<h2>Uyarılar</h2>
-<p>Bu ürün bir ilaç değildir ve tedavi amaçlı kullanılmamalıdır. Hamilelik, emzirme süresi veya kronik bir hastalığınız varsa, kullanmadan önce hekminiz veya eczacınızla görüşün. Çocukların ulaşamayacağı serin, kuru ve ısıtılmayan bir yerde, doğrudan güneş ışığından ve nemden uzakta saklayın. Şiddetli gastrointestinal rahatsızlık, алерjik reaksiyon veya abnormal kanama belirtileri gözlemlenirse kullanımı durdurun ve sağlık profesyoneline danışın. Alerjik geçmişiniz varsa, içerik listesini dikkatle kontrol edin. New Life EFA S-1200 mg 45 Kapsül, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1-2 kaps&#252;l, &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte suyla al&#305;nmas&#305; &#246;nerilir. Kaps&#252;l&#252; bitirip veya &#231;i&#287;nemeyin. En iyi sonu&#231;lar i&#231;in d&#252;zenli kullan&#305;m &#246;nemlidir. Kullan&#305;m s&#252;resi ve dozaj&#305; ki&#351;isel ihtiya&#231;lara g&#246;re de&#287;i&#351;ebilece&#287;inden, uzun s&#252;reli kullan&#305;m i&#231;in bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve tedavi ama&#231;l&#305; kullan&#305;lmamal&#305;d&#305;r. Hamilelik, emzirme s&#252;resi veya kronik bir hastal&#305;&#287;&#305;n&#305;z varsa, kullanmadan &#246;nce hekminiz veya eczac&#305;n&#305;zla g&#246;r&#252;&#351;&#252;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin, kuru ve &#305;s&#305;t&#305;lmayan bir yerde, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan ve nemden uzakta saklay&#305;n. &#350;iddetli gastrointestinal rahats&#305;zl&#305;k, &#1072;&#1083;&#1077;&#1088;jik reaksiyon veya abnormal kanama belirtileri g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve sa&#287;l&#305;k profesyoneline dan&#305;&#351;&#305;n. Alerjik ge&#231;mi&#351;iniz varsa, i&#231;erik listesini dikkatle kontrol edin. New Life EFA S-1200 mg 45 Kaps&#252;l, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01875]]></Product_code>
@@ -82116,7 +82116,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>0</Stock>
 <Miad>2028-03-01</Miad>
 <Price>775.00</Price>
 <Price2>857.00</Price2>
@@ -82128,10 +82128,10 @@
 <Price8>1169.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141365_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141365_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141365_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life Mag 4 Day 30 Tablet & Night 30 Tablet</strong>, gün içinde enerji ve odaklanma desteği sağlayan ve gece rahat uykuya yardımcı olan iki farklı formülasyonlu takviye setidir. Gün formülasyonu, yorgunluğun azaltılması ve zihinsel performansın desteklenmesi için tasarlanmış olup, gece formülasyonu ise yorgunluğun hafifletilmesi ve uyku kalitesinin iyileştirilmesine yardımcı olmak üzere özel içerikler içerir. Bu ürün, gün içinde aktif yaşam sürdüren, stres yoğun dönemler geçiren veya uyku düzenini düzenlemek isteyen yetişkinler için uygundur.</p><h2>New Life Mag 4 Day 30 Tablet & Night 30 Tablet Özellikleri</h2><ul><li>Gün ve gece kullanımına özel iki farklı tablet formülasyonu içerir</li><li>Gün formülasyonu, yorgunluğun azaltılması ve zihinsel açıklık desteği sağlar</li><li>Gece formülasyonu, rahatlama ve uykuya geçişi destekleyen içerikler barındırır</li><li>Magnezyum ve B vitamini kompleksi gibi destekleyici mikronütriyentler içerir</li><li>Doğal ekstrakşenler ve bitki destekli maddelerle zenginleştirilmiştir</li><li>Yüksek biyoutenebilirlikli magnesium kaynakları kullanılmıştır</li><li>Gluten, laktóz ve konsantratlı şeker içermez</li><li>Vejetaryenler tarafından güvenle tüketilebilir</li><li>Günlük kullanım için pratik blister ambalajında sunulur</li><li>Üretim süreci GMP standartlarına uygun olarak kontrol edilmiştir</li></ul><h2>Nasıl Kullanılır?</h2><p>Gün tabletlerinden birini sabah öğleden önce, gece tabletlerinden birini ise yatak zamanından yaklaşık 30-60 dakika önce su ile yutun. Gün aşırı kullanımından kaçının ve gece tabletlerini sadece uykuya hazırlık sırasında alın. Aşırı dozajdan kaçınmak için gün içinde maksimum 1 tablet, gece için maksimum 1 tablet aşmamaya özen gösterin. Sürekli kullanım için 4 hafta sonrası bir hafta ara vermek önerilir.</p><h2>Uyarılar</h2><p>Bu ürün bir ilaç değildir ve tedavi amaçlı kullanılmamalıdır. Hamileler, emzirenler, kronik hastalık (özellikle kalp, böbrek veya tiroid hastalıkları) olanlar ve düzenli ilaç kullananlar kullanımdan önce hekimi veya eczacıya danışmalıdır. 18 yaşından küçükler için önerilmez. Serin, kuru ve güneş ışığından korunan ortamda, sıcaklık 25°C'yi aşmayan koşullarda saklayın. Çocukların elinden uzakta tutun. Etikette belirtilen günlük önerilen miktarı aşmayın. Şiddetli yan etki oluşursa kullanımı durdurun ve sağlık profesyoneline başvurun.</p><p>Bu ürün Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-mag-4-day-30-tablet-night-30-tablet-21961.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-mag-4-day-30-tablet-night-30-tablet-21962.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-mag-4-day-30-tablet-night-30-tablet-21963.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life Mag 4 Day 30 Tablet &amp; Night 30 Tablet</strong>, g&#252;n i&#231;inde enerji ve odaklanma deste&#287;i sa&#287;layan ve gece rahat uykuya yard&#305;mc&#305; olan iki farkl&#305; form&#252;lasyonlu takviye setidir. G&#252;n form&#252;lasyonu, yorgunlu&#287;un azalt&#305;lmas&#305; ve zihinsel performans&#305;n desteklenmesi i&#231;in tasarlanm&#305;&#351; olup, gece form&#252;lasyonu ise yorgunlu&#287;un hafifletilmesi ve uyku kalitesinin iyile&#351;tirilmesine yard&#305;mc&#305; olmak &#252;zere &#246;zel i&#231;erikler i&#231;erir. Bu &#252;r&#252;n, g&#252;n i&#231;inde aktif ya&#351;am s&#252;rd&#252;ren, stres yo&#287;un d&#246;nemler ge&#231;iren veya uyku d&#252;zenini d&#252;zenlemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>New Life Mag 4 Day 30 Tablet &amp; Night 30 Tablet &#214;zellikleri</h2><ul><li>G&#252;n ve gece kullan&#305;m&#305;na &#246;zel iki farkl&#305; tablet form&#252;lasyonu i&#231;erir</li><li>G&#252;n form&#252;lasyonu, yorgunlu&#287;un azalt&#305;lmas&#305; ve zihinsel a&#231;&#305;kl&#305;k deste&#287;i sa&#287;lar</li><li>Gece form&#252;lasyonu, rahatlama ve uykuya ge&#231;i&#351;i destekleyen i&#231;erikler bar&#305;nd&#305;r&#305;r</li><li>Magnezyum ve B vitamini kompleksi gibi destekleyici mikron&#252;triyentler i&#231;erir</li><li>Do&#287;al ekstrak&#351;enler ve bitki destekli maddelerle zenginle&#351;tirilmi&#351;tir</li><li>Y&#252;ksek biyoutenebilirlikli magnesium kaynaklar&#305; kullan&#305;lm&#305;&#351;t&#305;r</li><li>Gluten, lakt&#243;z ve konsantratl&#305; &#351;eker i&#231;ermez</li><li>Vejetaryenler taraf&#305;ndan g&#252;venle t&#252;ketilebilir</li><li>G&#252;nl&#252;k kullan&#305;m i&#231;in pratik blister ambalaj&#305;nda sunulur</li><li>&#220;retim s&#252;reci GMP standartlar&#305;na uygun olarak kontrol edilmi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>G&#252;n tabletlerinden birini sabah &#246;&#287;leden &#246;nce, gece tabletlerinden birini ise yatak zaman&#305;ndan yakla&#351;&#305;k 30-60 dakika &#246;nce su ile yutun. G&#252;n a&#351;&#305;r&#305; kullan&#305;m&#305;ndan ka&#231;&#305;n&#305;n ve gece tabletlerini sadece uykuya haz&#305;rl&#305;k s&#305;ras&#305;nda al&#305;n. A&#351;&#305;r&#305; dozajdan ka&#231;&#305;nmak i&#231;in g&#252;n i&#231;inde maksimum 1 tablet, gece i&#231;in maksimum 1 tablet a&#351;mamaya &#246;zen g&#246;sterin. S&#252;rekli kullan&#305;m i&#231;in 4 hafta sonras&#305; bir hafta ara vermek &#246;nerilir.</p><h2>Uyar&#305;lar</h2><p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve tedavi ama&#231;l&#305; kullan&#305;lmamal&#305;d&#305;r. Hamileler, emzirenler, kronik hastal&#305;k (&#246;zellikle kalp, b&#246;brek veya tiroid hastal&#305;klar&#305;) olanlar ve d&#252;zenli ila&#231; kullananlar kullan&#305;mdan &#246;nce hekimi veya eczac&#305;ya dan&#305;&#351;mal&#305;d&#305;r. 18 ya&#351;&#305;ndan k&#252;&#231;&#252;kler i&#231;in &#246;nerilmez. Serin, kuru ve g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan korunan ortamda, s&#305;cakl&#305;k 25&#176;C'yi a&#351;mayan ko&#351;ullarda saklay&#305;n. &#199;ocuklar&#305;n elinden uzakta tutun. Etikette belirtilen g&#252;nl&#252;k &#246;nerilen miktar&#305; a&#351;may&#305;n. &#350;iddetli yan etki olu&#351;ursa kullan&#305;m&#305; durdurun ve sa&#287;l&#305;k profesyoneline ba&#351;vurun.</p><p>Bu &#252;r&#252;n Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01876]]></Product_code>
@@ -82141,7 +82141,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>0</Stock>
 <Miad>2028-04-01</Miad>
 <Price>464.90</Price>
 <Price2>522.09</Price2>
@@ -82153,26 +82153,26 @@
 <Price8>745.47</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141181_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141181_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128141181_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>New Life Mena K2+D3 30 Kapsül</strong>, vitamin D3 ve vitamin K2'nin sentezlenmiş formunu birleştiren bir besin takviyesidir. Bu kapsül, günlük vitamin D ve K ihtiyacını karşılamak isteyen yetişkinler için uygun olup, özellikle kemiğe ve diş sağlığını desteklemeyi amaçlayan formülasyon içerir.</p>
-<h2>New Life Mena K2+D3 30 Kapsül Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-mena-k2-d3-30-kapsul-21964.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-mena-k2-d3-30-kapsul-21965.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-mena-k2-d3-30-kapsul-21966.jpg</Image3>
+<Description><![CDATA[<section><p><strong>New Life Mena K2+D3 30 Kaps&#252;l</strong>, vitamin D3 ve vitamin K2'nin sentezlenmi&#351; formunu birle&#351;tiren bir besin takviyesidir. Bu kaps&#252;l, g&#252;nl&#252;k vitamin D ve K ihtiyac&#305;n&#305; kar&#351;&#305;lamak isteyen yeti&#351;kinler i&#231;in uygun olup, &#246;zellikle kemi&#287;e ve di&#351; sa&#287;l&#305;&#287;&#305;n&#305; desteklemeyi ama&#231;layan form&#252;lasyon i&#231;erir.</p>
+<h2>New Life Mena K2+D3 30 Kaps&#252;l &#214;zellikleri</h2>
 <ul>
-<li>Her kapsül 1000 IU vitamin D3 (kolekalciferol) içerir.</li>
-<li>Her kapsül 45 mcg vitamin K2 (menaquinon-7, MK-7) içerir.</li>
-<li>Vitamin K2, MK-7 formu olarak uzun ömürlü ve yüksekbiyouyarlı sağlanır.</li>
-<li>Vitamin D3, güneş ışığına maruz kalmadan elde edilen etkili bir kaynak sağlar.</li>
-<li>Kapsül içeriği, jeletin olmayan, bitkisel kaynaklıHPSC kapsülle donatılmıştır.</li>
-<li>Ürün, laktoz, gluten, soya ve süt türevleri içermez.</li>
-<li>Renk, tat ve konserveren maddeler içermeyen temiz bir formülasyon sunar.</li>
-<li>Her şişe 30 kapsül içerir ve günlük bir kullanım için 1 aylık tedarik sağlar.</li>
-<li>Ürün, GMP standartlarına uygun tesislerde üretilmiştir.</li>
+<li>Her kaps&#252;l 1000 IU vitamin D3 (kolekalciferol) i&#231;erir.</li>
+<li>Her kaps&#252;l 45 mcg vitamin K2 (menaquinon-7, MK-7) i&#231;erir.</li>
+<li>Vitamin K2, MK-7 formu olarak uzun &#246;m&#252;rl&#252; ve y&#252;ksekbiyouyarl&#305; sa&#287;lan&#305;r.</li>
+<li>Vitamin D3, g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;na maruz kalmadan elde edilen etkili bir kaynak sa&#287;lar.</li>
+<li>Kaps&#252;l i&#231;eri&#287;i, jeletin olmayan, bitkisel kaynakl&#305;HPSC kaps&#252;lle donat&#305;lm&#305;&#351;t&#305;r.</li>
+<li>&#220;r&#252;n, laktoz, gluten, soya ve s&#252;t t&#252;revleri i&#231;ermez.</li>
+<li>Renk, tat ve konserveren maddeler i&#231;ermeyen temiz bir form&#252;lasyon sunar.</li>
+<li>Her &#351;i&#351;e 30 kaps&#252;l i&#231;erir ve g&#252;nl&#252;k bir kullan&#305;m i&#231;in 1 ayl&#305;k tedarik sa&#287;lar.</li>
+<li>&#220;r&#252;n, GMP standartlar&#305;na uygun tesislerde &#252;retilmi&#351;tir.</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler için günlük 1 kapsül, öğle yemeğiyle veya bir öğün sırasında suyla birlikte tüketilmesi önerilir. Kapsülü bitirip içeriği bozmadan yutunuz. Aşırı konsumdan kaçının ve önerilen günlük dozunu aşmayınız. Kullanım süresi ve dozajı hakkında emin değilseniz, kullanmadan önce bir eczacı veya sağlık uzmanına danışınız.</p>
-<h2>Uyarılar</h2>
-<p>Bu ürün bir ilaç değildir ve tedavi veya önleyici bir ilaç olarak kullanılamaz. Hamilelik, emzirme veya kronik bir hastalık (özellikle kalp, böbrek veya kan koagulasyonu ile ilgili) bulunan kişiler kullanmadan önce doktor veya eczacıyla görüşmelidir. Vitamin K, warfarin gibi antikoagülan ilaçlarla etkileşime girebilir; bu tür ilaç kullananlar mutlaka sağlık uzmanına danışmalıdır. Çocukların elinden tutulmamalı ve 12 yaş altı çocuklar tarafından kullanılmamalıdır. Serin, kuru ve doğrudan güneş ışığından korunan ortamda, sıcaklık 25°C'yi aşmayan yerde saklayınız. İçindeki güvenlik pisti bozuk veya eksikse ürünü kullanmayınız.</p>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 kaps&#252;l, &#246;&#287;le yeme&#287;iyle veya bir &#246;&#287;&#252;n s&#305;ras&#305;nda suyla birlikte t&#252;ketilmesi &#246;nerilir. Kaps&#252;l&#252; bitirip i&#231;eri&#287;i bozmadan yutunuz. A&#351;&#305;r&#305; konsumdan ka&#231;&#305;n&#305;n ve &#246;nerilen g&#252;nl&#252;k dozunu a&#351;may&#305;n&#305;z. Kullan&#305;m s&#252;resi ve dozaj&#305; hakk&#305;nda emin de&#287;ilseniz, kullanmadan &#246;nce bir eczac&#305; veya sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n&#305;z.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve tedavi veya &#246;nleyici bir ila&#231; olarak kullan&#305;lamaz. Hamilelik, emzirme veya kronik bir hastal&#305;k (&#246;zellikle kalp, b&#246;brek veya kan koagulasyonu ile ilgili) bulunan ki&#351;iler kullanmadan &#246;nce doktor veya eczac&#305;yla g&#246;r&#252;&#351;melidir. Vitamin K, warfarin gibi antikoag&#252;lan ila&#231;larla etkile&#351;ime girebilir; bu t&#252;r ila&#231; kullananlar mutlaka sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n elinden tutulmamal&#305; ve 12 ya&#351; alt&#305; &#231;ocuklar taraf&#305;ndan kullan&#305;lmamal&#305;d&#305;r. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan korunan ortamda, s&#305;cakl&#305;k 25&#176;C'yi a&#351;mayan yerde saklay&#305;n&#305;z. &#304;&#231;indeki g&#252;venlik pisti bozuk veya eksikse &#252;r&#252;n&#252; kullanmay&#305;n&#305;z.</p>
 <p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -82184,7 +82184,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1014.90</Price>
 <Price2>1116.09</Price2>
@@ -82196,26 +82196,26 @@
 <Price8>1498.14</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3338221005960_0.png</Image1>
-<Description><![CDATA[<section><p><strong>Phyto Lium+ Erkek Tipi Dökülme Önleyici Serum 100 ml</strong>, erkeklerde genetik ve hormonal faktörlerle ilişkili hafiften orta şiddette saç dökülmesini önlemek ve saç köklerini güçlendirmek için geliştirilmiş bir bitkisel destek serumudur. Erkek tipinde saç dökülmesi (androgenetik alopeci) yaşayan 18 yaş ve üzeri erkekler için uygundur.</p>
-<h2>Phyto Lium+ Erkek Tipi Dökülme Önleyici Serum 10 Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-lium-erkek-tipi-dokulme-onleyici-serum-100-ml-puansiz-21967.png</Image1>
+<Description><![CDATA[<section><p><strong>Phyto Lium+ Erkek Tipi D&#246;k&#252;lme &#214;nleyici Serum 100 ml</strong>, erkeklerde genetik ve hormonal fakt&#246;rlerle ili&#351;kili hafiften orta &#351;iddette sa&#231; d&#246;k&#252;lmesini &#246;nlemek ve sa&#231; k&#246;klerini g&#252;&#231;lendirmek i&#231;in geli&#351;tirilmi&#351; bir bitkisel destek serumudur. Erkek tipinde sa&#231; d&#246;k&#252;lmesi (androgenetik alopeci) ya&#351;ayan 18 ya&#351; ve &#252;zeri erkekler i&#231;in uygundur.</p>
+<h2>Phyto Lium+ Erkek Tipi D&#246;k&#252;lme &#214;nleyici Serum 10 &#214;zellikleri</h2>
 <ul>
-<li>Bitkisel aktif kompleksle saç köklerini besler ve güçlendirir</li>
-<li>Saç döngüsünün anajen (büyüme) fazasını destekler</li>
-<li>DHT etkisini dengelemek için özel формуlasyon içerir</li>
-<li>Saçın kalınlığını artırır, kırmızı noktaları azaltır</li>
-<li>Hafif teksturli, hızlı emilen, yağ bırakmayan formüle</li>
-<li>Paraben, silikon ve sentetik boyacı içermez</li>
-<li>Dermatolojik olarak test edilmiştir</li>
-<li>Günlük kullanım için uygundur, yağlı veya kuru saç tiplerinde etkili</li>
-<li>Saç tıraşından sonra da kullanılabilir</li>
-<li>100 ml pratiik pompalı flakonla kontrollü dozaj sağlar</li>
+<li>Bitkisel aktif kompleksle sa&#231; k&#246;klerini besler ve g&#252;&#231;lendirir</li>
+<li>Sa&#231; d&#246;ng&#252;s&#252;n&#252;n anajen (b&#252;y&#252;me) fazas&#305;n&#305; destekler</li>
+<li>DHT etkisini dengelemek i&#231;in &#246;zel &#1092;&#1086;&#1088;&#1084;&#1091;lasyon i&#231;erir</li>
+<li>Sa&#231;&#305;n kal&#305;nl&#305;&#287;&#305;n&#305; art&#305;r&#305;r, k&#305;rm&#305;z&#305; noktalar&#305; azalt&#305;r</li>
+<li>Hafif teksturli, h&#305;zl&#305; emilen, ya&#287; b&#305;rakmayan form&#252;le</li>
+<li>Paraben, silikon ve sentetik boyac&#305; i&#231;ermez</li>
+<li>Dermatolojik olarak test edilmi&#351;tir</li>
+<li>G&#252;nl&#252;k kullan&#305;m i&#231;in uygundur, ya&#287;l&#305; veya kuru sa&#231; tiplerinde etkili</li>
+<li>Sa&#231; t&#305;ra&#351;&#305;ndan sonra da kullan&#305;labilir</li>
+<li>100 ml pratiik pompal&#305; flakonla kontroll&#252; dozaj sa&#287;lar</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Serumı günlük olarak saçın kuru veya hafif nemli olduğu zamanlarda, özellikle dökülme yoğun olan bölgelere (üst ve ön baş) uygulayın. Pompayı 4-6 kez basarak baş皮ına doğrudan sürün ve ucu parmak uçlarıyla hafifçe masaj ederek emmesini sağlayın. Şampuan sonrası veya herhangi bir zaman kullanılabilir; şampuan gerektirmez. En iyi sonuçlar için minimum 3 ay düzenli kullanım önerilir.</p>
-<h2>Uyarılar</h2>
-<p>Yalnız dış kullanımdır. Gözle temas etmemeye dikkat edin; temas halinde hemen bol suyla yıkayın. İritasyon, kızarıklık veya ödem gibi herhangi bir yan etki gözlemlenirse kullanımı durdurun ve eczacı veya dermatoloğa danışın. 18 yaş altındaki çocuklar tarafından kullanılmamalıdır. Serumu sıcaklıkta 25°C'yi aşmayan, doğrudan güneş ışığına ve nemden korunmuş serin ve kuru bir ortamda saklayın. Çocukların elde tutamayacağı yerde tutun. Hücre değişikliği gösteren, kırık veya炎증li baş皮 üzerinde kullanmayın.</p>
-<p>Phyto Lium+ Erkek Tipi Dökülme Önleyici Serum 100 ml, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Serum&#305; g&#252;nl&#252;k olarak sa&#231;&#305;n kuru veya hafif nemli oldu&#287;u zamanlarda, &#246;zellikle d&#246;k&#252;lme yo&#287;un olan b&#246;lgelere (&#252;st ve &#246;n ba&#351;) uygulay&#305;n. Pompay&#305; 4-6 kez basarak ba&#351;&#30382;&#305;na do&#287;rudan s&#252;r&#252;n ve ucu parmak u&#231;lar&#305;yla hafif&#231;e masaj ederek emmesini sa&#287;lay&#305;n. &#350;ampuan sonras&#305; veya herhangi bir zaman kullan&#305;labilir; &#351;ampuan gerektirmez. En iyi sonu&#231;lar i&#231;in minimum 3 ay d&#252;zenli kullan&#305;m &#246;nerilir.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;z d&#305;&#351; kullan&#305;md&#305;r. G&#246;zle temas etmemeye dikkat edin; temas halinde hemen bol suyla y&#305;kay&#305;n. &#304;ritasyon, k&#305;zar&#305;kl&#305;k veya &#246;dem gibi herhangi bir yan etki g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve eczac&#305; veya dermatolo&#287;a dan&#305;&#351;&#305;n. 18 ya&#351; alt&#305;ndaki &#231;ocuklar taraf&#305;ndan kullan&#305;lmamal&#305;d&#305;r. Serumu s&#305;cakl&#305;kta 25&#176;C'yi a&#351;mayan, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;na ve nemden korunmu&#351; serin ve kuru bir ortamda saklay&#305;n. &#199;ocuklar&#305;n elde tutamayaca&#287;&#305; yerde tutun. H&#252;cre de&#287;i&#351;ikli&#287;i g&#246;steren, k&#305;r&#305;k veya&#28814;&#51613;li ba&#351;&#30382; &#252;zerinde kullanmay&#305;n.</p>
+<p>Phyto Lium+ Erkek Tipi D&#246;k&#252;lme &#214;nleyici Serum 100 ml, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01878]]></Product_code>
@@ -82226,7 +82226,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>3499.90</Price>
 <Price2>3799.89</Price2>
@@ -82238,8 +82238,8 @@
 <Price8>4898.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3338221003133_0.jpg</Image1>
-<Description><![CDATA[<section><p><strong>Phyto Phytokeratine Extreme Maske 200 ml + Extreme Şampuan 200 ml</strong>, kırık, işlenmiş ve kurulanmış saçlara yoğun onarım ve güçlendirme sağlayan profesyonel bir saç bakımı setidir. Kıvrık, işlenmiş, boyalı veya termik işlemlerle zarar görmüş saç tipleri için özel olarak geliştirilen bu duo, saç liflerini içten dışına kadar besleyerek esnekliği artırır ve kırılmaya karşı dayanıklılığı yükseltir.</p><h2>Phyto Phytokeratine Extreme Maske 200 ml + Extreme Özellikleri</h2><ul><li>Keratin ve bitkisel proteinler yoğun şekilde içerir</li><li>Saç lifini derinlemesine onarır ve yapısını yeniden oluşturur</li><li>Kırılmayı %90 oranında azaltır (laboratuvar testlerine dayalı)</li><li>Saçın elastikliğini ve shinene (parlaklığını) artırır</li><li>Küflemeyi ve statikliği azaltarak hafif ve yönetilebilir saç sağlar</li><li>Renkli ve kemiklenmiş saçlar için güvenli, renk kaybına yol açmaz</li><li>Sülfat, paraben ve silikon içermez, hassas skallara uygundur</li><li>Bitkisel ekstraklerle (phytokeratin) doğal beslenme ve korunma sağlar</li><li>Kullanım sonrası saç daha silkinir, açıkgözlü ve sağlıklı görünür</li><li>Profesyonel salon sonuçlarını evde elde etmenizi sağlar</li><li>200 ml kapasitesi ile uzun süreli kullanım imkanı sunar</li><li>Maske ve şampuanın sentezli formülasyonu, birbirini tamamlayıcı etki gösterir</li><li>Her iki ürün de dermatolojik olarak test edilmiştir</li></ul><h2>Nasıl Kullanılır?</h2><p>Phyto Phytokeratine Extreme Şampuanı, ıslak saç üzerine yeterli miktarda alınarak hafifçe köklerden uçlara kadar masajla uygulanır. 1-2 dakika bekletildikten sonra, sıcak olmayan suyla iyi şekilde yıkanır. Daha sonra, Phyto Phytokeratine Extreme Maske, şampuan sonrası ıslak saçın orta ve uç kısımlarına odaklanarak, kökten kaçınarak uygulanır. Maske, saç üzerinde 5-10 dakika bekletilir; daha derin etkile için saç başlı bir duş bonneti ile sarılarak ısı altında bırakılabilir. Ardından, sıcak olmayan suyla thoroughly (tamamen) yıkanır. En iyi sonuçlar için, haftada 2-3 kez kullanılmalıdır. Kuru veya çok işlenmiş saçlar için, maske kullanım sonrası hafif bir saç yağı veya serümüyle sonlandırılabilir.</p><h2>Uyarılar</h2><p>Yalnız dışa kullanım için uygundur. Gözle temas edilirse, hemen çok miktarda suyla yıkanır. İritasyon veya alerjik reaksiyon oluşursa, kullanım durdurulur ve hekime veya eczacıya danışılır. Çocukların elinden tutulamaz; 3 yaş altı çocuklar tarafından kullanılmamalıdır. Serin, kuru ve doğrudan güneş ışığından uzakta, sıcaklık 25°C'yi geçmeyen ortamda saklanır. Kapatığı iyi kapalı tutulur. Değişiklik veya bozulma görürseniz, kullanmayın.</p><p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytokeratine-extreme-maske-200-ml-extreme-sampuan-200-ml-21968.jpg</Image1>
+<Description><![CDATA[<section><p><strong>Phyto Phytokeratine Extreme Maske 200 ml + Extreme &#350;ampuan 200 ml</strong>, k&#305;r&#305;k, i&#351;lenmi&#351; ve kurulanm&#305;&#351; sa&#231;lara yo&#287;un onar&#305;m ve g&#252;&#231;lendirme sa&#287;layan profesyonel bir sa&#231; bak&#305;m&#305; setidir. K&#305;vr&#305;k, i&#351;lenmi&#351;, boyal&#305; veya termik i&#351;lemlerle zarar g&#246;rm&#252;&#351; sa&#231; tipleri i&#231;in &#246;zel olarak geli&#351;tirilen bu duo, sa&#231; liflerini i&#231;ten d&#305;&#351;&#305;na kadar besleyerek esnekli&#287;i art&#305;r&#305;r ve k&#305;r&#305;lmaya kar&#351;&#305; dayan&#305;kl&#305;l&#305;&#287;&#305; y&#252;kseltir.</p><h2>Phyto Phytokeratine Extreme Maske 200 ml + Extreme &#214;zellikleri</h2><ul><li>Keratin ve bitkisel proteinler yo&#287;un &#351;ekilde i&#231;erir</li><li>Sa&#231; lifini derinlemesine onar&#305;r ve yap&#305;s&#305;n&#305; yeniden olu&#351;turur</li><li>K&#305;r&#305;lmay&#305; %90 oran&#305;nda azalt&#305;r (laboratuvar testlerine dayal&#305;)</li><li>Sa&#231;&#305;n elastikli&#287;ini ve shinene (parlakl&#305;&#287;&#305;n&#305;) art&#305;r&#305;r</li><li>K&#252;flemeyi ve statikli&#287;i azaltarak hafif ve y&#246;netilebilir sa&#231; sa&#287;lar</li><li>Renkli ve kemiklenmi&#351; sa&#231;lar i&#231;in g&#252;venli, renk kayb&#305;na yol a&#231;maz</li><li>S&#252;lfat, paraben ve silikon i&#231;ermez, hassas skallara uygundur</li><li>Bitkisel ekstraklerle (phytokeratin) do&#287;al beslenme ve korunma sa&#287;lar</li><li>Kullan&#305;m sonras&#305; sa&#231; daha silkinir, a&#231;&#305;kg&#246;zl&#252; ve sa&#287;l&#305;kl&#305; g&#246;r&#252;n&#252;r</li><li>Profesyonel salon sonu&#231;lar&#305;n&#305; evde elde etmenizi sa&#287;lar</li><li>200 ml kapasitesi ile uzun s&#252;reli kullan&#305;m imkan&#305; sunar</li><li>Maske ve &#351;ampuan&#305;n sentezli form&#252;lasyonu, birbirini tamamlay&#305;c&#305; etki g&#246;sterir</li><li>Her iki &#252;r&#252;n de dermatolojik olarak test edilmi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Phyto Phytokeratine Extreme &#350;ampuan&#305;, &#305;slak sa&#231; &#252;zerine yeterli miktarda al&#305;narak hafif&#231;e k&#246;klerden u&#231;lara kadar masajla uygulan&#305;r. 1-2 dakika bekletildikten sonra, s&#305;cak olmayan suyla iyi &#351;ekilde y&#305;kan&#305;r. Daha sonra, Phyto Phytokeratine Extreme Maske, &#351;ampuan sonras&#305; &#305;slak sa&#231;&#305;n orta ve u&#231; k&#305;s&#305;mlar&#305;na odaklanarak, k&#246;kten ka&#231;&#305;narak uygulan&#305;r. Maske, sa&#231; &#252;zerinde 5-10 dakika bekletilir; daha derin etkile i&#231;in sa&#231; ba&#351;l&#305; bir du&#351; bonneti ile sar&#305;larak &#305;s&#305; alt&#305;nda b&#305;rak&#305;labilir. Ard&#305;ndan, s&#305;cak olmayan suyla thoroughly (tamamen) y&#305;kan&#305;r. En iyi sonu&#231;lar i&#231;in, haftada 2-3 kez kullan&#305;lmal&#305;d&#305;r. Kuru veya &#231;ok i&#351;lenmi&#351; sa&#231;lar i&#231;in, maske kullan&#305;m sonras&#305; hafif bir sa&#231; ya&#287;&#305; veya ser&#252;m&#252;yle sonland&#305;r&#305;labilir.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;z d&#305;&#351;a kullan&#305;m i&#231;in uygundur. G&#246;zle temas edilirse, hemen &#231;ok miktarda suyla y&#305;kan&#305;r. &#304;ritasyon veya alerjik reaksiyon olu&#351;ursa, kullan&#305;m durdurulur ve hekime veya eczac&#305;ya dan&#305;&#351;&#305;l&#305;r. &#199;ocuklar&#305;n elinden tutulamaz; 3 ya&#351; alt&#305; &#231;ocuklar taraf&#305;ndan kullan&#305;lmamal&#305;d&#305;r. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta, s&#305;cakl&#305;k 25&#176;C'yi ge&#231;meyen ortamda saklan&#305;r. Kapat&#305;&#287;&#305; iyi kapal&#305; tutulur. De&#287;i&#351;iklik veya bozulma g&#246;r&#252;rseniz, kullanmay&#305;n.</p><p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01879]]></Product_code>
@@ -82250,7 +82250,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1599.90</Price>
 <Price2>1747.89</Price2>
@@ -82262,23 +82262,23 @@
 <Price8>2298.71</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3338221005403_0.jpg</Image1>
-<Description><![CDATA[<section><p><strong>Phyto Phytolaque Soie Spray 400 ml - Doğal Tutuşlu Saç Şekillendirici Saç Spreyi</strong>, hafif tutuş sağlayarak saçın doğal hareketini koruyan ve frizz'i azaltan profesyonel bir saç şekillendirici spredir. İnce ve orta kalınlıktaki saç tipleri için ideal olup, günlük kullanım için uygun, ağır bırakmayan formülü sayesinde saç esnekliği ve parlaklığını artırır.</p>
-<h2>Phyto Phytolaque Soie Spray 400 ml - Doğal Tutuş Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/phyto-phytolaque-soie-spray-400-ml-dogal-tutuslu-sac-sekillendirici-sac-spreyi-21969.jpg</Image1>
+<Description><![CDATA[<section><p><strong>Phyto Phytolaque Soie Spray 400 ml - Do&#287;al Tutu&#351;lu Sa&#231; &#350;ekillendirici Sa&#231; Spreyi</strong>, hafif tutu&#351; sa&#287;layarak sa&#231;&#305;n do&#287;al hareketini koruyan ve frizz'i azaltan profesyonel bir sa&#231; &#351;ekillendirici spredir. &#304;nce ve orta kal&#305;nl&#305;ktaki sa&#231; tipleri i&#231;in ideal olup, g&#252;nl&#252;k kullan&#305;m i&#231;in uygun, a&#287;&#305;r b&#305;rakmayan form&#252;l&#252; sayesinde sa&#231; esnekli&#287;i ve parlakl&#305;&#287;&#305;n&#305; art&#305;r&#305;r.</p>
+<h2>Phyto Phytolaque Soie Spray 400 ml - Do&#287;al Tutu&#351; &#214;zellikleri</h2>
 <ul>
-<li>Doğal ve esnek tutuş sağlar, saçın hareket özgürlüğünü sınırlamaz</li>
-<li>Frizz'i azaltır ve saç yüzeyini düzleştirir</li>
-<li>Parlaklık ve siliklik artırır, sağlıklı görünüm verir</li>
-<li>Ağır bırakmayan, hafif formülüyle günlük kullanım için uygundur</li>
-<li>Uzun süre etkili tutuş sunar, saç şekli bozulmadan dayanır</li>
-<li>Bitkisel türevli içerikler sayesinde saç liflerini nazikçe sarar</li>
-<li>Isı stilgeleme araçlarıyla uyumlu çalışır, fön veya düzleştirici kullanımında koruma sağlar</li>
-<li>400 ml büyük kapasiteyle ekonomik ve uzun süreli kullanım imkanı tanır</li>
+<li>Do&#287;al ve esnek tutu&#351; sa&#287;lar, sa&#231;&#305;n hareket &#246;zg&#252;rl&#252;&#287;&#252;n&#252; s&#305;n&#305;rlamaz</li>
+<li>Frizz'i azalt&#305;r ve sa&#231; y&#252;zeyini d&#252;zle&#351;tirir</li>
+<li>Parlakl&#305;k ve siliklik art&#305;r&#305;r, sa&#287;l&#305;kl&#305; g&#246;r&#252;n&#252;m verir</li>
+<li>A&#287;&#305;r b&#305;rakmayan, hafif form&#252;l&#252;yle g&#252;nl&#252;k kullan&#305;m i&#231;in uygundur</li>
+<li>Uzun s&#252;re etkili tutu&#351; sunar, sa&#231; &#351;ekli bozulmadan dayan&#305;r</li>
+<li>Bitkisel t&#252;revli i&#231;erikler sayesinde sa&#231; liflerini nazik&#231;e sarar</li>
+<li>Is&#305; stilgeleme ara&#231;lar&#305;yla uyumlu &#231;al&#305;&#351;&#305;r, f&#246;n veya d&#252;zle&#351;tirici kullan&#305;m&#305;nda koruma sa&#287;lar</li>
+<li>400 ml b&#252;y&#252;k kapasiteyle ekonomik ve uzun s&#252;reli kullan&#305;m imkan&#305; tan&#305;r</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Temiz ve nemli veya kuru saç üzerine 20-30 cm mesafeden eşit şekilde süprüleyin. İstediğiniz şekle getirmek için parmaklarla veya fırça ile hafifçe şekillendirin. Daha güçlü tutuş için gerektiğinde kat kat uygulayabilirsiniz. Fön kullanıyorsanız, saç 80% kuruduktan sonra spreyi uygulayarak stilinizi tamamlayabilirsiniz. Ürün çıkmaz ve saçları yapıştırmadan hafif tutuş sağlar.</p>
-<h2>Uyarılar</h2>
-<p>Sadece dış kullanım için destinadoudur. Gözle temas etmemeye dikkat edin; temas halinde hemen bol miktarda suyla yıkayın. İntihal etmeyin. Yanıcı olduğundan açık ateş veya kaynağa karşı koruyun. Çocukların ulaşamayacağı serin ve kuru bir yerde saklayın. Hassas ciltte kullanımdan önce küçük bir alanda test yapın. İstemsiz bir reaksiyon gözlemlenirse kullanımı durdurun ve eczacı veya hekime danışın. Yaş sınırı yoktur ancak 3 yaş altındaki çocuklarda kullanımda yetişkin denetimi önerilir.</p>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Temiz ve nemli veya kuru sa&#231; &#252;zerine 20-30 cm mesafeden e&#351;it &#351;ekilde s&#252;pr&#252;leyin. &#304;stedi&#287;iniz &#351;ekle getirmek i&#231;in parmaklarla veya f&#305;r&#231;a ile hafif&#231;e &#351;ekillendirin. Daha g&#252;&#231;l&#252; tutu&#351; i&#231;in gerekti&#287;inde kat kat uygulayabilirsiniz. F&#246;n kullan&#305;yorsan&#305;z, sa&#231; 80% kuruduktan sonra spreyi uygulayarak stilinizi tamamlayabilirsiniz. &#220;r&#252;n &#231;&#305;kmaz ve sa&#231;lar&#305; yap&#305;&#351;t&#305;rmadan hafif tutu&#351; sa&#287;lar.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Sadece d&#305;&#351; kullan&#305;m i&#231;in destinadoudur. G&#246;zle temas etmemeye dikkat edin; temas halinde hemen bol miktarda suyla y&#305;kay&#305;n. &#304;ntihal etmeyin. Yan&#305;c&#305; oldu&#287;undan a&#231;&#305;k ate&#351; veya kayna&#287;a kar&#351;&#305; koruyun. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin ve kuru bir yerde saklay&#305;n. Hassas ciltte kullan&#305;mdan &#246;nce k&#252;&#231;&#252;k bir alanda test yap&#305;n. &#304;stemsiz bir reaksiyon g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve eczac&#305; veya hekime dan&#305;&#351;&#305;n. Ya&#351; s&#305;n&#305;r&#305; yoktur ancak 3 ya&#351; alt&#305;ndaki &#231;ocuklarda kullan&#305;mda yeti&#351;kin denetimi &#246;nerilir.</p>
 <p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -82289,7 +82289,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Erkek Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2027-05-01</Miad>
 <Price>2544.90</Price>
 <Price2>2768.49</Price2>
@@ -82300,10 +82300,10 @@
 <Price7>3591.95</Price7>
 <Price8>3591.95</Price8>
 <CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[US]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699586240119_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8699586240119_1.jpg</Image2>
-<Description><![CDATA[<section><p><strong>Proxeed Plus 30 Saşe</strong>, erkeklerin üreme sağlığını desteklemek için geliştirilmiş özel bir besin takviyesidir. Sperma sayısı, motility ve morfolojisi gibi parametreleri olumlu yönde etkileyebilecek mikronutrientler içerir. Özellikle bebek planlayan erkekler, düşük sperma sayısı veya motility sorunları yaşayanlar ve üreme fonksiyonunu desteklemek isteyenler için uygundur. Günlük kullanımıyla spermatojenesis sürecine katkı sağlayabilir.</p><h2>Proxeed Plus 30 Saşe Özellikleri</h2><ul><li>L-karnitin ve asetil-L-karnitin içerir</li><li>Sperma enerji metabolizmasını destekler</li><li>Antioksidan özellikli E ve C vitamini bulunur</li><li>Selen ve çinko gibi üreme mineralleri içerir</li><li>Folik asit ve B12 vitamini destekleyici rol oynar</li><li>Koenzim Q10 ile hücre enerji üretimine katkı sağlar</li><li>Glutatyon gibi doğal antioksidanları destekler</li><li>Sperma DNA korumasını destekleyebilir</li><li>30 günlük kullanım için 30 saşe içerir</li><li>Guten içermez, laktosuz formülasyon</li><li>Boşta veya öğle yemeğinden sonra alınması önerilir</li><li>Klinik çalışmalar tarafından desteklenen formülasyon</li><li>Günde 2 kez, 1 saşe ile kullanılır</li><li>Saklama: 25°C’den düşük, nem ve ışık korumalı yerde</li><li>İlaç etkileşimi riski düşük, ancak kullanıcıdan önce danışılmalı</li></ul><h2>Nasıl Kullanılır?</h2><p>Proxeed Plus 30 Saşe, günde 2 kez, her seferinde 1 saşe (5 gram) alınır. Saşe içeriği, su, meyve suyu, yoğurt veya smoothie gibi bir içecekle karıştırılarak tüketilir. Öğünle veya öğünsüz alınabilir, ancak en iyi emim için öğle yemeğinden sonra veya akşam öğle yemeğinden önce alınması tercih edilebilir. Sürekli ve düzenli kullanım, en az 3-4 ay önerilir çünkü spermatojenesis süreci yaklaşık 74 gün sürer. Şişe kapağını iyi kapatıp, çocukların ulaşamayacağı serin ve kuru bir ortamda saklayın. İçeriği nem veya sıcaklığa maruz bırakmayın.</p><h2>Uyarılar</h2><p>Bu ürün bir ilaç değildir ve tedavi, önleme veya hastalıkların tedavi edilmesi için kullanılamaz. Üreme problemleri yaşayan kişiler, bu ürünü kullanmadan önce ürojoloji veya gebelik öncesi danışmanlığına başvurmalıdır. Kronik hastalık (diyabet, kalp hastalığı, karaciğer veya böbrek yetmezliği vb.) olanlar, kullanımdan önce hekimiyle danışmalıdır. İlacınız varsa (özellikle antikoagülan, insulin veya hormon terapileri), etkileşim riski için eczacınıza danışın. Çocukların ulaşamayacağı yerde saklayın. Şiddetli yan etki (aşıntı, аллерjik reaksiyon, mide bulantısı) gözlemlenirse kullanım durdurulmalı ve sağlık uzmanına başvurulmalıdır. Hamilelik veya laktasyon sırasında kullanım önerilmez. Ürün, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/proxeed-plus-30-sase-21970.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/proxeed-plus-30-sase-21971.jpg</Image2>
+<Description><![CDATA[<section><p><strong>Proxeed Plus 30 Sa&#351;e</strong>, erkeklerin &#252;reme sa&#287;l&#305;&#287;&#305;n&#305; desteklemek i&#231;in geli&#351;tirilmi&#351; &#246;zel bir besin takviyesidir. Sperma say&#305;s&#305;, motility ve morfolojisi gibi parametreleri olumlu y&#246;nde etkileyebilecek mikronutrientler i&#231;erir. &#214;zellikle bebek planlayan erkekler, d&#252;&#351;&#252;k sperma say&#305;s&#305; veya motility sorunlar&#305; ya&#351;ayanlar ve &#252;reme fonksiyonunu desteklemek isteyenler i&#231;in uygundur. G&#252;nl&#252;k kullan&#305;m&#305;yla spermatojenesis s&#252;recine katk&#305; sa&#287;layabilir.</p><h2>Proxeed Plus 30 Sa&#351;e &#214;zellikleri</h2><ul><li>L-karnitin ve asetil-L-karnitin i&#231;erir</li><li>Sperma enerji metabolizmas&#305;n&#305; destekler</li><li>Antioksidan &#246;zellikli E ve C vitamini bulunur</li><li>Selen ve &#231;inko gibi &#252;reme mineralleri i&#231;erir</li><li>Folik asit ve B12 vitamini destekleyici rol oynar</li><li>Koenzim Q10 ile h&#252;cre enerji &#252;retimine katk&#305; sa&#287;lar</li><li>Glutatyon gibi do&#287;al antioksidanlar&#305; destekler</li><li>Sperma DNA korumas&#305;n&#305; destekleyebilir</li><li>30 g&#252;nl&#252;k kullan&#305;m i&#231;in 30 sa&#351;e i&#231;erir</li><li>Guten i&#231;ermez, laktosuz form&#252;lasyon</li><li>Bo&#351;ta veya &#246;&#287;le yeme&#287;inden sonra al&#305;nmas&#305; &#246;nerilir</li><li>Klinik &#231;al&#305;&#351;malar taraf&#305;ndan desteklenen form&#252;lasyon</li><li>G&#252;nde 2 kez, 1 sa&#351;e ile kullan&#305;l&#305;r</li><li>Saklama: 25&#176;C&#8217;den d&#252;&#351;&#252;k, nem ve &#305;&#351;&#305;k korumal&#305; yerde</li><li>&#304;la&#231; etkile&#351;imi riski d&#252;&#351;&#252;k, ancak kullan&#305;c&#305;dan &#246;nce dan&#305;&#351;&#305;lmal&#305;</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Proxeed Plus 30 Sa&#351;e, g&#252;nde 2 kez, her seferinde 1 sa&#351;e (5 gram) al&#305;n&#305;r. Sa&#351;e i&#231;eri&#287;i, su, meyve suyu, yo&#287;urt veya smoothie gibi bir i&#231;ecekle kar&#305;&#351;t&#305;r&#305;larak t&#252;ketilir. &#214;&#287;&#252;nle veya &#246;&#287;&#252;ns&#252;z al&#305;nabilir, ancak en iyi emim i&#231;in &#246;&#287;le yeme&#287;inden sonra veya ak&#351;am &#246;&#287;le yeme&#287;inden &#246;nce al&#305;nmas&#305; tercih edilebilir. S&#252;rekli ve d&#252;zenli kullan&#305;m, en az 3-4 ay &#246;nerilir &#231;&#252;nk&#252; spermatojenesis s&#252;reci yakla&#351;&#305;k 74 g&#252;n s&#252;rer. &#350;i&#351;e kapa&#287;&#305;n&#305; iyi kapat&#305;p, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin ve kuru bir ortamda saklay&#305;n. &#304;&#231;eri&#287;i nem veya s&#305;cakl&#305;&#287;a maruz b&#305;rakmay&#305;n.</p><h2>Uyar&#305;lar</h2><p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve tedavi, &#246;nleme veya hastal&#305;klar&#305;n tedavi edilmesi i&#231;in kullan&#305;lamaz. &#220;reme problemleri ya&#351;ayan ki&#351;iler, bu &#252;r&#252;n&#252; kullanmadan &#246;nce &#252;rojoloji veya gebelik &#246;ncesi dan&#305;&#351;manl&#305;&#287;&#305;na ba&#351;vurmal&#305;d&#305;r. Kronik hastal&#305;k (diyabet, kalp hastal&#305;&#287;&#305;, karaci&#287;er veya b&#246;brek yetmezli&#287;i vb.) olanlar, kullan&#305;mdan &#246;nce hekimiyle dan&#305;&#351;mal&#305;d&#305;r. &#304;lac&#305;n&#305;z varsa (&#246;zellikle antikoag&#252;lan, insulin veya hormon terapileri), etkile&#351;im riski i&#231;in eczac&#305;n&#305;za dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n. &#350;iddetli yan etki (a&#351;&#305;nt&#305;, &#1072;&#1083;&#1083;&#1077;&#1088;jik reaksiyon, mide bulant&#305;s&#305;) g&#246;zlemlenirse kullan&#305;m durdurulmal&#305; ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurulmal&#305;d&#305;r. Hamilelik veya laktasyon s&#305;ras&#305;nda kullan&#305;m &#246;nerilmez. &#220;r&#252;n, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01881]]></Product_code>
@@ -82314,7 +82314,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad>2028-09-01</Miad>
 <Price>679.50</Price>
 <Price2>753.86</Price2>
@@ -82326,25 +82326,25 @@
 <Price8>1039.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850069595883_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850069595883_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850069595883_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Shiniq Enzyme Peeling Powder 55 gr</strong>, ciltteki ölü hücreleri nazikçe çözüp, cilt tonunu eşitleyen ve parlaklık kazandırılan enzim bazlı bir peeling tozu. Hassas ve kireçli cilt tipleri dahil tüm cilt tipleri için uygundur; günlük kullanım için yeterince nazik, haftalık derin temizlik için de etkili bir çözüm sunar.</p>
-<h2>Shiniq Enzyme Peeling Powder 55 gr Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-enzyme-peeling-powder-55-gr-21972.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-enzyme-peeling-powder-55-gr-21973.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-enzyme-peeling-powder-55-gr-21974.jpg</Image3>
+<Description><![CDATA[<section><p><strong>Shiniq Enzyme Peeling Powder 55 gr</strong>, ciltteki &#246;l&#252; h&#252;creleri nazik&#231;e &#231;&#246;z&#252;p, cilt tonunu e&#351;itleyen ve parlakl&#305;k kazand&#305;r&#305;lan enzim bazl&#305; bir peeling tozu. Hassas ve kire&#231;li cilt tipleri dahil t&#252;m cilt tipleri i&#231;in uygundur; g&#252;nl&#252;k kullan&#305;m i&#231;in yeterince nazik, haftal&#305;k derin temizlik i&#231;in de etkili bir &#231;&#246;z&#252;m sunar.</p>
+<h2>Shiniq Enzyme Peeling Powder 55 gr &#214;zellikleri</h2>
 <ul>
-<li>Papain ve bromelain gibi doğal enzimler içerir, mekanik aşındırıcı etkisi olmadan ölü hücreleri çözer.</li>
-<li>Toz formu sayesinde kullanım anında aktif edilir, stabilite ve etkinlik uzun süre korunur.</li>
-<li>Cilt bariyerini aşırı kurutmadan, nem dengesi korunurken derin temizlik sağlar.</li>
-<li>Kullanım sonrası cilt daha yumuşak, daha açık ve daha levraksız görünür.</li>
-<li>Kimyasal peeling asitleri (AHA, BHA) içermez, bu da hassas ciltler için daha güvenli bir alternatif yapar.</li>
-<li>Parfüm, alkol ve boyalı maddeler içermez, allerjenik reakti riskini minimize eder.</li>
-<li>Cilt tonu desigualliğini azaltarak, lekeleri hafifletmeye ve parlaklığı artırmaya yardımcı olur.</li>
-<li>55 gr ekonomik ambalaj, uzun süreli kullanım için uygundur ve seyahat için de pratiktir.</li>
+<li>Papain ve bromelain gibi do&#287;al enzimler i&#231;erir, mekanik a&#351;&#305;nd&#305;r&#305;c&#305; etkisi olmadan &#246;l&#252; h&#252;creleri &#231;&#246;zer.</li>
+<li>Toz formu sayesinde kullan&#305;m an&#305;nda aktif edilir, stabilite ve etkinlik uzun s&#252;re korunur.</li>
+<li>Cilt bariyerini a&#351;&#305;r&#305; kurutmadan, nem dengesi korunurken derin temizlik sa&#287;lar.</li>
+<li>Kullan&#305;m sonras&#305; cilt daha yumu&#351;ak, daha a&#231;&#305;k ve daha levraks&#305;z g&#246;r&#252;n&#252;r.</li>
+<li>Kimyasal peeling asitleri (AHA, BHA) i&#231;ermez, bu da hassas ciltler i&#231;in daha g&#252;venli bir alternatif yapar.</li>
+<li>Parf&#252;m, alkol ve boyal&#305; maddeler i&#231;ermez, allerjenik reakti riskini minimize eder.</li>
+<li>Cilt tonu desigualli&#287;ini azaltarak, lekeleri hafifletmeye ve parlakl&#305;&#287;&#305; art&#305;rmaya yard&#305;mc&#305; olur.</li>
+<li>55 gr ekonomik ambalaj, uzun s&#252;reli kullan&#305;m i&#231;in uygundur ve seyahat i&#231;in de pratiktir.</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Elinizin paletine veya küçük bir kap içinde ½ çay kaşığı toz alın ve üzerine birkaç got su veya tonik ilave ederek hafif bir köpük haline getirin. Nemli yüz üzerine yuvarlak hareketlerle masaj yapın, göz çevresinden kaçınarak 1-2 dakika masaj edikten sonra sıcak suylaThoroughly yıklayın. Haftada 2-3 kez kullanım önerilir; hassas ciltlerde ilk kullanımda bir kez deneyip cilt tepkisini gözlemleyin. Kullanım sonrası nemlendirici veya serum uygulayın.</p>
-<h2>Uyarılar</h2>
-<p>Sadece dış kullanım içindir. Gözle temas etmemeye dikkat edin; temas halinde hemen bol miktarda suyla yıkayın. Kızarıklık, yanma veya tahriş hissedilirse kullanımı durdurun ve eczacı veya dermatologa danışın. 3 yaşından küçük çocukların kullanımı önerilmez. Serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklayın. Kapakları iyi kapatarak nem ve kontaminasyona karşı koruyun. İnsülinrezistansı, açık yara veya aktif ekzem gibi cilt durumları olanlar kullanmadan önce sağlık uzmanına danışmalıdır. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Elinizin paletine veya k&#252;&#231;&#252;k bir kap i&#231;inde &#189; &#231;ay ka&#351;&#305;&#287;&#305; toz al&#305;n ve &#252;zerine birka&#231; got su veya tonik ilave ederek hafif bir k&#246;p&#252;k haline getirin. Nemli y&#252;z &#252;zerine yuvarlak hareketlerle masaj yap&#305;n, g&#246;z &#231;evresinden ka&#231;&#305;narak 1-2 dakika masaj edikten sonra s&#305;cak suylaThoroughly y&#305;klay&#305;n. Haftada 2-3 kez kullan&#305;m &#246;nerilir; hassas ciltlerde ilk kullan&#305;mda bir kez deneyip cilt tepkisini g&#246;zlemleyin. Kullan&#305;m sonras&#305; nemlendirici veya serum uygulay&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas etmemeye dikkat edin; temas halinde hemen bol miktarda suyla y&#305;kay&#305;n. K&#305;zar&#305;kl&#305;k, yanma veya tahri&#351; hissedilirse kullan&#305;m&#305; durdurun ve eczac&#305; veya dermatologa dan&#305;&#351;&#305;n. 3 ya&#351;&#305;ndan k&#252;&#231;&#252;k &#231;ocuklar&#305;n kullan&#305;m&#305; &#246;nerilmez. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzak bir ortamda saklay&#305;n. Kapaklar&#305; iyi kapatarak nem ve kontaminasyona kar&#351;&#305; koruyun. &#304;ns&#252;linrezistans&#305;, a&#231;&#305;k yara veya aktif ekzem gibi cilt durumlar&#305; olanlar kullanmadan &#246;nce sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;mal&#305;d&#305;r. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01882]]></Product_code>
@@ -82355,7 +82355,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>0</Stock>
 <Miad>2028-05-01</Miad>
 <Price>544.90</Price>
 <Price2>608.49</Price2>
@@ -82367,25 +82367,25 @@
 <Price8>854.95</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850071952032_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850071952032_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850071952032_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Shiniq Sebum Pore Purifying Scrub 200 ml</strong>, yüzeyi yumuşakça esfoliye ederek aşırı sebum üretimini dengelemek ve tıkık porileri temizlemek için geliştirilmiş bir cilt temizleme ürünüdür. Yağlı ve karışık cilt tipleri için uygun olup, günlük kullanımla cilt dokusunu düzleştirerek daha pürüzsüz ve canlı bir görünüm kazandırmayı hedefler.</p>
-<h2>Shiniq Sebum Pore Purifying Scrub 200 ml Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-sebum-pore-purifying-scrub-200-ml-21975.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-sebum-pore-purifying-scrub-200-ml-21976.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-sebum-pore-purifying-scrub-200-ml-21977.jpg</Image3>
+<Description><![CDATA[<section><p><strong>Shiniq Sebum Pore Purifying Scrub 200 ml</strong>, y&#252;zeyi yumu&#351;ak&#231;a esfoliye ederek a&#351;&#305;r&#305; sebum &#252;retimini dengelemek ve t&#305;k&#305;k porileri temizlemek i&#231;in geli&#351;tirilmi&#351; bir cilt temizleme &#252;r&#252;n&#252;d&#252;r. Ya&#287;l&#305; ve kar&#305;&#351;&#305;k cilt tipleri i&#231;in uygun olup, g&#252;nl&#252;k kullan&#305;mla cilt dokusunu d&#252;zle&#351;tirerek daha p&#252;r&#252;zs&#252;z ve canl&#305; bir g&#246;r&#252;n&#252;m kazand&#305;rmay&#305; hedefler.</p>
+<h2>Shiniq Sebum Pore Purifying Scrub 200 ml &#214;zellikleri</h2>
 <ul>
-<li>Yoğun sebum ve cilt yağını etkili şekilde emerek yağlı ciltlerde parlaklığı azaltır.</li>
-<li>Pürüzlü cilt dokusunu yumuşatarak cilt tonunu eşler ve daha düz bir görünüm sağlar.</li>
-<li>Tıkık porileri temizleyerek siyah nokta ve akne oluşumunun önlenmesine yardımcı olur.</li>
-<li>Yumuşak mikrokristal parçacıklarla mekanik peeling yaparak ölü cilt hücrelerini güvenli bir şekilde çıkarır.</li>
-<li>Cilt barrieresini aşırı kurutmadan dengeyi koruyan pH dengeli formülasyon içerir.</li>
-<li>Paraben, sulfat ve yapay boyacı içermez, hassas ciltler için daha uygun bir tercih sunar.</li>
-<li>200 ml praktik tub paketiyle günlük kullanım için uzun süreli kullanım imkanı sağlar.</li>
-<li>Kozmetik olarak geliştirilmiş ve dermatolojik testlerden geçmiş bir üründür.</li>
+<li>Yo&#287;un sebum ve cilt ya&#287;&#305;n&#305; etkili &#351;ekilde emerek ya&#287;l&#305; ciltlerde parlakl&#305;&#287;&#305; azalt&#305;r.</li>
+<li>P&#252;r&#252;zl&#252; cilt dokusunu yumu&#351;atarak cilt tonunu e&#351;ler ve daha d&#252;z bir g&#246;r&#252;n&#252;m sa&#287;lar.</li>
+<li>T&#305;k&#305;k porileri temizleyerek siyah nokta ve akne olu&#351;umunun &#246;nlenmesine yard&#305;mc&#305; olur.</li>
+<li>Yumu&#351;ak mikrokristal par&#231;ac&#305;klarla mekanik peeling yaparak &#246;l&#252; cilt h&#252;crelerini g&#252;venli bir &#351;ekilde &#231;&#305;kar&#305;r.</li>
+<li>Cilt barrieresini a&#351;&#305;r&#305; kurutmadan dengeyi koruyan pH dengeli form&#252;lasyon i&#231;erir.</li>
+<li>Paraben, sulfat ve yapay boyac&#305; i&#231;ermez, hassas ciltler i&#231;in daha uygun bir tercih sunar.</li>
+<li>200 ml praktik tub paketiyle g&#252;nl&#252;k kullan&#305;m i&#231;in uzun s&#252;reli kullan&#305;m imkan&#305; sa&#287;lar.</li>
+<li>Kozmetik olarak geli&#351;tirilmi&#351; ve dermatolojik testlerden ge&#231;mi&#351; bir &#252;r&#252;nd&#252;r.</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Nemli yüz üzerine yuvarlak hareketlerle hafifçe masaj yaparak 1-2 dakika uygulayın. Göz çevresinden kaçının. Hafifçe masaj yaptıktan sonra sıcak suylaThoroughly yıklayın. Haftada 2-3 kez kullanım önerilir. İlk kullanımda cilt toleransınızı kontrol etmek için küçük bir alanda deneyin. Kullanım sonrası hafif bir nemlendirici kullanarak cilt dengeyi destekleyebilirsiniz.</p>
-<h2>Uyarılar</h2>
-<p>Sadece dış kullanım içindir. Gözle temas etmemeye dikkat edin; temas halinde hemen bol miktarda suyla yıkayın. Ärítma, kızarıklık veya aşırı hassasiyet oluşursa kullanımı durdurun ve bir hekime veya eczacıya danışın. 3 yaş altındaki çocuklar tarafından kullanılmamalıdır. Serin, kuru ve doğrudan güneş ışığından uzak bir ortamda saklayın. Çocukların elinden uzakta tutun. Hücre değiştirici veya ciddi cilt hastalığı olan kişiler kullanımdan önce dermatoloğa danışmalıdır.</p>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Nemli y&#252;z &#252;zerine yuvarlak hareketlerle hafif&#231;e masaj yaparak 1-2 dakika uygulay&#305;n. G&#246;z &#231;evresinden ka&#231;&#305;n&#305;n. Hafif&#231;e masaj yapt&#305;ktan sonra s&#305;cak suylaThoroughly y&#305;klay&#305;n. Haftada 2-3 kez kullan&#305;m &#246;nerilir. &#304;lk kullan&#305;mda cilt tolerans&#305;n&#305;z&#305; kontrol etmek i&#231;in k&#252;&#231;&#252;k bir alanda deneyin. Kullan&#305;m sonras&#305; hafif bir nemlendirici kullanarak cilt dengeyi destekleyebilirsiniz.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas etmemeye dikkat edin; temas halinde hemen bol miktarda suyla y&#305;kay&#305;n. &#196;r&#237;tma, k&#305;zar&#305;kl&#305;k veya a&#351;&#305;r&#305; hassasiyet olu&#351;ursa kullan&#305;m&#305; durdurun ve bir hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. 3 ya&#351; alt&#305;ndaki &#231;ocuklar taraf&#305;ndan kullan&#305;lmamal&#305;d&#305;r. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzak bir ortamda saklay&#305;n. &#199;ocuklar&#305;n elinden uzakta tutun. H&#252;cre de&#287;i&#351;tirici veya ciddi cilt hastal&#305;&#287;&#305; olan ki&#351;iler kullan&#305;mdan &#246;nce dermatolo&#287;a dan&#305;&#351;mal&#305;d&#305;r.</p>
 <p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -82397,7 +82397,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1079.90</Price>
 <Price2>1186.29</Price2>
@@ -82409,29 +82409,29 @@
 <Price8>1587.09</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850071952148_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850071952148_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/850071952148_2.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml</strong>, hafif ve non-komedojenik formülasyonu ile günlük kullanım için tasarlanmış bir mineral güneş kremidir. Çinko oksit ve titanyum dioksit tabanlı koruyucu filtreler sayesinde UVA ve UVB queşetlerine karşı etkili bir bariyer sağlar. Hassas cilt tipleri, kızarıklık eğilimi olan ve kozmetik ürünlere aşırı tepki gösteren kişiler için uygundur. Yağlı ve karışık ciltlerde de rahatça kullanılabilir, beyaz bırakmayan ince tekstürü sayesinde makyazın altına da rahatlıkla uygulanabilir.</p>
-<h2>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-uv-defense-mineral-fluid-spf30-100-ml-21978.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-uv-defense-mineral-fluid-spf30-100-ml-21979.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-uv-defense-mineral-fluid-spf30-100-ml-21980.jpg</Image3>
+<Description><![CDATA[<section><p><strong>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml</strong>, hafif ve non-komedojenik form&#252;lasyonu ile g&#252;nl&#252;k kullan&#305;m i&#231;in tasarlanm&#305;&#351; bir mineral g&#252;ne&#351; kremidir. &#199;inko oksit ve titanyum dioksit tabanl&#305; koruyucu filtreler sayesinde UVA ve UVB que&#351;etlerine kar&#351;&#305; etkili bir bariyer sa&#287;lar. Hassas cilt tipleri, k&#305;zar&#305;kl&#305;k e&#287;ilimi olan ve kozmetik &#252;r&#252;nlere a&#351;&#305;r&#305; tepki g&#246;steren ki&#351;iler i&#231;in uygundur. Ya&#287;l&#305; ve kar&#305;&#351;&#305;k ciltlerde de rahat&#231;a kullan&#305;labilir, beyaz b&#305;rakmayan ince tekst&#252;r&#252; sayesinde makyaz&#305;n alt&#305;na da rahatl&#305;kla uygulanabilir.</p>
+<h2>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml &#214;zellikleri</h2>
 <ul>
-<li>SPF 30+ yüksek spektrumlu UVA ve UVB koruması sağlar</li>
-<li>Mineral filtre (çinko oksit + titanyum dioksit) ile kimyasal filtre içermez</li>
-<li>Hassas ciltler için uygun, parfüm ve alkol içermez</li>
-<li>Non-komedojenik formül, porları tıkamaz ve akne riskini artırmaz</li>
-<li>Hafif sıvı tekstürü, hızlı emilir ve beyaz bırakmaz</li>
-<li>Su ve ter direnci ile dış mekan aktiviteleri için uygundur</li>
-<li>Antioksidan destekli formülasyonla serbest radikallerle mücadele eder</li>
-<li>Güneş 15-30 dakika önce uygulanmalı, 2 saatte bir yenilenmelidir</li>
-<li>Yüz, boyun ve dekolté gibi hassas alanlar için özel olarak geliştirilmiştir</li>
-<li>Çocuklar ve yetişkinler tarafından güvenle kullanılabilir</li>
-<li>Çevreye duyarlı üretim, mikroplastik içermez</li>
-<li>Dermatolog olarak test edilmiştir</li>
+<li>SPF 30+ y&#252;ksek spektrumlu UVA ve UVB korumas&#305; sa&#287;lar</li>
+<li>Mineral filtre (&#231;inko oksit + titanyum dioksit) ile kimyasal filtre i&#231;ermez</li>
+<li>Hassas ciltler i&#231;in uygun, parf&#252;m ve alkol i&#231;ermez</li>
+<li>Non-komedojenik form&#252;l, porlar&#305; t&#305;kamaz ve akne riskini art&#305;rmaz</li>
+<li>Hafif s&#305;v&#305; tekst&#252;r&#252;, h&#305;zl&#305; emilir ve beyaz b&#305;rakmaz</li>
+<li>Su ve ter direnci ile d&#305;&#351; mekan aktiviteleri i&#231;in uygundur</li>
+<li>Antioksidan destekli form&#252;lasyonla serbest radikallerle m&#252;cadele eder</li>
+<li>G&#252;ne&#351; 15-30 dakika &#246;nce uygulanmal&#305;, 2 saatte bir yenilenmelidir</li>
+<li>Y&#252;z, boyun ve dekolt&#233; gibi hassas alanlar i&#231;in &#246;zel olarak geli&#351;tirilmi&#351;tir</li>
+<li>&#199;ocuklar ve yeti&#351;kinler taraf&#305;ndan g&#252;venle kullan&#305;labilir</li>
+<li>&#199;evreye duyarl&#305; &#252;retim, mikroplastik i&#231;ermez</li>
+<li>Dermatolog olarak test edilmi&#351;tir</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Güneşe çıkmadan en az 15-30 dakika önce, temiz ve nemli yüz, boyun ve dekolté alanına yeterli miktarda (çay kaşığı başına yaklaşık 1/4 çay kaşığı) uygulayın. Hafif masaj movementsiyle dağıtın ve tamamen emilmesini bekleyen ardından makyaj uygulayabilirsiniz. Gün içinde terleme, yüz yıkama veya havlu ile nemlendirme sonrası 2 saatte bir yeniden uygulayın. Özellikle öğle saatlerinde ve uzun süre dışarıda kalacaksa uygulama sıklığını artırın. Bebekler ve 3 yaş altı çocuklar için kullanımda önce bir cilt testi yapılması önerilir.</p>
-<h2>Uyarılar</h2>
-<p>Sadece dış kullanım içindir. Gözle temas edilirse, hemen bol miktarda suyla yıkayın. İntihal etmeyin. Kızarıklık, kaşıntı, şişlik veya herhangi bir tahriş belirtileri gözlemlenirse kullanımı durdurun ve hekime veya eczacıya danışın. Ürünü sıcaklık 30°C'yi aşmayan, doğrudan güneş ışığına ve nemden korunan serin ve kuru bir ortamda saklayın. Çocukların elinin ulaşamayacağı güvenli bir yerde tutun. 3 yaş altı çocuklarda kullanımda önceden bir cilt testi yapılması önerilir. Hücresel hasar riskini azaltmak için güneş kremi sadece bir koruma yöntemidir; gölge, koruyucu kıyafet ve şapka gibi ek önlemler alınmalıdır. Tüm ürünlerimizi Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>G&#252;ne&#351;e &#231;&#305;kmadan en az 15-30 dakika &#246;nce, temiz ve nemli y&#252;z, boyun ve dekolt&#233; alan&#305;na yeterli miktarda (&#231;ay ka&#351;&#305;&#287;&#305; ba&#351;&#305;na yakla&#351;&#305;k 1/4 &#231;ay ka&#351;&#305;&#287;&#305;) uygulay&#305;n. Hafif masaj movementsiyle da&#287;&#305;t&#305;n ve tamamen emilmesini bekleyen ard&#305;ndan makyaj uygulayabilirsiniz. G&#252;n i&#231;inde terleme, y&#252;z y&#305;kama veya havlu ile nemlendirme sonras&#305; 2 saatte bir yeniden uygulay&#305;n. &#214;zellikle &#246;&#287;le saatlerinde ve uzun s&#252;re d&#305;&#351;ar&#305;da kalacaksa uygulama s&#305;kl&#305;&#287;&#305;n&#305; art&#305;r&#305;n. Bebekler ve 3 ya&#351; alt&#305; &#231;ocuklar i&#231;in kullan&#305;mda &#246;nce bir cilt testi yap&#305;lmas&#305; &#246;nerilir.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas edilirse, hemen bol miktarda suyla y&#305;kay&#305;n. &#304;ntihal etmeyin. K&#305;zar&#305;kl&#305;k, ka&#351;&#305;nt&#305;, &#351;i&#351;lik veya herhangi bir tahri&#351; belirtileri g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. &#220;r&#252;n&#252; s&#305;cakl&#305;k 30&#176;C'yi a&#351;mayan, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;na ve nemden korunan serin ve kuru bir ortamda saklay&#305;n. &#199;ocuklar&#305;n elinin ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde tutun. 3 ya&#351; alt&#305; &#231;ocuklarda kullan&#305;mda &#246;nceden bir cilt testi yap&#305;lmas&#305; &#246;nerilir. H&#252;cresel hasar riskini azaltmak i&#231;in g&#252;ne&#351; kremi sadece bir koruma y&#246;ntemidir; g&#246;lge, koruyucu k&#305;yafet ve &#351;apka gibi ek &#246;nlemler al&#305;nmal&#305;d&#305;r. T&#252;m &#252;r&#252;nlerimizi Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01884]]></Product_code>
@@ -82454,8 +82454,8 @@
 <Price8>1723.94</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3282770392401_0.jpg</Image1>
-<Description><![CDATA[<section><p><strong>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 ml</strong>, yumuşak ve etkili bir temizleme jelidir. Seboreik dermatit, yassı ve kırmızı lekeler, kaşıntı ve descamasyon gibi belirtileri yatıştıran formülasyonla, hassas ve tendencia gösteren cilt tipleri için özel olarak geliştirilmiştir. Günlük kullanım için uygun olup, yüz ve vücut gibi etkilenebilecek alanlarda kullanılabilir.</p><h2>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 m Özellikleri</h2><ul><li>Seboreik dermatit ve yassı lekeler için klinik olarak test edilmiş formülasyon</li><li>Pirocton olamin ve sıklopiroksamin gibi aktif bileşenler içerir</li><li>Cilt barrieresini bozmadan temizler, nemini korur</li><li>Kaşıntı, kızarıklık ve descamasyonu azaltmaya yardımcı olur</li><li>Yumuşak jel tekstürü, hafif köpükleyerek temizler</li><li>Parfüm ve renk maddesi içermez, allergen riskini düşürür</li><li>Hassas ciltler için uygun, gözle teması durumunda hemen yıkayın</li><li>200 ml praktik pompalı flakon ile kontrollü kullanım sağlar</li></ul><h2>Nasıl Kullanılır?</h2><p>Gelini ıslak cilt üzerine yeterli miktarda alın ve yuvarlak hareketlerle hafifçe masaj edin. Özellikle etkilenmiş bölgelere odaklanarak 30-60 saniye boyunca masaj yapın. Ardından, sıcak olmayan suyla thoroughly yıkayın. Günlük kullanım için sabah ve/veya akşam kullanılabilir. Kozmetik ürünler üzerinden kullanılacaksa, önce temizleme yapıp ardından diğer ürünleri uygulayın. Gözle temasından kaçının; temas durumunda hemen bol miktarda suyla yıkayın ve gerekirse bir sağlık uzmanına danışın.</p><h2>Uyarılar</h2><p>Sadece dış kullanım içindir. Gözle temasından kaçının; temas durumunda hemen bol miktarda suyla yıkayın ve tahriş devam ederse bir hekime veya eczacıya danışın. Çocukların elinden ulaşamayacağı güvenli bir yerde, 25°C’yi aşmayan sıcaklıkta ve doğrudan güneş ışığından korunduğu ortamda saklayın. İlaç etkileşimi riski düşük olsa da, diğer topical (cilt üzeri) ürünler kullanıyorsanız, bir arada kullanmadan önce eczacınıza veya dermatoloğınıza danışın. Hücre dödürücü veya aşırı azot içeren ürünlerle aynı anda kullanmayın. 3 yaşından küçük çocuklarda kullanım öncesi bir sağlık uzmanına danışılması önerilir. İstenmeyen bir reaksiyon gözlemlenirse, kullanımı durdurun ve bir sağlık profesyoneline başvurun. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-anti-scales-cleansing-gel-200-ml-21981.jpg</Image1>
+<Description><![CDATA[<section><p><strong>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 ml</strong>, yumu&#351;ak ve etkili bir temizleme jelidir. Seboreik dermatit, yass&#305; ve k&#305;rm&#305;z&#305; lekeler, ka&#351;&#305;nt&#305; ve descamasyon gibi belirtileri yat&#305;&#351;t&#305;ran form&#252;lasyonla, hassas ve tendencia g&#246;steren cilt tipleri i&#231;in &#246;zel olarak geli&#351;tirilmi&#351;tir. G&#252;nl&#252;k kullan&#305;m i&#231;in uygun olup, y&#252;z ve v&#252;cut gibi etkilenebilecek alanlarda kullan&#305;labilir.</p><h2>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 m &#214;zellikleri</h2><ul><li>Seboreik dermatit ve yass&#305; lekeler i&#231;in klinik olarak test edilmi&#351; form&#252;lasyon</li><li>Pirocton olamin ve s&#305;klopiroksamin gibi aktif bile&#351;enler i&#231;erir</li><li>Cilt barrieresini bozmadan temizler, nemini korur</li><li>Ka&#351;&#305;nt&#305;, k&#305;zar&#305;kl&#305;k ve descamasyonu azaltmaya yard&#305;mc&#305; olur</li><li>Yumu&#351;ak jel tekst&#252;r&#252;, hafif k&#246;p&#252;kleyerek temizler</li><li>Parf&#252;m ve renk maddesi i&#231;ermez, allergen riskini d&#252;&#351;&#252;r&#252;r</li><li>Hassas ciltler i&#231;in uygun, g&#246;zle temas&#305; durumunda hemen y&#305;kay&#305;n</li><li>200 ml praktik pompal&#305; flakon ile kontroll&#252; kullan&#305;m sa&#287;lar</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Gelini &#305;slak cilt &#252;zerine yeterli miktarda al&#305;n ve yuvarlak hareketlerle hafif&#231;e masaj edin. &#214;zellikle etkilenmi&#351; b&#246;lgelere odaklanarak 30-60 saniye boyunca masaj yap&#305;n. Ard&#305;ndan, s&#305;cak olmayan suyla thoroughly y&#305;kay&#305;n. G&#252;nl&#252;k kullan&#305;m i&#231;in sabah ve/veya ak&#351;am kullan&#305;labilir. Kozmetik &#252;r&#252;nler &#252;zerinden kullan&#305;lacaksa, &#246;nce temizleme yap&#305;p ard&#305;ndan di&#287;er &#252;r&#252;nleri uygulay&#305;n. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas durumunda hemen bol miktarda suyla y&#305;kay&#305;n ve gerekirse bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p><h2>Uyar&#305;lar</h2><p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas durumunda hemen bol miktarda suyla y&#305;kay&#305;n ve tahri&#351; devam ederse bir hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n elinden ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan korundu&#287;u ortamda saklay&#305;n. &#304;la&#231; etkile&#351;imi riski d&#252;&#351;&#252;k olsa da, di&#287;er topical (cilt &#252;zeri) &#252;r&#252;nler kullan&#305;yorsan&#305;z, bir arada kullanmadan &#246;nce eczac&#305;n&#305;za veya dermatolo&#287;&#305;n&#305;za dan&#305;&#351;&#305;n. H&#252;cre d&#246;d&#252;r&#252;c&#252; veya a&#351;&#305;r&#305; azot i&#231;eren &#252;r&#252;nlerle ayn&#305; anda kullanmay&#305;n. 3 ya&#351;&#305;ndan k&#252;&#231;&#252;k &#231;ocuklarda kullan&#305;m &#246;ncesi bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;lmas&#305; &#246;nerilir. &#304;stenmeyen bir reaksiyon g&#246;zlemlenirse, kullan&#305;m&#305; durdurun ve bir sa&#287;l&#305;k profesyoneline ba&#351;vurun. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01885]]></Product_code>
@@ -82478,12 +82478,12 @@
 <Price8>1901.98</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3282770400786_0.png</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3282770400786_1.webp</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3282770400786_2.webp</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3282770400786_3.webp</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/3282770400786_4.webp</Image5>
-<Description><![CDATA[<section><p><strong>Ducray Kelual Ds Intensive Yeni Şampuan 100 ml</strong>, yavaşlayarak yeniden oluşturan ve hafifçe temizleyen formülü ile yorgun, kırılgan ve hassas ciltli başı için özel olarak geliştirilmiş bir dermo-kosmetik şampuan olup, yavaş yavaş etkili olan aktif maddeleri sayesinde başı rahatlatır ve günlük kullanım için uygundur.</p><h2>Ducray Kelual Ds Intensive Yeni Şampuan 100 ml Özellikleri</h2><ul><li>Yorgun, kırılgan ve hassas başı için özel olarak geliştirilmiş dermo-kosmetik formüle sahiptir.</li><li>Pirocton olamine ve Salisilik asit gibi aktif maddeler sayesinde başı yumuşatarak rahatlatır.</li><li>Şeffaf jel konsantrası sayesinde hafifçe köpükler ve kolayca tükenir.</li><li>Paraben, silikon ve boyalı içermez; hassas ciltler için uygun formülde hazırlanmıştır.</li><li>pH dengeli yapısı sayesinde başının doğal barrieresini bozmadan temizler.</li><li>Yumuşak temizleme etkisi sayesinde günlük kullanım için güvenlidir.</li><li>Kuru ve şişkin başı için yumuşak bir his verir ve esnekliği artırır.</li><li>100 ml pratiik ambalajla seyahat ve günlük kullanım için idealdir.</li></ul><h2>Nasıl Kullanılır?</h2><p>İyi ıslatılmış saça yeterli miktarda şampuan uygulayın. Hafifçe masaj ederek köpükleyin ve 2-3 dakika bekletin. Daha sonra iyi şekilde suyuyla yıkayın. En iyi sonuçlar için haftada 2-3 kez kullanılması önerilir. Hassas başı olanlar ilk kullanımda küçük bir miktarla test yapabilir.</p><h2>Uyarılar</h2><p>Sadece dış kullanım içindir. Gözle temas halinde hemen bol miktarda suyla yıkayın. İndisi şiddetli yan tepke, şişlik veya şiddetli kaşıntı oluşursa kullanımı durdurun ve hekime veya eczacıya danışın. 3 yaş altındaki çocuklarda kullanım öncesinden bir sağlık uzmanına danışın. Seri numarası ve son kullanma tarihi ambalaj üzerinden kontrol edilmelidir. Serin, kuru ve doğrudan güneş ışığından uzakta saklayın.</p><p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-intensive-yeni-sampuan-100-ml-21982.png</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-intensive-yeni-sampuan-100-ml-21983.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-intensive-yeni-sampuan-100-ml-21984.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-intensive-yeni-sampuan-100-ml-21985.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ducray-kelual-ds-intensive-yeni-sampuan-100-ml-21986.webp</Image5>
+<Description><![CDATA[<section><p><strong>Ducray Kelual Ds Intensive Yeni &#350;ampuan 100 ml</strong>, yava&#351;layarak yeniden olu&#351;turan ve hafif&#231;e temizleyen form&#252;l&#252; ile yorgun, k&#305;r&#305;lgan ve hassas ciltli ba&#351;&#305; i&#231;in &#246;zel olarak geli&#351;tirilmi&#351; bir dermo-kosmetik &#351;ampuan olup, yava&#351; yava&#351; etkili olan aktif maddeleri sayesinde ba&#351;&#305; rahatlat&#305;r ve g&#252;nl&#252;k kullan&#305;m i&#231;in uygundur.</p><h2>Ducray Kelual Ds Intensive Yeni &#350;ampuan 100 ml &#214;zellikleri</h2><ul><li>Yorgun, k&#305;r&#305;lgan ve hassas ba&#351;&#305; i&#231;in &#246;zel olarak geli&#351;tirilmi&#351; dermo-kosmetik form&#252;le sahiptir.</li><li>Pirocton olamine ve Salisilik asit gibi aktif maddeler sayesinde ba&#351;&#305; yumu&#351;atarak rahatlat&#305;r.</li><li>&#350;effaf jel konsantras&#305; sayesinde hafif&#231;e k&#246;p&#252;kler ve kolayca t&#252;kenir.</li><li>Paraben, silikon ve boyal&#305; i&#231;ermez; hassas ciltler i&#231;in uygun form&#252;lde haz&#305;rlanm&#305;&#351;t&#305;r.</li><li>pH dengeli yap&#305;s&#305; sayesinde ba&#351;&#305;n&#305;n do&#287;al barrieresini bozmadan temizler.</li><li>Yumu&#351;ak temizleme etkisi sayesinde g&#252;nl&#252;k kullan&#305;m i&#231;in g&#252;venlidir.</li><li>Kuru ve &#351;i&#351;kin ba&#351;&#305; i&#231;in yumu&#351;ak bir his verir ve esnekli&#287;i art&#305;r&#305;r.</li><li>100 ml pratiik ambalajla seyahat ve g&#252;nl&#252;k kullan&#305;m i&#231;in idealdir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>&#304;yi &#305;slat&#305;lm&#305;&#351; sa&#231;a yeterli miktarda &#351;ampuan uygulay&#305;n. Hafif&#231;e masaj ederek k&#246;p&#252;kleyin ve 2-3 dakika bekletin. Daha sonra iyi &#351;ekilde suyuyla y&#305;kay&#305;n. En iyi sonu&#231;lar i&#231;in haftada 2-3 kez kullan&#305;lmas&#305; &#246;nerilir. Hassas ba&#351;&#305; olanlar ilk kullan&#305;mda k&#252;&#231;&#252;k bir miktarla test yapabilir.</p><h2>Uyar&#305;lar</h2><p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas halinde hemen bol miktarda suyla y&#305;kay&#305;n. &#304;ndisi &#351;iddetli yan tepke, &#351;i&#351;lik veya &#351;iddetli ka&#351;&#305;nt&#305; olu&#351;ursa kullan&#305;m&#305; durdurun ve hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. 3 ya&#351; alt&#305;ndaki &#231;ocuklarda kullan&#305;m &#246;ncesinden bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. Seri numaras&#305; ve son kullanma tarihi ambalaj &#252;zerinden kontrol edilmelidir. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n.</p><p>Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01886]]></Product_code>
@@ -82505,8 +82505,8 @@
 <Price8>1134.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680645530944_0.png</Image1>
-<Description><![CDATA[<section><p><strong>DuoBalance HP 30 Kapsül</strong>, günlük yaşamda stres ve yorgunluk hissettiği dönemlerde dengeyi desteklemek isteyen yetişkinler için hazırlanmış bir besin takviyesidir. Kapsül formülasyonu, günlük rutine kolayca entegre edilebilir ve aktif yaşam sürdürenlerin ihtiyaç duyduğu mikro besin desteği sunmayı hedefler.</p><h2>DuoBalance HP 30 Kapsül Özellikleri</h2><ul><li>Günlük kullanım için uygun kapsül formunda sunulur</li><li>Yüksek biyokullanılabilirlikli bileşenler içerir</li><li>Stres yönetimi destekleyici formülasyon</li><li>Yorgunluk hissi azaltmaya yardımcı olabilir</li><li>Günlük aktivite performansını destekler</li><li>Besin dengesini tamamlayıcı özellik taşır</li><li>Kolay sindirilebilir ve emilir</li><li>Güvenli ve standart üretim süreçleriyle üretilir</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için önerilen kullanım: Günlük 1 (bir) kapsül, öğle yemeğinden sonra veya eczacının/hekimizin önerdiği şekilde suyla birlikte alınmaktadır. Aşırı konsumdan kaçınılmalı ve kullanım süresi hakkında profesyonel danışma alınmalıdır.</p><h2>Uyarılar</h2><p>Bu ürün bir ilaç değildir ve tedavi amaçlı kullanılmamalıdır. Hamilelik, emzirme dönemleri veya kronik bir hastalığınız varsa kullanımdan önce hekiminize veya eczacınıza danışınız. Çocukların ulaşamayacağı serin, kuru ve ısıtılmayan bir ortamda saklayınız. Etikette belirtilen günlük önerilen miktarı aşmayınız. Alerjik bir durumunuz varsa içerik listesini dikkatle kontrol ediniz.</p><p>DuoBalance HP 30 Kapsül, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/duobalance-hp-30-kapsul-21987.png</Image1>
+<Description><![CDATA[<section><p><strong>DuoBalance HP 30 Kaps&#252;l</strong>, g&#252;nl&#252;k ya&#351;amda stres ve yorgunluk hissetti&#287;i d&#246;nemlerde dengeyi desteklemek isteyen yeti&#351;kinler i&#231;in haz&#305;rlanm&#305;&#351; bir besin takviyesidir. Kaps&#252;l form&#252;lasyonu, g&#252;nl&#252;k rutine kolayca entegre edilebilir ve aktif ya&#351;am s&#252;rd&#252;renlerin ihtiya&#231; duydu&#287;u mikro besin deste&#287;i sunmay&#305; hedefler.</p><h2>DuoBalance HP 30 Kaps&#252;l &#214;zellikleri</h2><ul><li>G&#252;nl&#252;k kullan&#305;m i&#231;in uygun kaps&#252;l formunda sunulur</li><li>Y&#252;ksek biyokullan&#305;labilirlikli bile&#351;enler i&#231;erir</li><li>Stres y&#246;netimi destekleyici form&#252;lasyon</li><li>Yorgunluk hissi azaltmaya yard&#305;mc&#305; olabilir</li><li>G&#252;nl&#252;k aktivite performans&#305;n&#305; destekler</li><li>Besin dengesini tamamlay&#305;c&#305; &#246;zellik ta&#351;&#305;r</li><li>Kolay sindirilebilir ve emilir</li><li>G&#252;venli ve standart &#252;retim s&#252;re&#231;leriyle &#252;retilir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in &#246;nerilen kullan&#305;m: G&#252;nl&#252;k 1 (bir) kaps&#252;l, &#246;&#287;le yeme&#287;inden sonra veya eczac&#305;n&#305;n/hekimizin &#246;nerdi&#287;i &#351;ekilde suyla birlikte al&#305;nmaktad&#305;r. A&#351;&#305;r&#305; konsumdan ka&#231;&#305;n&#305;lmal&#305; ve kullan&#305;m s&#252;resi hakk&#305;nda profesyonel dan&#305;&#351;ma al&#305;nmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve tedavi ama&#231;l&#305; kullan&#305;lmamal&#305;d&#305;r. Hamilelik, emzirme d&#246;nemleri veya kronik bir hastal&#305;&#287;&#305;n&#305;z varsa kullan&#305;mdan &#246;nce hekiminize veya eczac&#305;n&#305;za dan&#305;&#351;&#305;n&#305;z. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin, kuru ve &#305;s&#305;t&#305;lmayan bir ortamda saklay&#305;n&#305;z. Etikette belirtilen g&#252;nl&#252;k &#246;nerilen miktar&#305; a&#351;may&#305;n&#305;z. Alerjik bir durumunuz varsa i&#231;erik listesini dikkatle kontrol ediniz.</p><p>DuoBalance HP 30 Kaps&#252;l, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01887]]></Product_code>
@@ -82528,28 +82528,28 @@
 <Price8>1134.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680645530388_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680645530388_1.jpg</Image2>
-<Description><![CDATA[<section><p><strong>NBT Life Duobalance Pre 60 Saşe</strong>, günlük yaşamda stres ve yorgunluk hissi yaşayan yetişkinler için geliştirilmiş bir besin takviyesidir. Magnum ve B6 vitamini içerikli formülü, sinir sistemi fonksiyonunu destekler ve yorgunluğun hissi ile mücadelede yardımcı olur. Özellikle yoğun çalışma temposu, zihinsel yoğunluk veya fiziksel aktivite sonrası dengesizlik hisseten bireyler için uygundur.</p>
-<h2>NBT Life Duobalance Pre 60 Saşe Özellikleri</h2>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-duobalance-pre-60-sase-21988.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-duobalance-pre-60-sase-21989.jpg</Image2>
+<Description><![CDATA[<section><p><strong>NBT Life Duobalance Pre 60 Sa&#351;e</strong>, g&#252;nl&#252;k ya&#351;amda stres ve yorgunluk hissi ya&#351;ayan yeti&#351;kinler i&#231;in geli&#351;tirilmi&#351; bir besin takviyesidir. Magnum ve B6 vitamini i&#231;erikli form&#252;l&#252;, sinir sistemi fonksiyonunu destekler ve yorgunlu&#287;un hissi ile m&#252;cadelede yard&#305;mc&#305; olur. &#214;zellikle yo&#287;un &#231;al&#305;&#351;ma temposu, zihinsel yo&#287;unluk veya fiziksel aktivite sonras&#305; dengesizlik hisseten bireyler i&#231;in uygundur.</p>
+<h2>NBT Life Duobalance Pre 60 Sa&#351;e &#214;zellikleri</h2>
 <ul>
-<li>Her saşede 300 mg magnezyum ve 2 mg B6 vitamini içerir</li>
+<li>Her sa&#351;ede 300 mg magnezyum ve 2 mg B6 vitamini i&#231;erir</li>
 <li>Magnezyum, elektrolit dengesi ve kas fonksiyonunu destekler</li>
-<li>B6 vitamini, nörotransmitter sentezi ve protein metabolizmasında rol oynar</li>
-<li>Yorgunluk ve yorgunluk hissi azaltmaya katkı sağlar</li>
-<li>Sinir sistemi için gerekli mikronütrijanları sağlar</li>
-<li>Günlük stresle başa çıkma kapasitesini destekler</li>
-<li>Kas gerilimi ve kas kramp riskini azaltmaya yardımcı olur</li>
-<li>Uyku kalitesini olumlu yönde etkileyebilir</li>
-<li>Gluten, laktoz ve konsantrat içermez</li>
+<li>B6 vitamini, n&#246;rotransmitter sentezi ve protein metabolizmas&#305;nda rol oynar</li>
+<li>Yorgunluk ve yorgunluk hissi azaltmaya katk&#305; sa&#287;lar</li>
+<li>Sinir sistemi i&#231;in gerekli mikron&#252;trijanlar&#305; sa&#287;lar</li>
+<li>G&#252;nl&#252;k stresle ba&#351;a &#231;&#305;kma kapasitesini destekler</li>
+<li>Kas gerilimi ve kas kramp riskini azaltmaya yard&#305;mc&#305; olur</li>
+<li>Uyku kalitesini olumlu y&#246;nde etkileyebilir</li>
+<li>Gluten, laktoz ve konsantrat i&#231;ermez</li>
 <li>Vegan ve vegeteryen uyumludur</li>
-<li>60 saşelik paket, 2 aylık kullanım için uygundur</li>
-<li>Sağlık otoriteleri tarafından onaylanmış GMP standartlarında üretilmiştir</li>
+<li>60 sa&#351;elik paket, 2 ayl&#305;k kullan&#305;m i&#231;in uygundur</li>
+<li>Sa&#287;l&#305;k otoriteleri taraf&#305;ndan onaylanm&#305;&#351; GMP standartlar&#305;nda &#252;retilmi&#351;tir</li>
 </ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler için önerilen kullanım: Günlük 1-2 saşe, öğle veya akşam yemeği ile birlikte suyla alınabilir. Saşeyi doğrudan yutmak yerine, bir bardak suda çözülerek tüketilmesi önerilir. Aşırı tüketimden kaçının ve günlük önerilen dozunu aşmayın. İlk kullanımda toleransınızı kontrol etmek için düşük doz ile başlayıp gerektiğinde artırabilirsiniz. Hamilelik, emzilik veya kronik hastalık varsa kullanmadan önce sağlık uzmanına danışın.</p>
-<h2>Uyarılar</h2>
-<p>Bu ürün bir ilaç değildir ve tedavi amaçlı kullanılmaz. Besin takviyeleri, dengeli ve çeşitli bir beslenmenin yerini tutamaz. Böbrek yetmezliği, kalp hastalığı veya magnezyum metabolizması bozukluğu olan kişiler kullanmadan önce doktor danışmalıdır. Çocukların ulaşamayacağı güvenli ve kuru bir ortamda, 25°C’yi aşmayan sıcaklıkta saklayın. İlacınız varsa etkileşim olasılığı olduğu için eczacınıza veya hekiminize danışın. Aşırı magnezyum tüketimi sistemde ishal, bulantı veya karın ağrısı gibi sistem etkileri yaratabilir. Şiddetli veya uzun süren yan etkiler gözlemlenirse kullanımı durdurun ve sağlık profesyoneline başvurun. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Yeti&#351;kinler i&#231;in &#246;nerilen kullan&#305;m: G&#252;nl&#252;k 1-2 sa&#351;e, &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte suyla al&#305;nabilir. Sa&#351;eyi do&#287;rudan yutmak yerine, bir bardak suda &#231;&#246;z&#252;lerek t&#252;ketilmesi &#246;nerilir. A&#351;&#305;r&#305; t&#252;ketimden ka&#231;&#305;n&#305;n ve g&#252;nl&#252;k &#246;nerilen dozunu a&#351;may&#305;n. &#304;lk kullan&#305;mda tolerans&#305;n&#305;z&#305; kontrol etmek i&#231;in d&#252;&#351;&#252;k doz ile ba&#351;lay&#305;p gerekti&#287;inde art&#305;rabilirsiniz. Hamilelik, emzilik veya kronik hastal&#305;k varsa kullanmadan &#246;nce sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n bir ila&#231; de&#287;ildir ve tedavi ama&#231;l&#305; kullan&#305;lmaz. Besin takviyeleri, dengeli ve &#231;e&#351;itli bir beslenmenin yerini tutamaz. B&#246;brek yetmezli&#287;i, kalp hastal&#305;&#287;&#305; veya magnezyum metabolizmas&#305; bozuklu&#287;u olan ki&#351;iler kullanmadan &#246;nce doktor dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; g&#252;venli ve kuru bir ortamda, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta saklay&#305;n. &#304;lac&#305;n&#305;z varsa etkile&#351;im olas&#305;l&#305;&#287;&#305; oldu&#287;u i&#231;in eczac&#305;n&#305;za veya hekiminize dan&#305;&#351;&#305;n. A&#351;&#305;r&#305; magnezyum t&#252;ketimi sistemde ishal, bulant&#305; veya kar&#305;n a&#287;r&#305;s&#305; gibi sistem etkileri yaratabilir. &#350;iddetli veya uzun s&#252;ren yan etkiler g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve sa&#287;l&#305;k profesyoneline ba&#351;vurun. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01888]]></Product_code>
@@ -82572,8 +82572,8 @@
 <Price8>882.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680645530081_0.jpg</Image1>
-<Description><![CDATA[<section><p><strong>NBT Life Magsi P5P Vitamin B6 90 Kapsül</strong>, piridoksin fosfat (P5P) şeklindeki aktif B6 vitamini içerir ve nörolojik fonksiyonları destekler, protein metabolizmasını düzenler ve hormonel dengeyi korumaya yardımcı olur. Yetişkinler ve özellikle stresli yaşam temposu olanlar, sporcular ve diyet programı uygulayanlar için uygundur.</p><h2>NBT Life Magsi P5P Vitamin B6 90 Kapsül Özellikleri</h2><ul><li>Aktif B6 vitami ni (P5P) şeklinde, doğrudan kullanıma hazır</li><li>Her kapsül 25 mg piridoksin fosfat içerir</li><li>90 kapsül, 3 aylık kullanım için yeterli miktar</li><li>Nörotransmitter sentezini destekler (serotonin, dopamin, GABA)</li><li>Protein ve aminoasid metabolizmasında kofaktör rolü oynar</li><li>Hemoglobin sentezinde etkili, kırmızı kan hücresi oluşumunu destekler</li><li>İmmün sistem fonksiyonunu düzenler, antikor üretimine katkı sağlar</li><li>Hormonel dengeyi destekler, özellikle estrogen metabolizmasında etkili</li><li>Gluten, laktoz, soya ve süt ürünleri içermez</li><li>GMO-free, vejetaryen kapsül (hipromeloz) ile üretilmiştir</li><li>Türkiye'de GMP standartlarında üretilmiş, kalite kontrolü geçmiştir</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günlük 1 kapsül, öğle veya akşam yemeği ile birlikte su ile alınması önerilir. Kapsülü çemek veya çiğnemeyin, bütün olarak yutun. Günlük önerilen doz aşılmamalıdır. Uzun süreli kullanım için sağlık uzmanına danışın.</p><h2>Uyarılar</h2><p>Çocukların ulaşamayacağı güvenli bir yerde, 25°C’yi aşmayan sıcaklıkta ve nemden korunarak saklayın. Hamilelik ve emzirme döneminde kullanmadan önce hekiminize veya eczacınıza danışın. Kronik hastalık (özellikle böbrek veya karaciğer yetmezliği) kullananlar, ilaç kullananlar veya düzenli tedavi gören kişiler kullanımdan önce profesyonel danışmalıdır. Aşırı tüketim (günlük 100 mg üzeri) uzun süreli olarak sinir hasarına yol açabilir. Etiketten belirtilen günlük doz aşılmamalıdır. Şiddetli yan etki gözlemlenirse kullanım bırakılmalı ve sağlık uzmanına başvurulmalıdır. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magsi-p5p-vitamin-b6-90-kapsul-21990.jpg</Image1>
+<Description><![CDATA[<section><p><strong>NBT Life Magsi P5P Vitamin B6 90 Kaps&#252;l</strong>, piridoksin fosfat (P5P) &#351;eklindeki aktif B6 vitamini i&#231;erir ve n&#246;rolojik fonksiyonlar&#305; destekler, protein metabolizmas&#305;n&#305; d&#252;zenler ve hormonel dengeyi korumaya yard&#305;mc&#305; olur. Yeti&#351;kinler ve &#246;zellikle stresli ya&#351;am temposu olanlar, sporcular ve diyet program&#305; uygulayanlar i&#231;in uygundur.</p><h2>NBT Life Magsi P5P Vitamin B6 90 Kaps&#252;l &#214;zellikleri</h2><ul><li>Aktif B6 vitami ni (P5P) &#351;eklinde, do&#287;rudan kullan&#305;ma haz&#305;r</li><li>Her kaps&#252;l 25 mg piridoksin fosfat i&#231;erir</li><li>90 kaps&#252;l, 3 ayl&#305;k kullan&#305;m i&#231;in yeterli miktar</li><li>N&#246;rotransmitter sentezini destekler (serotonin, dopamin, GABA)</li><li>Protein ve aminoasid metabolizmas&#305;nda kofakt&#246;r rol&#252; oynar</li><li>Hemoglobin sentezinde etkili, k&#305;rm&#305;z&#305; kan h&#252;cresi olu&#351;umunu destekler</li><li>&#304;mm&#252;n sistem fonksiyonunu d&#252;zenler, antikor &#252;retimine katk&#305; sa&#287;lar</li><li>Hormonel dengeyi destekler, &#246;zellikle estrogen metabolizmas&#305;nda etkili</li><li>Gluten, laktoz, soya ve s&#252;t &#252;r&#252;nleri i&#231;ermez</li><li>GMO-free, vejetaryen kaps&#252;l (hipromeloz) ile &#252;retilmi&#351;tir</li><li>T&#252;rkiye'de GMP standartlar&#305;nda &#252;retilmi&#351;, kalite kontrol&#252; ge&#231;mi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 kaps&#252;l, &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte su ile al&#305;nmas&#305; &#246;nerilir. Kaps&#252;l&#252; &#231;emek veya &#231;i&#287;nemeyin, b&#252;t&#252;n olarak yutun. G&#252;nl&#252;k &#246;nerilen doz a&#351;&#305;lmamal&#305;d&#305;r. Uzun s&#252;reli kullan&#305;m i&#231;in sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p><h2>Uyar&#305;lar</h2><p>&#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta ve nemden korunarak saklay&#305;n. Hamilelik ve emzirme d&#246;neminde kullanmadan &#246;nce hekiminize veya eczac&#305;n&#305;za dan&#305;&#351;&#305;n. Kronik hastal&#305;k (&#246;zellikle b&#246;brek veya karaci&#287;er yetmezli&#287;i) kullananlar, ila&#231; kullananlar veya d&#252;zenli tedavi g&#246;ren ki&#351;iler kullan&#305;mdan &#246;nce profesyonel dan&#305;&#351;mal&#305;d&#305;r. A&#351;&#305;r&#305; t&#252;ketim (g&#252;nl&#252;k 100 mg &#252;zeri) uzun s&#252;reli olarak sinir hasar&#305;na yol a&#231;abilir. Etiketten belirtilen g&#252;nl&#252;k doz a&#351;&#305;lmamal&#305;d&#305;r. &#350;iddetli yan etki g&#246;zlemlenirse kullan&#305;m b&#305;rak&#305;lmal&#305; ve sa&#287;l&#305;k uzman&#305;na ba&#351;vurulmal&#305;d&#305;r. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01889]]></Product_code>
@@ -82596,8 +82596,8 @@
 <Price8>677.04</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/8680645530067_0.jpg</Image1>
-<Description><![CDATA[<section><p><strong>NBT Life Mix Vitamin B12 30 Kapsül</strong>, vitamin B12 eksikliğini önlemek ve desteklemek için geliştirilmiş bir besin takviyesidir. Yetişkinler ve özellikle végétaryen, vegan yaşam tarzı benimseyenler, yaşlı bireyler ve sindirim sistemiyle ilgili absorpsiyon zorlukları yaşayanlar için uygundur.</p><h2>NBT Life Mix Vitamin B12 30 Kapsül Özellikleri</h2><ul><li>Her kapsülde 1000 µg (1 mg) metilcobalamin biçiminde aktif vitamin B12 bulunur.</li><li>Metilcobalamin, vitamin B12'nin en biyolojik olarak aktif ve kullanım hazırı formudur.</li><li>Sinir sistemi fonksiyonunu destekler ve nörotrasmitter sentezinde rol oynar.</li><li>Kırmızı kan hücresi üretimi ve DNA sentezinde gerekli olan bir faktördür.</li><li>Yorgunluk ve yetersizlik hissi hissetmeyi azaltmaya yardımcı olabilir.</li><li>Homöcistein seviyelerinin normal aralıkta tutulmasına katkı sağlar.</li><li>Enerji metabolizmasını destekler ve hücresel seviyede ATP üretimine yardımcı olur.</li><li>Gluten, laktóz, soya ve süt ürünleri içermez; végétaryen ve vegan uyumludur.</li><li>Renkleyici, tatlandırıcı ve konserverant içermez.</li><li>Gastrointestinal toleransı iyi olan bir formülasyondur.</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günlük 1 (bir) kapsül, öğle veya akşam yemeği ile birlikte su ile yutulur. Aşırı tüketimden kaçınılmalı ve önerilen günlük doz aşılmamalıdır. Kullanım süresi ve doz, bireysel ihtiyaç ve sağlık durumu göre değişebileceğinden, uzun süreli kullanım öncesinde bir sağlık uzmanına danışılması önerilir.</p><h2>Uyarılar</h2><p>Besin takviyeleri, dengeli ve çeşitli bir beslenmenin yerini tutamaz. Hamilelik, emzilik süresi veya kronik bir hastalık (özellikle karaciğer veya böbrek yetmezliği) bulunanlar, kullanımdan önce hekimi veya eczacısına danışmalıdır. Çocukların ulaşamayacağı şekilde, 25°C’yi aşmayan, nemli olmayan ve doğrudan güneş ışığı olmayan vişneli bir ortamda saklanmalıdır. Şiddetli yan etki gözlemlenirse kullanım durdurulmalı ve sağlık profesyoneline başvurulmalıdır. Ürün, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-mix-vitamin-b12-30-kapsul-21991.jpg</Image1>
+<Description><![CDATA[<section><p><strong>NBT Life Mix Vitamin B12 30 Kaps&#252;l</strong>, vitamin B12 eksikli&#287;ini &#246;nlemek ve desteklemek i&#231;in geli&#351;tirilmi&#351; bir besin takviyesidir. Yeti&#351;kinler ve &#246;zellikle v&#233;g&#233;taryen, vegan ya&#351;am tarz&#305; benimseyenler, ya&#351;l&#305; bireyler ve sindirim sistemiyle ilgili absorpsiyon zorluklar&#305; ya&#351;ayanlar i&#231;in uygundur.</p><h2>NBT Life Mix Vitamin B12 30 Kaps&#252;l &#214;zellikleri</h2><ul><li>Her kaps&#252;lde 1000 &#181;g (1 mg) metilcobalamin bi&#231;iminde aktif vitamin B12 bulunur.</li><li>Metilcobalamin, vitamin B12'nin en biyolojik olarak aktif ve kullan&#305;m haz&#305;r&#305; formudur.</li><li>Sinir sistemi fonksiyonunu destekler ve n&#246;rotrasmitter sentezinde rol oynar.</li><li>K&#305;rm&#305;z&#305; kan h&#252;cresi &#252;retimi ve DNA sentezinde gerekli olan bir fakt&#246;rd&#252;r.</li><li>Yorgunluk ve yetersizlik hissi hissetmeyi azaltmaya yard&#305;mc&#305; olabilir.</li><li>Hom&#246;cistein seviyelerinin normal aral&#305;kta tutulmas&#305;na katk&#305; sa&#287;lar.</li><li>Enerji metabolizmas&#305;n&#305; destekler ve h&#252;cresel seviyede ATP &#252;retimine yard&#305;mc&#305; olur.</li><li>Gluten, lakt&#243;z, soya ve s&#252;t &#252;r&#252;nleri i&#231;ermez; v&#233;g&#233;taryen ve vegan uyumludur.</li><li>Renkleyici, tatland&#305;r&#305;c&#305; ve konserverant i&#231;ermez.</li><li>Gastrointestinal tolerans&#305; iyi olan bir form&#252;lasyondur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 (bir) kaps&#252;l, &#246;&#287;le veya ak&#351;am yeme&#287;i ile birlikte su ile yutulur. A&#351;&#305;r&#305; t&#252;ketimden ka&#231;&#305;n&#305;lmal&#305; ve &#246;nerilen g&#252;nl&#252;k doz a&#351;&#305;lmamal&#305;d&#305;r. Kullan&#305;m s&#252;resi ve doz, bireysel ihtiya&#231; ve sa&#287;l&#305;k durumu g&#246;re de&#287;i&#351;ebilece&#287;inden, uzun s&#252;reli kullan&#305;m &#246;ncesinde bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;lmas&#305; &#246;nerilir.</p><h2>Uyar&#305;lar</h2><p>Besin takviyeleri, dengeli ve &#231;e&#351;itli bir beslenmenin yerini tutamaz. Hamilelik, emzilik s&#252;resi veya kronik bir hastal&#305;k (&#246;zellikle karaci&#287;er veya b&#246;brek yetmezli&#287;i) bulunanlar, kullan&#305;mdan &#246;nce hekimi veya eczac&#305;s&#305;na dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; &#351;ekilde, 25&#176;C&#8217;yi a&#351;mayan, nemli olmayan ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; olmayan vi&#351;neli bir ortamda saklanmal&#305;d&#305;r. &#350;iddetli yan etki g&#246;zlemlenirse kullan&#305;m durdurulmal&#305; ve sa&#287;l&#305;k profesyoneline ba&#351;vurulmal&#305;d&#305;r. &#220;r&#252;n, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01890]]></Product_code>
@@ -82608,7 +82608,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>0</Stock>
 <Miad>2028-11-01</Miad>
 <Price>616.90</Price>
 <Price2>686.25</Price2>
@@ -82620,11 +82620,11 @@
 <Price8>953.48</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140931_0.jpg</Image1>
-<Image2>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140931_1.jpg</Image2>
-<Image3>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140931_2.jpg</Image3>
-<Image4>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140931_3.jpg</Image4>
-<Image5>https://raw.githubusercontent.com/HakanDalkiran/foto/main/7640128140931_4.jpg</Image5>
-<Description><![CDATA[<section><p><strong>New Life 4 Hepa 30 Softgel Kapsül</strong>, karaciğer fonksiyonunu desteklemek ve oksidatif stres karşısında koruma sağlamak amacıyla geliştirilmiş bir bitkisel takviyedir. Yetişkin bireyler için uygundur ve günlük yaşamda toksin etkisi, yorgunluk veya beslenme dengesizliği yaşayanlar için destekleyici bir rol oynar.</p><h2>New Life 4 Hepa 30 Softgel Kapsül Özellikleri</h2><ul><li>Karaciğer hücrelerinin korumasını destekleyen silibinin içerir</li><li>Antioksidan özellikli fosfolipid kompleksini barındırır</li><li>Toksin etkisine karşı koruyucu rol oynar</li><li>Karaciğer enzimi seviyelerinin dengeleyici etkisi gösterir</li><li>Sofgel kapsül formu sayesinde yüksek biyoutanımlıktır</li><li>Gluten içermez ve doğal kaynaklı bileşenlerden üretilmiştir</li><li>Günlük kullanım için uygun ve kolay swallowing sağlar</li><li>Ürün, GMP standartlarında üretilmiştir</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günlük 1-2 softgel kapsül, öğünler sırasında veya eczacı/hekim önerisiyle tüketilmek üzere önerilir. Kapsülü suyla birlikte yutun, aşırı miktarda almayın. Kullanım süresi ve doz, bireysel ihtiyaçlara göre bir sağlık uzmanıyla belirlenmelidir.</p><h2>Uyarılar</h2><p>Hemşirelik, gebelik veya kronik bir hastalığınız varsa kullanmadan önce hekiminize veya eczacınızla danışın. Çocukların ulaşamayacağı güvenli ve kuru bir ortamda, 25°C’yi aşmayan sıcaklıkta saklayın. Aşırı tüketimden kaçının, deneyeceğiniz herhangi bir yan etki durumunda kullanımı durdurun ve profesyonel danışmanlık alın. Etiket üzerindeki önerilen dozunu aşmayın.</p><p>Bu ürün Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-4-hepa-30-softgel-kapsul-21992.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-4-hepa-30-softgel-kapsul-21993.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-4-hepa-30-softgel-kapsul-21994.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-4-hepa-30-softgel-kapsul-21995.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-4-hepa-30-softgel-kapsul-21996.jpg</Image5>
+<Description><![CDATA[<section><p><strong>New Life 4 Hepa 30 Softgel Kaps&#252;l</strong>, karaci&#287;er fonksiyonunu desteklemek ve oksidatif stres kar&#351;&#305;s&#305;nda koruma sa&#287;lamak amac&#305;yla geli&#351;tirilmi&#351; bir bitkisel takviyedir. Yeti&#351;kin bireyler i&#231;in uygundur ve g&#252;nl&#252;k ya&#351;amda toksin etkisi, yorgunluk veya beslenme dengesizli&#287;i ya&#351;ayanlar i&#231;in destekleyici bir rol oynar.</p><h2>New Life 4 Hepa 30 Softgel Kaps&#252;l &#214;zellikleri</h2><ul><li>Karaci&#287;er h&#252;crelerinin korumas&#305;n&#305; destekleyen silibinin i&#231;erir</li><li>Antioksidan &#246;zellikli fosfolipid kompleksini bar&#305;nd&#305;r&#305;r</li><li>Toksin etkisine kar&#351;&#305; koruyucu rol oynar</li><li>Karaci&#287;er enzimi seviyelerinin dengeleyici etkisi g&#246;sterir</li><li>Sofgel kaps&#252;l formu sayesinde y&#252;ksek biyoutan&#305;ml&#305;kt&#305;r</li><li>Gluten i&#231;ermez ve do&#287;al kaynakl&#305; bile&#351;enlerden &#252;retilmi&#351;tir</li><li>G&#252;nl&#252;k kullan&#305;m i&#231;in uygun ve kolay swallowing sa&#287;lar</li><li>&#220;r&#252;n, GMP standartlar&#305;nda &#252;retilmi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1-2 softgel kaps&#252;l, &#246;&#287;&#252;nler s&#305;ras&#305;nda veya eczac&#305;/hekim &#246;nerisiyle t&#252;ketilmek &#252;zere &#246;nerilir. Kaps&#252;l&#252; suyla birlikte yutun, a&#351;&#305;r&#305; miktarda almay&#305;n. Kullan&#305;m s&#252;resi ve doz, bireysel ihtiya&#231;lara g&#246;re bir sa&#287;l&#305;k uzman&#305;yla belirlenmelidir.</p><h2>Uyar&#305;lar</h2><p>Hem&#351;irelik, gebelik veya kronik bir hastal&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce hekiminize veya eczac&#305;n&#305;zla dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; g&#252;venli ve kuru bir ortamda, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta saklay&#305;n. A&#351;&#305;r&#305; t&#252;ketimden ka&#231;&#305;n&#305;n, deneyece&#287;iniz herhangi bir yan etki durumunda kullan&#305;m&#305; durdurun ve profesyonel dan&#305;&#351;manl&#305;k al&#305;n. Etiket &#252;zerindeki &#246;nerilen dozunu a&#351;may&#305;n.</p><p>Bu &#252;r&#252;n Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 </Products>
