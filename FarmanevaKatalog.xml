@@ -50377,7 +50377,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>12</Stock>
 <Miad>2026-12-01</Miad>
 <Price>574.90</Price>
 <Price2>556.00</Price2>
@@ -50385,8 +50385,8 @@
 <Price4>536.00</Price4>
 <Price5>536.00</Price5>
 <Price6>536.00</Price6>
-<Price7>896.01</Price7>
-<Price8>728.01</Price8>
+<Price7>896.00</Price7>
+<Price8>728.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-10373.jpg</Image1>
@@ -80259,7 +80259,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>10</Stock>
 <Miad>2028-06-01</Miad>
 <Price>645.90</Price>
 <Price2>717.57</Price2>
