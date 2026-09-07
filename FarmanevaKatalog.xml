@@ -82493,16 +82493,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
-<Miad>2026-10-01</Miad>
+<Stock>6</Stock>
+<Miad>2028-02-01</Miad>
 <Price>748.90</Price>
 <Price2>828.81</Price2>
 <Price3>828.81</Price3>
 <Price4>838.77</Price4>
 <Price5>838.77</Price5>
 <Price6>838.77</Price6>
-<Price7>1134.12</Price7>
-<Price8>1134.12</Price8>
+<Price7>1134.11</Price7>
+<Price8>1134.11</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/duobalance-hp-30-kapsul-21987.png</Image1>
@@ -82516,16 +82516,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
-<Miad>2027-09-01</Miad>
+<Stock>3</Stock>
+<Miad>2029-04-01</Miad>
 <Price>748.90</Price>
 <Price2>828.81</Price2>
 <Price3>828.81</Price3>
 <Price4>838.77</Price4>
 <Price5>838.77</Price5>
 <Price6>838.77</Price6>
-<Price7>1134.12</Price7>
-<Price8>1134.12</Price8>
+<Price7>1134.11</Price7>
+<Price8>1134.11</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-duobalance-pre-60-sase-21988.jpg</Image1>
@@ -82560,16 +82560,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>25</Stock>
-<Miad>2027-04-01</Miad>
+<Stock>6</Stock>
+<Miad>2028-06-01</Miad>
 <Price>564.90</Price>
 <Price2>630.09</Price2>
 <Price3>630.09</Price3>
 <Price4>632.69</Price4>
 <Price5>632.69</Price5>
 <Price6>632.69</Price6>
-<Price7>882.32</Price7>
-<Price8>882.32</Price8>
+<Price7>882.31</Price7>
+<Price8>882.31</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-magsi-p5p-vitamin-b6-90-kapsul-21990.jpg</Image1>
@@ -82584,16 +82584,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>23</Stock>
-<Miad>2027-01-01</Miad>
+<Stock>2</Stock>
+<Miad>2029-04-01</Miad>
 <Price>414.90</Price>
 <Price2>468.09</Price2>
 <Price3>468.09</Price3>
 <Price4>464.69</Price4>
 <Price5>464.69</Price5>
 <Price6>464.69</Price6>
-<Price7>677.04</Price7>
-<Price8>677.04</Price8>
+<Price7>677.03</Price7>
+<Price8>677.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-mix-vitamin-b12-30-kapsul-21991.jpg</Image1>
@@ -82608,7 +82608,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>20</Stock>
 <Miad>2028-11-01</Miad>
 <Price>616.90</Price>
 <Price2>686.25</Price2>
