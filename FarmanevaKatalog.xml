@@ -2182,7 +2182,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>3</Stock>
 <Miad>2027-04-01</Miad>
 <Price>969.90</Price>
 <Price2>1067.49</Price2>
@@ -2227,7 +2227,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2026-12-01</Miad>
 <Price>509.90</Price>
 <Price2>570.69</Price2>
@@ -3084,7 +3084,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>0</Stock>
 <Miad>2028-09-01</Miad>
 <Price>749.90</Price>
 <Price2>829.89</Price2>
@@ -3131,7 +3131,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>2027-02-01</Miad>
 <Price>999.90</Price>
 <Price2>1099.89</Price2>
@@ -3176,7 +3176,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>5</Stock>
 <Miad>2026-10-01</Miad>
 <Price>229.00</Price>
 <Price2>267.32</Price2>
@@ -4309,7 +4309,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2026-12-01</Miad>
 <Price>624.90</Price>
 <Price2>694.89</Price2>
@@ -11528,15 +11528,15 @@
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
-<Miad>2030-12-01</Miad>
+<Miad></Miad>
 <Price>466.90</Price>
 <Price2>524.25</Price2>
 <Price3>524.25</Price3>
 <Price4>522.93</Price4>
 <Price5>522.93</Price5>
 <Price6>522.93</Price6>
-<Price7>748.20</Price7>
-<Price8>748.20</Price8>
+<Price7>748.19</Price7>
+<Price8>748.19</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-arbutin-kompleks-krem-33-ml-8452.jpg</Image1>
@@ -12180,7 +12180,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>92</Stock>
+<Stock>91</Stock>
 <Miad></Miad>
 <Price>749.90</Price>
 <Price2>737.07</Price2>
@@ -13568,7 +13568,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>96</Stock>
+<Stock>99</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>172.77</Price2>
@@ -14173,7 +14173,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-12-01</Miad>
 <Price>3598.90</Price>
 <Price2>3906.81</Price2>
@@ -18841,16 +18841,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>6</Stock>
 <Miad>2028-10-01</Miad>
-<Price>586.90</Price>
-<Price2>653.85</Price2>
-<Price3>653.85</Price3>
-<Price4>657.33</Price4>
-<Price5>657.33</Price5>
-<Price6>657.33</Price6>
-<Price7>912.42</Price7>
-<Price8>912.42</Price8>
+<Price>624.90</Price>
+<Price2>694.89</Price2>
+<Price3>694.89</Price3>
+<Price4>699.89</Price4>
+<Price5>699.89</Price5>
+<Price6>699.89</Price6>
+<Price7>964.43</Price7>
+<Price8>964.43</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/generica-sidefer-20-sticks-8818.jpg</Image1>
@@ -26197,7 +26197,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>47</Stock>
+<Stock>46</Stock>
 <Miad></Miad>
 <Price>754.90</Price>
 <Price2>835.29</Price2>
@@ -30225,7 +30225,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2028-05-01</Miad>
 <Price>2849.90</Price>
 <Price2>3097.89</Price2>
@@ -31449,7 +31449,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>258</Stock>
+<Stock>270</Stock>
 <Miad>2027-11-01</Miad>
 <Price>107.00</Price>
 <Price2>135.56</Price2>
@@ -31681,7 +31681,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>122.90</Price>
 <Price2>152.73</Price2>
@@ -31772,7 +31772,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>190.90</Price>
 <Price2>226.17</Price2>
@@ -31953,7 +31953,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>116.90</Price>
 <Price2>146.25</Price2>
@@ -31999,7 +31999,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>83</Stock>
+<Stock>59</Stock>
 <Miad></Miad>
 <Price>87.50</Price>
 <Price2>114.50</Price2>
@@ -32044,7 +32044,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>84.00</Price>
 <Price2>110.72</Price2>
@@ -32494,7 +32494,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>45</Stock>
 <Miad></Miad>
 <Price>181.50</Price>
 <Price2>216.02</Price2>
@@ -32540,7 +32540,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>66</Stock>
 <Miad>2026-11-01</Miad>
 <Price>104.90</Price>
 <Price2>133.29</Price2>
@@ -32585,7 +32585,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>39</Stock>
 <Miad>2027-07-01</Miad>
 <Price>189.00</Price>
 <Price2>224.12</Price2>
@@ -32630,7 +32630,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>56</Stock>
 <Miad>2027-05-01</Miad>
 <Price>112.70</Price>
 <Price2>141.72</Price2>
@@ -33312,7 +33312,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>148.41</Price2>
@@ -33403,7 +33403,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>90</Stock>
+<Stock>95</Stock>
 <Miad></Miad>
 <Price>134.00</Price>
 <Price2>164.72</Price2>
@@ -41704,7 +41704,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>44</Stock>
+<Stock>43</Stock>
 <Miad>2026-11-01</Miad>
 <Price>308.00</Price>
 <Price2>352.64</Price2>
@@ -57792,7 +57792,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Sonrası Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>24</Stock>
 <Miad>2027-03-01</Miad>
 <Price>794.90</Price>
 <Price2>878.49</Price2>
@@ -57841,7 +57841,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Cilt & Yara Problem Ürünleri]]></category>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2027-08-01</Miad>
 <Price>1579.90</Price>
 <Price2>1726.29</Price2>
@@ -59912,7 +59912,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-07-01</Miad>
 <Price>975.00</Price>
 <Price2>1073.00</Price2>
@@ -59962,7 +59962,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>8</Stock>
 <Miad>2027-06-01</Miad>
 <Price>1429.90</Price>
 <Price2>1564.29</Price2>
@@ -63929,7 +63929,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>128.90</Price>
 <Price2>159.21</Price2>
@@ -63975,7 +63975,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>49.70</Price>
 <Price2>73.68</Price2>
@@ -72952,7 +72952,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>4</Stock>
 <Miad>2027-12-01</Miad>
 <Price>2884.00</Price>
 <Price2>3134.72</Price2>
@@ -73410,16 +73410,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
-<Price>443.55</Price>
-<Price2>499.03</Price2>
-<Price3>499.03</Price3>
-<Price4>496.78</Price4>
-<Price5>496.78</Price5>
-<Price6>496.78</Price6>
-<Price7>716.25</Price7>
-<Price8>716.25</Price8>
+<Price>466.90</Price>
+<Price2>524.25</Price2>
+<Price3>524.25</Price3>
+<Price4>522.93</Price4>
+<Price5>522.93</Price5>
+<Price6>522.93</Price6>
+<Price7>748.20</Price7>
+<Price8>748.20</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-arbutin-kompleks-krem-33-ml-eski-ambalaj-11694.jpg</Image1>
@@ -76359,7 +76359,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>39</Stock>
 <Miad></Miad>
 <Price>97.00</Price>
 <Price2>124.76</Price2>
