@@ -46976,8 +46976,9 @@
 <Barcode>4987241198245</Barcode>
 <Name><![CDATA[Rohto Dry Aid Göz Damlası 10 ml]]></Name>
 <Brand><![CDATA[Rohto]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Göz Damlası]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Göz Bakımı]]></category>
+<subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
 <Stock>5</Stock>
 <Miad>2028-10-01</Miad>
@@ -46987,8 +46988,8 @@
 <Price4>584.53</Price4>
 <Price5>584.53</Price5>
 <Price6>584.53</Price6>
-<Price7>823.47</Price7>
-<Price8>823.47</Price8>
+<Price7>823.46</Price7>
+<Price8>823.46</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rohto-dry-aid-goz-damlasi-10-ml-10255.jpg</Image1>
@@ -64530,6 +64531,52 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV01485]]></Product_code>
+<Barcode>4030571008071</Barcode>
+<Name><![CDATA[Recugel Göz Jeli 10 gr]]></Name>
+<Brand><![CDATA[Bausch Lomb]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Göz Bakımı]]></category>
+<subCategory><![CDATA[Göz Damlası]]></subCategory>
+<Tax>10</Tax>
+<Stock>8</Stock>
+<Miad>2027-12-01</Miad>
+<Price>231.90</Price>
+<Price2>349.00</Price2>
+<Price3>349.00</Price3>
+<Price4>329.00</Price4>
+<Price5>329.00</Price5>
+<Price6>329.00</Price6>
+<Price7>426.62</Price7>
+<Price8>426.62</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-11323.jpg</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-11324.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-15244.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-15245.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-17806.jpg</Image5>
+<Description><![CDATA[<section>
+<p><strong>Recugel Göz Jeli 10 gr</strong>, dekspantenol içeren, göz yüzeyine uygulanan 10 gramlık viskoz göz jelidir. Uzun süre ekran karşısında kalanlar ve göz kuruluğu hisseden yetişkinler için üretilmiştir. Yoğun kıvamı sayesinde göz yüzeyinde daha uzun süre kalır</p>
+<h2>Recugel Göz Jeli 10 gr Özellikleri</h2>
+<ul>
+<li>10 gramlık tüp ambalajda sunulur.</li>
+<li>Dekspantenol içerir.</li>
+<li>Göz yüzeyinin nemlendirilmesine yardımcı olur.</li>
+<li>Viskoz jel yapısı göz yüzeyinde daha uzun süre kalır.</li>
+<li>Kuruluk ve yorgunluk hissinde rahatlık sağlar.</li>
+<li>Ekran karşısında uzun süre kalanlar için uygundur.</li>
+<li>Gece kullanımına da uygundur.</li>
+<li>Küçük ambalajıyla çantada taşınabilir.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Alt göz kapağını hafifçe aşağı çekerek göz içine ambalajda belirtilen miktarda jel uygulayın ve gözünüzü birkaç kez kırpın. Uygulamadan sonra kısa süre görme bulanıklığı olabilir. Tüpün ucunu göze ya da başka bir yüzeye değdirmeyin.</p>
+<h2>Uyarılar</h2>
+<p>Ürün kişiye özeldir; başkasıyla paylaşılmamalıdır. Kontakt lens kullanıyorsanız uygulamadan önce çıkarın. Uygulama sonrası geçici görme bulanıklığı olabilir; geçene kadar araç kullanmayın. Göz ağrısı, kızarıklık ya da görme değişikliği sürerse kullanımı bırakıp hekiminize danışın. Açıldıktan sonra ambalajda belirtilen süre içinde bitirin. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Göz kuruluğu için jel formunda bir ürün arayanlar Recugel Göz Jeli'ni Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV01486]]></Product_code>
 <Barcode>8681026050631</Barcode>
 <Name><![CDATA[Regenesis Max Plus 30 Kapsül]]></Name>
@@ -69507,7 +69554,7 @@
 <Product_code><![CDATA[FRMNV01599]]></Product_code>
 <Barcode>8683229900119</Barcode>
 <Name><![CDATA[Venatura Resveratrol 30 Kapsül]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
@@ -69519,8 +69566,8 @@
 <Price4>628.21</Price4>
 <Price5>628.21</Price5>
 <Price6>628.21</Price6>
-<Price7>876.84</Price7>
-<Price8>876.84</Price8>
+<Price7>876.83</Price7>
+<Price8>876.83</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-resveratrol-30-kapsul-11528.jpg</Image1>
@@ -69552,7 +69599,7 @@
 <Product_code><![CDATA[FRMNV01600]]></Product_code>
 <Barcode>8683229901314</Barcode>
 <Name><![CDATA[Venatura Sitikolin 250 mg 30 Kapsül]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
@@ -69564,8 +69611,8 @@
 <Price4>807.41</Price4>
 <Price5>807.41</Price5>
 <Price6>807.41</Price6>
-<Price7>1095.80</Price7>
-<Price8>1095.80</Price8>
+<Price7>1095.79</Price7>
+<Price8>1095.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-sitikolin-250-mg-30-kapsul-11530.jpg</Image1>
@@ -69597,7 +69644,7 @@
 <Product_code><![CDATA[FRMNV01601]]></Product_code>
 <Barcode>8683229900379</Barcode>
 <Name><![CDATA[Venatura Ultra Omega 3 30 Kapsül]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
@@ -69609,8 +69656,8 @@
 <Price4>496.05</Price4>
 <Price5>496.05</Price5>
 <Price6>496.05</Price6>
-<Price7>715.37</Price7>
-<Price8>715.37</Price8>
+<Price7>715.36</Price7>
+<Price8>715.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-ultra-omega-3-30-kapsul-11532.jpg</Image1>
@@ -69642,7 +69689,7 @@
 <Product_code><![CDATA[FRMNV01602]]></Product_code>
 <Barcode>8683229900386</Barcode>
 <Name><![CDATA[Venatura Ultra Omega 3 60 Kapsül]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
@@ -69654,8 +69701,8 @@
 <Price4>871.36</Price4>
 <Price5>871.36</Price5>
 <Price6>871.36</Price6>
-<Price7>1173.94</Price7>
-<Price8>1173.94</Price8>
+<Price7>1173.95</Price7>
+<Price8>1173.95</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-ultra-omega-3-60-kapsul-11534.jpg</Image1>
@@ -69687,7 +69734,7 @@
 <Product_code><![CDATA[FRMNV01603]]></Product_code>
 <Barcode>8683229900522</Barcode>
 <Name><![CDATA[Venatura Vitamin B Kompleks 30 Kapsül]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
@@ -69700,8 +69747,8 @@
 <Price4>408.80</Price4>
 <Price5>408.80</Price5>
 <Price6>408.80</Price6>
-<Price7>608.75</Price7>
-<Price8>608.75</Price8>
+<Price7>608.76</Price7>
+<Price8>608.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-vitamin-b-kompleks-30-kapsul-11536.jpg</Image1>
@@ -69733,7 +69780,7 @@
 <Product_code><![CDATA[FRMNV01604]]></Product_code>
 <Barcode>8683229900478</Barcode>
 <Name><![CDATA[Venatura Vitamin B12 MA Metilkobalamin ve Adenozilkobalamin 30 Tablet]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
@@ -69746,8 +69793,8 @@
 <Price4>212.69</Price4>
 <Price5>212.69</Price5>
 <Price6>212.69</Price6>
-<Price7>369.13</Price7>
-<Price8>369.13</Price8>
+<Price7>369.12</Price7>
+<Price8>369.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-vitamin-b12-ma-metilkobalamin-ve-adenozilkobalamin-30-tablet-11538.jpg</Image1>
@@ -69779,7 +69826,7 @@
 <Product_code><![CDATA[FRMNV01605]]></Product_code>
 <Barcode>8683229900133</Barcode>
 <Name><![CDATA[Venatura Vitamin D3 1000 IU Sprey 20 ml]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
@@ -69792,8 +69839,8 @@
 <Price4>200.14</Price4>
 <Price5>200.14</Price5>
 <Price6>200.14</Price6>
-<Price7>353.80</Price7>
-<Price8>353.80</Price8>
+<Price7>353.81</Price7>
+<Price8>353.81</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-vitamin-d3-1000-iu-sprey-20-ml-11541.jpg</Image1>
@@ -69825,7 +69872,7 @@
 <Product_code><![CDATA[FRMNV01606]]></Product_code>
 <Barcode>8683229900157</Barcode>
 <Name><![CDATA[Venatura Vitamin D3 400 IU Sprey 20 ml]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
@@ -69838,8 +69885,8 @@
 <Price4>189.06</Price4>
 <Price5>189.06</Price5>
 <Price6>189.06</Price6>
-<Price7>340.25</Price7>
-<Price8>340.25</Price8>
+<Price7>340.26</Price7>
+<Price8>340.26</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-vitamin-d3-400-iu-sprey-20-ml-11543.jpg</Image1>
@@ -69871,7 +69918,7 @@
 <Product_code><![CDATA[FRMNV01607]]></Product_code>
 <Barcode>8683229900140</Barcode>
 <Name><![CDATA[Venatura Vitamin D3 600 IU Sprey 20 ml]]></Name>
-<Brand><![CDATA[Venatura]]></Brand>
+<Brand><![CDATA[VeNatura]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
@@ -69884,8 +69931,8 @@
 <Price4>196.00</Price4>
 <Price5>196.00</Price5>
 <Price6>196.00</Price6>
-<Price7>348.74</Price7>
-<Price8>348.74</Price8>
+<Price7>348.75</Price7>
+<Price8>348.75</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/venatura-vitamin-d3-600-iu-sprey-20-ml-11545.jpg</Image1>
@@ -71563,7 +71610,7 @@
 <Product_code><![CDATA[FRMNV01645]]></Product_code>
 <Barcode>9555038901740</Barcode>
 <Name><![CDATA[Flipper Diş Firçası Kabı 1 Adet ((6 Farklı Hayvan Çeşitli)]]></Name>
-<Brand><![CDATA[ROCS]]></Brand>
+<Brand><![CDATA[Flipper]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
@@ -71576,8 +71623,8 @@
 <Price4>201.38</Price4>
 <Price5>201.38</Price5>
 <Price6>201.38</Price6>
-<Price7>355.31</Price7>
-<Price8>355.31</Price8>
+<Price7>355.32</Price7>
+<Price8>355.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image1>
@@ -71732,7 +71779,7 @@
 <Product_code><![CDATA[FRMNV01649]]></Product_code>
 <Barcode>4607152730876</Barcode>
 <Name><![CDATA[R.O.C.S. Smokers Leke Silici Diş Fırçası - Orta Sert]]></Name>
-<Brand><![CDATA[R.O.C.S.]]></Brand>
+<Brand><![CDATA[Rocs]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
@@ -71745,8 +71792,8 @@
 <Price4>254.24</Price4>
 <Price5>254.24</Price5>
 <Price6>254.24</Price6>
-<Price7>419.90</Price7>
-<Price8>419.90</Price8>
+<Price7>419.91</Price7>
+<Price8>419.91</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image1>
@@ -77918,7 +77965,7 @@
 <Product_code><![CDATA[FRMNV01791]]></Product_code>
 <Barcode>762860013469</Barcode>
 <Name><![CDATA[AeroChamber Turuncu 0-18 Ay]]></Name>
-<Brand><![CDATA[AeroChamber]]></Brand>
+<Brand><![CDATA[Aerochamber]]></Brand>
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
@@ -77931,8 +77978,8 @@
 <Price4>2127.89</Price4>
 <Price5>2127.89</Price5>
 <Price6>2127.89</Price6>
-<Price7>2709.26</Price7>
-<Price8>2709.26</Price8>
+<Price7>2709.25</Price7>
+<Price8>2709.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aerochamber-turuncu-0-18-ay-21146.webp</Image1>
@@ -79754,7 +79801,7 @@
 <Product_code><![CDATA[FRMNV01834]]></Product_code>
 <Barcode>8680645530746</Barcode>
 <Name><![CDATA[Nbtlife Quattro 30 Tablet]]></Name>
-<Brand><![CDATA[NBT Life]]></Brand>
+<Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
@@ -79767,8 +79814,8 @@
 <Price4>442.29</Price4>
 <Price5>442.29</Price5>
 <Price6>442.29</Price6>
-<Price7>649.67</Price7>
-<Price8>649.67</Price8>
+<Price7>649.66</Price7>
+<Price8>649.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbtlife-quattro-30-tablet-21605.jpg</Image1>
