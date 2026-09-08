@@ -2588,7 +2588,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>79</Stock>
+<Stock>77</Stock>
 <Miad>2026-11-01</Miad>
 <Price>597.90</Price>
 <Price2>665.73</Price2>
@@ -8257,7 +8257,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>63</Stock>
 <Miad>2030-05-01</Miad>
 <Price>69.90</Price>
 <Price2>95.49</Price2>
@@ -11446,7 +11446,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>524.25</Price2>
@@ -15216,7 +15216,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad>2027-03-01</Miad>
 <Price>1149.90</Price>
 <Price2>1261.89</Price2>
@@ -18656,7 +18656,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>11</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>612.81</Price2>
@@ -19351,7 +19351,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>41</Stock>
+<Stock>40</Stock>
 <Miad>2028-02-01</Miad>
 <Price>478.00</Price>
 <Price2>536.24</Price2>
@@ -20004,7 +20004,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>153</Stock>
+<Stock>150</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -38685,7 +38685,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>30</Stock>
+<Stock>29</Stock>
 <Miad>2027-06-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -39579,7 +39579,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>34</Stock>
+<Stock>33</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>931.52</Price2>
@@ -39903,7 +39903,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>123</Stock>
+<Stock>122</Stock>
 <Miad>2028-02-01</Miad>
 <Price>328.90</Price>
 <Price2>375.21</Price2>
@@ -47028,7 +47028,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Yarabandı]]></subCategory>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2029-11-01</Miad>
 <Price>248.90</Price>
 <Price2>288.81</Price2>
@@ -53090,7 +53090,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-12-01</Miad>
 <Price>529.00</Price>
 <Price2>591.32</Price2>
@@ -59137,7 +59137,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>145.28</Price2>
@@ -63667,7 +63667,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>240</Stock>
+<Stock>239</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>518.99</Price2>
@@ -64531,52 +64531,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01485]]></Product_code>
-<Barcode>4030571008071</Barcode>
-<Name><![CDATA[Recugel Göz Jeli 10 gr]]></Name>
-<Brand><![CDATA[Bausch Lomb]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Göz Bakımı]]></category>
-<subCategory><![CDATA[Göz Damlası]]></subCategory>
-<Tax>10</Tax>
-<Stock>8</Stock>
-<Miad>2027-12-01</Miad>
-<Price>231.90</Price>
-<Price2>349.00</Price2>
-<Price3>349.00</Price3>
-<Price4>329.00</Price4>
-<Price5>329.00</Price5>
-<Price6>329.00</Price6>
-<Price7>426.61</Price7>
-<Price8>426.61</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-11323.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-11324.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-15244.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-15245.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/recugel-goz-jeli-10-gr-17806.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Recugel Göz Jeli 10 gr</strong>, dekspantenol içeren, göz yüzeyine uygulanan 10 gramlık viskoz göz jelidir. Uzun süre ekran karşısında kalanlar ve göz kuruluğu hisseden yetişkinler için üretilmiştir. Yoğun kıvamı sayesinde göz yüzeyinde daha uzun süre kalır</p>
-<h2>Recugel Göz Jeli 10 gr Özellikleri</h2>
-<ul>
-<li>10 gramlık tüp ambalajda sunulur.</li>
-<li>Dekspantenol içerir.</li>
-<li>Göz yüzeyinin nemlendirilmesine yardımcı olur.</li>
-<li>Viskoz jel yapısı göz yüzeyinde daha uzun süre kalır.</li>
-<li>Kuruluk ve yorgunluk hissinde rahatlık sağlar.</li>
-<li>Ekran karşısında uzun süre kalanlar için uygundur.</li>
-<li>Gece kullanımına da uygundur.</li>
-<li>Küçük ambalajıyla çantada taşınabilir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Alt göz kapağını hafifçe aşağı çekerek göz içine ambalajda belirtilen miktarda jel uygulayın ve gözünüzü birkaç kez kırpın. Uygulamadan sonra kısa süre görme bulanıklığı olabilir. Tüpün ucunu göze ya da başka bir yüzeye değdirmeyin.</p>
-<h2>Uyarılar</h2>
-<p>Ürün kişiye özeldir; başkasıyla paylaşılmamalıdır. Kontakt lens kullanıyorsanız uygulamadan önce çıkarın. Uygulama sonrası geçici görme bulanıklığı olabilir; geçene kadar araç kullanmayın. Göz ağrısı, kızarıklık ya da görme değişikliği sürerse kullanımı bırakıp hekiminize danışın. Açıldıktan sonra ambalajda belirtilen süre içinde bitirin. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Göz kuruluğu için jel formunda bir ürün arayanlar Recugel Göz Jeli'ni Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV01486]]></Product_code>
 <Barcode>8681026050631</Barcode>
 <Name><![CDATA[Regenesis Max Plus 30 Kapsül]]></Name>
@@ -65274,7 +65228,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>8</Stock>
 <Miad>2028-12-01</Miad>
 <Price>282.90</Price>
 <Price2>325.53</Price2>
@@ -67364,7 +67318,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -68601,7 +68555,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>29</Stock>
+<Stock>28</Stock>
 <Miad>2029-03-01</Miad>
 <Price>898.90</Price>
 <Price2>990.81</Price2>
@@ -72819,7 +72773,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>524.25</Price2>
@@ -73189,7 +73143,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>26</Stock>
+<Stock>16</Stock>
 <Miad>2027-03-01</Miad>
 <Price>1149.90</Price>
 <Price2>1261.89</Price2>
