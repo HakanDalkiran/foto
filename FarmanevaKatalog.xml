@@ -2905,7 +2905,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>0</Stock>
 <Miad>2027-08-01</Miad>
 <Price>569.90</Price>
 <Price2>635.49</Price2>
@@ -74574,7 +74574,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-07-01</Miad>
 <Price>1038.90</Price>
 <Price2>1142.01</Price2>
@@ -79667,7 +79667,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>7</Stock>
 <Miad>2028-06-01</Miad>
 <Price>645.90</Price>
 <Price2>717.57</Price2>
