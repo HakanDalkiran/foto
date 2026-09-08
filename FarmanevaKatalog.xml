@@ -11630,16 +11630,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>456.90</Price>
-<Price2>488.78</Price2>
-<Price3>488.78</Price3>
+<Price>434.05</Price>
+<Price2>488.77</Price2>
+<Price3>488.77</Price3>
 <Price4>486.14</Price4>
 <Price5>486.14</Price5>
 <Price6>486.14</Price6>
-<Price7>697.79</Price7>
-<Price8>734.52</Price8>
+<Price7>703.25</Price7>
+<Price8>703.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-ato-probiyotik-krem-50-ml-8461.jpg</Image1>
@@ -63152,7 +63152,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>10</Stock>
 <Miad>2027-08-01</Miad>
 <Price>1249.90</Price>
 <Price2>1369.89</Price2>
