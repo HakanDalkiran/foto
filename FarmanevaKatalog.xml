@@ -15216,16 +15216,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2027-03-01</Miad>
+<Stock>5</Stock>
+<Miad>2027-01-01</Miad>
 <Price>1149.90</Price>
 <Price2>1261.89</Price2>
 <Price3>1261.89</Price3>
 <Price4>1287.89</Price4>
 <Price5>1287.89</Price5>
 <Price6>1287.89</Price6>
-<Price7>1682.89</Price7>
-<Price8>1682.89</Price8>
+<Price7>1682.88</Price7>
+<Price8>1682.88</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/evolvia-nutripro-plus-2-devam-sutu-800-gr-8711.jpg</Image1>
@@ -63111,7 +63111,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>8</Stock>
 <Miad>2027-08-01</Miad>
 <Price>1249.90</Price>
 <Price2>1369.89</Price2>
