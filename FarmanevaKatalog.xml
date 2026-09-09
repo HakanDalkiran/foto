@@ -8025,7 +8025,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>163</Stock>
+<Stock>164</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>881.73</Price2>
@@ -11164,7 +11164,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>307</Stock>
+<Stock>308</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -13345,7 +13345,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>83</Stock>
+<Stock>89</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>172.77</Price2>
@@ -21102,15 +21102,15 @@
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
 <Stock>5</Stock>
-<Miad>2027-02-01</Miad>
+<Miad>2027-07-01</Miad>
 <Price>346.90</Price>
 <Price2>394.65</Price2>
 <Price3>394.65</Price3>
 <Price4>388.53</Price4>
 <Price5>388.53</Price5>
 <Price6>388.53</Price6>
-<Price7>583.98</Price7>
-<Price8>583.98</Price8>
+<Price7>583.97</Price7>
+<Price8>583.97</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/kurmed-optik-erkek-goz-bandi-50-adet-8907.jpg</Image1>
@@ -47203,7 +47203,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>231</Stock>
+<Stock>251</Stock>
 <Miad>2029-02-01</Miad>
 <Price>58.40</Price>
 <Price2>83.07</Price2>
@@ -58718,7 +58718,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>418.00</Price>
 <Price2>471.44</Price2>
@@ -59834,7 +59834,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>248.50</Price>
 <Price2>288.38</Price2>
@@ -60992,7 +60992,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-10-01</Miad>
 <Price>338.90</Price>
 <Price2>386.01</Price2>
@@ -63751,7 +63751,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>235</Stock>
+<Stock>237</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>518.99</Price2>
@@ -64898,7 +64898,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>26</Stock>
 <Miad>2029-06-01</Miad>
 <Price>234.00</Price>
 <Price2>272.72</Price2>
@@ -66658,7 +66658,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>149</Stock>
+<Stock>148</Stock>
 <Miad>2028-01-01</Miad>
 <Price>555.00</Price>
 <Price2>619.40</Price2>
@@ -71606,7 +71606,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Yıpranmış Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>248.00</Price>
 <Price2>287.84</Price2>
