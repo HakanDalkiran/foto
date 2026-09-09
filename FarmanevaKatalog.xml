@@ -12053,16 +12053,16 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>120</Stock>
 <Miad></Miad>
-<Price>459.80</Price>
-<Price2>516.58</Price2>
-<Price3>516.58</Price3>
-<Price4>514.98</Price4>
-<Price5>514.98</Price5>
-<Price6>514.98</Price6>
-<Price7>738.49</Price7>
-<Price8>738.49</Price8>
+<Price>484.00</Price>
+<Price2>542.72</Price2>
+<Price3>542.72</Price3>
+<Price4>542.08</Price4>
+<Price5>542.08</Price5>
+<Price6>542.08</Price6>
+<Price7>771.60</Price7>
+<Price8>771.60</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-bb-krem-spf50-50ml-8479.jpg</Image1>
@@ -12145,16 +12145,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
-<Price>359.96</Price>
-<Price2>408.76</Price2>
-<Price3>408.76</Price3>
-<Price4>403.16</Price4>
-<Price5>403.16</Price5>
-<Price6>403.16</Price6>
-<Price7>601.86</Price7>
-<Price8>601.86</Price8>
+<Price>378.90</Price>
+<Price2>429.21</Price2>
+<Price3>429.21</Price3>
+<Price4>424.37</Price4>
+<Price5>424.37</Price5>
+<Price6>424.37</Price6>
+<Price7>627.77</Price7>
+<Price8>627.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-be-bright-lightening-tonic-200-ml-8489.jpg</Image1>
@@ -13159,16 +13159,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
-<Price>498.66</Price>
-<Price2>558.55</Price2>
-<Price3>558.55</Price3>
-<Price4>558.50</Price4>
-<Price5>558.50</Price5>
-<Price6>558.50</Price6>
-<Price7>791.67</Price7>
-<Price8>791.67</Price8>
+<Price>524.90</Price>
+<Price2>586.89</Price2>
+<Price3>586.89</Price3>
+<Price4>587.89</Price4>
+<Price5>587.89</Price5>
+<Price6>587.89</Price6>
+<Price7>827.58</Price7>
+<Price8>827.58</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-peptit-kompleks-nemlendirici-krem-33-ml-8576.jpg</Image1>
@@ -13439,16 +13439,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>426.46</Price>
-<Price2>480.58</Price2>
-<Price3>480.58</Price3>
-<Price4>477.64</Price4>
-<Price5>477.64</Price5>
-<Price6>477.64</Price6>
-<Price7>692.86</Price7>
-<Price8>692.86</Price8>
+<Stock>16</Stock>
+<Miad>2026-11-01</Miad>
+<Price>448.90</Price>
+<Price2>504.81</Price2>
+<Price3>504.81</Price3>
+<Price4>502.77</Price4>
+<Price5>502.77</Price5>
+<Price6>502.77</Price6>
+<Price7>723.57</Price7>
+<Price8>723.57</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dermoskin-yuz-yikama-kopugu-200-ml-8610.jpg</Image1>
@@ -21109,8 +21109,8 @@
 <Price4>388.53</Price4>
 <Price5>388.53</Price5>
 <Price6>388.53</Price6>
-<Price7>583.97</Price7>
-<Price8>583.97</Price8>
+<Price7>583.98</Price7>
+<Price8>583.98</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/kurmed-optik-erkek-goz-bandi-50-adet-8907.jpg</Image1>
