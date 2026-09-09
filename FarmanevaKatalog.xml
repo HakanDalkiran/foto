@@ -22859,16 +22859,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>3174.00</Price>
-<Price2>3447.92</Price2>
-<Price3>3447.92</Price3>
-<Price4>3554.88</Price4>
-<Price5>3554.88</Price5>
-<Price6>3554.88</Price6>
-<Price7>4452.87</Price7>
-<Price8>4452.87</Price8>
+<Stock>1</Stock>
+<Miad>2029-05-01</Miad>
+<Price>2250.00</Price>
+<Price2>2450.00</Price2>
+<Price3>2450.00</Price3>
+<Price4>2520.00</Price4>
+<Price5>2520.00</Price5>
+<Price6>2520.00</Price6>
+<Price7>3188.37</Price7>
+<Price8>3188.37</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/la-roche-posay-mela-b3-koyu-leke-karsiti-serum-30ml-9020.jpg</Image1>
@@ -39718,16 +39718,16 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Selenyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>395.43</Price>
-<Price2>447.06</Price2>
-<Price3>447.06</Price3>
-<Price4>442.88</Price4>
-<Price5>442.88</Price5>
-<Price6>442.88</Price6>
-<Price7>650.40</Price7>
-<Price8>650.40</Price8>
+<Stock>24</Stock>
+<Miad>2028-09-01</Miad>
+<Price>148.90</Price>
+<Price2>180.81</Price2>
+<Price3>180.81</Price3>
+<Price4>166.77</Price4>
+<Price5>166.77</Price5>
+<Price6>166.77</Price6>
+<Price7>313.02</Price7>
+<Price8>313.02</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-selenyum-100-mcg-30-tablet-9890.jpg</Image1>
@@ -50377,7 +50377,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>346</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>449.90</Price>
 <Price2>505.89</Price2>
