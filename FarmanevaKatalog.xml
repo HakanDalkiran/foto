@@ -8025,7 +8025,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>164</Stock>
+<Stock>163</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>881.73</Price2>
@@ -8488,7 +8488,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>60</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>947.61</Price2>
@@ -11164,7 +11164,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>308</Stock>
+<Stock>307</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -11446,7 +11446,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>524.25</Price2>
@@ -13345,7 +13345,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>89</Stock>
+<Stock>83</Stock>
 <Miad></Miad>
 <Price>148.90</Price>
 <Price2>172.77</Price2>
@@ -21102,15 +21102,15 @@
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
 <Stock>5</Stock>
-<Miad>2027-07-01</Miad>
+<Miad>2027-02-01</Miad>
 <Price>346.90</Price>
 <Price2>394.65</Price2>
 <Price3>394.65</Price3>
 <Price4>388.53</Price4>
 <Price5>388.53</Price5>
 <Price6>388.53</Price6>
-<Price7>583.98</Price7>
-<Price8>583.98</Price8>
+<Price7>583.97</Price7>
+<Price8>583.97</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/kurmed-optik-erkek-goz-bandi-50-adet-8907.jpg</Image1>
@@ -43607,52 +43607,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00996]]></Product_code>
-<Barcode>5400951991108</Barcode>
-<Name><![CDATA[Predictor Early Erken Gebelik Testi]]></Name>
-<Brand><![CDATA[Predictor]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Gebelik Testi]]></subCategory>
-<Tax>10</Tax>
-<Stock>26</Stock>
-<Miad>2027-10-01</Miad>
-<Price>150.82</Price>
-<Price2>160.00</Price2>
-<Price3>160.00</Price3>
-<Price4>179.00</Price4>
-<Price5>179.00</Price5>
-<Price6>179.00</Price6>
-<Price7>297.38</Price7>
-<Price8>320.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/predictor-early-erken-gebelik-testi-10094.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/predictor-early-erken-gebelik-testi-10095.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/predictor-early-erken-gebelik-testi-14353.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/predictor-early-erken-gebelik-testi-14354.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/predictor-early-erken-gebelik-testi-17177.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Predictor Early Erken Gebelik Testi</strong>, idrardaki gebelik hormonu hCG'yi tespit ederek evde uygulanabilen bir erken gebelik testidir. Y&#252;ksek hassasiyeti sayesinde adet gecikmesinden &#246;nce dahi kullan&#305;labilecek &#351;ekilde tasarlanm&#305;&#351;t&#305;r ve gebelik olas&#305;l&#305;&#287;&#305;n&#305; erkenden &#246;&#287;renmek isteyenlere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>&#304;drardaki hCG hormonunu tespit eder</li>
-<li>Adet gecikmesinden 6 g&#252;n &#246;ncesine kadar kullan&#305;labilir</li>
-<li>D&#252;&#351;&#252;k hCG seviyelerine duyarl&#305; form&#252;l</li>
-<li>Evde kolayca uygulanabilen pratik tasar&#305;m</li>
-<li>Emici u&#231; idrar ak&#305;&#351;&#305;na yaln&#305;zca birka&#231; saniye tutulur</li>
-<li>Sonu&#231; birka&#231; dakika i&#231;inde okunur</li>
-<li>&#304;ki &#231;izgi gebelik, tek &#231;izgi gebelik yok anlam&#305;na gelir</li>
-<li>Sabah ilk idrarla daha net sonu&#231; verir</li>
-<li>Tek kullan&#305;ml&#305;k hijyenik test &#231;ubu&#287;u</li>
-<li>Anla&#351;&#305;l&#305;r g&#246;sterge penceresi</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Test &#231;ubu&#287;unun emici ucunu idrar ak&#305;&#351;&#305;na birka&#231; saniye tutun veya temiz bir kaba al&#305;nan idrar &#246;rne&#287;ine dald&#305;r&#305;n, ard&#305;ndan &#231;ubu&#287;u d&#252;z bir y&#252;zeyde bekletin. Erken testlerde sabah&#305;n ilk idrar&#305;n&#305; kullanman&#305;z &#246;nerilir. Uygulama s&#252;resi ve sonu&#231; okuma i&#231;in ambalajdaki kullan&#305;m k&#305;lavuzunu izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Bu test bir &#246;n bilgi arac&#305;d&#305;r ve kesin t&#305;bbi tan&#305;n&#305;n yerini tutmaz; sonucu do&#287;rulamak ve gebelik takibi i&#231;in bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. Tek kullan&#305;ml&#305;kt&#305;r, son kullanma tarihine dikkat edin ve k&#305;lavuzdaki ad&#305;mlar&#305; eksiksiz uygulay&#305;n.</p>
-<p>Farmaneva, g&#252;venle kullanabilece&#287;iniz &#252;r&#252;nleri sizin i&#231;in bir araya getirir.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00998]]></Product_code>
 <Barcode>8680176001098</Barcode>
 <Name><![CDATA[Probiomax Probiyotik 10 Saşe]]></Name>
@@ -58721,7 +58675,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>418.00</Price>
 <Price2>471.44</Price2>
@@ -59837,7 +59791,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>248.50</Price>
 <Price2>288.38</Price2>
@@ -63754,7 +63708,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>237</Stock>
+<Stock>235</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>518.99</Price2>
@@ -64901,7 +64855,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>29</Stock>
+<Stock>23</Stock>
 <Miad>2029-06-01</Miad>
 <Price>234.00</Price>
 <Price2>272.72</Price2>
@@ -65693,14 +65647,14 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad>2029-02-01</Miad>
-<Price>729.90</Price>
-<Price2>808.29</Price2>
-<Price3>808.29</Price3>
-<Price4>817.49</Price4>
-<Price5>817.49</Price5>
-<Price6>817.49</Price6>
-<Price7>1108.12</Price7>
-<Price8>1108.12</Price8>
+<Price>600.00</Price>
+<Price2>668.00</Price2>
+<Price3>668.00</Price3>
+<Price4>672.00</Price4>
+<Price5>672.00</Price5>
+<Price6>672.00</Price6>
+<Price7>930.35</Price7>
+<Price8>930.35</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -66065,14 +66019,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-01-01</Miad>
-<Price>998.90</Price>
-<Price2>1098.81</Price2>
-<Price3>1098.81</Price3>
-<Price4>1118.77</Price4>
-<Price5>1118.77</Price5>
-<Price6>1118.77</Price6>
-<Price7>1476.24</Price7>
-<Price8>1476.24</Price8>
+<Price>790.00</Price>
+<Price2>873.20</Price2>
+<Price3>873.20</Price3>
+<Price4>884.80</Price4>
+<Price5>884.80</Price5>
+<Price6>884.80</Price6>
+<Price7>1190.36</Price7>
+<Price8>1190.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -66249,14 +66203,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-09-01</Miad>
-<Price>698.90</Price>
-<Price2>774.81</Price2>
-<Price3>774.81</Price3>
-<Price4>782.77</Price4>
-<Price5>782.77</Price5>
-<Price6>782.77</Price6>
-<Price7>1065.69</Price7>
-<Price8>1065.69</Price8>
+<Price>675.00</Price>
+<Price2>749.00</Price2>
+<Price3>749.00</Price3>
+<Price4>756.00</Price4>
+<Price5>756.00</Price5>
+<Price6>756.00</Price6>
+<Price7>1032.99</Price7>
+<Price8>1032.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.jpg</Image1>
@@ -66295,14 +66249,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>728.80</Price>
-<Price2>807.10</Price2>
-<Price3>807.10</Price3>
-<Price4>816.26</Price4>
-<Price5>816.26</Price5>
-<Price6>816.26</Price6>
-<Price7>1106.61</Price7>
-<Price8>1106.61</Price8>
+<Price>650.00</Price>
+<Price2>722.00</Price2>
+<Price3>722.00</Price3>
+<Price4>728.00</Price4>
+<Price5>728.00</Price5>
+<Price6>728.00</Price6>
+<Price7>998.77</Price7>
+<Price8>998.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -66663,14 +66617,14 @@
 <Tax>20</Tax>
 <Stock>149</Stock>
 <Miad>2028-01-01</Miad>
-<Price>597.30</Price>
-<Price2>665.08</Price2>
-<Price3>665.08</Price3>
-<Price4>668.98</Price4>
-<Price5>668.98</Price5>
-<Price6>668.98</Price6>
-<Price7>926.66</Price7>
-<Price8>926.66</Price8>
+<Price>555.00</Price>
+<Price2>619.40</Price2>
+<Price3>619.40</Price3>
+<Price4>621.60</Price4>
+<Price5>621.60</Price5>
+<Price6>621.60</Price6>
+<Price7>868.77</Price7>
+<Price8>868.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-purifying-cleansing-gel-400-ml-11403.jpg</Image1>
@@ -66755,14 +66709,14 @@
 <Tax>20</Tax>
 <Stock>52</Stock>
 <Miad>2028-08-01</Miad>
-<Price>624.70</Price>
-<Price2>694.68</Price2>
-<Price3>694.68</Price3>
-<Price4>699.66</Price4>
-<Price5>699.66</Price5>
-<Price6>699.66</Price6>
-<Price7>964.15</Price7>
-<Price8>964.15</Price8>
+<Price>555.00</Price>
+<Price2>619.40</Price2>
+<Price3>619.40</Price3>
+<Price4>621.60</Price4>
+<Price5>621.60</Price5>
+<Price6>621.60</Price6>
+<Price7>868.77</Price7>
+<Price8>868.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -66801,14 +66755,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>499.75</Price>
-<Price2>559.73</Price2>
-<Price3>559.73</Price3>
-<Price4>559.72</Price4>
-<Price5>559.72</Price5>
-<Price6>559.72</Price6>
-<Price7>793.16</Price7>
-<Price8>793.16</Price8>
+<Price>484.30</Price>
+<Price2>543.04</Price2>
+<Price3>543.04</Price3>
+<Price4>542.42</Price4>
+<Price5>542.42</Price5>
+<Price6>542.42</Price6>
+<Price7>772.01</Price7>
+<Price8>772.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -67405,7 +67359,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>9</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -67913,14 +67867,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>444.90</Price>
-<Price2>500.49</Price2>
-<Price3>500.49</Price3>
-<Price4>498.29</Price4>
-<Price5>498.29</Price5>
-<Price6>498.29</Price6>
-<Price7>718.10</Price7>
-<Price8>718.10</Price8>
+<Price>380.00</Price>
+<Price2>430.40</Price2>
+<Price3>430.40</Price3>
+<Price4>425.60</Price4>
+<Price5>425.60</Price5>
+<Price6>425.60</Price6>
+<Price7>629.28</Price7>
+<Price8>629.28</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.jpg</Image1>
@@ -71609,7 +71563,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Yıpranmış Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>248.00</Price>
 <Price2>287.84</Price2>
@@ -72767,7 +72721,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2027-05-01</Miad>
 <Price>1089.00</Price>
 <Price2>1196.12</Price2>
@@ -72860,7 +72814,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>466.90</Price>
 <Price2>524.25</Price2>
