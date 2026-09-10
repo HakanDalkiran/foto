@@ -2139,16 +2139,16 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2027-01-01</Miad>
-<Price>949.00</Price>
-<Price2>1044.92</Price2>
-<Price3>1044.92</Price3>
-<Price4>1062.88</Price4>
-<Price5>1062.88</Price5>
-<Price6>1062.88</Price6>
-<Price7>1407.96</Price7>
-<Price8>1407.96</Price8>
+<Stock>10</Stock>
+<Miad>2027-09-01</Miad>
+<Price>968.90</Price>
+<Price2>1066.41</Price2>
+<Price3>1066.41</Price3>
+<Price4>1085.17</Price4>
+<Price5>1085.17</Price5>
+<Price6>1085.17</Price6>
+<Price7>1435.19</Price7>
+<Price8>1435.19</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/aptamil-pronutra-3-devam-sutu-900-gr-9-12-ay-7824.jpg</Image1>
@@ -2184,7 +2184,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>10</Stock>
 <Miad>2027-04-01</Miad>
 <Price>969.90</Price>
 <Price2>1067.49</Price2>
@@ -2588,7 +2588,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>78</Stock>
+<Stock>77</Stock>
 <Miad>2026-11-01</Miad>
 <Price>597.90</Price>
 <Price2>665.73</Price2>
@@ -24663,7 +24663,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>88</Stock>
+<Stock>87</Stock>
 <Miad>2029-03-01</Miad>
 <Price>631.90</Price>
 <Price2>702.45</Price2>
@@ -38626,7 +38626,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>30</Stock>
+<Stock>29</Stock>
 <Miad>2027-06-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -63577,7 +63577,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>236</Stock>
+<Stock>233</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>518.99</Price2>
