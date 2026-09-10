@@ -19799,7 +19799,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>122</Stock>
+<Stock>123</Stock>
 <Miad>2027-01-01</Miad>
 <Price>138.90</Price>
 <Price2>170.01</Price2>
@@ -39619,7 +39619,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Selenyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>22</Stock>
 <Miad>2028-09-01</Miad>
 <Price>148.90</Price>
 <Price2>180.81</Price2>
@@ -40496,7 +40496,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>39</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1698.90</Price>
 <Price2>1854.81</Price2>
@@ -45916,7 +45916,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>253.00</Price>
 <Price2>293.24</Price2>
@@ -51756,7 +51756,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>107</Stock>
+<Stock>108</Stock>
 <Miad>2029-01-01</Miad>
 <Price>374.90</Price>
 <Price2>424.89</Price2>
@@ -53083,7 +53083,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>14</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>664.65</Price2>
@@ -60836,7 +60836,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2028-10-01</Miad>
 <Price>338.90</Price>
 <Price2>386.01</Price2>
