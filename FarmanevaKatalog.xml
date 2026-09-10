@@ -4316,7 +4316,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>2026-12-01</Miad>
 <Price>624.90</Price>
 <Price2>694.89</Price2>
@@ -8957,7 +8957,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>894.00</Price>
 <Price2>985.52</Price2>
@@ -9097,15 +9097,15 @@
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
 <Stock>25</Stock>
-<Miad>2028-09-01</Miad>
+<Miad>2029-03-01</Miad>
 <Price>137.90</Price>
 <Price2>168.93</Price2>
 <Price3>168.93</Price3>
 <Price4>154.45</Price4>
 <Price5>154.45</Price5>
 <Price6>154.45</Price6>
-<Price7>297.97</Price7>
-<Price8>297.97</Price8>
+<Price7>297.96</Price7>
+<Price8>297.96</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cistus-antivirus-balli-limonlu-pastil-10-adet-8312.jpg</Image1>
@@ -34294,7 +34294,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>799.90</Price>
 <Price2>883.89</Price2>
@@ -66606,14 +66606,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.70</Price>
-<Price2>543.48</Price2>
-<Price3>543.48</Price3>
-<Price4>542.86</Price4>
-<Price5>542.86</Price5>
-<Price6>542.86</Price6>
-<Price7>772.56</Price7>
-<Price8>772.56</Price8>
+<Price>484.50</Price>
+<Price2>543.26</Price2>
+<Price3>543.26</Price3>
+<Price4>542.64</Price4>
+<Price5>542.64</Price5>
+<Price6>542.64</Price6>
+<Price7>772.29</Price7>
+<Price8>772.29</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -67350,14 +67350,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
