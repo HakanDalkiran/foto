@@ -8488,7 +8488,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>56</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>947.61</Price2>
@@ -15217,15 +15217,15 @@
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>5</Stock>
-<Miad>2027-03-01</Miad>
+<Miad>2027-01-01</Miad>
 <Price>1149.90</Price>
 <Price2>1261.89</Price2>
 <Price3>1261.89</Price3>
 <Price4>1287.89</Price4>
 <Price5>1287.89</Price5>
 <Price6>1287.89</Price6>
-<Price7>1682.89</Price7>
-<Price8>1682.89</Price8>
+<Price7>1682.88</Price7>
+<Price8>1682.88</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/evolvia-nutripro-plus-2-devam-sutu-800-gr-8711.jpg</Image1>
@@ -30660,7 +30660,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1199.90</Price>
 <Price2>1315.89</Price2>
@@ -39579,7 +39579,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>26</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>931.52</Price2>
@@ -40595,7 +40595,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>39</Stock>
+<Stock>38</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1698.90</Price>
 <Price2>1854.81</Price2>
@@ -46035,7 +46035,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>253.00</Price>
 <Price2>293.24</Price2>
@@ -47203,7 +47203,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>251</Stock>
+<Stock>211</Stock>
 <Miad>2029-02-01</Miad>
 <Price>58.40</Price>
 <Price2>83.07</Price2>
@@ -48906,15 +48906,15 @@
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
-<Miad>2028-11-01</Miad>
+<Miad>2028-01-01</Miad>
 <Price>298.90</Price>
 <Price2>342.81</Price2>
 <Price3>342.81</Price3>
 <Price4>334.77</Price4>
 <Price5>334.77</Price5>
 <Price6>334.77</Price6>
-<Price7>518.29</Price7>
-<Price8>518.29</Price8>
+<Price7>518.28</Price7>
+<Price8>518.28</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-100-dogal-dudak-koruyucu-cilek-bitkisel-lipbalm-dudak-kremi-nemlendirici-parlatici-onarici-6-10341.jpg</Image1>
@@ -51894,7 +51894,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>108</Stock>
+<Stock>107</Stock>
 <Miad>2029-01-01</Miad>
 <Price>374.90</Price>
 <Price2>424.89</Price2>
@@ -53221,7 +53221,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2028-01-01</Miad>
 <Price>596.90</Price>
 <Price2>664.65</Price2>
@@ -60992,7 +60992,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-10-01</Miad>
 <Price>338.90</Price>
 <Price2>386.01</Price2>
@@ -63751,7 +63751,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>237</Stock>
+<Stock>236</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>518.99</Price2>
@@ -66658,7 +66658,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>148</Stock>
+<Stock>147</Stock>
 <Miad>2028-01-01</Miad>
 <Price>555.00</Price>
 <Price2>619.40</Price2>
@@ -67402,7 +67402,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -67542,14 +67542,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
