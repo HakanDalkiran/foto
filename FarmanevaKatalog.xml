@@ -2229,7 +2229,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>509.90</Price>
 <Price2>570.69</Price2>
@@ -49849,8 +49849,8 @@
 <Price4>536.00</Price4>
 <Price5>536.00</Price5>
 <Price6>536.00</Price6>
-<Price7>896.02</Price7>
-<Price8>728.02</Price8>
+<Price7>896.03</Price7>
+<Price8>728.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-10373.jpg</Image1>
@@ -50816,8 +50816,8 @@
 <Price4>1183.48</Price4>
 <Price5>1183.48</Price5>
 <Price6>1183.48</Price6>
-<Price7>1555.32</Price7>
-<Price8>1555.32</Price8>
+<Price7>1555.31</Price7>
+<Price8>1555.31</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-advanced-acidophilus-plus-60-kapsul-10407.jpg</Image1>
