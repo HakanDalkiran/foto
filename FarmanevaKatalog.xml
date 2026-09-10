@@ -22366,7 +22366,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>998.90</Price>
 <Price2>1098.81</Price2>
@@ -72216,7 +72216,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>278</Stock>
+<Stock>277</Stock>
 <Miad>2031-02-01</Miad>
 <Price>17.50</Price>
 <Price2>38.90</Price2>
