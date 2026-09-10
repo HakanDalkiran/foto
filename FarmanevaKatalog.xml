@@ -13678,8 +13678,8 @@
 <Price4>591.00</Price4>
 <Price5>591.00</Price5>
 <Price6>591.00</Price6>
-<Price7>831.38</Price7>
-<Price8>831.38</Price8>
+<Price7>831.37</Price7>
+<Price8>831.37</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/doppelherz-vitamin-d-1000-iu-45-tablet-8621.jpg</Image1>
@@ -19799,7 +19799,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>123</Stock>
+<Stock>122</Stock>
 <Miad>2027-01-01</Miad>
 <Price>138.90</Price>
 <Price2>170.01</Price2>
@@ -19986,7 +19986,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>152</Stock>
+<Stock>151</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -28514,8 +28514,8 @@
 <Price4>283.92</Price4>
 <Price5>283.92</Price5>
 <Price6>283.92</Price6>
-<Price7>456.16</Price7>
-<Price8>456.16</Price8>
+<Price7>456.17</Price7>
+<Price8>456.17</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-magneline-magnezyum-bisglisinat-magnezyum-sitrat-p5p-vitamin-b6-60-kapsul-9335.jpg</Image1>
@@ -30319,7 +30319,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2027-06-01</Miad>
 <Price>798.90</Price>
 <Price2>882.81</Price2>
@@ -39499,7 +39499,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>26</Stock>
+<Stock>18</Stock>
 <Miad>2028-10-01</Miad>
 <Price>844.00</Price>
 <Price2>931.52</Price2>
@@ -39552,8 +39552,8 @@
 <Price4>1120.00</Price4>
 <Price5>1120.00</Price5>
 <Price6>1120.00</Price6>
-<Price7>1477.75</Price7>
-<Price8>1477.75</Price8>
+<Price7>1477.76</Price7>
+<Price8>1477.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-plus-omega-3-balik-yagi-1200-mg-100-kapsul-9885.jpg</Image1>
@@ -39619,7 +39619,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Selenyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>20</Stock>
 <Miad>2028-09-01</Miad>
 <Price>148.90</Price>
 <Price2>180.81</Price2>
@@ -48807,15 +48807,15 @@
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
-<Miad>2028-11-01</Miad>
+<Miad>2027-10-01</Miad>
 <Price>298.90</Price>
 <Price2>342.81</Price2>
 <Price3>342.81</Price3>
 <Price4>334.77</Price4>
 <Price5>334.77</Price5>
 <Price6>334.77</Price6>
-<Price7>518.29</Price7>
-<Price8>518.29</Price8>
+<Price7>518.28</Price7>
+<Price8>518.28</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-100-dogal-dudak-koruyucu-cilek-bitkisel-lipbalm-dudak-kremi-nemlendirici-parlatici-onarici-6-10341.jpg</Image1>
@@ -49862,15 +49862,15 @@
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>12</Stock>
-<Miad>2026-12-01</Miad>
+<Miad>2027-08-01</Miad>
 <Price>574.90</Price>
 <Price2>556.00</Price2>
 <Price3>556.00</Price3>
 <Price4>536.00</Price4>
 <Price5>536.00</Price5>
 <Price6>536.00</Price6>
-<Price7>896.02</Price7>
-<Price8>728.02</Price8>
+<Price7>896.03</Price7>
+<Price8>728.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-10373.jpg</Image1>
@@ -63633,7 +63633,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>10</Tax>
-<Stock>236</Stock>
+<Stock>235</Stock>
 <Miad>2028-01-01</Miad>
 <Price>528.90</Price>
 <Price2>518.99</Price2>
@@ -66108,7 +66108,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2028-09-01</Miad>
 <Price>675.00</Price>
 <Price2>749.00</Price2>
@@ -66662,14 +66662,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.90</Price>
-<Price2>543.69</Price2>
-<Price3>543.69</Price3>
-<Price4>543.09</Price4>
-<Price5>543.09</Price5>
-<Price6>543.09</Price6>
-<Price7>772.84</Price7>
-<Price8>772.84</Price8>
+<Price>484.70</Price>
+<Price2>543.48</Price2>
+<Price3>543.48</Price3>
+<Price4>542.86</Price4>
+<Price5>542.86</Price5>
+<Price6>542.86</Price6>
+<Price7>772.56</Price7>
+<Price8>772.56</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -67406,14 +67406,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -68136,7 +68136,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>2029-02-01</Miad>
 <Price>768.90</Price>
 <Price2>850.41</Price2>
@@ -81236,8 +81236,8 @@
 <Price4>497.28</Price4>
 <Price5>497.28</Price5>
 <Price6>497.28</Price6>
-<Price7>716.86</Price7>
-<Price8>716.86</Price8>
+<Price7>716.87</Price7>
+<Price8>716.87</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-b-active-trio-30-tablet-21943.png</Image1>
@@ -81437,8 +81437,8 @@
 <Price4>868.00</Price4>
 <Price5>868.00</Price5>
 <Price6>868.00</Price6>
-<Price7>1169.84</Price7>
-<Price8>1169.84</Price8>
+<Price7>1169.85</Price7>
+<Price8>1169.85</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/new-life-mag-4-day-30-tablet-night-30-tablet-21961.jpg</Image1>
