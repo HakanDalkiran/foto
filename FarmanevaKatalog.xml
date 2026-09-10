@@ -22366,16 +22366,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>150</Stock>
 <Miad>2026-10-01</Miad>
-<Price>998.90</Price>
-<Price2>1098.81</Price2>
-<Price3>1098.81</Price3>
-<Price4>1118.77</Price4>
-<Price5>1118.77</Price5>
-<Price6>1118.77</Price6>
-<Price7>1476.24</Price7>
-<Price8>1476.24</Price8>
+<Price>824.90</Price>
+<Price2>910.89</Price2>
+<Price3>910.89</Price3>
+<Price4>923.89</Price4>
+<Price5>923.89</Price5>
+<Price6>923.89</Price6>
+<Price7>1238.13</Price7>
+<Price8>1238.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/la-roche-posay-effaclar-jel-yagli-ve-akneye-egilimli-ciltler-icin-yuz-temizleme-jeli-400-ml-8994.png</Image1>
@@ -72216,7 +72216,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>277</Stock>
+<Stock>278</Stock>
 <Miad>2031-02-01</Miad>
 <Price>17.50</Price>
 <Price2>38.90</Price2>
