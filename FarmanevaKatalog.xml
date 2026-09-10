@@ -15216,7 +15216,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad>2027-01-01</Miad>
 <Price>1149.90</Price>
 <Price2>1261.89</Price2>
@@ -15224,8 +15224,8 @@
 <Price4>1287.89</Price4>
 <Price5>1287.89</Price5>
 <Price6>1287.89</Price6>
-<Price7>1682.88</Price7>
-<Price8>1682.88</Price8>
+<Price7>1682.89</Price7>
+<Price8>1682.89</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/evolvia-nutripro-plus-2-devam-sutu-800-gr-8711.jpg</Image1>
@@ -48905,8 +48905,8 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
-<Miad>2028-01-01</Miad>
+<Stock>1</Stock>
+<Miad>2027-10-01</Miad>
 <Price>298.90</Price>
 <Price2>342.81</Price2>
 <Price3>342.81</Price3>
