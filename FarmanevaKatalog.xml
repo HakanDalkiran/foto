@@ -50210,7 +50210,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>346</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>449.90</Price>
 <Price2>505.89</Price2>
@@ -50218,8 +50218,8 @@
 <Price4>503.89</Price4>
 <Price5>503.89</Price5>
 <Price6>503.89</Price6>
-<Price7>724.94</Price7>
-<Price8>724.94</Price8>
+<Price7>724.93</Price7>
+<Price8>724.93</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-2-devam-sutu-400-gr-10382.jpg</Image1>
