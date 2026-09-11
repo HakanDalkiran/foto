@@ -8957,7 +8957,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>894.00</Price>
 <Price2>985.52</Price2>
@@ -9505,7 +9505,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>2029-01-01</Miad>
 <Price>748.90</Price>
 <Price2>828.81</Price2>
@@ -56561,8 +56561,8 @@
 <Price4>603.46</Price4>
 <Price5>603.46</Price5>
 <Price6>603.46</Price6>
-<Price7>846.61</Price7>
-<Price8>846.61</Price8>
+<Price7>846.60</Price7>
+<Price8>846.60</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/easyfishoil-cocuk-cilek-ve-limon-aromali-30-cigneme-tableti-10612.jpg</Image1>
@@ -62894,8 +62894,8 @@
 <Price4>380.69</Price4>
 <Price5>380.69</Price5>
 <Price6>380.69</Price6>
-<Price7>574.39</Price7>
-<Price8>574.39</Price8>
+<Price7>574.40</Price7>
+<Price8>574.40</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-iyotic-damla-30-ml-11245.jpg</Image1>
@@ -72216,16 +72216,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>276</Stock>
-<Miad>2031-02-01</Miad>
+<Stock>277</Stock>
+<Miad>2027-10-01</Miad>
 <Price>17.50</Price>
 <Price2>38.90</Price2>
 <Price3>38.90</Price3>
 <Price4>19.60</Price4>
 <Price5>19.60</Price5>
 <Price6>19.60</Price6>
-<Price7>133.20</Price7>
-<Price8>133.20</Price8>
+<Price7>133.21</Price7>
+<Price8>133.21</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ayset-enjektor-50-cc-3-parca-yesil-11674.jpg</Image1>
@@ -73091,7 +73091,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
