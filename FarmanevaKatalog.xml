@@ -19990,7 +19990,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>149</Stock>
+<Stock>147</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -43548,7 +43548,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>498.90</Price>
 <Price2>558.81</Price2>
@@ -59071,7 +59071,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>116.00</Price>
 <Price2>145.28</Price2>
@@ -63349,7 +63349,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>349.90</Price>
 <Price2>397.89</Price2>
@@ -67492,7 +67492,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>242.37</Price2>
