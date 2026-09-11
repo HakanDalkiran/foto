@@ -99,7 +99,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>1298.90</Price>
 <Price2>1422.81</Price2>
@@ -2588,7 +2588,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>76</Stock>
+<Stock>77</Stock>
 <Miad>2026-11-01</Miad>
 <Price>597.90</Price>
 <Price2>665.73</Price2>
@@ -4316,7 +4316,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2026-12-01</Miad>
 <Price>624.90</Price>
 <Price2>694.89</Price2>
@@ -10619,16 +10619,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2028-12-01</Miad>
+<Stock>4</Stock>
+<Miad>2027-03-01</Miad>
 <Price>988.90</Price>
 <Price2>1088.01</Price2>
 <Price3>1088.01</Price3>
 <Price4>1107.57</Price4>
 <Price5>1107.57</Price5>
 <Price6>1107.57</Price6>
-<Price7>1462.56</Price7>
-<Price8>1462.56</Price8>
+<Price7>1462.55</Price7>
+<Price8>1462.55</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-collagen-mag-plus-cilek-karpuz-aromali-30-sase-8395.jpg</Image1>
@@ -15108,7 +15108,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2027-03-01</Miad>
 <Price>925.00</Price>
 <Price2>1019.00</Price2>
@@ -18642,7 +18642,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>9</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>612.81</Price2>
@@ -28416,7 +28416,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>25</Stock>
+<Stock>23</Stock>
 <Miad>2027-01-01</Miad>
 <Price>259.90</Price>
 <Price2>300.69</Price2>
@@ -28631,7 +28631,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2027-01-01</Miad>
 <Price>389.90</Price>
 <Price2>441.09</Price2>
@@ -30606,7 +30606,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>22</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1199.90</Price>
 <Price2>1315.89</Price2>
@@ -32393,7 +32393,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>50</Stock>
 <Miad></Miad>
 <Price>348.90</Price>
 <Price2>396.81</Price2>
@@ -34299,7 +34299,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>799.90</Price>
 <Price2>883.89</Price2>
@@ -52772,7 +52772,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>55</Stock>
 <Miad>2027-07-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -65126,7 +65126,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>7</Stock>
 <Miad>2028-12-01</Miad>
 <Price>282.90</Price>
 <Price2>325.53</Price2>
@@ -66612,14 +66612,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>483.50</Price>
-<Price2>542.18</Price2>
-<Price3>542.18</Price3>
-<Price4>541.52</Price4>
-<Price5>541.52</Price5>
-<Price6>541.52</Price6>
-<Price7>770.92</Price7>
-<Price8>770.92</Price8>
+<Price>450.00</Price>
+<Price2>506.00</Price2>
+<Price3>506.00</Price3>
+<Price4>504.00</Price4>
+<Price5>504.00</Price5>
+<Price6>504.00</Price6>
+<Price7>725.07</Price7>
+<Price8>725.07</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -67216,7 +67216,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>13</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -74071,7 +74071,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>879.90</Price>
 <Price2>970.29</Price2>
@@ -81881,7 +81881,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>17</Stock>
 <Miad>2028-11-01</Miad>
 <Price>616.90</Price>
 <Price2>686.25</Price2>
