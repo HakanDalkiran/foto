@@ -18638,7 +18638,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>7</Stock>
 <Miad>2028-09-01</Miad>
 <Price>548.90</Price>
 <Price2>612.81</Price2>
@@ -19986,7 +19986,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>151</Stock>
+<Stock>149</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -46586,7 +46586,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>57</Stock>
+<Stock>55</Stock>
 <Miad>2027-07-01</Miad>
 <Price>358.90</Price>
 <Price2>407.61</Price2>
@@ -48877,7 +48877,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>49</Stock>
 <Miad>2028-03-01</Miad>
 <Price>256.90</Price>
 <Price2>297.45</Price2>
@@ -52767,7 +52767,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>56</Stock>
+<Stock>54</Stock>
 <Miad>2027-07-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -66466,7 +66466,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>147</Stock>
+<Stock>146</Stock>
 <Miad>2028-01-01</Miad>
 <Price>555.00</Price>
 <Price2>619.40</Price2>
@@ -66606,14 +66606,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.30</Price>
-<Price2>543.04</Price2>
-<Price3>543.04</Price3>
-<Price4>542.42</Price4>
-<Price5>542.42</Price5>
-<Price6>542.42</Price6>
-<Price7>772.01</Price7>
-<Price8>772.01</Price8>
+<Price>484.10</Price>
+<Price2>542.83</Price2>
+<Price3>542.83</Price3>
+<Price4>542.19</Price4>
+<Price5>542.19</Price5>
+<Price6>542.19</Price6>
+<Price7>771.74</Price7>
+<Price8>771.74</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -66788,7 +66788,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-04-01</Miad>
 <Price>649.80</Price>
 <Price2>721.78</Price2>
@@ -67072,7 +67072,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>51</Stock>
 <Miad>2029-05-01</Miad>
 <Price>298.90</Price>
 <Price2>342.81</Price2>
@@ -72224,8 +72224,8 @@
 <Price4>19.60</Price4>
 <Price5>19.60</Price5>
 <Price6>19.60</Price6>
-<Price7>133.21</Price7>
-<Price8>133.21</Price8>
+<Price7>133.20</Price7>
+<Price8>133.20</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ayset-enjektor-50-cc-3-parca-yesil-11674.jpg</Image1>
