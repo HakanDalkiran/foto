@@ -2588,7 +2588,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>77</Stock>
+<Stock>76</Stock>
 <Miad>2026-11-01</Miad>
 <Price>597.90</Price>
 <Price2>665.73</Price2>
@@ -3955,7 +3955,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>195.90</Price>
 <Price2>231.57</Price2>
@@ -4316,7 +4316,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>624.90</Price>
 <Price2>694.89</Price2>
@@ -8628,7 +8628,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>34</Stock>
+<Stock>35</Stock>
 <Miad></Miad>
 <Price>994.90</Price>
 <Price2>1094.49</Price2>
@@ -8677,14 +8677,14 @@
 <Tax>20</Tax>
 <Stock>91</Stock>
 <Miad></Miad>
-<Price>1048.90</Price>
-<Price2>1152.81</Price2>
-<Price3>1152.81</Price3>
-<Price4>1174.77</Price4>
-<Price5>1174.77</Price5>
-<Price6>1174.77</Price6>
-<Price7>1544.67</Price7>
-<Price8>1544.67</Price8>
+<Price>847.90</Price>
+<Price2>935.73</Price2>
+<Price3>935.73</Price3>
+<Price4>949.65</Price4>
+<Price5>949.65</Price5>
+<Price6>949.65</Price6>
+<Price7>1269.60</Price7>
+<Price8>1269.60</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cerave-nemlendirici-yuz-ve-vucut-kremi-kuru-ciltler-icin-seramid-ve-hyaluronik-asit-icerikli-340-g-8280.jpg</Image1>
@@ -19289,7 +19289,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>45</Stock>
 <Miad>2028-01-01</Miad>
 <Price>478.00</Price>
 <Price2>536.24</Price2>
@@ -30272,16 +30272,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-12-01</Miad>
-<Price>714.90</Price>
-<Price2>792.09</Price2>
-<Price3>792.09</Price3>
-<Price4>800.69</Price4>
-<Price5>800.69</Price5>
-<Price6>800.69</Price6>
-<Price7>1087.59</Price7>
-<Price8>1087.59</Price8>
+<Stock>126</Stock>
+<Miad>2029-08-01</Miad>
+<Price>694.90</Price>
+<Price2>770.49</Price2>
+<Price3>770.49</Price3>
+<Price4>778.29</Price4>
+<Price5>778.29</Price5>
+<Price6>778.29</Price6>
+<Price7>1060.22</Price7>
+<Price8>1060.22</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-saflife-30-kapsul-9385.jpg</Image1>
@@ -37641,7 +37641,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2027-08-01</Miad>
 <Price>397.00</Price>
 <Price2>448.76</Price2>
@@ -43780,7 +43780,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>113</Stock>
+<Stock>114</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>191.72</Price2>
@@ -44241,7 +44241,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>36</Stock>
 <Miad></Miad>
 <Price>152.00</Price>
 <Price2>184.16</Price2>
@@ -45648,7 +45648,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>66</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>191.72</Price2>
@@ -52993,7 +52993,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2028-12-01</Miad>
 <Price>529.00</Price>
 <Price2>591.32</Price2>
@@ -60146,7 +60146,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>241.00</Price>
 <Price2>280.28</Price2>
@@ -64522,7 +64522,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>19</Stock>
 <Miad>2029-03-01</Miad>
 <Price>214.90</Price>
 <Price2>252.09</Price2>
@@ -66466,7 +66466,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>146</Stock>
+<Stock>147</Stock>
 <Miad>2028-01-01</Miad>
 <Price>555.00</Price>
 <Price2>619.40</Price2>
@@ -66606,14 +66606,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.10</Price>
-<Price2>542.83</Price2>
-<Price3>542.83</Price3>
-<Price4>542.19</Price4>
-<Price5>542.19</Price5>
-<Price6>542.19</Price6>
-<Price7>771.74</Price7>
-<Price8>771.74</Price8>
+<Price>483.90</Price>
+<Price2>542.61</Price2>
+<Price3>542.61</Price3>
+<Price4>541.97</Price4>
+<Price5>541.97</Price5>
+<Price6>541.97</Price6>
+<Price7>771.47</Price7>
+<Price8>771.47</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -66788,7 +66788,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2028-04-01</Miad>
 <Price>649.80</Price>
 <Price2>721.78</Price2>
@@ -67350,14 +67350,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
