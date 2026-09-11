@@ -99,7 +99,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>1298.90</Price>
 <Price2>1422.81</Price2>
@@ -11168,7 +11168,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>307</Stock>
+<Stock>306</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -16593,7 +16593,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>207</Stock>
+<Stock>206</Stock>
 <Miad></Miad>
 <Price>38.60</Price>
 <Price2>61.69</Price2>
@@ -19191,52 +19191,6 @@
 <p>Bu bir t&#305;bbi cihazd&#305;r ve t&#305;bbi te&#351;his veya tedavinin yerini tutmaz; kullan&#305;m &#246;ncesi k&#305;lavuzu okuyun. Yaln&#305;zca haricen kullan&#305;l&#305;r, &#351;ikayetler s&#252;rer veya kanama olursa hekiminize ba&#351;vurun.</p>
 <p>Hemopropin Merhem, Farmaneva g&#252;vencesiyle sunulur.</p>
 </section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00451]]></Product_code>
-<Barcode>8689415912812</Barcode>
-<Name><![CDATA[Hhs A 1 L-Carnitine Lepidium Bitkisel 30 Kapsül]]></Name>
-<Brand><![CDATA[Hhs]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
-<Tax>1</Tax>
-<Stock>67</Stock>
-<Miad>2029-01-01</Miad>
-<Price>440.00</Price>
-<Price2>570.00</Price2>
-<Price3>570.00</Price3>
-<Price4>590.00</Price4>
-<Price5>590.00</Price5>
-<Price6>590.00</Price6>
-<Price7>793.51</Price7>
-<Price8>793.51</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hhs-a-1-l-carnitine-lepidium-bitkisel-30-kapsul-8837.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hhs-a-1-l-carnitine-lepidium-bitkisel-30-kapsul-8836.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hhs-a-1-l-carnitine-lepidium-bitkisel-30-kapsul-8838.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hhs-a-1-l-carnitine-lepidium-bitkisel-30-kapsul-13125.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/hhs-a-1-l-carnitine-lepidium-bitkisel-30-kapsul-8835.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Hhs A1 L-Carnitine Lepidium Bitkisel 30 Kaps&#252;l</strong>, L-karnitin amino asidini &#231;e&#351;itli bitki ekstreleriyle bir araya getiren bitkisel i&#231;erikli bir takviye edici g&#305;dad&#305;r. Maca (Lepidium), zencefil, kakule ve garcinia cambogia gibi bile&#351;enler i&#231;eren form&#252;l, g&#252;nl&#252;k beslenmesini bitkisel bir &#252;r&#252;nle desteklemek isteyen yeti&#351;kinler i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Her kaps&#252;lde L-karnitin ile birlikte bitki ekstreleri i&#231;erir</li>
-<li>Maca (Lepidium meyenii) ekstresi i&#231;erir</li>
-<li>Zencefil ve kakule ekstreleri ile desteklenmi&#351;tir</li>
-<li>Garcinia cambogia ekstresi i&#231;erir</li>
-<li>Havl&#305;can, tar&#231;&#305;n ve rezene ekstreleri i&#231;erir</li>
-<li>Karanfil ve dereotu ekstreleriyle zenginle&#351;tirilmi&#351;tir</li>
-<li>Gluten i&#231;ermez</li>
-<li>Laktoz ve koruyucu i&#231;ermez</li>
-<li>Pratik 30 kaps&#252;ll&#252;k kutuda sunulur</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Yeti&#351;kinler i&#231;in kahvalt&#305;dan yakla&#351;&#305;k 1 saat &#246;nce veya sonra g&#252;nde 1 kaps&#252;l t&#252;ketilmesi &#246;nerilir. Kesin kullan&#305;m &#351;ekli ve g&#252;nl&#252;k miktar i&#231;in ambalaj &#252;zerindeki bilgileri ve kullan&#305;m k&#305;lavuzunu esas al&#305;n.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda hekiminize dan&#305;&#351;&#305;n.</p>
-<p>Hhs A1 L-Carnitine Lepidium, Farmaneva g&#252;vencesiyle sunulur.</p></section>]]></Description>
-<Keywords><![CDATA[karnitin,l karnitin]]></Keywords>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00452]]></Product_code>
@@ -25079,54 +25033,6 @@
 <p>Nemlendiren, parlak bir dudak g&#246;r&#252;n&#252;m&#252; isteyenler Maybelline Lifter Gloss'u Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00582]]></Product_code>
-<Barcode>8680782940026</Barcode>
-<Name><![CDATA[Memethol Hemoroid Bariyer Sprey 10 ml]]></Name>
-<Brand><![CDATA[Memethol]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Medikal Krem & Sprey]]></category>
-<Tax>10</Tax>
-<Stock>181</Stock>
-<Miad>2027-03-01</Miad>
-<Price>681.82</Price>
-<Price2>815.00</Price2>
-<Price3>815.00</Price3>
-<Price4>590.00</Price4>
-<Price5>864.00</Price5>
-<Price6>590.00</Price6>
-<Price7>1042.32</Price7>
-<Price8>1042.32</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-9157.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-9158.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-13433.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-13434.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/memethol-hemoroid-bariyer-sprey-10-ml-16651.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Memethol Hemoroid Bariyer Sprey 10 ml</strong>, uygulandığı bölgede koruyucu bir bariyer oluşturmak üzere geliştirilmiş 10 ml hacminde bir spreydir. Sprey formu sayesinde dokunmadan, hijyenik biçimde uygulanır ve günlük temizlik rutininin ardından kullanılabilir. Yetişkinlerde harici kullanım için tasarlanmıştır.</p>
-<h2>Memethol Hemoroid Bariyer Sprey 10 ml Özellikleri</h2>
-<ul>
-<li>10 ml sprey ambalajda sunulur</li>
-<li>Uygulandığı bölgede koruyucu bir bariyer oluşturur</li>
-<li>Sprey başlığı sayesinde dokunmadan uygulanır</li>
-<li>Hijyenik ve pratik kullanım sağlar</li>
-<li>Çantada taşınabilecek küçük ambalaj boyutu</li>
-<li>Kolay yayılan yapıdadır</li>
-<li>Yetişkinlerde harici kullanım için tasarlanmıştır</li>
-<li>Günlük bakım rutinine kolayca eklenir</li>
-<li>CE işaretli tıbbi cihaz sınıfındadır</li>
-<li>Buzdolabı gerektirmez, oda sıcaklığında saklanır</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Bölge temizlenip kurulandıktan sonra ürün kısa mesafeden püskürtülür. Günde birkaç kez veya ihtiyaç duyuldukça uygulanabilir. Kullanım sonrası kapağı kapatılır. Ambalaj üzerindeki kullanma talimatı esastır.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanılır, yutulmaz. Göz ve mukoza ile temasından kaçınılır; temas hâlinde bol su ile durulanır. Açık yara ve tahriş olmuş ciltte kullanmadan önce sağlık profesyoneline danışılır. Çocukların ulaşamayacağı yerde, oda sıcaklığında saklanır. Ambalajı hasarlıysa kullanılmaz. Şikâyetiniz sürerse hekiminize başvurun.</p>
-<p>Farmaneva'da satılan tüm ürünler %100 orijinal ve faturalıdır, ecza deposundan tedarik edilir. Güvenli ödeme ve hızlı kargo ile gönderilir.</p>
-</section>]]></Description>
-<Keywords><![CDATA[memethol sprey,memetol]]></Keywords>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00583]]></Product_code>
 <Barcode>8680697001720</Barcode>
 <Name><![CDATA[Mesilife A200 Infra-Red Alından Temassız Ateş Ölçer]]></Name>
@@ -26405,101 +26311,6 @@
 <p>Bu cihaz t&#305;bbi te&#351;his arac&#305; de&#287;ildir; kalp pili ta&#351;&#305;yanlar, hamileler ve kronik rahats&#305;zl&#305;&#287;&#305; olanlar kullanmadan &#246;nce hekimine dan&#305;&#351;mal&#305;d&#305;r. Kalp b&#246;lgesi, a&#231;&#305;k yara ve tahri&#351; olmu&#351; cilt &#252;zerinde kullanmay&#305;n ve kullan&#305;m k&#305;lavuzundaki talimatlara uyun.</p>
 <p>Farmaneva, g&#252;nl&#252;k bak&#305;m rutininize destek olacak pratik &#252;r&#252;nleri bir arada sunar.</p>
 </section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00612]]></Product_code>
-<Barcode>8680760510098-2</Barcode>
-<Name><![CDATA[Minoxil Forte Deri Spreyi %5 60 ml 2 Adet]]></Name>
-<Brand><![CDATA[Minoxil]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
-<Tax>10</Tax>
-<Stock>17</Stock>
-<Miad>2029-03-01</Miad>
-<Price>2185.42</Price>
-<Price2>2120.00</Price2>
-<Price3>2120.00</Price3>
-<Price4>4900.00</Price4>
-<Price5>4900.00</Price5>
-<Price6>4900.00</Price6>
-<Price7>2900.00</Price7>
-<Price8>2900.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9205.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9206.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9207.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-9208.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60-ml-2-adet-13481.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Minoxil Forte Deri Spreyi %5 60 ml (2 Adet)</strong>, her mililitresinde 50 mg minoksidil bulunan, do&#287;rudan sa&#231; derisine uygulanan topikal bir &#231;&#246;zeltidir. Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik bak&#305;m arayan yeti&#351;kinlere y&#246;neliktir; bu paket iki adet 60 ml &#351;i&#351;eden olu&#351;ur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>%5 oran&#305;nda minoksidil i&#231;eren topikal deri spreyi &#231;&#246;zeltisidir</li>
-<li>Her 60 ml &#351;i&#351;ede yakla&#351;&#305;k 3 g minoksidil bulunur</li>
-<li>Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik kullan&#305;l&#305;r</li>
-<li>Sprey ba&#351;l&#305;&#287;&#305; sayesinde sa&#231; derisine kolay uygulan&#305;r</li>
-<li>Kuru sa&#231; ve sa&#231; derisine uygulanacak bi&#231;imde tasarlanm&#305;&#351;t&#305;r</li>
-<li>Androgenetik tipte sa&#231; d&#246;k&#252;lmesi bak&#305;m&#305;nda tercih edilir</li>
-<li>Bu paket iki adet 60 ml &#351;i&#351;e i&#231;erir</li>
-<li>Yaln&#305;zca haricen, sa&#231; derisine uygulanmak &#252;zere tasarlanm&#305;&#351;t&#305;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle kuru sa&#231; ve sa&#231; derisine sabah ve ak&#351;am olmak &#252;zere g&#252;nde iki kez uygulan&#305;r. Kesin doz, uygulama miktar&#305; ve kullan&#305;m s&#252;resi i&#231;in &#252;r&#252;n&#252;n kullanma talimat&#305;n&#305; okuyun ve hekiminizin ya da eczac&#305;n&#305;z&#305;n &#246;nerilerine uyun.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;l&#305;r; g&#246;z, a&#287;&#305;z ve mukoza ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas h&#226;linde bol suyla durulay&#305;n. Kullanmadan &#246;nce &#252;r&#252;n prospekt&#252;s&#252;n&#252; okuyun; gebelik, emzirme veya mevcut bir rahats&#305;zl&#305;k durumunda hekiminize ya da eczac&#305;n&#305;za dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva, sa&#231; bak&#305;m&#305; rutininizde g&#252;venle yer verebilece&#287;iniz &#252;r&#252;nleri &#246;zenle sunar.</p>
-</section>]]></Description>
-<Keywords><![CDATA[minoksidil,minoksil,minoxidil,minoxsil]]></Keywords>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00613]]></Product_code>
-<Barcode>8680760510098</Barcode>
-<Name><![CDATA[Minoxil Forte Deri Spreyi %5 60 ml]]></Name>
-<Brand><![CDATA[Minoxil]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
-<Tax>10</Tax>
-<Stock>44</Stock>
-<Miad>2029-03-01</Miad>
-<Price>726.36</Price>
-<Price2>919.00</Price2>
-<Price3>919.00</Price3>
-<Price4>813.52</Price4>
-<Price5>813.52</Price5>
-<Price6>1200.00</Price6>
-<Price7>1103.27</Price7>
-<Price8>2900.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9209.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9210.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9211.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-9212.jpg</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/minoxil-forte-deri-spreyi-5-60ml-13485.jpg</Image5>
-<Description><![CDATA[<section>
-<p><strong>Minoxil Forte Deri Spreyi %5 60 ml</strong>, her mililitresinde 50 mg minoksidil bulunan, do&#287;rudan sa&#231; derisine uygulanan topikal bir &#231;&#246;zeltidir. Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik bak&#305;m arayan yeti&#351;kinlere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>%5 oran&#305;nda minoksidil i&#231;eren topikal deri spreyi &#231;&#246;zeltisidir</li>
-<li>60 ml &#351;i&#351;ede yakla&#351;&#305;k 3 g minoksidil bulunur</li>
-<li>Sa&#231; d&#246;k&#252;lmesini azaltmaya ve sa&#231; &#231;&#305;k&#305;&#351;&#305;n&#305; desteklemeye y&#246;nelik kullan&#305;l&#305;r</li>
-<li>Sprey ba&#351;l&#305;&#287;&#305; sayesinde sa&#231; derisine kolay uygulan&#305;r</li>
-<li>Kuru sa&#231; ve sa&#231; derisine uygulanacak bi&#231;imde tasarlanm&#305;&#351;t&#305;r</li>
-<li>Androgenetik tipte sa&#231; d&#246;k&#252;lmesi bak&#305;m&#305;nda tercih edilir</li>
-<li>Etkisi i&#231;in uzun s&#252;reli ve d&#252;zenli kullan&#305;m gerektirir</li>
-<li>Pratik 60 ml &#351;i&#351;e hacmiyle sunulur</li>
-<li>Yaln&#305;zca haricen, sa&#231; derisine uygulanmak &#252;zere tasarlanm&#305;&#351;t&#305;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle kuru sa&#231; ve sa&#231; derisine sabah ve ak&#351;am olmak &#252;zere g&#252;nde iki kez uygulan&#305;r. Kesin doz, uygulama miktar&#305; ve kullan&#305;m s&#252;resi i&#231;in &#252;r&#252;n&#252;n kullanma talimat&#305;n&#305; okuyun ve hekiminizin ya da eczac&#305;n&#305;z&#305;n &#246;nerilerine uyun.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;l&#305;r; g&#246;z, a&#287;&#305;z ve mukoza ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas h&#226;linde bol suyla durulay&#305;n. Kullanmadan &#246;nce &#252;r&#252;n prospekt&#252;s&#252;n&#252; okuyun; gebelik, emzirme veya mevcut bir rahats&#305;zl&#305;k durumunda hekiminize ya da eczac&#305;n&#305;za dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva, sa&#231; bak&#305;m&#305; rutininizde g&#252;venle yer verebilece&#287;iniz &#252;r&#252;nleri &#246;zenle sunar.</p>
-</section>]]></Description>
-<Keywords><![CDATA[minoksidil,minoksil,minoxil %5,minoxil forte %5,minoxil forte %5 deri spreyi,minoxil forte 5,minoxil forte 5 deri spreyi,minoxil forte 5 fiyat,minoxsil]]></Keywords>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00614]]></Product_code>
@@ -45124,7 +44935,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>114.00</Price>
 <Price2>143.12</Price2>
@@ -45258,7 +45069,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>114.90</Price>
 <Price2>144.09</Price2>
@@ -45526,7 +45337,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>117.00</Price>
 <Price2>146.36</Price2>
@@ -45706,7 +45517,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>117.90</Price>
 <Price2>147.33</Price2>
@@ -46331,7 +46142,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>121.90</Price>
 <Price2>151.65</Price2>
@@ -65693,14 +65504,14 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad>2029-02-01</Miad>
-<Price>600.00</Price>
-<Price2>668.00</Price2>
-<Price3>668.00</Price3>
-<Price4>672.00</Price4>
-<Price5>672.00</Price5>
-<Price6>672.00</Price6>
-<Price7>930.35</Price7>
-<Price8>930.35</Price8>
+<Price>729.90</Price>
+<Price2>808.29</Price2>
+<Price3>808.29</Price3>
+<Price4>817.49</Price4>
+<Price5>817.49</Price5>
+<Price6>817.49</Price6>
+<Price7>1108.12</Price7>
+<Price8>1108.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.jpg</Image1>
@@ -66065,14 +65876,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-01-01</Miad>
-<Price>790.00</Price>
-<Price2>873.20</Price2>
-<Price3>873.20</Price3>
-<Price4>884.80</Price4>
-<Price5>884.80</Price5>
-<Price6>884.80</Price6>
-<Price7>1190.36</Price7>
-<Price8>1190.36</Price8>
+<Price>998.90</Price>
+<Price2>1098.81</Price2>
+<Price3>1098.81</Price3>
+<Price4>1118.77</Price4>
+<Price5>1118.77</Price5>
+<Price6>1118.77</Price6>
+<Price7>1476.24</Price7>
+<Price8>1476.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-gunes-koruyucu-vucut-spreyi-spf50-200-ml-11380.jpg</Image1>
@@ -66249,14 +66060,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2028-09-01</Miad>
-<Price>675.00</Price>
-<Price2>749.00</Price2>
-<Price3>749.00</Price3>
-<Price4>756.00</Price4>
-<Price5>756.00</Price5>
-<Price6>756.00</Price6>
-<Price7>1032.99</Price7>
-<Price8>1032.99</Price8>
+<Price>698.90</Price>
+<Price2>774.81</Price2>
+<Price3>774.81</Price3>
+<Price4>782.77</Price4>
+<Price5>782.77</Price5>
+<Price6>782.77</Price6>
+<Price7>1065.69</Price7>
+<Price8>1065.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.jpg</Image1>
@@ -66295,14 +66106,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>650.00</Price>
-<Price2>722.00</Price2>
-<Price3>722.00</Price3>
-<Price4>728.00</Price4>
-<Price5>728.00</Price5>
-<Price6>728.00</Price6>
-<Price7>998.77</Price7>
-<Price8>998.77</Price8>
+<Price>728.80</Price>
+<Price2>807.10</Price2>
+<Price3>807.10</Price3>
+<Price4>816.26</Price4>
+<Price5>816.26</Price5>
+<Price6>816.26</Price6>
+<Price7>1106.61</Price7>
+<Price8>1106.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.jpg</Image1>
@@ -66755,14 +66566,14 @@
 <Tax>20</Tax>
 <Stock>52</Stock>
 <Miad>2028-08-01</Miad>
-<Price>555.00</Price>
-<Price2>619.40</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.77</Price7>
-<Price8>868.77</Price8>
+<Price>624.70</Price>
+<Price2>694.68</Price2>
+<Price3>694.68</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-cleansing-gel-400-ml-11407.jpg</Image1>
@@ -66801,14 +66612,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>483.90</Price>
-<Price2>542.61</Price2>
-<Price3>542.61</Price3>
-<Price4>541.97</Price4>
-<Price5>541.97</Price5>
-<Price6>541.97</Price6>
-<Price7>771.47</Price7>
-<Price8>771.47</Price8>
+<Price>499.75</Price>
+<Price2>559.73</Price2>
+<Price3>559.73</Price3>
+<Price4>559.72</Price4>
+<Price5>559.72</Price5>
+<Price6>559.72</Price6>
+<Price7>793.16</Price7>
+<Price8>793.16</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
