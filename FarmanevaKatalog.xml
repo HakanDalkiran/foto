@@ -6642,14 +6642,14 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>838.90</Price>
-<Price2>926.01</Price2>
-<Price3>926.01</Price3>
-<Price4>939.57</Price4>
-<Price5>939.57</Price5>
-<Price6>939.57</Price6>
-<Price7>1257.28</Price7>
-<Price8>1257.28</Price8>
+<Price>881.90</Price>
+<Price2>972.45</Price2>
+<Price3>972.45</Price3>
+<Price4>987.73</Price4>
+<Price5>987.73</Price5>
+<Price6>987.73</Price6>
+<Price7>1316.13</Price7>
+<Price8>1316.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/bioxcin-forte-sac-bakim-serumu-50-ml-3-lu-8162.jpg</Image1>
@@ -8491,7 +8491,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>54</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>947.61</Price2>
@@ -11168,7 +11168,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>305</Stock>
+<Stock>306</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -14636,7 +14636,7 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Çocuk Omega 3 / Balık Yağı]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>597.90</Price>
 <Price2>665.73</Price2>
@@ -16593,7 +16593,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>204</Stock>
+<Stock>205</Stock>
 <Miad></Miad>
 <Price>38.60</Price>
 <Price2>61.69</Price2>
@@ -17684,7 +17684,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>104.90</Price>
 <Price2>133.29</Price2>
@@ -30984,7 +30984,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>109</Stock>
+<Stock>116</Stock>
 <Miad>2027-11-01</Miad>
 <Price>115.90</Price>
 <Price2>145.17</Price2>
@@ -31030,7 +31030,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>248</Stock>
+<Stock>253</Stock>
 <Miad>2027-11-01</Miad>
 <Price>107.00</Price>
 <Price2>135.56</Price2>
@@ -31168,7 +31168,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>59</Stock>
 <Miad>2027-11-01</Miad>
 <Price>119.90</Price>
 <Price2>149.49</Price2>
@@ -32211,7 +32211,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>48</Stock>
+<Stock>51</Stock>
 <Miad>2027-05-01</Miad>
 <Price>112.70</Price>
 <Price2>141.72</Price2>
@@ -32984,7 +32984,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>80</Stock>
+<Stock>85</Stock>
 <Miad></Miad>
 <Price>134.00</Price>
 <Price2>164.72</Price2>
@@ -41867,7 +41867,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>20</Stock>
 <Miad>2028-06-01</Miad>
 <Price>179.00</Price>
 <Price2>213.32</Price2>
@@ -44935,7 +44935,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>114.00</Price>
 <Price2>143.12</Price2>
@@ -45069,7 +45069,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>114.90</Price>
 <Price2>144.09</Price2>
@@ -45337,7 +45337,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>117.00</Price>
 <Price2>146.36</Price2>
@@ -46142,7 +46142,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>121.90</Price>
 <Price2>151.65</Price2>
@@ -60106,7 +60106,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>299.90</Price>
 <Price2>343.89</Price2>
@@ -66612,14 +66612,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>483.90</Price>
-<Price2>542.61</Price2>
-<Price3>542.61</Price3>
-<Price4>541.97</Price4>
-<Price5>541.97</Price5>
-<Price6>541.97</Price6>
-<Price7>771.47</Price7>
-<Price8>771.47</Price8>
+<Price>483.50</Price>
+<Price2>542.18</Price2>
+<Price3>542.18</Price3>
+<Price4>541.52</Price4>
+<Price5>541.52</Price5>
+<Price6>541.52</Price6>
+<Price7>770.92</Price7>
+<Price8>770.92</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -67356,14 +67356,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>439.90</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>480.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -75586,7 +75586,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>30</Stock>
 <Miad></Miad>
 <Price>97.00</Price>
 <Price2>124.76</Price2>
