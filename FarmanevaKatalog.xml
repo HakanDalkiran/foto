@@ -8025,7 +8025,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>163</Stock>
+<Stock>162</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>881.73</Price2>
@@ -8488,7 +8488,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>54</Stock>
 <Miad></Miad>
 <Price>858.90</Price>
 <Price2>947.61</Price2>
@@ -30979,7 +30979,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>123</Stock>
+<Stock>116</Stock>
 <Miad>2027-11-01</Miad>
 <Price>115.90</Price>
 <Price2>145.17</Price2>
@@ -31025,7 +31025,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>258</Stock>
+<Stock>253</Stock>
 <Miad>2027-11-01</Miad>
 <Price>107.00</Price>
 <Price2>135.56</Price2>
@@ -31163,7 +31163,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>66</Stock>
+<Stock>59</Stock>
 <Miad>2027-11-01</Miad>
 <Price>119.90</Price>
 <Price2>149.49</Price2>
@@ -32206,7 +32206,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>51</Stock>
 <Miad>2027-05-01</Miad>
 <Price>112.70</Price>
 <Price2>141.72</Price2>
@@ -32979,7 +32979,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>90</Stock>
+<Stock>85</Stock>
 <Miad></Miad>
 <Price>134.00</Price>
 <Price2>164.72</Price2>
@@ -69341,7 +69341,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
 <Price>364.90</Price>
 <Price2>414.09</Price2>
@@ -75578,7 +75578,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>30</Stock>
 <Miad></Miad>
 <Price>97.00</Price>
 <Price2>124.76</Price2>
