@@ -8628,7 +8628,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>994.90</Price>
 <Price2>1094.49</Price2>
@@ -11164,7 +11164,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>308</Stock>
+<Stock>307</Stock>
 <Miad></Miad>
 <Price>189.90</Price>
 <Price2>214.84</Price2>
@@ -30601,7 +30601,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1199.90</Price>
 <Price2>1315.89</Price2>
@@ -34294,7 +34294,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>799.90</Price>
 <Price2>883.89</Price2>
@@ -43780,7 +43780,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>115</Stock>
+<Stock>113</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>191.72</Price2>
@@ -44241,7 +44241,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>35</Stock>
 <Miad></Miad>
 <Price>152.00</Price>
 <Price2>184.16</Price2>
@@ -45648,7 +45648,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>65</Stock>
 <Miad></Miad>
 <Price>159.00</Price>
 <Price2>191.72</Price2>
@@ -62620,8 +62620,8 @@
 <Price4>839.89</Price4>
 <Price5>839.89</Price5>
 <Price6>839.89</Price6>
-<Price7>1135.49</Price7>
-<Price8>1135.49</Price8>
+<Price7>1135.48</Price7>
+<Price8>1135.48</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-berliv-lipozomal-berberin-30-kapsul-11233.jpg</Image1>
@@ -62666,8 +62666,8 @@
 <Price4>289.97</Price4>
 <Price5>289.97</Price5>
 <Price6>289.97</Price6>
-<Price7>463.55</Price7>
-<Price8>449.64</Price8>
+<Price7>463.54</Price7>
+<Price8>449.63</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-bromelain-plus-cr-30-kapsul-11235.jpg</Image1>
@@ -62712,8 +62712,8 @@
 <Price4>330.29</Price4>
 <Price5>330.29</Price5>
 <Price6>330.29</Price6>
-<Price7>512.82</Price7>
-<Price8>512.82</Price8>
+<Price7>512.81</Price7>
+<Price8>512.81</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-corekotu-yagi-30-kapsul-11237.jpg</Image1>
@@ -62758,8 +62758,8 @@
 <Price4>400.85</Price4>
 <Price5>400.85</Price5>
 <Price6>400.85</Price6>
-<Price7>599.04</Price7>
-<Price8>599.04</Price8>
+<Price7>599.03</Price7>
+<Price8>599.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-d3k2-1000-iu-damla-20-ml-11239.jpg</Image1>
@@ -62804,8 +62804,8 @@
 <Price4>705.49</Price4>
 <Price5>705.49</Price5>
 <Price6>705.49</Price6>
-<Price7>971.26</Price7>
-<Price8>942.12</Price8>
+<Price7>971.25</Price7>
+<Price8>942.11</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-endofer-kids-demir-damla-30-ml-11241.jpg</Image1>
@@ -62849,8 +62849,8 @@
 <Price4>1702.29</Price4>
 <Price5>1702.29</Price5>
 <Price6>1702.29</Price6>
-<Price7>2189.22</Price7>
-<Price8>2123.54</Price8>
+<Price7>2189.21</Price7>
+<Price8>2123.53</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-fucoidon-60-kapsul-11243.jpg</Image1>
@@ -62885,7 +62885,7 @@
 <Brand><![CDATA[Nbt Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
-<Tax>10</Tax>
+<Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>339.90</Price>
@@ -62894,8 +62894,8 @@
 <Price4>380.69</Price4>
 <Price5>380.69</Price5>
 <Price6>380.69</Price6>
-<Price7>574.40</Price7>
-<Price8>574.40</Price8>
+<Price7>574.39</Price7>
+<Price8>574.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-iyotic-damla-30-ml-11245.jpg</Image1>
@@ -62939,8 +62939,8 @@
 <Price4>389.65</Price4>
 <Price5>389.65</Price5>
 <Price6>389.65</Price6>
-<Price7>585.35</Price7>
-<Price8>585.35</Price8>
+<Price7>585.34</Price7>
+<Price8>585.34</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-iyotic-duo-damla-50-ml-11246.jpg</Image1>
@@ -62984,8 +62984,8 @@
 <Price4>743.57</Price4>
 <Price5>743.57</Price5>
 <Price6>743.57</Price6>
-<Price7>1017.80</Price7>
-<Price8>1017.80</Price8>
+<Price7>1017.79</Price7>
+<Price8>1017.79</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-krill-oil-30-kapsul-11248.jpg</Image1>
@@ -63029,8 +63029,8 @@
 <Price4>1399.89</Price4>
 <Price5>1399.89</Price5>
 <Price6>1399.89</Price6>
-<Price7>1819.74</Price7>
-<Price8>1819.74</Price8>
+<Price7>1819.73</Price7>
+<Price8>1819.73</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-omegalife-2400-60-kapsul-11250.jpg</Image1>
@@ -63074,8 +63074,8 @@
 <Price4>873.49</Price4>
 <Price5>873.49</Price5>
 <Price6>873.49</Price6>
-<Price7>1176.53</Price7>
-<Price8>1141.23</Price8>
+<Price7>1176.52</Price7>
+<Price8>1141.22</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-renovate-30-sase-11251.jpg</Image1>
@@ -63119,8 +63119,8 @@
 <Price4>1153.49</Price4>
 <Price5>1153.49</Price5>
 <Price6>1153.49</Price6>
-<Price7>1518.67</Price7>
-<Price8>1518.67</Price8>
+<Price7>1518.66</Price7>
+<Price8>1518.66</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nbt-life-resqa-30-kapsul-11253.jpg</Image1>
@@ -66466,7 +66466,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>148</Stock>
+<Stock>147</Stock>
 <Miad>2028-01-01</Miad>
 <Price>555.00</Price>
 <Price2>619.40</Price2>
@@ -66606,14 +66606,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>484.50</Price>
-<Price2>543.26</Price2>
-<Price3>543.26</Price3>
-<Price4>542.64</Price4>
-<Price5>542.64</Price5>
-<Price6>542.64</Price6>
-<Price7>772.29</Price7>
-<Price8>772.29</Price8>
+<Price>484.30</Price>
+<Price2>543.04</Price2>
+<Price3>543.04</Price3>
+<Price4>542.42</Price4>
+<Price5>542.42</Price5>
+<Price6>542.42</Price6>
+<Price7>772.01</Price7>
+<Price8>772.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.jpg</Image1>
@@ -66788,7 +66788,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-04-01</Miad>
 <Price>649.80</Price>
 <Price2>721.78</Price2>
@@ -67210,7 +67210,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2029-04-01</Miad>
 <Price>284.90</Price>
 <Price2>327.69</Price2>
@@ -67350,14 +67350,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>480.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>439.90</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.jpg</Image1>
@@ -71475,8 +71475,8 @@
 <Price4>749.17</Price4>
 <Price5>749.17</Price5>
 <Price6>749.17</Price6>
-<Price7>1024.63</Price7>
-<Price8>993.89</Price8>
+<Price7>1024.64</Price7>
+<Price8>993.90</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image1>
