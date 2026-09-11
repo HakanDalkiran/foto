@@ -1,0 +1,119 @@
+{
+ "uretim": "2026-09-11 14:11:13",
+ "kaynak": "Entegra canli export feed",
+ "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
+ "urunler": [
+  {
+   "id": "3598",
+   "barkod": "8690605065522",
+   "ad": "Dalin Köpük Sabun Mango ve Portakal Kokulu 200 ml",
+   "fiyat": 133.29,
+   "stok": 24,
+   "url_slug": null
+  },
+  {
+   "id": "3990",
+   "barkod": "8699512012254",
+   "ad": "Otacı Doğal Defne Sabun 100 gr",
+   "fiyat": 144.09,
+   "stok": 22,
+   "url_slug": null
+  },
+  {
+   "id": "2955",
+   "barkod": "42241461",
+   "ad": "Nivea Man Roll-On Deodorant Fresh Active 50 ml",
+   "fiyat": 152.73,
+   "stok": 21,
+   "url_slug": null
+  },
+  {
+   "id": "3716",
+   "barkod": "8691226642994",
+   "ad": "Rebul Kolonya Lime PVC Sprey 125 ml",
+   "fiyat": 154.89,
+   "stok": 17,
+   "url_slug": null
+  },
+  {
+   "id": "2472",
+   "barkod": "8690605035228",
+   "ad": "Dalin Vazelin 100 ml",
+   "fiyat": 159.21,
+   "stok": 24,
+   "url_slug": null
+  },
+  {
+   "id": "3988",
+   "barkod": "8684460100252",
+   "ad": "Ophis Perine Temizleme Mendili 60'lı",
+   "fiyat": 268.29,
+   "stok": 500,
+   "url_slug": null
+  },
+  {
+   "id": "3238",
+   "barkod": "8691226642376",
+   "ad": "Rebul Aqua Kolonya 250 ml",
+   "fiyat": 268.29,
+   "stok": 83,
+   "url_slug": null
+  },
+  {
+   "id": "3998",
+   "barkod": "4607152730524",
+   "ad": "Rocs Pro 5940 Ultrasoft Diş Fırçası",
+   "fiyat": 273.69,
+   "stok": 10,
+   "url_slug": null
+  },
+  {
+   "id": "3245",
+   "barkod": "8691226642390",
+   "ad": "Rebul Bouquet Kolonya Cam Şişe 250 ml",
+   "fiyat": 278.12,
+   "stok": 71,
+   "url_slug": null
+  },
+  {
+   "id": "3717",
+   "barkod": "8691226655024",
+   "ad": "Rebul Kolonya Magnolia 250 ml",
+   "fiyat": 279.09,
+   "stok": 65,
+   "url_slug": null
+  },
+  {
+   "id": "3257",
+   "barkod": "8691226642406",
+   "ad": "Rebul Jasmine Kolonya 250 ml",
+   "fiyat": 282.33,
+   "stok": 69,
+   "url_slug": null
+  },
+  {
+   "id": "2646",
+   "barkod": "8691685017630",
+   "ad": "Eyüp Sabri Tuncer Sıvı Sabun Okyanus 1,5 lt",
+   "fiyat": 292.16,
+   "stok": 12,
+   "url_slug": null
+  },
+  {
+   "id": "2420",
+   "barkod": "8690742330385",
+   "ad": "Canped Mesane Pedi Yoğun Large 20'li",
+   "fiyat": 322.29,
+   "stok": 12,
+   "url_slug": null
+  },
+  {
+   "id": "2621",
+   "barkod": "8691685000496",
+   "ad": "Eyüp Sabri Tuncer Klasik Limon Kolonyası 1 lt - Eski Ambalaj",
+   "fiyat": 327.69,
+   "stok": 8,
+   "url_slug": null
+  }
+ ]
+}
