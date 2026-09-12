@@ -20039,7 +20039,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>147</Stock>
+<Stock>146</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>65.25</Price2>
@@ -29330,7 +29330,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-09-01</Miad>
 <Price>883.07</Price>
 <Price2>1142.01</Price2>
@@ -38866,7 +38866,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Selenyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2028-09-01</Miad>
 <Price>126.56</Price>
 <Price2>180.81</Price2>
@@ -56366,7 +56366,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-12-01</Miad>
 <Price>705.33</Price>
 <Price2>916.18</Price2>
@@ -63804,7 +63804,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2027-05-01</Miad>
 <Price>233.66</Price>
 <Price2>316.89</Price2>
@@ -65913,14 +65913,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>408.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
@@ -66343,7 +66343,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>229</Stock>
+<Stock>227</Stock>
 <Miad>2027-02-01</Miad>
 <Price>970.19</Price>
 <Price2>1252.71</Price2>
