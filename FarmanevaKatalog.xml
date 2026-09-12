@@ -7679,7 +7679,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>156</Stock>
+<Stock>155</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>881.73</Price2>
@@ -8300,7 +8300,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>91</Stock>
+<Stock>89</Stock>
 <Miad></Miad>
 <Price>847.90</Price>
 <Price2>935.73</Price2>
@@ -50810,7 +50810,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>55</Stock>
+<Stock>111</Stock>
 <Miad>2027-07-01</Miad>
 <Price>448.90</Price>
 <Price2>504.81</Price2>
@@ -63852,7 +63852,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>147</Stock>
+<Stock>145</Stock>
 <Miad>2028-01-01</Miad>
 <Price>532.90</Price>
 <Price2>595.53</Price2>
@@ -65098,7 +65098,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>243</Stock>
+<Stock>238</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1141.40</Price>
 <Price2>1252.71</Price2>
