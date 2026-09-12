@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-12 11:52:16",
+ "uretim": "2026-09-12 12:19:11",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -27,7 +27,7 @@
    "ad": "Nivea Man Roll-On Deodorant Fresh Active 50 ml",
    "fiyat": 152.73,
    "stok": 21,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-man-roll-on-deodorant-fresh-active-50-ml-25517.jpg",
    "url_slug": null
   },
   {
@@ -63,7 +63,7 @@
    "ad": "Rebul Aqua Kolonya 250 ml",
    "fiyat": 268.29,
    "stok": 83,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-aqua-kolonya-250-ml-26882.jpg",
    "url_slug": null
   },
   {
@@ -81,7 +81,7 @@
    "ad": "Rebul Bouquet Kolonya Cam Şişe 250 ml",
    "fiyat": 278.12,
    "stok": 71,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-bouquet-kolonya-cam-sise-250-ml-26917.jpg",
    "url_slug": null
   },
   {
@@ -99,7 +99,7 @@
    "ad": "Rebul Jasmine Kolonya 250 ml",
    "fiyat": 282.33,
    "stok": 69,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-jasmine-kolonya-250-ml-26977.jpg",
    "url_slug": null
   },
   {
