@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-12 12:37:46",
+ "uretim": "2026-09-12 12:38:47",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -80,7 +80,7 @@
    "barkod": "8691226642390",
    "ad": "Rebul Bouquet Kolonya Cam Şişe 250 ml",
    "fiyat": 278.12,
-   "stok": 71,
+   "stok": 67,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
