@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-12 11:22:43",
+ "uretim": "2026-09-12 11:34:54",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -45,7 +45,7 @@
    "ad": "Dalin Vazelin 100 ml",
    "fiyat": 159.21,
    "stok": 24,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dalin-vazelin-100-ml-23180.jpg",
    "url_slug": null
   },
   {
@@ -117,7 +117,7 @@
    "ad": "Canped Mesane Pedi Yoğun Large 20'li",
    "fiyat": 322.29,
    "stok": 12,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/canped-mesane-pedi-yogun-large-20-li-22943.jpg",
    "url_slug": null
   },
   {
