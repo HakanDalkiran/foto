@@ -1987,8 +1987,8 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>142</Stock>
-<Miad>2026-10-01</Miad>
+<Stock>10</Stock>
+<Miad>2027-09-01</Miad>
 <Price>968.90</Price>
 <Price2>1066.41</Price2>
 <Price3>1066.41</Price3>
@@ -2030,8 +2030,8 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>103</Stock>
-<Miad>2026-10-01</Miad>
+<Stock>10</Stock>
+<Miad>2027-04-01</Miad>
 <Price>969.90</Price>
 <Price2>1067.49</Price2>
 <Price3>1067.49</Price3>
@@ -7679,7 +7679,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>162</Stock>
+<Stock>156</Stock>
 <Miad>2031-04-01</Miad>
 <Price>797.90</Price>
 <Price2>881.73</Price2>
@@ -19616,7 +19616,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>147</Stock>
+<Stock>145</Stock>
 <Miad>2027-03-01</Miad>
 <Price>41.90</Price>
 <Price2>65.25</Price2>
@@ -27645,7 +27645,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>21</Stock>
 <Miad>2027-01-01</Miad>
 <Price>259.90</Price>
 <Price2>300.69</Price2>
@@ -29113,7 +29113,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2029-01-01</Miad>
 <Price>907.90</Price>
 <Price2>1000.53</Price2>
@@ -30812,7 +30812,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>118.90</Price>
 <Price2>148.41</Price2>
@@ -31307,7 +31307,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>48</Stock>
 <Miad></Miad>
 <Price>348.90</Price>
 <Price2>396.81</Price2>
@@ -33703,7 +33703,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>1349.90</Price>
 <Price2>1477.89</Price2>
@@ -38440,7 +38440,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>121</Stock>
+<Stock>120</Stock>
 <Miad>2028-02-01</Miad>
 <Price>328.90</Price>
 <Price2>375.21</Price2>
@@ -40375,7 +40375,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>17</Stock>
 <Miad>2028-06-01</Miad>
 <Price>179.00</Price>
 <Price2>213.32</Price2>
@@ -42519,7 +42519,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>71</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>239.00</Price>
 <Price2>278.12</Price2>
@@ -42744,7 +42744,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>41</Stock>
+<Stock>40</Stock>
 <Miad></Miad>
 <Price>158.90</Price>
 <Price2>191.61</Price2>
@@ -48461,11 +48461,6 @@
 <Price8>608.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-12-li-paket-27621.jpg</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-12-li-paket-27622.jpg</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-12-li-paket-27623.jpg</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-3-devam-sutu-400-gr-12-li-paket-27625.jpg</Image5>
 <Description><![CDATA[<section>
 <p><strong>Sma Optipro 3 Devam S&#252;t&#252; 400 gr 12'li Paket</strong>, 1-3 ya&#351; aras&#305; &#231;ocuklar&#305;n &#231;e&#351;itlenen beslenmesindeki s&#305;v&#305; al&#305;m&#305;n&#305; desteklemek i&#231;in haz&#305;rlanm&#305;&#351;, Nestl&#233;'nin OPTIPRO protein teknolojisini temel alan toz devam s&#252;t&#252;d&#252;r. K&#252;&#231;&#252;k &#231;ocuklar&#305;n g&#252;nl&#252;k s&#252;t t&#252;ketimine dengeli bir katk&#305; sa&#287;lamak &#252;zere tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
@@ -55784,9 +55779,6 @@
 <Price8>1060.22</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image3>
 <Description><![CDATA[<section>
 <p><strong>Balparmak Apitera Zen Plus - 8'li Stand</strong>, limon, zencefil ve karabiber tarifini bal ve propolisle birleştiren, saşe formunda bir takviye edici gıdadır. Çinko, selenyum ve C vitamini ile zenginleştirilmiştir. 8'li stand ambalajında sunulur</p>
 <h2>Balparmak Apitera Zen Plus - 8'li Stand Özellikleri</h2>
@@ -55869,8 +55861,6 @@
 <Price8>519.12</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/</Image2>
 <Description><![CDATA[<section>
 <p><strong>Biotrue Lens Solüsyonu 100 ml</strong>, yumuşak kontakt lensler için hazırlanmış, 100 ml'lik çok amaçlı temizleme ve saklama solüsyonudur. Lens kullanan ve seyahatte küçük şişe tercih edenler için uygundur. Gözyaşıyla benzer pH değerine sahiptir</p>
 <h2>Biotrue Lens Solüsyonu 100 ml Özellikleri</h2>
@@ -60554,7 +60544,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>34</Stock>
+<Stock>32</Stock>
 <Miad>2029-03-01</Miad>
 <Price>598.90</Price>
 <Price2>666.81</Price2>
@@ -61080,7 +61070,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>83</Stock>
+<Stock>82</Stock>
 <Miad>2029-03-01</Miad>
 <Price>328.90</Price>
 <Price2>375.21</Price2>
@@ -61164,7 +61154,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>10</Tax>
-<Stock>46</Stock>
+<Stock>41</Stock>
 <Miad>2029-02-01</Miad>
 <Price>398.90</Price>
 <Price2>450.81</Price2>
@@ -62522,7 +62512,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>3</Stock>
 <Miad>2028-12-01</Miad>
 <Price>282.90</Price>
 <Price2>325.53</Price2>
@@ -63476,14 +63466,14 @@
 <Tax>20</Tax>
 <Stock>13</Stock>
 <Miad>2028-05-01</Miad>
-<Price>949.90</Price>
-<Price2>1045.89</Price2>
-<Price3>1045.89</Price3>
-<Price4>1063.89</Price4>
-<Price5>1063.89</Price5>
-<Price6>1063.89</Price6>
-<Price7>1409.18</Price7>
-<Price8>1409.18</Price8>
+<Price>846.90</Price>
+<Price2>934.65</Price2>
+<Price3>934.65</Price3>
+<Price4>948.53</Price4>
+<Price5>948.53</Price5>
+<Price6>948.53</Price6>
+<Price7>1268.23</Price7>
+<Price8>1268.23</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-light-moisturizing-cream-50-ml-11391.webp</Image1>
@@ -63775,14 +63765,14 @@
 <Tax>20</Tax>
 <Stock>147</Stock>
 <Miad>2028-01-01</Miad>
-<Price>555.00</Price>
-<Price2>619.40</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.78</Price7>
-<Price8>868.78</Price8>
+<Price>532.90</Price>
+<Price2>595.53</Price2>
+<Price3>595.53</Price3>
+<Price4>596.85</Price4>
+<Price5>596.85</Price5>
+<Price6>596.85</Price6>
+<Price7>838.52</Price7>
+<Price8>838.52</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -63861,14 +63851,14 @@
 <Tax>20</Tax>
 <Stock>52</Stock>
 <Miad>2028-08-01</Miad>
-<Price>555.00</Price>
-<Price2>619.40</Price2>
-<Price3>619.40</Price3>
-<Price4>621.60</Price4>
-<Price5>621.60</Price5>
-<Price6>621.60</Price6>
-<Price7>868.78</Price7>
-<Price8>868.78</Price8>
+<Price>552.90</Price>
+<Price2>617.13</Price2>
+<Price3>617.13</Price3>
+<Price4>619.25</Price4>
+<Price5>619.25</Price5>
+<Price6>619.25</Price6>
+<Price7>865.89</Price7>
+<Price8>865.89</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-cleansing-gel-400-ml-11407.webp</Image1>
@@ -64713,7 +64703,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>30</Stock>
+<Stock>28</Stock>
 <Miad>2029-04-01</Miad>
 <Price>205.90</Price>
 <Price2>242.37</Price2>
@@ -74983,7 +74973,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>35</Stock>
+<Stock>33</Stock>
 <Miad></Miad>
 <Price>1619.90</Price>
 <Price2>1769.49</Price2>
@@ -78572,7 +78562,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>14</Stock>
 <Miad>2028-11-01</Miad>
 <Price>616.90</Price>
 <Price2>686.25</Price2>
