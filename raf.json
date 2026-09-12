@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-12 10:46:53",
+ "uretim": "2026-09-12 11:22:43",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -9,7 +9,7 @@
    "ad": "Dalin Köpük Sabun Mango ve Portakal Kokulu 200 ml",
    "fiyat": 133.29,
    "stok": 24,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dalin-kopuk-sabun-mango-ve-portakal-kokulu-200-ml-11052.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -18,7 +18,7 @@
    "ad": "Otacı Doğal Defne Sabun 100 gr",
    "fiyat": 144.09,
    "stok": 22,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/otaci-dogal-defne-sabun-100-gr-11989.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -27,7 +27,7 @@
    "ad": "Nivea Man Roll-On Deodorant Fresh Active 50 ml",
    "fiyat": 152.73,
    "stok": 21,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-roll-on-fresh-erkek-50-ml-9419.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -36,7 +36,7 @@
    "ad": "Rebul Kolonya Lime PVC Sprey 125 ml",
    "fiyat": 154.89,
    "stok": 17,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-kolonya-lime-pvc-sprey-125-ml-11319.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -45,7 +45,7 @@
    "ad": "Dalin Vazelin 100 ml",
    "fiyat": 159.21,
    "stok": 24,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dalin-vazelin-100-ml-8382.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -54,7 +54,7 @@
    "ad": "Ophis Perine Temizleme Mendili 60'lı",
    "fiyat": 268.29,
    "stok": 500,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-temizleme-mendili-60-li-11985.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -63,7 +63,7 @@
    "ad": "Rebul Aqua Kolonya 250 ml",
    "fiyat": 268.29,
    "stok": 83,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-aqua-kolonya-250-ml-10110.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -72,7 +72,7 @@
    "ad": "Rocs Pro 5940 Ultrasoft Diş Fırçası",
    "fiyat": 273.69,
    "stok": 10,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rocs-pro-5940-ultrasoft-dis-fircasi-12005.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -81,7 +81,7 @@
    "ad": "Rebul Bouquet Kolonya Cam Şişe 250 ml",
    "fiyat": 278.12,
    "stok": 71,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-bouquet-kolonya-cam-sise-250-ml-10124.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -90,7 +90,7 @@
    "ad": "Rebul Kolonya Magnolia 250 ml",
    "fiyat": 279.09,
    "stok": 65,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-kolonya-magnolia-250-ml-11321.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -99,7 +99,7 @@
    "ad": "Rebul Jasmine Kolonya 250 ml",
    "fiyat": 282.33,
    "stok": 69,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-jasmine-kolonya-250-ml-10153.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -108,7 +108,7 @@
    "ad": "Eyüp Sabri Tuncer Sıvı Sabun Okyanus 1,5 lt",
    "fiyat": 292.16,
    "stok": 12,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-sivi-sabun-okyanus-1-5-lt-8772.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -117,7 +117,7 @@
    "ad": "Canped Mesane Pedi Yoğun Large 20'li",
    "fiyat": 322.29,
    "stok": 12,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/canped-mesane-pedi-yogun-large-20-li-8238.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   },
   {
@@ -126,7 +126,7 @@
    "ad": "Eyüp Sabri Tuncer Klasik Limon Kolonyası 1 lt - Eski Ambalaj",
    "fiyat": 327.69,
    "stok": 8,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-1-lt-eski-ambalaj-8746.jpg",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
    "url_slug": null
   }
  ]
