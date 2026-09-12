@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-12 11:34:54",
+ "uretim": "2026-09-12 11:41:27",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -108,7 +108,7 @@
    "ad": "Eyüp Sabri Tuncer Sıvı Sabun Okyanus 1,5 lt",
    "fiyat": 292.16,
    "stok": 12,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-sivi-sabun-okyanus-1-5-lt-24012.jpg",
    "url_slug": null
   },
   {
@@ -126,7 +126,7 @@
    "ad": "Eyüp Sabri Tuncer Klasik Limon Kolonyası 1 lt - Eski Ambalaj",
    "fiyat": 327.69,
    "stok": 8,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-1-lt-eski-ambalaj-23887.jpg",
    "url_slug": null
   }
  ]
