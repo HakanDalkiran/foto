@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-12 13:34:52",
+ "uretim": "2026-09-12 13:46:59",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -18,7 +18,7 @@
    "ad": "Otacı Doğal Defne Sabun 100 gr",
    "fiyat": 144.09,
    "stok": 22,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/otaci-dogal-defne-sabun-100-gr-38670.webp",
    "url_slug": null
   },
   {
@@ -54,7 +54,7 @@
    "ad": "Ophis Perine Temizleme Mendili 60'lı",
    "fiyat": 268.29,
    "stok": 500,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-temizleme-mendili-60-li-38666.webp",
    "url_slug": null
   },
   {
@@ -72,7 +72,7 @@
    "ad": "Rocs Pro 5940 Ultrasoft Diş Fırçası",
    "fiyat": 273.69,
    "stok": 10,
-   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/",
+   "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rocs-pro-5940-ultrasoft-dis-fircasi-38684.webp",
    "url_slug": null
   },
   {
