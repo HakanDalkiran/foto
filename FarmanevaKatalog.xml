@@ -15250,7 +15250,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
-<Tax>1</Tax>
+<Tax>10</Tax>
 <Stock>266</Stock>
 <Miad>2028-01-01</Miad>
 <Price>611.91</Price>
@@ -15342,16 +15342,16 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>10</Tax>
-<Stock>396</Stock>
-<Miad>2028-01-01</Miad>
+<Stock>360</Stock>
+<Miad>2027-12-01</Miad>
 <Price>552.41</Price>
-<Price2>677.00</Price2>
-<Price3>677.00</Price3>
-<Price4>690.00</Price4>
-<Price5>690.00</Price5>
-<Price6>690.00</Price6>
-<Price7>793.00</Price7>
-<Price8>793.00</Price8>
+<Price2>565.00</Price2>
+<Price3>565.00</Price3>
+<Price4>594.00</Price4>
+<Price5>594.00</Price5>
+<Price6>594.00</Price6>
+<Price7>766.00</Price7>
+<Price8>766.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-20-flakon-8691.webp</Image1>
