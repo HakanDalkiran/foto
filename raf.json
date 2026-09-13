@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-13 13:46:52",
+ "uretim": "2026-09-13 14:42:54",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -62,7 +62,7 @@
    "barkod": "8691226642376",
    "ad": "Rebul Aqua Kolonya 250 ml",
    "fiyat": 268.29,
-   "stok": 83,
+   "stok": 82,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-aqua-kolonya-250-ml-37244.webp",
    "url_slug": null
   },
