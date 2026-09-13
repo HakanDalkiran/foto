@@ -15250,17 +15250,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Probiyotik]]></subCategory>
-<Tax>1</Tax>
-<Stock>5</Stock>
+<Tax>10</Tax>
+<Stock>266</Stock>
 <Miad>2028-01-01</Miad>
 <Price>611.91</Price>
-<Price2>797.49</Price2>
-<Price3>797.49</Price3>
-<Price4>806.29</Price4>
-<Price5>806.29</Price5>
-<Price6>806.29</Price6>
-<Price7>1094.43</Price7>
-<Price8>1094.43</Price8>
+<Price2>656.00</Price2>
+<Price3>656.00</Price3>
+<Price4>669.00</Price4>
+<Price5>669.00</Price5>
+<Price6>669.00</Price6>
+<Price7>760.00</Price7>
+<Price8>760.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8684.webp</Image1>
@@ -15343,7 +15343,7 @@
 <subCategory><![CDATA[Probiyotik]]></subCategory>
 <Tax>10</Tax>
 <Stock>396</Stock>
-<Miad>2027-12-01</Miad>
+<Miad>2028-01-01</Miad>
 <Price>552.41</Price>
 <Price2>677.00</Price2>
 <Price3>677.00</Price3>
