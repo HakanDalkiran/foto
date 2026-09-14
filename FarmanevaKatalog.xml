@@ -16084,7 +16084,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>72.17</Price>
 <Price2>111.69</Price2>
@@ -17528,16 +17528,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
-<Miad>2028-10-01</Miad>
-<Price>531.16</Price>
-<Price2>694.89</Price2>
-<Price3>694.89</Price3>
-<Price4>699.89</Price4>
-<Price5>699.89</Price5>
-<Price6>699.89</Price6>
-<Price7>964.43</Price7>
-<Price8>964.43</Price8>
+<Stock>17</Stock>
+<Miad>2026-10-01</Miad>
+<Price>540.51</Price>
+<Price2>706.77</Price2>
+<Price3>706.77</Price3>
+<Price4>712.21</Price4>
+<Price5>712.21</Price5>
+<Price6>712.21</Price6>
+<Price7>979.48</Price7>
+<Price8>979.48</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/generica-sidefer-20-sticks-8818.webp</Image1>
@@ -28506,7 +28506,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>120</Stock>
+<Stock>121</Stock>
 <Miad>2029-08-01</Miad>
 <Price>590.66</Price>
 <Price2>770.49</Price2>
@@ -49868,7 +49868,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad>2028-01-01</Miad>
 <Price>813.88</Price>
 <Price2>1054.10</Price2>
@@ -59099,7 +59099,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>32</Stock>
+<Stock>30</Stock>
 <Miad>2029-03-01</Miad>
 <Price>509.06</Price>
 <Price2>666.81</Price2>
@@ -61893,14 +61893,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2028-09-01</Miad>
-<Price>573.75</Price>
-<Price2>749.00</Price2>
-<Price3>749.00</Price3>
-<Price4>756.00</Price4>
-<Price5>756.00</Price5>
-<Price6>756.00</Price6>
-<Price7>1032.99</Price7>
-<Price8>1032.99</Price8>
+<Price>594.06</Price>
+<Price2>774.81</Price2>
+<Price3>774.81</Price3>
+<Price4>782.77</Price4>
+<Price5>782.77</Price5>
+<Price6>782.77</Price6>
+<Price7>1065.69</Price7>
+<Price8>1065.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.webp</Image1>
@@ -61935,14 +61935,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>552.50</Price>
-<Price2>722.00</Price2>
-<Price3>722.00</Price3>
-<Price4>728.00</Price4>
-<Price5>728.00</Price5>
-<Price6>728.00</Price6>
-<Price7>998.77</Price7>
-<Price8>998.77</Price8>
+<Price>619.48</Price>
+<Price2>807.10</Price2>
+<Price3>807.10</Price3>
+<Price4>816.26</Price4>
+<Price5>816.26</Price5>
+<Price6>816.26</Price6>
+<Price7>1106.61</Price7>
+<Price8>1106.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.webp</Image1>
@@ -62405,14 +62405,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>382.50</Price>
-<Price2>506.00</Price2>
-<Price3>506.00</Price3>
-<Price4>504.00</Price4>
-<Price5>504.00</Price5>
-<Price6>504.00</Price6>
-<Price7>725.07</Price7>
-<Price8>725.07</Price8>
+<Price>424.79</Price>
+<Price2>559.73</Price2>
+<Price3>559.73</Price3>
+<Price4>559.72</Price4>
+<Price5>559.72</Price5>
+<Price6>559.72</Price6>
+<Price7>793.16</Price7>
+<Price8>793.16</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.webp</Image1>
@@ -63521,7 +63521,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>213</Stock>
+<Stock>218</Stock>
 <Miad>2027-02-01</Miad>
 <Price>970.19</Price>
 <Price2>1252.71</Price2>
