@@ -468,7 +468,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>25</Stock>
 <Miad>2026-10-01</Miad>
 <Price>84.15</Price>
 <Price2>126.92</Price2>
@@ -12505,7 +12505,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El & Ayak Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>288.06</Price>
 <Price2>386.01</Price2>
@@ -18642,7 +18642,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>122</Stock>
+<Stock>121</Stock>
 <Miad>2027-01-01</Miad>
 <Price>118.06</Price>
 <Price2>170.01</Price2>
@@ -23706,7 +23706,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Oksimetre]]></category>
 <Tax>10</Tax>
-<Stock>131</Stock>
+<Stock>130</Stock>
 <Miad></Miad>
 <Price>419.81</Price>
 <Price2>553.41</Price2>
@@ -28461,7 +28461,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>123</Stock>
+<Stock>120</Stock>
 <Miad>2029-08-01</Miad>
 <Price>590.66</Price>
 <Price2>770.49</Price2>
@@ -28806,7 +28806,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>1</Stock>
 <Miad>2029-02-01</Miad>
 <Price>667.16</Price>
 <Price2>867.69</Price2>
@@ -29115,7 +29115,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>115</Stock>
+<Stock>114</Stock>
 <Miad>2027-11-01</Miad>
 <Price>98.52</Price>
 <Price2>145.17</Price2>
@@ -36174,7 +36174,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2027-09-01</Miad>
 <Price>402.81</Price>
 <Price2>531.81</Price2>
@@ -37046,7 +37046,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>25</Stock>
+<Stock>23</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>931.52</Price2>
@@ -37161,7 +37161,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Selenyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad>2028-09-01</Miad>
 <Price>126.56</Price>
 <Price2>180.81</Price2>
@@ -37330,7 +37330,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>118</Stock>
+<Stock>117</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>375.21</Price2>
@@ -41157,7 +41157,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>82</Stock>
+<Stock>81</Stock>
 <Miad></Miad>
 <Price>195.41</Price>
 <Price2>268.29</Price2>
@@ -41800,7 +41800,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>64</Stock>
 <Miad></Miad>
 <Price>182.66</Price>
 <Price2>252.09</Price2>
@@ -42592,7 +42592,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>201.45</Price>
 <Price2>275.96</Price2>
@@ -44331,7 +44331,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>489</Stock>
+<Stock>486</Stock>
 <Miad>2030-07-01</Miad>
 <Price>89.25</Price>
 <Price2>133.40</Price2>
@@ -45846,7 +45846,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>69</Stock>
+<Stock>68</Stock>
 <Miad>2029-05-01</Miad>
 <Price>175.01</Price>
 <Price2>242.37</Price2>
@@ -49184,7 +49184,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>24</Stock>
+<Stock>21</Stock>
 <Miad>2027-07-01</Miad>
 <Price>252.36</Price>
 <Price2>340.65</Price2>
@@ -49563,7 +49563,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>10</Stock>
 <Miad>2028-01-01</Miad>
 <Price>507.36</Price>
 <Price2>664.65</Price2>
@@ -54211,7 +54211,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>1</Stock>
 <Miad>2029-04-01</Miad>
 <Price>373.91</Price>
 <Price2>495.09</Price2>
@@ -58634,7 +58634,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Yağlar]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2028-07-01</Miad>
 <Price>250.66</Price>
 <Price2>338.49</Price2>
@@ -59054,7 +59054,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>33</Stock>
+<Stock>32</Stock>
 <Miad>2029-03-01</Miad>
 <Price>509.06</Price>
 <Price2>666.81</Price2>
@@ -59181,7 +59181,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>42.25</Price>
 <Price2>73.68</Price2>
@@ -59537,7 +59537,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>80</Stock>
+<Stock>77</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>375.21</Price2>
@@ -61331,14 +61331,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-02-01</Miad>
-<Price>620.41</Price>
-<Price2>808.29</Price2>
-<Price3>808.29</Price3>
-<Price4>817.49</Price4>
-<Price5>817.49</Price5>
-<Price6>817.49</Price6>
-<Price7>1108.12</Price7>
-<Price8>1108.12</Price8>
+<Price>510.00</Price>
+<Price2>668.00</Price2>
+<Price3>668.00</Price3>
+<Price4>672.00</Price4>
+<Price5>672.00</Price5>
+<Price6>672.00</Price6>
+<Price7>930.35</Price7>
+<Price8>930.35</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-akne-karsiti-gunes-koruyucu-krem-spf50-40-ml-11367.webp</Image1>
@@ -62230,16 +62230,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>142</Stock>
+<Stock>143</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>617.13</Price2>
-<Price3>617.13</Price3>
-<Price4>619.25</Price4>
-<Price5>619.25</Price5>
-<Price6>619.25</Price6>
-<Price7>865.89</Price7>
-<Price8>865.89</Price8>
+<Price>451.60</Price>
+<Price2>593.80</Price2>
+<Price3>593.80</Price3>
+<Price4>595.06</Price4>
+<Price5>595.06</Price5>
+<Price6>595.06</Price6>
+<Price7>836.33</Price7>
+<Price8>836.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -62318,14 +62318,14 @@
 <Tax>20</Tax>
 <Stock>52</Stock>
 <Miad>2028-08-01</Miad>
-<Price>531.00</Price>
-<Price2>694.68</Price2>
-<Price3>694.68</Price3>
-<Price4>699.66</Price4>
-<Price5>699.66</Price5>
-<Price6>699.66</Price6>
-<Price7>964.15</Price7>
-<Price8>964.15</Price8>
+<Price>468.60</Price>
+<Price2>615.40</Price2>
+<Price3>615.40</Price3>
+<Price4>617.46</Price4>
+<Price5>617.46</Price5>
+<Price6>617.46</Price6>
+<Price7>863.70</Price7>
+<Price8>863.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-cleansing-gel-400-ml-11407.webp</Image1>
@@ -62918,7 +62918,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>9</Stock>
 <Miad>2029-04-01</Miad>
 <Price>242.16</Price>
 <Price2>327.69</Price2>
@@ -63389,14 +63389,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>378.16</Price>
-<Price2>500.49</Price2>
-<Price3>500.49</Price3>
-<Price4>498.29</Price4>
-<Price5>498.29</Price5>
-<Price6>498.29</Price6>
-<Price7>718.10</Price7>
-<Price8>718.10</Price8>
+<Price>323.00</Price>
+<Price2>430.40</Price2>
+<Price3>430.40</Price3>
+<Price4>425.60</Price4>
+<Price5>425.60</Price5>
+<Price6>425.60</Price6>
+<Price7>629.28</Price7>
+<Price8>629.28</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.webp</Image1>
@@ -63476,7 +63476,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>218</Stock>
+<Stock>213</Stock>
 <Miad>2027-02-01</Miad>
 <Price>970.19</Price>
 <Price2>1252.71</Price2>
@@ -71501,7 +71501,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>26</Stock>
 <Miad>2028-11-01</Miad>
 <Price>381.56</Price>
 <Price2>504.81</Price2>
@@ -75561,7 +75561,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>382.49</Price>
 <Price2>505.99</Price2>
