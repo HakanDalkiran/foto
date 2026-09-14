@@ -96,7 +96,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>1104.07</Price>
 <Price2>1422.81</Price2>
@@ -1054,7 +1054,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>149</Stock>
+<Stock>148</Stock>
 <Miad>2026-10-01</Miad>
 <Price>118.92</Price>
 <Price2>171.09</Price2>
@@ -7596,7 +7596,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>155</Stock>
+<Stock>146</Stock>
 <Miad>2031-04-01</Miad>
 <Price>678.21</Price>
 <Price2>881.73</Price2>
@@ -8028,7 +8028,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad></Miad>
 <Price>730.06</Price>
 <Price2>947.61</Price2>
@@ -8217,7 +8217,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>91</Stock>
+<Stock>87</Stock>
 <Miad></Miad>
 <Price>720.71</Price>
 <Price2>935.73</Price2>
@@ -9229,7 +9229,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kolonyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>91</Stock>
+<Stock>85</Stock>
 <Miad></Miad>
 <Price>56.02</Price>
 <Price2>91.17</Price2>
@@ -11402,7 +11402,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>66</Stock>
+<Stock>60</Stock>
 <Miad></Miad>
 <Price>637.41</Price>
 <Price2>829.89</Price2>
@@ -11534,7 +11534,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>29</Stock>
 <Miad></Miad>
 <Price>482.71</Price>
 <Price2>633.33</Price2>
@@ -12755,55 +12755,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00318]]></Product_code>
-<Barcode>8697796000110</Barcode>
-<Name><![CDATA[Dermoskin Topicalbiotin T Vitamin Kremi Kuru Ciltler 50 ml]]></Name>
-<Brand><![CDATA[Dermoskin]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Nemlendirici]]></subCategory>
-<Tax>20</Tax>
-<Stock>5</Stock>
-<Miad></Miad>
-<Price>297.41</Price>
-<Price2>375.00</Price2>
-<Price3>375.00</Price3>
-<Price4>361.00</Price4>
-<Price5>361.00</Price5>
-<Price6>361.00</Price6>
-<Price7>535.00</Price7>
-<Price8>535.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-t-vitamin-kremi-kuru-ciltler-50-ml-8592.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-t-vitamin-kremi-kuru-ciltler-50-ml-8593.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-t-vitamin-kremi-kuru-ciltler-50-ml-8594.webp</Image3>
-<Image4>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-t-vitamin-kremi-kuru-ciltler-50-ml-8595.webp</Image4>
-<Image5>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-t-vitamin-kremi-kuru-ciltler-50-ml-8596.webp</Image5>
-<Image6>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-t-vitamin-kremi-kuru-ciltler-50-ml-8597.webp</Image6>
-<Description><![CDATA[<section>
-<p><strong>Dermoskin Topicalbiotin T Vitamin Kremi (Kuru Ciltler)</strong>, biotin ve vitamin i&#231;eri&#287;iyle &#246;zellikle kuru ciltlere y&#246;nelik geli&#351;tirilmi&#351;, besleyici bir vitamin kremidir. Kurulu&#287;a e&#287;ilimli cildini beslemek ve yumu&#351;atmak isteyenler i&#231;in sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Biotin ve vitamin i&#231;eri&#287;ine sahiptir.</li>
-<li>&#214;zellikle kuru ciltler i&#231;in geli&#351;tirilmi&#351;tir.</li>
-<li>Cildi besler ve yumu&#351;akl&#305;k kazand&#305;r&#305;r.</li>
-<li>Kurulu&#287;a e&#287;ilimli cilde nem deste&#287;i verir.</li>
-<li>Cildin nem ihtiyac&#305;na ve g&#252;nl&#252;k bak&#305;m&#305;na destek sunar.</li>
-<li>Y&#252;z ve v&#252;cutta uygun b&#246;lgelerde kullan&#305;labilir.</li>
-<li>Hafif dokusuyla h&#305;zla emilir ve d&#252;zenli kullan&#305;ma uygundur.</li>
-<li>Kuru ciltler i&#231;in pratik ve besleyici bir bak&#305;m &#231;&#246;z&#252;m&#252; sunar.</li>
-<li>Cilt bak&#305;m rutinine kolayca eklenir.</li>
-<li>Cildin ihtiyac&#305;na g&#246;re g&#252;nl&#252;k olarak kullan&#305;labilir.</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Temizlenmi&#351; cilde g&#252;nde bir-iki kez ince bir tabaka h&#226;linde uygulay&#305;p nazik&#231;e yedirin. D&#252;zenli kullan&#305;mda en iyi sonucu verir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Kuru cildini besleyecek bir vitamin kremi arayanlar Dermoskin Topicalbiotin T'yi Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00319]]></Product_code>
 <Barcode>8697796000516</Barcode>
 <Name><![CDATA[Dermoskin Ultra Face Protection Sun Screen Gel Cream SPF50+ 50 ml]]></Name>
@@ -13950,7 +13901,7 @@
 <subCategory><![CDATA[Çocuk Omega 3 / Balık Yağı]]></subCategory>
 <Tax>1</Tax>
 <Stock>12</Stock>
-<Miad>2026-11-01</Miad>
+<Miad>2027-09-01</Miad>
 <Price>539.66</Price>
 <Price2>705.69</Price2>
 <Price3>705.69</Price3>
@@ -14157,50 +14108,6 @@
 </ul>
 <h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
 <p>Ellerinizi y&#305;kay&#305;p kurulad&#305;ktan sonra stribi cihaza yerle&#351;tirin ve parmak ucundan al&#305;nan k&#252;&#231;&#252;k bir kan damlas&#305;n&#305; strip &#252;zerine uygulay&#305;n. Cihaz sonucu k&#305;sa s&#252;rede g&#246;sterir. Do&#287;ru kullan&#305;m i&#231;in cihaz ve strip k&#305;lavuzundaki talimatlar&#305; izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Bu &#252;r&#252;n t&#305;bbi te&#351;his arac&#305; de&#287;ildir; sonu&#231;lar&#305;n yorumu ve tedavi i&#231;in hekiminize dan&#305;&#351;&#305;n. Stripleri serin, kuru ortamda ve son kullanma tarihine dikkat ederek saklay&#305;n; k&#305;lavuza uygun kullan&#305;n.</p>
-<p>Farmaneva g&#252;vencesiyle g&#252;nl&#252;k kan &#351;ekeri takibinizi kolayla&#351;t&#305;ran g&#252;venilir bir sarf malzemesidir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00351]]></Product_code>
-<Barcode>4712558769020</Barcode>
-<Name><![CDATA[Ebsensor Şeker Ölçüm Strip 50 Lik]]></Name>
-<Brand><![CDATA[Ebsensor]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Şeker Ölçüm Cihazları]]></category>
-<subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
-<Tax>10</Tax>
-<Stock>5</Stock>
-<Miad>2027-07-01</Miad>
-<Price>166.00</Price>
-<Price2>228.00</Price2>
-<Price3>228.00</Price3>
-<Price4>400.00</Price4>
-<Price5>400.00</Price5>
-<Price6>400.00</Price6>
-<Price7>363.00</Price7>
-<Price8>363.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/ebsensor-seker-olcum-strip-50-lik-8680.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Ebsensor &#350;eker &#214;l&#231;&#252;m Strip 50 Lik</strong>, Ebsensor kan &#351;ekeri &#246;l&#231;&#252;m cihazlar&#305;yla uyumlu &#231;al&#305;&#351;an tek kullan&#305;ml&#305;k &#246;l&#231;&#252;m &#231;ubuklar&#305;d&#305;r. Parmak ucundan al&#305;nan k&#252;&#231;&#252;k bir kan damlas&#305;yla kan &#351;ekeri seviyesini &#246;l&#231;meye yarayan bu stripler, d&#252;zenli kan &#351;ekeri takibi yapan diyabetli bireylere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Ebsensor glukometre modelleriyle uyumludur</li>
-<li>Kutuda 50 adet &#246;l&#231;&#252;m stripi bulunur</li>
-<li>K&#252;&#231;&#252;k kan damlas&#305;yla h&#305;zl&#305; &#246;l&#231;&#252;m sa&#287;lar</li>
-<li>Yakla&#351;&#305;k 10 saniyede sonu&#231; verir</li>
-<li>Geni&#351; &#246;l&#231;&#252;m aral&#305;&#287;&#305; (yakla&#351;&#305;k 20-600 mg/dL)</li>
-<li>G&#252;nl&#252;k kan &#351;ekeri takibi i&#231;in uygundur</li>
-<li>Tek kullan&#305;ml&#305;k ve hijyeniktir</li>
-<li>Kolay ve pratik kullan&#305;m</li>
-<li>Serin ve kuru ortamda saklanabilir</li>
-<li>Uzun s&#252;reli kullan&#305;m i&#231;in ekonomik paket</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Ellerinizi y&#305;kay&#305;p kurulad&#305;ktan sonra stribi cihaza tak&#305;n ve parmak ucundan al&#305;nan k&#252;&#231;&#252;k bir kan damlas&#305;n&#305; strip &#252;zerine uygulay&#305;n. Cihaz sonucu k&#305;sa s&#252;rede ekranda g&#246;sterir. Do&#287;ru kullan&#305;m i&#231;in cihaz ve strip k&#305;lavuzundaki talimatlar&#305; izleyin.</p>
 <h2>Uyar&#305;lar</h2>
 <p>Bu &#252;r&#252;n t&#305;bbi te&#351;his arac&#305; de&#287;ildir; sonu&#231;lar&#305;n yorumu ve tedavi i&#231;in hekiminize dan&#305;&#351;&#305;n. Stripleri serin, kuru ortamda ve son kullanma tarihine dikkat ederek saklay&#305;n; k&#305;lavuza uygun kullan&#305;n.</p>
 <p>Farmaneva g&#252;vencesiyle g&#252;nl&#252;k kan &#351;ekeri takibinizi kolayla&#351;t&#305;ran g&#252;venilir bir sarf malzemesidir.</p>
@@ -15805,7 +15712,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>205</Stock>
+<Stock>204</Stock>
 <Miad></Miad>
 <Price>32.81</Price>
 <Price2>61.69</Price2>
@@ -18866,7 +18773,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>146</Stock>
+<Stock>145</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>65.25</Price2>
@@ -19873,7 +19780,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-07-01</Miad>
 <Price>294.86</Price>
 <Price2>394.65</Price2>
@@ -34690,7 +34597,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>679.91</Price>
 <Price2>883.89</Price2>
@@ -49616,7 +49523,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>67</Stock>
+<Stock>66</Stock>
 <Miad>2030-02-01</Miad>
 <Price>752.16</Price>
 <Price2>975.69</Price2>
@@ -49656,7 +49563,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>8</Stock>
 <Miad>2028-01-01</Miad>
 <Price>507.36</Price>
 <Price2>664.65</Price2>
@@ -53635,7 +53542,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-12-01</Miad>
 <Price>705.33</Price>
 <Price2>916.18</Price2>
@@ -55090,7 +54997,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad>2028-12-01</Miad>
 <Price>803.16</Price>
 <Price2>1040.49</Price2>
@@ -55470,7 +55377,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-07-01</Miad>
 <Price>828.75</Price>
 <Price2>1073.00</Price2>
@@ -61422,7 +61329,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>3</Stock>
 <Miad>2029-02-01</Miad>
 <Price>510.00</Price>
 <Price2>668.00</Price2>
@@ -61941,14 +61848,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2028-09-01</Miad>
-<Price>594.06</Price>
-<Price2>774.81</Price2>
-<Price3>774.81</Price3>
-<Price4>782.77</Price4>
-<Price5>782.77</Price5>
-<Price6>782.77</Price6>
-<Price7>1065.69</Price7>
-<Price8>1065.69</Price8>
+<Price>573.75</Price>
+<Price2>749.00</Price2>
+<Price3>749.00</Price3>
+<Price4>756.00</Price4>
+<Price5>756.00</Price5>
+<Price6>756.00</Price6>
+<Price7>1032.99</Price7>
+<Price8>1032.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-kuru-ve-cok-kuru-ciltler-icin-gunes-koruyucu-krem-spf50-40-ml-11388.webp</Image1>
@@ -61983,14 +61890,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>619.48</Price>
-<Price2>807.10</Price2>
-<Price3>807.10</Price3>
-<Price4>816.26</Price4>
-<Price5>816.26</Price5>
-<Price6>816.26</Price6>
-<Price7>1106.61</Price7>
-<Price8>1106.61</Price8>
+<Price>552.50</Price>
+<Price2>722.00</Price2>
+<Price3>722.00</Price3>
+<Price4>728.00</Price4>
+<Price5>728.00</Price5>
+<Price6>728.00</Price6>
+<Price7>998.77</Price7>
+<Price8>998.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.webp</Image1>
@@ -62323,16 +62230,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>144</Stock>
+<Stock>141</Stock>
 <Miad>2028-01-01</Miad>
-<Price>451.95</Price>
-<Price2>594.24</Price2>
-<Price3>594.24</Price3>
-<Price4>595.50</Price4>
-<Price5>595.50</Price5>
-<Price6>595.50</Price6>
-<Price7>836.88</Price7>
-<Price8>836.88</Price8>
+<Price>451.77</Price>
+<Price2>594.02</Price2>
+<Price3>594.02</Price3>
+<Price4>595.28</Price4>
+<Price5>595.28</Price5>
+<Price6>595.28</Price6>
+<Price7>836.61</Price7>
+<Price8>836.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -62411,14 +62318,14 @@
 <Tax>20</Tax>
 <Stock>52</Stock>
 <Miad>2028-08-01</Miad>
-<Price>468.95</Price>
-<Price2>615.84</Price2>
-<Price3>615.84</Price3>
-<Price4>617.90</Price4>
-<Price5>617.90</Price5>
-<Price6>617.90</Price6>
-<Price7>864.25</Price7>
-<Price8>864.25</Price8>
+<Price>468.77</Price>
+<Price2>615.62</Price2>
+<Price3>615.62</Price3>
+<Price4>617.68</Price4>
+<Price5>617.68</Price5>
+<Price6>617.68</Price6>
+<Price7>863.98</Price7>
+<Price8>863.98</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-cleansing-gel-400-ml-11407.webp</Image1>
@@ -62453,14 +62360,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>424.79</Price>
-<Price2>559.73</Price2>
-<Price3>559.73</Price3>
-<Price4>559.72</Price4>
-<Price5>559.72</Price5>
-<Price6>559.72</Price6>
-<Price7>793.16</Price7>
-<Price8>793.16</Price8>
+<Price>382.50</Price>
+<Price2>506.00</Price2>
+<Price3>506.00</Price3>
+<Price4>504.00</Price4>
+<Price5>504.00</Price5>
+<Price6>504.00</Price6>
+<Price7>725.07</Price7>
+<Price8>725.07</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-intimate-gel-ph-3-5-200-ml-11408.webp</Image1>
@@ -62580,7 +62487,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad>2028-04-01</Miad>
 <Price>548.16</Price>
 <Price2>716.49</Price2>
@@ -62885,7 +62792,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>48</Stock>
 <Miad>2029-05-01</Miad>
 <Price>254.06</Price>
 <Price2>342.81</Price2>
@@ -63011,7 +62918,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>11</Stock>
 <Miad>2029-04-01</Miad>
 <Price>242.16</Price>
 <Price2>327.69</Price2>
@@ -69693,7 +69600,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-09-01</Miad>
 <Price>832.06</Price>
 <Price2>1077.21</Price2>
@@ -72162,7 +72069,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>29</Stock>
 <Miad>2029-04-01</Miad>
 <Price>175.01</Price>
 <Price2>242.37</Price2>
@@ -76959,7 +76866,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2027-04-01</Miad>
 <Price>1002.92</Price>
 <Price2>1294.29</Price2>
