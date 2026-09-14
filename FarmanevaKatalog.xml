@@ -10012,9 +10012,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2028-05-01</Miad>
-<Price>798.91</Price>
+<Price>939.90</Price>
 <Price2>1035.09</Price2>
 <Price3>1035.09</Price3>
 <Price4>1052.69</Price4>
@@ -12235,7 +12235,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>76</Stock>
+<Stock>75</Stock>
 <Miad></Miad>
 <Price>318.66</Price>
 <Price2>424.89</Price2>
@@ -16667,7 +16667,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>89.17</Price>
 <Price2>133.29</Price2>
@@ -18249,7 +18249,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>2</Stock>
 <Miad>2028-01-01</Miad>
 <Price>169.91</Price>
 <Price2>235.89</Price2>
@@ -24346,7 +24346,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>46</Stock>
+<Stock>45</Stock>
 <Miad></Miad>
 <Price>641.66</Price>
 <Price2>835.29</Price2>
@@ -41543,7 +41543,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>49</Stock>
 <Miad></Miad>
 <Price>198.81</Price>
 <Price2>272.61</Price2>
@@ -43509,7 +43509,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>53</Stock>
 <Miad>2027-07-01</Miad>
 <Price>305.06</Price>
 <Price2>407.61</Price2>
@@ -60637,7 +60637,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>160.56</Price>
 <Price2>224.01</Price2>
@@ -62918,7 +62918,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>2029-04-01</Miad>
 <Price>242.16</Price>
 <Price2>327.69</Price2>
@@ -63046,14 +63046,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>408.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
