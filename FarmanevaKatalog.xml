@@ -9968,7 +9968,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>4</Stock>
 <Miad>2027-03-01</Miad>
 <Price>840.56</Price>
 <Price2>1088.01</Price2>
@@ -13357,7 +13357,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Dökülme Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1253.66</Price>
 <Price2>1612.89</Price2>
@@ -63729,9 +63729,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
-<Price>3036.97</Price>
+<Price>3572.90</Price>
 <Price2>3878.73</Price2>
 <Price3>3878.73</Price3>
 <Price4>4001.65</Price4>
@@ -69738,7 +69738,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-10-01</Miad>
 <Price>573.66</Price>
 <Price2>748.89</Price2>
@@ -73027,7 +73027,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>33</Stock>
 <Miad></Miad>
 <Price>369.66</Price>
 <Price2>489.69</Price2>
