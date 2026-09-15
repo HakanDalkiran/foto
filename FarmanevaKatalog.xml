@@ -21459,7 +21459,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1988.91</Price>
 <Price2>2547.09</Price2>
@@ -46942,7 +46942,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>344</Stock>
+<Stock>340</Stock>
 <Miad>2026-10-01</Miad>
 <Price>382.41</Price>
 <Price2>505.89</Price2>
@@ -72638,9 +72638,9 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>1315.72</Price>
+<Price>1547.90</Price>
 <Price2>1691.73</Price2>
 <Price3>1691.73</Price3>
 <Price4>1733.65</Price4>
