@@ -2077,7 +2077,7 @@
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>9</Stock>
-<Miad>2027-04-01</Miad>
+<Miad>2026-10-01</Miad>
 <Price>824.41</Price>
 <Price2>850.00</Price2>
 <Price3>850.00</Price3>
@@ -45330,16 +45330,16 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>200</Stock>
 <Miad></Miad>
 <Price>245.54</Price>
-<Price2>285.18</Price2>
-<Price3>285.18</Price3>
-<Price4>275.00</Price4>
-<Price5>275.00</Price5>
-<Price6>275.00</Price6>
-<Price7>445.27</Price7>
-<Price8>445.27</Price8>
+<Price2>249.00</Price2>
+<Price3>249.00</Price3>
+<Price4>249.00</Price4>
+<Price5>249.00</Price5>
+<Price6>249.00</Price6>
+<Price7>379.00</Price7>
+<Price8>279.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/sensodyne-advance-white-dis-fircasi-yumusak-1-1-10295.webp</Image1>
