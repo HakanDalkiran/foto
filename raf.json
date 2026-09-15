@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-16 00:30:20",
+ "uretim": "2026-09-16 00:32:10",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -8,7 +8,7 @@
    "barkod": "8690605065522",
    "ad": "Dalin Köpük Sabun Mango ve Portakal Kokulu 200 ml",
    "fiyat": 133.29,
-   "stok": 24,
+   "stok": 500,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dalin-kopuk-sabun-mango-ve-portakal-kokulu-200-ml-37800.webp",
    "url_slug": null
   },
@@ -44,7 +44,7 @@
    "barkod": "8690605035228",
    "ad": "Dalin Vazelin 100 ml",
    "fiyat": 159.21,
-   "stok": 24,
+   "stok": 277,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/dalin-vazelin-100-ml-35640.webp",
    "url_slug": null
   },
@@ -52,8 +52,8 @@
    "id": "3988",
    "barkod": "8684460100252",
    "ad": "Ophis Perine Temizleme Mendili 60'lı",
-   "fiyat": 268.29,
-   "stok": 500,
+   "fiyat": 203.49,
+   "stok": 355,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ophis-perine-temizleme-mendili-60-li-38666.webp",
    "url_slug": null
   },
@@ -98,7 +98,7 @@
    "barkod": "8691226642406",
    "ad": "Rebul Jasmine Kolonya 250 ml",
    "fiyat": 282.33,
-   "stok": 69,
+   "stok": 73,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-jasmine-kolonya-250-ml-37287.webp",
    "url_slug": null
   },
@@ -107,7 +107,7 @@
    "barkod": "8691685017630",
    "ad": "Eyüp Sabri Tuncer Sıvı Sabun Okyanus 1,5 lt",
    "fiyat": 292.16,
-   "stok": 12,
+   "stok": 15,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-sivi-sabun-okyanus-1-5-lt-35998.webp",
    "url_slug": null
   },
@@ -116,7 +116,7 @@
    "barkod": "8690742330385",
    "ad": "Canped Mesane Pedi Yoğun Large 20'li",
    "fiyat": 322.29,
-   "stok": 12,
+   "stok": 31,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/canped-mesane-pedi-yogun-large-20-li-35509.webp",
    "url_slug": null
   },
@@ -124,8 +124,8 @@
    "id": "2621",
    "barkod": "8691685000496",
    "ad": "Eyüp Sabri Tuncer Klasik Limon Kolonyası 1 lt - Eski Ambalaj",
-   "fiyat": 327.69,
-   "stok": 8,
+   "fiyat": 327.14,
+   "stok": 33,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-1-lt-eski-ambalaj-35972.webp",
    "url_slug": null
   }
