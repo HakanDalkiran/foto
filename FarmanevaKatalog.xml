@@ -2513,7 +2513,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>75</Stock>
+<Stock>73</Stock>
 <Miad>2026-11-01</Miad>
 <Price>508.21</Price>
 <Price2>665.73</Price2>
@@ -3801,7 +3801,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Lens Solüsyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>176</Stock>
+<Stock>175</Stock>
 <Miad>2026-12-01</Miad>
 <Price>403.66</Price>
 <Price2>532.89</Price2>
@@ -8028,7 +8028,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>40</Stock>
 <Miad></Miad>
 <Price>730.06</Price>
 <Price2>947.61</Price2>
@@ -11357,7 +11357,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>169</Stock>
+<Stock>168</Stock>
 <Miad></Miad>
 <Price>360.40</Price>
 <Price2>477.92</Price2>
@@ -11402,7 +11402,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>62</Stock>
+<Stock>61</Stock>
 <Miad></Miad>
 <Price>637.41</Price>
 <Price2>829.89</Price2>
@@ -12189,7 +12189,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>92</Stock>
+<Stock>90</Stock>
 <Miad></Miad>
 <Price>327.16</Price>
 <Price2>435.69</Price2>
@@ -12854,7 +12854,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>89</Stock>
+<Stock>84</Stock>
 <Miad></Miad>
 <Price>126.56</Price>
 <Price2>180.81</Price2>
@@ -19613,7 +19613,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>31</Stock>
+<Stock>11</Stock>
 <Miad>2027-12-01</Miad>
 <Price>1104.15</Price>
 <Price2>1422.92</Price2>
@@ -37546,9 +37546,9 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2028-08-01</Miad>
-<Price>174.16</Price>
+<Price>204.90</Price>
 <Price2>241.29</Price2>
 <Price3>241.29</Price3>
 <Price4>229.49</Price4>
@@ -42227,7 +42227,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>96.90</Price>
 <Price2>143.12</Price2>
@@ -42600,7 +42600,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>92.65</Price>
 <Price2>137.72</Price2>
@@ -43214,7 +43214,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>103.62</Price>
 <Price2>151.65</Price2>
@@ -48295,14 +48295,14 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2027-07-01</Miad>
-<Price>1529.91</Price>
-<Price2>1963.89</Price2>
-<Price3>1963.89</Price3>
-<Price4>2015.89</Price4>
-<Price5>2015.89</Price5>
-<Price6>2015.89</Price6>
-<Price7>2572.41</Price7>
-<Price8>2572.41</Price8>
+<Price>1572.41</Price>
+<Price2>2017.89</Price2>
+<Price3>2017.89</Price3>
+<Price4>2071.89</Price4>
+<Price5>2071.89</Price5>
+<Price6>2071.89</Price6>
+<Price7>2640.84</Price7>
+<Price8>2640.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/solgar-omega-3-950-mg-100-kapsul-10428.webp</Image1>
@@ -48502,7 +48502,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>108</Stock>
+<Stock>105</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>424.89</Price2>
@@ -61150,7 +61150,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-05-01</Miad>
 <Price>233.66</Price>
 <Price2>316.89</Price2>
@@ -62445,14 +62445,14 @@
 <Tax>20</Tax>
 <Stock>140</Stock>
 <Miad>2028-01-01</Miad>
-<Price>451.60</Price>
-<Price2>593.80</Price2>
-<Price3>593.80</Price3>
-<Price4>595.06</Price4>
-<Price5>595.06</Price5>
-<Price6>595.06</Price6>
-<Price7>836.33</Price7>
-<Price8>836.33</Price8>
+<Price>451.44</Price>
+<Price2>593.59</Price2>
+<Price3>593.59</Price3>
+<Price4>594.83</Price4>
+<Price5>594.83</Price5>
+<Price6>594.83</Price6>
+<Price7>836.06</Price7>
+<Price8>836.06</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -63259,14 +63259,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>495.09</Price2>
-<Price3>495.09</Price3>
-<Price4>492.69</Price4>
-<Price5>492.69</Price5>
-<Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price>408.00</Price>
+<Price2>538.40</Price2>
+<Price3>538.40</Price3>
+<Price4>537.60</Price4>
+<Price5>537.60</Price5>
+<Price6>537.60</Price6>
+<Price7>766.13</Price7>
+<Price8>766.13</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
