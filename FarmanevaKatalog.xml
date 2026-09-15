@@ -11490,7 +11490,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>322.06</Price>
 <Price2>429.21</Price2>
@@ -12189,7 +12189,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>91</Stock>
+<Stock>92</Stock>
 <Miad></Miad>
 <Price>327.16</Price>
 <Price2>435.69</Price2>
@@ -12235,7 +12235,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>74</Stock>
 <Miad></Miad>
 <Price>318.66</Price>
 <Price2>424.89</Price2>
@@ -21692,7 +21692,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad>2029-03-01</Miad>
 <Price>1189.07</Price>
 <Price2>1530.81</Price2>
@@ -29839,7 +29839,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>68</Stock>
+<Stock>78</Stock>
 <Miad></Miad>
 <Price>92.56</Price>
 <Price2>137.61</Price2>
@@ -38630,7 +38630,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>70</Stock>
+<Stock>68</Stock>
 <Miad>2027-04-01</Miad>
 <Price>105.83</Price>
 <Price2>154.46</Price2>
@@ -43084,7 +43084,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>103.62</Price>
 <Price2>151.65</Price2>
@@ -43800,7 +43800,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2029-04-01</Miad>
 <Price>235.36</Price>
 <Price2>319.05</Price2>
@@ -44654,7 +44654,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>5</Stock>
 <Miad>2030-08-01</Miad>
 <Price>109.56</Price>
 <Price2>159.21</Price2>
@@ -49179,7 +49179,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>316</Stock>
+<Stock>319</Stock>
 <Miad>2027-04-01</Miad>
 <Price>505.66</Price>
 <Price2>662.49</Price2>
@@ -55289,7 +55289,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>98.60</Price>
 <Price2>145.28</Price2>
@@ -59620,7 +59620,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>80</Stock>
+<Stock>77</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>375.21</Price2>
@@ -61020,7 +61020,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>4</Stock>
 <Miad>2027-05-01</Miad>
 <Price>233.66</Price>
 <Price2>316.89</Price2>
@@ -61062,7 +61062,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2028-12-01</Miad>
 <Price>240.46</Price>
 <Price2>325.53</Price2>
@@ -61412,7 +61412,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-02-01</Miad>
 <Price>510.00</Price>
 <Price2>668.00</Price2>
@@ -62313,7 +62313,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>141</Stock>
+<Stock>140</Stock>
 <Miad>2028-01-01</Miad>
 <Price>451.60</Price>
 <Price2>593.80</Price2>
@@ -63129,14 +63129,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>373.91</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
