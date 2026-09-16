@@ -6422,7 +6422,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>37</Stock>
 <Miad></Miad>
 <Price>355.21</Price>
 <Price2>471.33</Price2>
@@ -7133,16 +7133,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>675.12</Price>
-<Price2>749.13</Price2>
-<Price3>749.13</Price3>
-<Price4>756.13</Price4>
-<Price5>756.13</Price5>
-<Price6>756.13</Price6>
-<Price7>1033.15</Price7>
-<Price8>1033.15</Price8>
+<Stock>185</Stock>
+<Miad>2030-08-01</Miad>
+<Price>671.41</Price>
+<Price2>873.09</Price2>
+<Price3>873.09</Price3>
+<Price4>884.69</Price4>
+<Price5>884.69</Price5>
+<Price6>884.69</Price6>
+<Price7>1190.23</Price7>
+<Price8>1190.23</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/canped-emici-kulot-hasta-bezi-orta-30-adet-8229.webp</Image1>
@@ -7176,16 +7176,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>779.00</Price>
-<Price2>861.32</Price2>
-<Price3>861.32</Price3>
-<Price4>872.48</Price4>
-<Price5>872.48</Price5>
-<Price6>872.48</Price6>
-<Price7>1175.31</Price7>
-<Price8>1175.31</Price8>
+<Stock>239</Stock>
+<Miad>2027-10-01</Miad>
+<Price>696.06</Price>
+<Price2>904.41</Price2>
+<Price3>904.41</Price3>
+<Price4>917.17</Price4>
+<Price5>917.17</Price5>
+<Price6>917.17</Price6>
+<Price7>1229.91</Price7>
+<Price8>1229.91</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/canped-emici-kulot-large-30-adet-8231.webp</Image1>
@@ -7303,16 +7303,16 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>241</Stock>
 <Miad>2026-10-01</Miad>
-<Price>884.90</Price>
-<Price2>975.69</Price2>
-<Price3>975.69</Price3>
-<Price4>991.09</Price4>
-<Price5>991.09</Price5>
-<Price6>991.09</Price6>
-<Price7>1320.24</Price7>
-<Price8>1320.24</Price8>
+<Price>764.91</Price>
+<Price2>991.89</Price2>
+<Price3>991.89</Price3>
+<Price4>1007.89</Price4>
+<Price5>1007.89</Price5>
+<Price6>1007.89</Price6>
+<Price7>1340.76</Price7>
+<Price8>1340.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/canped-emici-kulot-xlarge-30-lu-8234.webp</Image1>
@@ -73957,7 +73957,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>50</Stock>
+<Stock>47</Stock>
 <Miad></Miad>
 <Price>413.86</Price>
 <Price2>545.85</Price2>
