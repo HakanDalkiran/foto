@@ -8135,7 +8135,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>85</Stock>
+<Stock>87</Stock>
 <Miad></Miad>
 <Price>720.71</Price>
 <Price2>935.73</Price2>
@@ -12772,7 +12772,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>79</Stock>
+<Stock>84</Stock>
 <Miad></Miad>
 <Price>126.56</Price>
 <Price2>180.81</Price2>
@@ -18731,7 +18731,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>142</Stock>
+<Stock>138</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>65.25</Price2>
@@ -19739,7 +19739,7 @@
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
 <Stock>1</Stock>
-<Miad>2027-02-01</Miad>
+<Miad>2027-07-01</Miad>
 <Price>294.86</Price>
 <Price2>394.65</Price2>
 <Price3>394.65</Price3>
@@ -21053,7 +21053,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>9</Stock>
 <Miad>2028-04-01</Miad>
 <Price>735.16</Price>
 <Price2>954.09</Price2>
@@ -42019,7 +42019,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>44</Stock>
+<Stock>45</Stock>
 <Miad></Miad>
 <Price>2592.41</Price>
 <Price2>3313.89</Price2>
@@ -42145,7 +42145,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>21</Stock>
 <Miad></Miad>
 <Price>96.90</Price>
 <Price2>143.12</Price2>
@@ -42518,7 +42518,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>92.65</Price>
 <Price2>137.72</Price2>
@@ -43132,7 +43132,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>103.62</Price>
 <Price2>151.65</Price2>
@@ -48040,7 +48040,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>2029-10-01</Miad>
 <Price>926.42</Price>
 <Price2>1197.09</Price2>
@@ -48377,7 +48377,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>102</Stock>
+<Stock>105</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>424.89</Price2>
@@ -51670,7 +51670,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2026-12-01</Miad>
 <Price>203.91</Price>
 <Price2>279.09</Price2>
@@ -55085,7 +55085,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
-<Stock>29</Stock>
+<Stock>30</Stock>
 <Miad>2028-12-01</Miad>
 <Price>803.16</Price>
 <Price2>1040.49</Price2>
@@ -60982,7 +60982,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>24</Stock>
 <Miad>2029-04-01</Miad>
 <Price>242.16</Price>
 <Price2>327.69</Price2>
@@ -61067,7 +61067,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2028-12-01</Miad>
 <Price>240.46</Price>
 <Price2>325.53</Price2>
@@ -62318,7 +62318,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>138</Stock>
+<Stock>140</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>591.21</Price2>
@@ -68910,7 +68910,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>11</Stock>
 <Miad>2029-06-01</Miad>
 <Price>552.41</Price>
 <Price2>721.89</Price2>
