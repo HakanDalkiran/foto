@@ -7514,7 +7514,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>141</Stock>
+<Stock>147</Stock>
 <Miad>2031-04-01</Miad>
 <Price>678.21</Price>
 <Price2>881.73</Price2>
@@ -19531,9 +19531,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad>2027-12-01</Miad>
-<Price>1299.00</Price>
+<Price>1104.15</Price>
 <Price2>1422.92</Price2>
 <Price3>1422.92</Price3>
 <Price4>1454.88</Price4>
@@ -19656,7 +19656,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>73</Stock>
+<Stock>71</Stock>
 <Miad>2030-07-01</Miad>
 <Price>36.46</Price>
 <Price2>66.32</Price2>
@@ -20794,7 +20794,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad>2029-05-01</Miad>
 <Price>823.56</Price>
 <Price2>1066.41</Price2>
@@ -30563,7 +30563,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad>2027-07-01</Miad>
 <Price>160.65</Price>
 <Price2>224.12</Price2>
@@ -44902,7 +44902,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Bandaj]]></subCategory>
 <Tax>10</Tax>
-<Stock>231</Stock>
+<Stock>230</Stock>
 <Miad>2029-02-01</Miad>
 <Price>49.64</Price>
 <Price2>83.07</Price2>
@@ -61444,7 +61444,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>2029-03-01</Miad>
 <Price>182.66</Price>
 <Price2>252.09</Price2>
