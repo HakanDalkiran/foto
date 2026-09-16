@@ -6422,7 +6422,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>36</Stock>
 <Miad></Miad>
 <Price>355.21</Price>
 <Price2>471.33</Price2>
@@ -8881,7 +8881,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>9</Stock>
 <Miad>2029-01-01</Miad>
 <Price>636.56</Price>
 <Price2>828.81</Price2>
@@ -51665,9 +51665,9 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
-<Price>1349.00</Price>
+<Price>1146.65</Price>
 <Price2>1476.92</Price2>
 <Price3>1476.92</Price3>
 <Price4>1510.88</Price4>
