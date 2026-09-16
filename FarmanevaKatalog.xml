@@ -6422,7 +6422,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad></Miad>
 <Price>355.21</Price>
 <Price2>471.33</Price2>
@@ -8881,7 +8881,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2029-01-01</Miad>
 <Price>636.56</Price>
 <Price2>828.81</Price2>
@@ -9886,7 +9886,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-03-01</Miad>
 <Price>840.56</Price>
 <Price2>1088.01</Price2>
@@ -20257,9 +20257,9 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
-<Price>1172.15</Price>
+<Price>1379.00</Price>
 <Price2>1509.32</Price2>
 <Price3>1509.32</Price3>
 <Price4>1544.48</Price4>
@@ -51212,9 +51212,9 @@
 <category><![CDATA[Göz Çevresi Bakımı]]></category>
 <subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>2166.65</Price>
+<Price>2549.00</Price>
 <Price2>2772.92</Price2>
 <Price3>2772.92</Price3>
 <Price4>2854.88</Price4>
@@ -66111,9 +66111,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-07-01</Miad>
-<Price>450.41</Price>
+<Price>529.90</Price>
 <Price2>592.29</Price2>
 <Price3>592.29</Price3>
 <Price4>593.49</Price4>
@@ -76352,7 +76352,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>59</Stock>
+<Stock>83</Stock>
 <Miad>2026-12-01</Miad>
 <Price>586.41</Price>
 <Price2>765.09</Price2>
