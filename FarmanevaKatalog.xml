@@ -23407,7 +23407,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>70</Stock>
+<Stock>15</Stock>
 <Miad>2029-12-01</Miad>
 <Price>373.91</Price>
 <Price2>495.09</Price2>
@@ -23415,8 +23415,8 @@
 <Price4>492.69</Price4>
 <Price5>492.69</Price5>
 <Price6>492.69</Price6>
-<Price7>711.25</Price7>
-<Price8>711.25</Price8>
+<Price7>650.00</Price7>
+<Price8>625.00</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/magnimore-plus-30-tablet-9141.webp</Image1>
