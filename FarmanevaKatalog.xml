@@ -7946,7 +7946,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>40</Stock>
+<Stock>39</Stock>
 <Miad></Miad>
 <Price>730.06</Price>
 <Price2>947.61</Price2>
@@ -36058,7 +36058,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>55</Stock>
+<Stock>54</Stock>
 <Miad>2028-12-01</Miad>
 <Price>305.06</Price>
 <Price2>407.61</Price2>
@@ -36960,7 +36960,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2027-07-01</Miad>
 <Price>382.50</Price>
 <Price2>506.00</Price2>
@@ -37935,7 +37935,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>107</Stock>
+<Stock>110</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>375.21</Price2>
@@ -38341,14 +38341,14 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2027-08-01</Miad>
-<Price>967.22</Price>
-<Price2>1248.93</Price2>
-<Price3>1248.93</Price3>
-<Price4>1274.45</Price4>
-<Price5>1274.45</Price5>
-<Price6>1274.45</Price6>
-<Price7>1666.47</Price7>
-<Price8>1666.47</Price8>
+<Price>968.07</Price>
+<Price2>1250.01</Price2>
+<Price3>1250.01</Price3>
+<Price4>1275.57</Price4>
+<Price5>1275.57</Price5>
+<Price6>1275.57</Price6>
+<Price7>1667.83</Price7>
+<Price8>1667.83</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/ocuvite-max-60-kapsul-9916.webp</Image1>
@@ -43082,7 +43082,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>96.90</Price>
 <Price2>143.12</Price2>
@@ -57833,7 +57833,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad>2028-12-01</Miad>
 <Price>288.06</Price>
 <Price2>386.01</Price2>
@@ -63292,14 +63292,14 @@
 <Tax>20</Tax>
 <Stock>138</Stock>
 <Miad>2028-01-01</Miad>
-<Price>449.56</Price>
-<Price2>591.21</Price2>
-<Price3>591.21</Price3>
-<Price4>592.37</Price4>
-<Price5>592.37</Price5>
-<Price6>592.37</Price6>
-<Price7>833.05</Price7>
-<Price8>833.05</Price8>
+<Price>449.40</Price>
+<Price2>591.00</Price2>
+<Price3>591.00</Price3>
+<Price4>592.14</Price4>
+<Price5>592.14</Price5>
+<Price6>592.14</Price6>
+<Price7>832.78</Price7>
+<Price8>832.78</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -63378,14 +63378,14 @@
 <Tax>20</Tax>
 <Stock>52</Stock>
 <Miad>2028-08-01</Miad>
-<Price>467.16</Price>
-<Price2>613.57</Price2>
-<Price3>613.57</Price3>
-<Price4>615.55</Price4>
-<Price5>615.55</Price5>
-<Price6>615.55</Price6>
-<Price7>861.38</Price7>
-<Price8>861.38</Price8>
+<Price>466.99</Price>
+<Price2>613.35</Price2>
+<Price3>613.35</Price3>
+<Price4>615.33</Price4>
+<Price5>615.33</Price5>
+<Price6>615.33</Price6>
+<Price7>861.10</Price7>
+<Price8>861.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-cleansing-gel-400-ml-11407.webp</Image1>
@@ -63978,7 +63978,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2029-04-01</Miad>
 <Price>242.16</Price>
 <Price2>327.69</Price2>
