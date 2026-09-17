@@ -10011,7 +10011,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2027-09-01</Miad>
 <Price>522.75</Price>
 <Price2>684.20</Price2>
@@ -14255,7 +14255,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>27</Stock>
+<Stock>28</Stock>
 <Miad>2027-03-01</Miad>
 <Price>786.25</Price>
 <Price2>1019.00</Price2>
@@ -18552,9 +18552,9 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad>2028-12-01</Miad>
-<Price>178.41</Price>
+<Price>209.90</Price>
 <Price2>246.69</Price2>
 <Price3>246.69</Price3>
 <Price4>235.09</Price4>
@@ -28672,7 +28672,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1019.92</Price>
 <Price2>1315.89</Price2>
@@ -59051,7 +59051,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>13</Stock>
 <Miad>2029-03-01</Miad>
 <Price>875.42</Price>
 <Price2>1132.29</Price2>
@@ -59490,7 +59490,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>219</Stock>
+<Stock>220</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>591.21</Price2>
@@ -59619,7 +59619,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>70</Stock>
+<Stock>72</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>375.21</Price2>
@@ -61188,7 +61188,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>31</Stock>
+<Stock>32</Stock>
 <Miad></Miad>
 <Price>127.42</Price>
 <Price2>181.89</Price2>
@@ -68558,7 +68558,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>25</Stock>
 <Miad>2027-07-01</Miad>
 <Price>126.56</Price>
 <Price2>180.81</Price2>
