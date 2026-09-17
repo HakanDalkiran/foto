@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-17 12:38:51",
+ "uretim": "2026-09-17 12:49:43",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -71,7 +71,7 @@
    "barkod": "4607152730524",
    "ad": "Rocs Pro 5940 Ultrasoft Diş Fırçası",
    "fiyat": 273.69,
-   "stok": 10,
+   "stok": 6,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rocs-pro-5940-ultrasoft-dis-fircasi-38684.webp",
    "url_slug": null
   },
