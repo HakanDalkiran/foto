@@ -7770,14 +7770,14 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2027-06-01</Miad>
-<Price>703.71</Price>
-<Price2>914.13</Price2>
-<Price3>914.13</Price3>
-<Price4>927.25</Price4>
-<Price5>927.25</Price5>
-<Price6>927.25</Price6>
-<Price7>1242.23</Price7>
-<Price8>1242.23</Price8>
+<Price>627.21</Price>
+<Price2>816.93</Price2>
+<Price3>816.93</Price3>
+<Price4>826.45</Price4>
+<Price5>826.45</Price5>
+<Price6>826.45</Price6>
+<Price7>1119.07</Price7>
+<Price8>1119.07</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/cebrolux-nf-30-sase-8246.webp</Image1>
@@ -8135,7 +8135,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>87</Stock>
+<Stock>85</Stock>
 <Miad></Miad>
 <Price>720.71</Price>
 <Price2>935.73</Price2>
@@ -11408,7 +11408,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>322.06</Price>
 <Price2>429.21</Price2>
@@ -13773,14 +13773,14 @@
 <Tax>1</Tax>
 <Stock>10</Stock>
 <Miad>2027-10-01</Miad>
-<Price>505.66</Price>
-<Price2>662.49</Price2>
-<Price3>662.49</Price3>
-<Price4>666.29</Price4>
-<Price5>666.29</Price5>
-<Price6>666.29</Price6>
-<Price7>923.37</Price7>
-<Price8>923.37</Price8>
+<Price>539.66</Price>
+<Price2>705.69</Price2>
+<Price3>705.69</Price3>
+<Price4>711.09</Price4>
+<Price5>711.09</Price5>
+<Price6>711.09</Price6>
+<Price7>978.11</Price7>
+<Price8>978.11</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/easyfishoil-30-jel-tablet-12955.webp</Image1>
@@ -13860,14 +13860,14 @@
 <Tax>1</Tax>
 <Stock>12</Stock>
 <Miad>2027-09-01</Miad>
-<Price>539.66</Price>
-<Price2>705.69</Price2>
-<Price3>705.69</Price3>
-<Price4>711.09</Price4>
-<Price5>711.09</Price5>
-<Price6>711.09</Price6>
-<Price7>978.11</Price7>
-<Price8>978.11</Price8>
+<Price>573.66</Price>
+<Price2>748.89</Price2>
+<Price3>748.89</Price3>
+<Price4>755.89</Price4>
+<Price5>755.89</Price5>
+<Price6>755.89</Price6>
+<Price7>1032.85</Price7>
+<Price8>1032.85</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/easyfishoil-multi-30-jel-tablet-8669.webp</Image1>
@@ -14255,7 +14255,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>27</Stock>
+<Stock>28</Stock>
 <Miad>2027-03-01</Miad>
 <Price>786.25</Price>
 <Price2>1019.00</Price2>
@@ -28942,7 +28942,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>21</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1019.92</Price>
 <Price2>1315.89</Price2>
@@ -32544,7 +32544,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>679.91</Price>
 <Price2>883.89</Price2>
@@ -39116,48 +39116,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00939]]></Product_code>
-<Barcode>8697595873663</Barcode>
-<Name><![CDATA[Orzax Cosakondrin Kompleks Jel 100 ml]]></Name>
-<Brand><![CDATA[Orzax]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
-<Tax>1</Tax>
-<Stock>4</Stock>
-<Miad>2029-01-01</Miad>
-<Price>205.36</Price>
-<Price2>241.79</Price2>
-<Price3>241.79</Price3>
-<Price4>250.00</Price4>
-<Price5>250.00</Price5>
-<Price6>250.00</Price6>
-<Price7>390.28</Price7>
-<Price8>390.28</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39218.webp</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39219.webp</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39220.webp</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39221.webp</Image4>
-<Description><![CDATA[<section>
-<p><strong>Orzax Cosakondrin Kompleks Jel 100 ml</strong>, glukozamin, kondroitin, MSM, hyal&#252;ronik asit ve bitkisel ya&#287;lar i&#231;eren, cilde masajla uygulanan aromatik bir jeldir. Eklem b&#246;lgelerinde ferahlat&#305;c&#305; bir bak&#305;m i&#231;in haricen kullanmak isteyenlere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Glukozamin s&#252;lfat ve kondroitin s&#252;lfat i&#231;erir</li>
-<li>MSM (metils&#252;lfonilmetan) ve hyal&#252;ronik asit</li>
-<li>Boswellia serrata ve arnika ekstresi</li>
-<li>K&#226;fur ve mentol ile ferahlat&#305;c&#305; etki</li>
-<li>Zencefil, okalipt&#252;s, lavanta ve karanfil ya&#287;lar&#305;</li>
-<li>Kapsaisin i&#231;erir</li>
-<li>Cilde masajla kolay uygulama</li>
-<li>100 ml pratik t&#252;p</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>&#304;lgili b&#246;lgeye ince bir tabaka halinde uygulay&#305;n ve emilene kadar masaj yap&#305;n; genellikle g&#252;nde iki kez kullan&#305;l&#305;r. Uygulama sonras&#305; ellerinizi y&#305;kay&#305;n. Kesin kullan&#305;m i&#231;in ambalaj &#252;zerindeki y&#246;nergeleri inceleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir; g&#246;z, mukoza ve a&#231;&#305;k yaralarla temas&#305;ndan ka&#231;&#305;n&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. Hamilelik, emzirme d&#246;nemi ve mevcut rahats&#305;zl&#305;klarda kullan&#305;m &#246;ncesi hekiminize dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva, g&#252;nl&#252;k bak&#305;m&#305;n&#305;za e&#351;lik eden g&#252;venilir &#252;r&#252;nleri &#246;zenle sizlere sunar.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00940]]></Product_code>
 <Barcode>8697595870969</Barcode>
 <Name><![CDATA[Orzax İmunol 40 Kapsül]]></Name>
@@ -44406,7 +44364,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>49</Stock>
+<Stock>43</Stock>
 <Miad>2027-07-01</Miad>
 <Price>305.06</Price>
 <Price2>407.61</Price2>
@@ -62905,7 +62863,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2028-09-01</Miad>
 <Price>526.15</Price>
 <Price2>688.52</Price2>
@@ -63418,7 +63376,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad>2028-08-01</Miad>
 <Price>467.16</Price>
 <Price2>613.57</Price2>
@@ -63546,7 +63504,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2028-05-01</Miad>
 <Price>803.16</Price>
 <Price2>1040.49</Price2>
@@ -64148,14 +64106,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>373.91</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
@@ -65708,7 +65666,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>277.01</Price>
 <Price2>371.97</Price2>
