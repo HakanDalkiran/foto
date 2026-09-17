@@ -54250,9 +54250,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2029-04-01</Miad>
-<Price>439.90</Price>
+<Stock>2</Stock>
+<Miad>2027-01-01</Miad>
+<Price>373.91</Price>
 <Price2>495.09</Price2>
 <Price3>495.09</Price3>
 <Price4>492.69</Price4>
@@ -72023,7 +72023,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>199.66</Price>
 <Price2>273.69</Price2>
@@ -76405,13 +76405,13 @@
 <Stock>2</Stock>
 <Miad>2028-09-01</Miad>
 <Price>377.40</Price>
-<Price2>427.59</Price2>
-<Price3>427.59</Price3>
-<Price4>422.69</Price4>
-<Price5>422.69</Price5>
-<Price6>422.69</Price6>
-<Price7>625.72</Price7>
-<Price8>625.72</Price8>
+<Price2>499.52</Price2>
+<Price3>499.52</Price3>
+<Price4>497.28</Price4>
+<Price5>497.28</Price5>
+<Price6>497.28</Price6>
+<Price7>716.86</Price7>
+<Price8>716.86</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/7640128141297-0_gh9f3.png</Image1>
