@@ -29573,7 +29573,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>104.47</Price>
 <Price2>152.73</Price2>
@@ -29756,14 +29756,14 @@
 <Tax>20</Tax>
 <Stock>12</Stock>
 <Miad></Miad>
-<Price>101.15</Price>
-<Price2>148.52</Price2>
-<Price3>148.52</Price3>
-<Price4>133.28</Price4>
-<Price5>133.28</Price5>
-<Price6>133.28</Price6>
-<Price7>272.10</Price7>
-<Price8>272.10</Price8>
+<Price>106.17</Price>
+<Price2>154.89</Price2>
+<Price3>154.89</Price3>
+<Price4>139.89</Price4>
+<Price5>139.89</Price5>
+<Price6>139.89</Price6>
+<Price7>280.18</Price7>
+<Price8>280.18</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deodorant-fresh-natural-75-ml-36607.webp</Image1>
@@ -32544,7 +32544,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>679.91</Price>
 <Price2>883.89</Price2>
@@ -38598,7 +38598,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>39</Stock>
+<Stock>37</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1444.07</Price>
 <Price2>1854.81</Price2>
@@ -62863,7 +62863,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-09-01</Miad>
 <Price>526.15</Price>
 <Price2>688.52</Price2>
@@ -63290,16 +63290,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>138</Stock>
+<Stock>137</Stock>
 <Miad>2028-01-01</Miad>
-<Price>449.56</Price>
-<Price2>591.21</Price2>
-<Price3>591.21</Price3>
-<Price4>592.37</Price4>
-<Price5>592.37</Price5>
-<Price6>592.37</Price6>
-<Price7>833.05</Price7>
-<Price8>833.05</Price8>
+<Price>448.71</Price>
+<Price2>590.13</Price2>
+<Price3>590.13</Price3>
+<Price4>591.25</Price4>
+<Price5>591.25</Price5>
+<Price6>591.25</Price6>
+<Price7>831.68</Price7>
+<Price8>831.68</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -63376,7 +63376,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>50</Stock>
 <Miad>2028-08-01</Miad>
 <Price>467.16</Price>
 <Price2>613.57</Price2>
@@ -63504,7 +63504,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2028-05-01</Miad>
 <Price>803.16</Price>
 <Price2>1040.49</Price2>
