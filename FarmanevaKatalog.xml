@@ -41867,7 +41867,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>82</Stock>
+<Stock>76</Stock>
 <Miad></Miad>
 <Price>195.41</Price>
 <Price2>268.29</Price2>
@@ -42132,7 +42132,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>66</Stock>
 <Miad></Miad>
 <Price>203.15</Price>
 <Price2>278.12</Price2>
@@ -42772,7 +42772,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>103.62</Price>
 <Price2>151.65</Price2>
@@ -59096,7 +59096,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2028-12-01</Miad>
 <Price>381.56</Price>
 <Price2>504.81</Price2>
@@ -61313,7 +61313,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>62</Stock>
 <Miad></Miad>
 <Price>203.91</Price>
 <Price2>279.09</Price2>
@@ -61613,7 +61613,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>23</Stock>
 <Miad>2029-03-01</Miad>
 <Price>198.90</Price>
 <Price2>272.72</Price2>
@@ -61655,7 +61655,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>22</Stock>
 <Miad>2029-06-01</Miad>
 <Price>198.90</Price>
 <Price2>272.72</Price2>
@@ -63292,14 +63292,14 @@
 <Tax>20</Tax>
 <Stock>137</Stock>
 <Miad>2028-01-01</Miad>
-<Price>448.71</Price>
-<Price2>590.13</Price2>
-<Price3>590.13</Price3>
-<Price4>591.25</Price4>
-<Price5>591.25</Price5>
-<Price6>591.25</Price6>
-<Price7>831.68</Price7>
-<Price8>831.68</Price8>
+<Price>469.96</Price>
+<Price2>617.13</Price2>
+<Price3>617.13</Price3>
+<Price4>619.25</Price4>
+<Price5>619.25</Price5>
+<Price6>619.25</Price6>
+<Price7>865.89</Price7>
+<Price8>865.89</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -63378,14 +63378,14 @@
 <Tax>20</Tax>
 <Stock>51</Stock>
 <Miad>2028-08-01</Miad>
-<Price>467.16</Price>
-<Price2>613.57</Price2>
-<Price3>613.57</Price3>
-<Price4>615.55</Price4>
-<Price5>615.55</Price5>
-<Price6>615.55</Price6>
-<Price7>861.38</Price7>
-<Price8>861.38</Price8>
+<Price>531.00</Price>
+<Price2>694.68</Price2>
+<Price3>694.68</Price3>
+<Price4>699.66</Price4>
+<Price5>699.66</Price5>
+<Price6>699.66</Price6>
+<Price7>964.15</Price7>
+<Price8>964.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-cleansing-gel-400-ml-11407.webp</Image1>
@@ -64106,14 +64106,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>538.40</Price2>
-<Price3>538.40</Price3>
-<Price4>537.60</Price4>
-<Price5>537.60</Price5>
-<Price6>537.60</Price6>
-<Price7>766.13</Price7>
-<Price8>766.13</Price8>
+<Price>373.91</Price>
+<Price2>495.09</Price2>
+<Price3>495.09</Price3>
+<Price4>492.69</Price4>
+<Price5>492.69</Price5>
+<Price6>492.69</Price6>
+<Price7>711.25</Price7>
+<Price8>711.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
@@ -64449,14 +64449,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>323.00</Price>
-<Price2>430.40</Price2>
-<Price3>430.40</Price3>
-<Price4>425.60</Price4>
-<Price5>425.60</Price5>
-<Price6>425.60</Price6>
-<Price7>629.28</Price7>
-<Price8>629.28</Price8>
+<Price>378.16</Price>
+<Price2>500.49</Price2>
+<Price3>500.49</Price3>
+<Price4>498.29</Price4>
+<Price5>498.29</Price5>
+<Price6>498.29</Price6>
+<Price7>718.10</Price7>
+<Price8>718.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.webp</Image1>
