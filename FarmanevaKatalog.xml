@@ -2687,7 +2687,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2027-01-01</Miad>
-<Price>466.56</Price>
+<Price>465.71</Price>
 <Price2>503.73</Price2>
 <Price3>503.73</Price3>
 <Price4>501.65</Price4>
@@ -13644,14 +13644,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2028-01-01</Miad>
-<Price>590.66</Price>
-<Price2>713.85</Price2>
-<Price3>713.85</Price3>
-<Price4>766.42</Price4>
-<Price5>739.80</Price5>
-<Price6>745.24</Price6>
-<Price7>1009.05</Price7>
-<Price8>956.22</Price8>
+<Price>593.30</Price>
+<Price2>716.89</Price2>
+<Price3>716.89</Price3>
+<Price4>769.73</Price4>
+<Price5>743.11</Price5>
+<Price6>748.46</Price6>
+<Price7>1012.83</Price7>
+<Price8>959.90</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/duobalance-bv-cran-14-kapsul-8658.webp</Image1>
@@ -18637,7 +18637,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>136</Stock>
+<Stock>134</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>81.87</Price2>
@@ -20569,7 +20569,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>55</Stock>
+<Stock>52</Stock>
 <Miad>2029-05-01</Miad>
 <Price>500.56</Price>
 <Price2>634.33</Price2>
@@ -24461,7 +24461,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Stetoskop]]></category>
 <Tax>10</Tax>
-<Stock>7</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>101.06</Price>
 <Price2>153.92</Price2>
@@ -27494,9 +27494,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-03-01</Miad>
-<Price>246.29</Price>
+<Price>275.43</Price>
 <Price2>316.50</Price2>
 <Price3>316.50</Price3>
 <Price4>333.78</Price4>
@@ -27872,7 +27872,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2027-05-01</Miad>
 <Price>695.21</Price>
 <Price2>834.48</Price2>
@@ -36215,7 +36215,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad>2027-06-01</Miad>
 <Price>381.56</Price>
 <Price2>472.58</Price2>
@@ -37086,7 +37086,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>19</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>860.08</Price2>
@@ -37674,7 +37674,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>1</Stock>
 <Miad>2027-11-01</Miad>
 <Price>628.91</Price>
 <Price2>757.98</Price2>
@@ -40835,49 +40835,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00996]]></Product_code>
-<Barcode>5400951991108</Barcode>
-<Name><![CDATA[Predictor Early Erken Gebelik Testi]]></Name>
-<Brand><![CDATA[Predictor]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Gebelik Testi]]></subCategory>
-<Tax>10</Tax>
-<Stock>20</Stock>
-<Miad>2027-10-01</Miad>
-<Price>154.00</Price>
-<Price2>186.32</Price2>
-<Price3>186.32</Price3>
-<Price4>180.00</Price4>
-<Price5>180.00</Price5>
-<Price6>180.00</Price6>
-<Price7>314.00</Price7>
-<Price8>314.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/predictor-early-erken-gebelik-testi-10094.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/predictor-early-erken-gebelik-testi-10095.webp</Image2>
-<Description><![CDATA[<section>
-<p><strong>Predictor Early Erken Gebelik Testi</strong>, idrardaki gebelik hormonu hCG'yi tespit ederek evde uygulanabilen bir erken gebelik testidir. Y&#252;ksek hassasiyeti sayesinde adet gecikmesinden &#246;nce dahi kullan&#305;labilecek &#351;ekilde tasarlanm&#305;&#351;t&#305;r ve gebelik olas&#305;l&#305;&#287;&#305;n&#305; erkenden &#246;&#287;renmek isteyenlere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>&#304;drardaki hCG hormonunu tespit eder</li>
-<li>Adet gecikmesinden 6 g&#252;n &#246;ncesine kadar kullan&#305;labilir</li>
-<li>D&#252;&#351;&#252;k hCG seviyelerine duyarl&#305; form&#252;l</li>
-<li>Evde kolayca uygulanabilen pratik tasar&#305;m</li>
-<li>Emici u&#231; idrar ak&#305;&#351;&#305;na yaln&#305;zca birka&#231; saniye tutulur</li>
-<li>Sonu&#231; birka&#231; dakika i&#231;inde okunur</li>
-<li>&#304;ki &#231;izgi gebelik, tek &#231;izgi gebelik yok anlam&#305;na gelir</li>
-<li>Sabah ilk idrarla daha net sonu&#231; verir</li>
-<li>Tek kullan&#305;ml&#305;k hijyenik test &#231;ubu&#287;u</li>
-<li>Anla&#351;&#305;l&#305;r g&#246;sterge penceresi</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Test &#231;ubu&#287;unun emici ucunu idrar ak&#305;&#351;&#305;na birka&#231; saniye tutun veya temiz bir kaba al&#305;nan idrar &#246;rne&#287;ine dald&#305;r&#305;n, ard&#305;ndan &#231;ubu&#287;u d&#252;z bir y&#252;zeyde bekletin. Erken testlerde sabah&#305;n ilk idrar&#305;n&#305; kullanman&#305;z &#246;nerilir. Uygulama s&#252;resi ve sonu&#231; okuma i&#231;in ambalajdaki kullan&#305;m k&#305;lavuzunu izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Bu test bir &#246;n bilgi arac&#305;d&#305;r ve kesin t&#305;bbi tan&#305;n&#305;n yerini tutmaz; sonucu do&#287;rulamak ve gebelik takibi i&#231;in bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. Tek kullan&#305;ml&#305;kt&#305;r, son kullanma tarihine dikkat edin ve k&#305;lavuzdaki ad&#305;mlar&#305; eksiksiz uygulay&#305;n.</p>
-<p>Farmaneva, g&#252;venle kullanabilece&#287;iniz &#252;r&#252;nleri sizin i&#231;in bir araya getirir.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00997]]></Product_code>
 <Barcode>5400951991108-3</Barcode>
 <Name><![CDATA[Predictor Early Erken Gebelik Testi 3 Lü]]></Name>
@@ -43592,7 +43549,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>29</Stock>
+<Stock>35</Stock>
 <Miad>2027-07-01</Miad>
 <Price>318.66</Price>
 <Price2>400.01</Price2>
@@ -48075,7 +48032,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-10-01</Miad>
 <Price>926.42</Price>
 <Price2>1101.26</Price2>
@@ -48161,9 +48118,9 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2029-09-01</Miad>
-<Price>308.46</Price>
+<Price>344.96</Price>
 <Price2>388.24</Price2>
 <Price3>388.24</Price3>
 <Price4>411.88</Price4>
@@ -48412,7 +48369,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>104</Stock>
+<Stock>102</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
@@ -48618,7 +48575,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>387</Stock>
+<Stock>386</Stock>
 <Miad>2029-01-01</Miad>
 <Price>314.41</Price>
 <Price2>403.51</Price2>
@@ -52259,15 +52216,15 @@
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>5</Stock>
-<Miad>2027-01-01</Miad>
-<Price>369.66</Price>
-<Price2>458.85</Price2>
-<Price3>458.85</Price3>
-<Price4>488.77</Price4>
-<Price5>463.00</Price5>
-<Price6>475.80</Price6>
-<Price7>691.97</Price7>
-<Price8>648.08</Price8>
+<Miad>2027-05-01</Miad>
+<Price>381.56</Price>
+<Price2>472.58</Price2>
+<Price3>472.58</Price3>
+<Price4>503.72</Price4>
+<Price5>477.90</Price5>
+<Price6>490.31</Price6>
+<Price7>709.05</Price7>
+<Price8>664.67</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/wellcare-omega-3-balik-yagi-750-mg-30-kapsul-10582.webp</Image1>
@@ -52907,7 +52864,7 @@
 <category><![CDATA[Sporcu Ürünleri]]></category>
 <subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
 <Tax>10</Tax>
-<Stock>74</Stock>
+<Stock>64</Stock>
 <Miad>2031-01-01</Miad>
 <Price>81.60</Price>
 <Price2>131.16</Price2>
@@ -54336,7 +54293,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
-<Stock>14</Stock>
+<Stock>16</Stock>
 <Miad>2028-03-01</Miad>
 <Price>76.42</Price>
 <Price2>125.10</Price2>
@@ -59618,7 +59575,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>220</Stock>
+<Stock>219</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -59747,7 +59704,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>71</Stock>
+<Stock>70</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -59831,7 +59788,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>10</Tax>
-<Stock>40</Stock>
+<Stock>38</Stock>
 <Miad>2029-02-01</Miad>
 <Price>339.06</Price>
 <Price2>432.35</Price2>
@@ -60805,9 +60762,9 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>0</Stock>
 <Miad>2029-06-01</Miad>
-<Price>198.90</Price>
+<Price>253.62</Price>
 <Price2>275.89</Price2>
 <Price3>275.89</Price3>
 <Price4>292.95</Price4>
@@ -63599,14 +63556,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>323.00</Price>
-<Price2>423.35</Price2>
-<Price3>423.35</Price3>
-<Price4>456.76</Price4>
-<Price5>424.73</Price5>
-<Price6>441.86</Price6>
-<Price7>713.81</Price7>
-<Price8>656.69</Price8>
+<Price>378.16</Price>
+<Price2>488.89</Price2>
+<Price3>488.89</Price3>
+<Price4>529.57</Price4>
+<Price5>497.26</Price5>
+<Price6>512.00</Price6>
+<Price7>799.99</Price7>
+<Price8>739.76</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.webp</Image1>
@@ -74235,7 +74192,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>739.41</Price>
 <Price2>918.13</Price2>
@@ -75111,14 +75068,14 @@
 <Tax>10</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
-<Price>221.76</Price>
-<Price2>295.13</Price2>
-<Price3>295.13</Price3>
-<Price4>312.27</Price4>
-<Price5>284.15</Price5>
-<Price6>303.66</Price6>
-<Price7>514.09</Price7>
-<Price8>470.20</Price8>
+<Price>148.66</Price>
+<Price2>209.61</Price2>
+<Price3>209.61</Price3>
+<Price4>218.28</Price4>
+<Price5>190.48</Price5>
+<Price6>212.76</Price6>
+<Price7>404.99</Price7>
+<Price8>352.17</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/ds-seffaf-su-gecirmez-hazir-pansuman-yara-ortusu-9-cm-x-25-cm-5-li-21620.webp</Image1>
@@ -76731,7 +76688,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>12</Stock>
 <Miad>2028-03-01</Miad>
 <Price>658.75</Price>
 <Price2>792.41</Price2>
