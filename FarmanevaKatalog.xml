@@ -27497,13 +27497,13 @@
 <Stock>0</Stock>
 <Miad>2027-03-01</Miad>
 <Price>275.43</Price>
-<Price2>316.50</Price2>
-<Price3>316.50</Price3>
-<Price4>333.78</Price4>
+<Price2>317.46</Price2>
+<Price3>317.46</Price3>
+<Price4>308.48</Price4>
 <Price5>308.48</Price5>
-<Price6>325.39</Price6>
-<Price7>514.97</Price7>
-<Price8>476.06</Price8>
+<Price6>308.48</Price6>
+<Price7>486.18</Price7>
+<Price8>486.18</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/nbt-life-duobalance-oral-10-probiyotik-pastil-9360.webp</Image1>
@@ -48121,13 +48121,13 @@
 <Stock>0</Stock>
 <Miad>2029-09-01</Miad>
 <Price>344.96</Price>
-<Price2>388.24</Price2>
-<Price3>388.24</Price3>
-<Price4>411.88</Price4>
-<Price5>386.35</Price5>
-<Price6>401.19</Price6>
-<Price7>604.17</Price7>
-<Price8>562.75</Price8>
+<Price2>392.56</Price2>
+<Price3>392.56</Price3>
+<Price4>386.36</Price4>
+<Price5>386.36</Price5>
+<Price6>386.36</Price6>
+<Price7>581.33</Price7>
+<Price8>581.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/solgar-methylcobalamin-1000-mcg-30-tablet-10427.webp</Image1>
@@ -60765,13 +60765,13 @@
 <Stock>0</Stock>
 <Miad>2029-06-01</Miad>
 <Price>253.62</Price>
-<Price2>275.89</Price2>
-<Price3>275.89</Price3>
-<Price4>292.95</Price4>
-<Price5>261.55</Price5>
+<Price2>293.91</Price2>
+<Price3>293.91</Price3>
+<Price4>284.05</Price4>
+<Price5>284.05</Price5>
 <Price6>284.05</Price6>
-<Price7>519.90</Price7>
-<Price8>469.79</Price8>
+<Price7>456.33</Price7>
+<Price8>456.33</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/rocs-junior-6-12-yas-meyveli-gokkusagi-dis-macunu-60-ml-11336.webp</Image1>
@@ -71979,7 +71979,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>23</Stock>
 <Miad>2028-02-01</Miad>
 <Price>181.05</Price>
 <Price2>254.68</Price2>
@@ -72152,9 +72152,9 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-04-01</Miad>
-<Price>202.72</Price>
+<Price>257.96</Price>
 <Price2>280.43</Price2>
 <Price3>280.43</Price3>
 <Price4>297.99</Price4>
