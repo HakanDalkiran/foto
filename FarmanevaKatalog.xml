@@ -6422,7 +6422,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>34</Stock>
+<Stock>33</Stock>
 <Miad></Miad>
 <Price>355.21</Price>
 <Price2>461.62</Price2>
@@ -7303,7 +7303,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>241</Stock>
+<Stock>240</Stock>
 <Miad></Miad>
 <Price>764.91</Price>
 <Price2>948.43</Price2>
@@ -8135,7 +8135,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>83</Stock>
+<Stock>84</Stock>
 <Miad></Miad>
 <Price>720.71</Price>
 <Price2>895.91</Price2>
@@ -13644,14 +13644,14 @@
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2028-01-01</Miad>
-<Price>593.30</Price>
-<Price2>716.89</Price2>
-<Price3>716.89</Price3>
-<Price4>769.73</Price4>
-<Price5>743.11</Price5>
-<Price6>748.46</Price6>
-<Price7>1012.83</Price7>
-<Price8>959.90</Price8>
+<Price>620.41</Price>
+<Price2>748.17</Price2>
+<Price3>748.17</Price3>
+<Price4>803.79</Price4>
+<Price5>777.06</Price5>
+<Price6>781.51</Price6>
+<Price7>1051.73</Price7>
+<Price8>997.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/duobalance-bv-cran-14-kapsul-8658.webp</Image1>
@@ -15576,7 +15576,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>160</Stock>
+<Stock>178</Stock>
 <Miad></Miad>
 <Price>32.81</Price>
 <Price2>78.54</Price2>
@@ -20571,14 +20571,14 @@
 <Tax>20</Tax>
 <Stock>52</Stock>
 <Miad>2029-05-01</Miad>
-<Price>500.56</Price>
-<Price2>634.33</Price2>
-<Price3>634.33</Price3>
-<Price4>691.13</Price4>
-<Price5>658.22</Price5>
-<Price6>667.65</Price6>
-<Price7>991.24</Price7>
-<Price8>924.10</Price8>
+<Price>586.41</Price>
+<Price2>736.33</Price2>
+<Price3>736.33</Price3>
+<Price4>804.45</Price4>
+<Price5>771.11</Price5>
+<Price6>776.82</Price6>
+<Price7>1125.38</Price7>
+<Price8>1053.39</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/la-roche-posay-cicaplast-baume-b5-40-ml-8976.webp</Image1>
@@ -24461,7 +24461,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Stetoskop]]></category>
 <Tax>10</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>101.06</Price>
 <Price2>153.92</Price2>
@@ -38758,7 +38758,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-02-01</Miad>
 <Price>273.86</Price>
 <Price2>348.31</Price2>
@@ -54609,7 +54609,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>225.16</Price>
 <Price2>307.09</Price2>
@@ -63213,14 +63213,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>523.96</Price4>
-<Price5>491.68</Price5>
-<Price6>506.60</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>568.95</Price4>
+<Price5>536.50</Price5>
+<Price6>549.95</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
@@ -63556,14 +63556,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>378.16</Price>
-<Price2>488.89</Price2>
-<Price3>488.89</Price3>
-<Price4>529.57</Price4>
-<Price5>497.26</Price5>
-<Price6>512.00</Price6>
-<Price7>799.99</Price7>
-<Price8>739.76</Price8>
+<Price>323.00</Price>
+<Price2>423.35</Price2>
+<Price3>423.35</Price3>
+<Price4>456.76</Price4>
+<Price5>424.73</Price5>
+<Price6>441.86</Price6>
+<Price7>713.81</Price7>
+<Price8>656.69</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-sivrisinek-ve-kene-kovucu-sprey-krem-bitkisel-tum-vucut-icin-aile-boy-100-ml-11445.webp</Image1>
