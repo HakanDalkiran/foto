@@ -7176,7 +7176,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>238</Stock>
+<Stock>226</Stock>
 <Miad></Miad>
 <Price>696.06</Price>
 <Price2>849.99</Price2>
@@ -7303,7 +7303,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>240</Stock>
+<Stock>239</Stock>
 <Miad></Miad>
 <Price>764.91</Price>
 <Price2>948.43</Price2>
@@ -7946,7 +7946,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad></Miad>
 <Price>730.06</Price>
 <Price2>907.02</Price2>
@@ -39067,7 +39067,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>77</Stock>
+<Stock>75</Stock>
 <Miad>2028-12-01</Miad>
 <Price>509.06</Price>
 <Price2>619.70</Price2>
@@ -39113,7 +39113,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>51</Stock>
+<Stock>49</Stock>
 <Miad>2027-10-01</Miad>
 <Price>398.65</Price>
 <Price2>492.30</Price2>
@@ -39439,7 +39439,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>33</Stock>
+<Stock>31</Stock>
 <Miad>2028-04-01</Miad>
 <Price>152.91</Price>
 <Price2>208.76</Price2>
@@ -60591,7 +60591,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>16</Stock>
 <Miad>2029-03-01</Miad>
 <Price>182.66</Price>
 <Price2>256.59</Price2>
@@ -62013,7 +62013,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2028-09-01</Miad>
 <Price>573.75</Price>
 <Price2>721.29</Price2>
@@ -62141,7 +62141,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-04-01</Miad>
 <Price>616.08</Price>
 <Price2>771.59</Price2>
