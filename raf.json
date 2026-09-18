@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-18 10:19:21",
+ "uretim": "2026-09-18 10:39:17",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -26,7 +26,7 @@
    "barkod": "42241461",
    "ad": "Nivea Man Roll-On Deodorant Fresh Active 50 ml",
    "fiyat": 163.69,
-   "stok": 20,
+   "stok": 19,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-man-roll-on-deodorant-fresh-active-50-ml-36600.webp",
    "url_slug": null
   },
