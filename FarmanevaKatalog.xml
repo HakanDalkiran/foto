@@ -2728,16 +2728,16 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2027-08-01</Miad>
-<Price>569.90</Price>
-<Price2>635.49</Price2>
-<Price3>635.49</Price3>
-<Price4>638.29</Price4>
-<Price5>638.29</Price5>
-<Price6>638.29</Price6>
-<Price7>889.16</Price7>
-<Price8>889.16</Price8>
+<Stock>5</Stock>
+<Miad>2028-04-01</Miad>
+<Price>553.26</Price>
+<Price2>682.94</Price2>
+<Price3>682.94</Price3>
+<Price4>738.47</Price4>
+<Price5>708.91</Price5>
+<Price6>715.87</Price6>
+<Price7>1008.87</Price7>
+<Price8>949.25</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/artelac-complete-goz-damlasi-30-flakon-0-5-ml-7886.webp</Image1>
@@ -7514,7 +7514,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>141</Stock>
+<Stock>135</Stock>
 <Miad>2031-04-01</Miad>
 <Price>678.21</Price>
 <Price2>829.11</Price2>
@@ -8544,14 +8544,14 @@
 <Tax>1</Tax>
 <Stock>25</Stock>
 <Miad>2029-03-01</Miad>
-<Price>117.22</Price>
-<Price2>167.58</Price2>
-<Price3>167.58</Price3>
-<Price4>171.63</Price4>
-<Price5>146.82</Price5>
-<Price6>168.03</Price6>
-<Price7>324.21</Price7>
-<Price8>285.11</Price8>
+<Price>118.14</Price>
+<Price2>168.64</Price2>
+<Price3>168.64</Price3>
+<Price4>172.78</Price4>
+<Price5>147.97</Price5>
+<Price6>169.15</Price6>
+<Price7>325.53</Price7>
+<Price8>286.40</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/cistus-antivirus-balli-limonlu-pastil-10-adet-8312.webp</Image1>
@@ -10011,7 +10011,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2027-09-01</Miad>
 <Price>522.75</Price>
 <Price2>635.49</Price2>
@@ -12153,7 +12153,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>72</Stock>
 <Miad></Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
@@ -16958,14 +16958,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
-<Price>67.06</Price>
-<Price2>119.23</Price2>
-<Price3>119.23</Price3>
-<Price4>118.93</Price4>
-<Price5>88.18</Price5>
-<Price6>116.40</Price6>
-<Price7>306.68</Price7>
-<Price8>179.13</Price8>
+<Price>72.17</Price>
+<Price2>125.31</Price2>
+<Price3>125.31</Price3>
+<Price4>125.67</Price4>
+<Price5>94.90</Price5>
+<Price6>122.90</Price6>
+<Price7>314.67</Price7>
+<Price8>186.31</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/freshlife-hasta-bezi-orta-boy-8-li-8790.webp</Image1>
@@ -24461,9 +24461,9 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Stetoskop]]></category>
 <Tax>10</Tax>
-<Stock>11</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>101.06</Price>
+<Price>127.24</Price>
 <Price2>153.92</Price2>
 <Price3>153.92</Price3>
 <Price4>157.08</Price4>
@@ -30034,7 +30034,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>154.28</Price>
 <Price2>222.87</Price2>
@@ -43549,7 +43549,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>35</Stock>
+<Stock>29</Stock>
 <Miad>2027-07-01</Miad>
 <Price>318.66</Price>
 <Price2>400.01</Price2>
@@ -49647,7 +49647,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>63</Stock>
+<Stock>62</Stock>
 <Miad>2030-02-01</Miad>
 <Price>752.16</Price>
 <Price2>900.19</Price2>
@@ -49687,7 +49687,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-01-01</Miad>
 <Price>507.36</Price>
 <Price2>617.73</Price2>
@@ -54293,7 +54293,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
-<Stock>16</Stock>
+<Stock>14</Stock>
 <Miad>2028-03-01</Miad>
 <Price>76.42</Price>
 <Price2>125.10</Price2>
@@ -58544,7 +58544,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>76</Stock>
+<Stock>75</Stock>
 <Miad></Miad>
 <Price>1274.07</Price>
 <Price2>1526.19</Price2>
@@ -60720,7 +60720,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>19</Stock>
 <Miad>2029-03-01</Miad>
 <Price>198.90</Price>
 <Price2>275.89</Price2>
@@ -60762,7 +60762,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>18</Stock>
 <Miad>2029-06-01</Miad>
 <Price>198.90</Price>
 <Price2>275.89</Price2>
@@ -62485,14 +62485,14 @@
 <Tax>20</Tax>
 <Stock>51</Stock>
 <Miad>2028-08-01</Miad>
-<Price>467.07</Price>
-<Price2>594.53</Price2>
-<Price3>594.53</Price3>
-<Price4>646.92</Price4>
-<Price5>614.18</Price5>
-<Price6>625.06</Price6>
-<Price7>938.92</Price7>
-<Price8>873.66</Price8>
+<Price>466.99</Price>
+<Price2>594.44</Price2>
+<Price3>594.44</Price3>
+<Price4>646.82</Price4>
+<Price5>614.07</Price5>
+<Price6>624.96</Price6>
+<Price7>938.79</Price7>
+<Price8>873.54</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-cleansing-gel-400-ml-11407.webp</Image1>
@@ -63643,7 +63643,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>214</Stock>
+<Stock>213</Stock>
 <Miad>2027-02-01</Miad>
 <Price>970.19</Price>
 <Price2>1170.69</Price2>
