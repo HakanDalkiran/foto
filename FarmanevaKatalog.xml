@@ -2431,7 +2431,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>71</Stock>
+<Stock>72</Stock>
 <Miad>2026-11-01</Miad>
 <Price>508.21</Price>
 <Price2>618.71</Price2>
@@ -7946,7 +7946,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>37</Stock>
 <Miad></Miad>
 <Price>730.06</Price>
 <Price2>907.02</Price2>
@@ -18160,7 +18160,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>39</Stock>
 <Miad>2028-02-01</Miad>
 <Price>406.30</Price>
 <Price2>501.13</Price2>
@@ -21759,7 +21759,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>8</Stock>
 <Miad>2029-04-01</Miad>
 <Price>1916.66</Price>
 <Price2>2316.95</Price2>
@@ -35502,7 +35502,7 @@
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Yüz Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>868.62</Price>
 <Price2>1071.66</Price2>
@@ -41958,7 +41958,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>70</Stock>
+<Stock>76</Stock>
 <Miad></Miad>
 <Price>195.41</Price>
 <Price2>271.74</Price2>
@@ -42223,7 +42223,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>66</Stock>
 <Miad></Miad>
 <Price>203.15</Price>
 <Price2>280.94</Price2>
@@ -42863,7 +42863,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>32</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>103.62</Price>
 <Price2>162.68</Price2>
@@ -60684,7 +60684,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>209</Stock>
+<Stock>208</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -61529,7 +61529,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>62</Stock>
 <Miad></Miad>
 <Price>203.91</Price>
 <Price2>281.84</Price2>
@@ -63250,7 +63250,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>2028-04-01</Miad>
 <Price>616.08</Price>
 <Price2>771.59</Price2>
@@ -63378,7 +63378,7 @@
 <category><![CDATA[Göz Çevresi Bakımı]]></category>
 <subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>5</Stock>
 <Miad>2028-04-01</Miad>
 <Price>585.23</Price>
 <Price2>734.93</Price2>
@@ -63508,14 +63508,14 @@
 <Tax>20</Tax>
 <Stock>136</Stock>
 <Miad>2028-01-01</Miad>
-<Price>447.01</Price>
-<Price2>570.70</Price2>
-<Price3>570.70</Price3>
-<Price4>620.45</Price4>
-<Price5>587.80</Price5>
-<Price6>599.55</Price6>
-<Price7>907.57</Price7>
-<Price8>843.45</Price8>
+<Price>447.61</Price>
+<Price2>571.41</Price2>
+<Price3>571.41</Price3>
+<Price4>621.24</Price4>
+<Price5>588.59</Price5>
+<Price6>600.32</Price6>
+<Price7>908.51</Price7>
+<Price8>844.35</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -64321,14 +64321,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>523.96</Price4>
-<Price5>491.68</Price5>
-<Price6>506.60</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>568.95</Price4>
+<Price5>536.50</Price5>
+<Price6>549.95</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
