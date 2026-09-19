@@ -10011,9 +10011,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2027-09-01</Miad>
-<Price>522.75</Price>
+<Price>584.59</Price>
 <Price2>635.49</Price2>
 <Price3>635.49</Price3>
 <Price4>681.10</Price4>
@@ -17222,9 +17222,9 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>208.25</Price>
+<Price>264.23</Price>
 <Price2>287.00</Price2>
 <Price3>287.00</Price3>
 <Price4>305.29</Price4>
@@ -27917,7 +27917,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>2027-05-01</Miad>
 <Price>695.21</Price>
 <Price2>834.48</Price2>
@@ -37131,7 +37131,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>860.08</Price2>
@@ -39439,7 +39439,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>105</Stock>
+<Stock>109</Stock>
 <Miad>2027-03-01</Miad>
 <Price>140.16</Price>
 <Price2>194.05</Price2>
@@ -59747,7 +59747,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>68</Stock>
+<Stock>67</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -63255,14 +63255,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>524.34</Price2>
-<Price3>524.34</Price3>
-<Price4>568.95</Price4>
-<Price5>536.50</Price5>
-<Price6>549.95</Price6>
-<Price7>846.62</Price7>
-<Price8>784.70</Price8>
+<Price>373.91</Price>
+<Price2>483.84</Price2>
+<Price3>483.84</Price3>
+<Price4>523.96</Price4>
+<Price5>491.68</Price5>
+<Price6>506.60</Price6>
+<Price7>793.35</Price7>
+<Price8>733.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
@@ -73915,9 +73915,9 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-08-01</Miad>
-<Price>722.41</Price>
+<Price>849.90</Price>
 <Price2>937.89</Price2>
 <Price3>937.89</Price3>
 <Price4>951.89</Price4>
