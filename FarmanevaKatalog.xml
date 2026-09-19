@@ -19064,7 +19064,7 @@
 <category><![CDATA[Sporcu Ürünleri]]></category>
 <subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad>2026-01-01</Miad>
 <Price>300.00</Price>
 <Price2>390.00</Price2>
@@ -23580,7 +23580,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad>2029-01-01</Miad>
 <Price>160.00</Price>
 <Price2>210.00</Price2>
@@ -28040,7 +28040,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2026-10-01</Miad>
 <Price>883.07</Price>
 <Price2>1051.24</Price2>
@@ -40545,7 +40545,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>108.00</Price>
 <Price2>200.00</Price2>
