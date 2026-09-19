@@ -1,5 +1,5 @@
 {
- "uretim": "2026-09-19 13:12:57",
+ "uretim": "2026-09-19 13:27:14",
  "kaynak": "Entegra canli export feed",
  "not": "stok 0 olan urun listeye GIRMEZ; tazelik bir uretim turu",
  "urunler": [
@@ -62,7 +62,7 @@
    "barkod": "8691226642376",
    "ad": "Rebul Aqua Kolonya 250 ml",
    "fiyat": 271.74,
-   "stok": 76,
+   "stok": 70,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-aqua-kolonya-250-ml-37244.webp",
    "url_slug": null
   },
@@ -80,7 +80,7 @@
    "barkod": "8691226642390",
    "ad": "Rebul Bouquet Kolonya Cam Şişe 250 ml",
    "fiyat": 280.94,
-   "stok": 66,
+   "stok": 65,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-bouquet-kolonya-cam-sise-250-ml-37258.webp",
    "url_slug": null
   },
@@ -89,7 +89,7 @@
    "barkod": "8691226655024",
    "ad": "Rebul Kolonya Magnolia 250 ml",
    "fiyat": 281.84,
-   "stok": 62,
+   "stok": 59,
    "gorsel": "https://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/rebul-kolonya-magnolia-250-ml-38066.webp",
    "url_slug": null
   },
