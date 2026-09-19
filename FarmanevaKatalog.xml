@@ -3031,7 +3031,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>374.00</Price>
 <Price2>483.94</Price2>
@@ -3039,8 +3039,8 @@
 <Price4>524.08</Price4>
 <Price5>491.79</Price5>
 <Price6>506.71</Price6>
-<Price7>793.50</Price7>
-<Price8>733.50</Price8>
+<Price7>793.49</Price7>
+<Price8>733.49</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/av-ne-cleanance-yagli-ve-duzensiz-ciltlere-ozel-bakim-kiti-serum-30-ml-temizleme-jeli-100-ml-7916.webp</Image1>
@@ -22632,7 +22632,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>671.41</Price>
 <Price2>837.33</Price2>
@@ -55038,7 +55038,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1141.55</Price>
 <Price2>1395.96</Price2>
