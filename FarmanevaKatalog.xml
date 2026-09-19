@@ -637,11 +637,11 @@
 <Price>218.38</Price>
 <Price2>255.85</Price2>
 <Price3>255.85</Price3>
-<Price4>267.74</Price4>
-<Price5>242.63</Price5>
-<Price6>261.30</Price6>
-<Price7>439.55</Price7>
-<Price8>391.78</Price8>
+<Price4>244.59</Price4>
+<Price5>244.59</Price5>
+<Price6>244.59</Price6>
+<Price7>408.10</Price7>
+<Price8>408.10</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/allergo-vitagil-multivitamin-mineral-coq10-beta-karoten-ginseng-30-tablet-7759.webp</Image1>
@@ -14247,6 +14247,139 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00355]]></Product_code>
+<Barcode>8683060770070</Barcode>
+<Name><![CDATA[Enterogermina Family 5 ml x 20 Flakon]]></Name>
+<Brand><![CDATA[Enterogermina]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Probiyotik]]></category>
+<Tax>10</Tax>
+<Stock>257</Stock>
+<Miad>2028-04-01</Miad>
+<Price>510.00</Price>
+<Price2>689.97</Price2>
+<Price3>689.97</Price3>
+<Price4>690.00</Price4>
+<Price5>690.00</Price5>
+<Price6>690.00</Price6>
+<Price7>866.00</Price7>
+<Price8>899.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8684.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8685.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8686.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8687.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Enterogermina Family Probiyotik 5 ml 20 Flakon</strong>, Bacillus clausii sporlar&#305; i&#231;eren, probiyotik mikroorganizma temelli bir takviye edici g&#305;dad&#305;r. Her flakonu 5 ml s&#305;v&#305; i&#231;inde 4 milyar (4x10&#8313;) CFU Bacillus clausii sunar; ailenin farkl&#305; bireyleri i&#231;in g&#252;nl&#252;k probiyotik deste&#287;i arayanlara y&#246;neliktir.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Flakon ba&#351;&#305;na 4 milyar CFU Bacillus clausii sporu i&#231;erir</li>
+<li>&#304;&#231;meye haz&#305;r 5 ml s&#305;v&#305; flakon formu</li>
+<li>T&#252;m aile bireyleri i&#231;in uygundur</li>
+<li>Glutensiz, laktozsuz ve &#351;ekersiz form&#252;l</li>
+<li>Oda s&#305;cakl&#305;&#287;&#305;nda saklanabilir, buzdolab&#305; gerektirmez</li>
+<li>Seyahatte kolay ta&#351;&#305;nabilir pratik ambalaj</li>
+<li>&#199;alkala, a&#231;, i&#231; ad&#305;mlar&#305;yla kolay kullan&#305;m</li>
+<li>Ba&#287;&#305;rsak floras&#305;n&#305; desteklemeye y&#246;nelik</li>
+<li>20 flakonluk ekonomik ambalaj</li>
+<li>Pratik tek kullan&#305;ml&#305;k flakonlar</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Genellikle g&#252;nde 1 flakon (5 ml) al&#305;nmas&#305; &#246;nerilir. Flakonu kullanmadan &#246;nce &#231;alkalay&#305;n, kapa&#287;&#305;n&#305; a&#231;&#305;n ve i&#231;eri&#287;ini do&#287;rudan i&#231;in ya da bir i&#231;ece&#287;e ekleyin. Kesin kullan&#305;m ve doz i&#231;in ambalaj &#252;zerindeki talimatlar&#305; izleyin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Dengeli ve &#231;e&#351;itli beslenmenin yerini tutmaz. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Farmaneva g&#252;vencesiyle ailenizin g&#252;nl&#252;k probiyotik deste&#287;ine pratik bir se&#231;enek sunar.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00356]]></Product_code>
+<Barcode>8683060770124</Barcode>
+<Name><![CDATA[Enterogermina Kids 5 ml 10 Flakon]]></Name>
+<Brand><![CDATA[Enterogermina]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Probiyotik]]></category>
+<Tax>1</Tax>
+<Stock>1</Stock>
+<Miad>2027-10-01</Miad>
+<Price>305.06</Price>
+<Price2>304.00</Price2>
+<Price3>304.00</Price3>
+<Price4>325.99</Price4>
+<Price5>325.99</Price5>
+<Price6>325.99</Price6>
+<Price7>441.00</Price7>
+<Price8>441.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-10-flakon-8688.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-10-flakon-8689.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-10-flakon-8690.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Enterogermina Kids 5 ml 10 Flakon</strong>, Bacillus clausii sporları içeren, çocuklar için hazırlanmış 5 ml'lik içilebilir flakonlardan oluşan bir takviye edici gıdadır. 10 flakonluk ambalajıyla kısa süreli kullanım için uygundur ve çocukların kolayca tüketebileceği şekilde hazırlanmıştır</p>
+<h2>Enterogermina Kids 5 ml 10 Flakon Özellikleri</h2>
+<ul>
+<li>Her kutuda 5 ml'lik 10 adet içilebilir flakon bulunur.</li>
+<li>Bacillus clausii sporları içerir.</li>
+<li>Çocuklar için hazırlanmış formda sunulur.</li>
+<li>Flakon içeriği doğrudan ya da içecekle karıştırılarak alınabilir.</li>
+<li>Tek kullanımlık flakonlar hijyenik kullanım sağlar.</li>
+<li>Oda sıcaklığında saklanabilir.</li>
+<li>Yanında ölçek veya kaşık gerektirmez.</li>
+<li>Seyahatte ve okulda taşınması kolaydır.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Flakonun üst kısmı kırılarak açılır ve içeriği doğrudan ağza boşaltılır ya da bir miktar su, süt veya meyve suyuna karıştırılarak içirilir. Günlük kullanım miktarı için ambalaj üzerindeki talimata ve hekim önerisine uyulmalıdır.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde, ilaç kullanımında veya çocuklarda hekime danışarak kullanın. Çocukların erişemeyeceği yerde, serin ve kuru ortamda saklayın.</p>
+<p>Çocuğu için pratik flakon formunu tercih eden ebeveynler Enterogermina Kids'i Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00357]]></Product_code>
+<Barcode>8683060770131</Barcode>
+<Name><![CDATA[Enterogermina Kids 5 ml 20 Flakon]]></Name>
+<Brand><![CDATA[Enterogermina]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Probiyotik]]></category>
+<Tax>10</Tax>
+<Stock>10</Stock>
+<Miad>2028-01-01</Miad>
+<Price>552.41</Price>
+<Price2>490.00</Price2>
+<Price3>490.00</Price3>
+<Price4>650.00</Price4>
+<Price5>650.00</Price5>
+<Price6>650.00</Price6>
+<Price7>766.00</Price7>
+<Price8>766.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-20-flakon-8691.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-20-flakon-8692.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-20-flakon-8693.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-20-flakon-8694.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Enterogermina Kids 5 ml 20 Flakon</strong>, Bacillus clausii sporları içeren, çocuklar için hazırlanmış 5 ml'lik içilebilir flakonlardan oluşan bir takviye edici gıdadır. 20 flakonluk büyük ambalajıyla düzenli ve daha uzun süreli kullanım için uygundur</p>
+<h2>Enterogermina Kids 5 ml 20 Flakon Özellikleri</h2>
+<ul>
+<li>Her kutuda 5 ml'lik 20 adet içilebilir flakon bulunur.</li>
+<li>Bacillus clausii sporları içerir.</li>
+<li>Çocuklar için hazırlanmış formda sunulur.</li>
+<li>20 flakonluk ambalaj daha uzun süreli kullanıma yeter.</li>
+<li>Flakon içeriği doğrudan ya da içecekle karıştırılarak alınabilir.</li>
+<li>Tek kullanımlık flakonlar hijyenik kullanım sağlar.</li>
+<li>Oda sıcaklığında saklanabilir.</li>
+<li>Seyahatte ve okulda taşınması kolaydır.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Flakonun üst kısmı kırılarak açılır ve içeriği doğrudan ağza boşaltılır ya da bir miktar su, süt veya meyve suyuna karıştırılarak içirilir. Günlük kullanım miktarı için ambalaj üzerindeki talimata ve hekim önerisine uyulmalıdır.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde, ilaç kullanımında veya çocuklarda hekime danışarak kullanın. Çocukların erişemeyeceği yerde, serin ve kuru ortamda saklayın.</p>
+<p>Uzun süreli kullanım için büyük ambalajı tercih edenler Enterogermina Kids 20 Flakon'u Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00358]]></Product_code>
 <Barcode>8683060770063</Barcode>
 <Name><![CDATA[Enterogermina Family 5 ml 10 Flakon]]></Name>
@@ -15159,7 +15292,6 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
@@ -17547,6 +17679,49 @@
 <h2>Uyar&#305;lar</h2>
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Damla formunda pratik demir deste&#287;i arayanlar Sidefer Damla'y&#305; Farmaneva g&#252;vencesiyle edinebilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00440]]></Product_code>
+<Barcode>8699177825107</Barcode>
+<Name><![CDATA[Gifrer Serum Fizyolojik 5 ml X 20 Flakon]]></Name>
+<Brand><![CDATA[Gifrer]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Bebek Bakımı]]></category>
+<Tax>10</Tax>
+<Stock>2</Stock>
+<Miad>2028-12-01</Miad>
+<Price>197.30</Price>
+<Price2>258.00</Price2>
+<Price3>258.00</Price3>
+<Price4>238.00</Price4>
+<Price5>238.00</Price5>
+<Price6>238.00</Price6>
+<Price7>402.00</Price7>
+<Price8>402.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/gifrer-serum-fizyolojik-5-ml-x-20-flakon-8823.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Gifrer Serum Fizyolojik 5 ml X 20 Flakon</strong>, %0,9 sodyum klor&#252;r i&#231;eren steril izotonik bir tuzlu su &#231;&#246;zeltisidir. Bebek ve &#231;ocuklarda burun, g&#246;z ve kulak temizli&#287;i i&#231;in tasarlanan &#252;r&#252;n, tek kullan&#305;ml&#305;k 5 ml flakonlar halinde 20'li paket olarak sunulur.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>%0,9 sodyum klor&#252;r i&#231;eren izotonik &#231;&#246;zelti</li>
+<li>Burun, g&#246;z ve kulak temizli&#287;inde kullan&#305;labilir</li>
+<li>Tek kullan&#305;ml&#305;k 5 ml flakon formu</li>
+<li>Pakette 20 adet flakon bulunur</li>
+<li>Steril ve hijyenik kullan&#305;m sa&#287;lar</li>
+<li>Paraben ve koruyucu i&#231;ermez</li>
+<li>Alkol, parf&#252;m ve boya i&#231;ermez</li>
+<li>Burundaki kurumu&#351; kabuklar&#305;n yumu&#351;at&#305;lmas&#305;na yard&#305;mc&#305; olur</li>
+<li>Yeni do&#287;andan yeti&#351;kine kadar her ya&#351;ta kullan&#305;labilir</li>
+<li>Yan&#305;nda ta&#351;&#305;mas&#305; kolay pratik flakonlar</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Burun temizli&#287;i i&#231;in bebe&#287;in ba&#351;&#305; hafif&#231;e yana yat&#305;r&#305;l&#305;r, her burun deli&#287;ine birka&#231; damla uygulan&#305;r ve gerekirse fazla s&#305;v&#305; burun aspirat&#246;r&#252;yle al&#305;n&#305;r. G&#246;z temizli&#287;inde birka&#231; damla kullan&#305;labilir; kesin kullan&#305;m i&#231;in ambalaj &#252;zerindeki talimat&#305; dikkate al&#305;n ve a&#231;t&#305;&#287;&#305;n&#305;z flakonu tekrar kullanmay&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;zca haricen kullan&#305;l&#305;r; a&#231;&#305;lan flakon tek kullan&#305;ml&#305;kt&#305;r. Kullanmadan &#246;nce ambalaj b&#252;t&#252;nl&#252;&#287;&#252;n&#252; kontrol edin, ola&#287;an d&#305;&#351;&#305; bir durumda kullan&#305;ma ara verin ve gerekirse bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru &#351;ekilde saklay&#305;n.</p>
+<p>Farmaneva, bebe&#287;inizin g&#252;nl&#252;k hijyeni i&#231;in Gifrer serum fizyolojik flakonlar&#305;n&#305; g&#252;venle sunar.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -37245,7 +37420,6 @@
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
-<subCategory><![CDATA[Selenyum]]></subCategory>
 <Tax>1</Tax>
 <Stock>21</Stock>
 <Miad>2028-09-01</Miad>
@@ -45596,7 +45770,6 @@
 <Brand><![CDATA[Sesu]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Ağda & Epilasyon]]></category>
-<subCategory><![CDATA[Tüy Dökücü Sprey & Köpük]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2027-01-01</Miad>
@@ -50646,12 +50819,12 @@
 <Stock>0</Stock>
 <Miad>2029-07-01</Miad>
 <Price>137.03</Price>
-<Price2>164.77</Price2>
-<Price3>164.77</Price3>
-<Price4>169.00</Price4>
-<Price5>141.37</Price5>
-<Price6>165.10</Price6>
-<Price7>341.46</Price7>
+<Price2>167.99</Price2>
+<Price3>167.99</Price3>
+<Price4>153.47</Price4>
+<Price5>153.47</Price5>
+<Price6>153.47</Price6>
+<Price7>296.78</Price7>
 <Price8>296.78</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
@@ -51539,13 +51712,13 @@
 <Stock>0</Stock>
 <Miad>2029-03-01</Miad>
 <Price>611.02</Price>
-<Price2>662.76</Price2>
-<Price3>662.76</Price3>
-<Price4>710.79</Price4>
+<Price2>679.90</Price2>
+<Price3>679.90</Price3>
+<Price4>684.34</Price4>
 <Price5>684.34</Price5>
-<Price6>691.26</Price6>
-<Price7>945.52</Price7>
-<Price8>894.48</Price8>
+<Price6>684.34</Price6>
+<Price7>945.43</Price7>
+<Price8>945.43</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/vitabiotics-immunace-30-tablet-10554.webp</Image1>
@@ -51757,11 +51930,11 @@
 <Price>229.26</Price>
 <Price2>267.60</Price2>
 <Price3>267.60</Price3>
-<Price4>280.54</Price4>
-<Price5>255.40</Price5>
-<Price6>273.72</Price6>
-<Price7>454.17</Price7>
-<Price8>416.97</Price8>
+<Price4>256.77</Price4>
+<Price5>256.77</Price5>
+<Price6>256.77</Price6>
+<Price7>422.99</Price7>
+<Price8>422.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/voonka-5-htp-complex-62-kapsul-eski-ambalaj-10565.webp</Image1>
@@ -52548,7 +52721,7 @@
 <Brand><![CDATA[Xaura]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Maske]]></subCategory>
+<subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -52592,7 +52765,7 @@
 <Brand><![CDATA[Xaura]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Maske]]></subCategory>
+<subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -54384,13 +54557,13 @@
 <Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>427.77</Price>
-<Price2>473.12</Price2>
-<Price3>473.12</Price3>
-<Price4>507.88</Price4>
+<Price2>481.99</Price2>
+<Price3>481.99</Price3>
+<Price4>479.10</Price4>
 <Price5>479.10</Price5>
-<Price6>492.85</Price6>
-<Price7>741.18</Price7>
-<Price8>690.07</Price8>
+<Price6>479.10</Price6>
+<Price7>694.65</Price7>
+<Price8>694.65</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/8690998216020-0_h2xxo.webp</Image1>
@@ -63129,7 +63302,6 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad>2029-04-01</Miad>
@@ -63381,7 +63553,6 @@
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Ev Temizliği]]></subCategory>
 <Tax>20</Tax>
 <Stock>27</Stock>
 <Miad>2029-04-01</Miad>
