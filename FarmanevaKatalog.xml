@@ -11413,7 +11413,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>49</Stock>
+<Stock>48</Stock>
 <Miad></Miad>
 <Price>637.41</Price>
 <Price2>796.93</Price2>
@@ -57857,7 +57857,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Anti Age & Yaşlanma Karşıtı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-07-01</Miad>
 <Price>2833.05</Price>
 <Price2>3405.82</Price2>
@@ -62574,14 +62574,14 @@
 <Tax>20</Tax>
 <Stock>136</Stock>
 <Miad>2028-01-01</Miad>
-<Price>447.61</Price>
-<Price2>571.41</Price2>
-<Price3>571.41</Price3>
-<Price4>621.24</Price4>
-<Price5>588.59</Price5>
-<Price6>600.32</Price6>
-<Price7>908.51</Price7>
-<Price8>844.35</Price8>
+<Price>447.01</Price>
+<Price2>570.70</Price2>
+<Price3>570.70</Price3>
+<Price4>620.45</Price4>
+<Price5>587.80</Price5>
+<Price6>599.55</Price6>
+<Price7>907.57</Price7>
+<Price8>843.45</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -71418,8 +71418,8 @@
 <Price4>866.16</Price4>
 <Price5>832.58</Price5>
 <Price6>836.27</Price6>
-<Price7>1198.44</Price7>
-<Price8>1123.81</Price8>
+<Price7>1198.43</Price7>
+<Price8>1123.80</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/nuxe-reve-de-miel-cica-yogun-bakim-el-kremi-50-ml-ikincisi-50-indirimli-set-11956.webp</Image1>
@@ -72729,8 +72729,8 @@
 <Price4>518.67</Price4>
 <Price5>492.81</Price5>
 <Price6>504.82</Price6>
-<Price7>726.11</Price7>
-<Price8>681.25</Price8>
+<Price7>726.12</Price7>
+<Price8>681.26</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/sma-optipro-probiyotik-1-400-gr-12031.webp</Image1>
