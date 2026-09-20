@@ -11545,7 +11545,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>482.71</Price>
 <Price2>613.12</Price2>
@@ -21759,7 +21759,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2029-04-01</Miad>
 <Price>1916.66</Price>
 <Price2>2316.95</Price2>
@@ -63508,14 +63508,14 @@
 <Tax>20</Tax>
 <Stock>135</Stock>
 <Miad>2028-01-01</Miad>
-<Price>447.61</Price>
-<Price2>571.41</Price2>
-<Price3>571.41</Price3>
-<Price4>621.24</Price4>
-<Price5>588.59</Price5>
-<Price6>600.32</Price6>
-<Price7>908.51</Price7>
-<Price8>844.35</Price8>
+<Price>447.01</Price>
+<Price2>570.70</Price2>
+<Price3>570.70</Price3>
+<Price4>620.45</Price4>
+<Price5>587.80</Price5>
+<Price6>599.55</Price6>
+<Price7>907.57</Price7>
+<Price8>843.45</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
