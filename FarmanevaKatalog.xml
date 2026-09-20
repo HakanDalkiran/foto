@@ -38072,7 +38072,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>110</Stock>
+<Stock>108</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -50842,7 +50842,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-01-01</Miad>
 <Price>507.36</Price>
 <Price2>617.73</Price2>
@@ -63551,16 +63551,16 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>135</Stock>
+<Stock>134</Stock>
 <Miad>2028-01-01</Miad>
-<Price>447.61</Price>
-<Price2>571.41</Price2>
-<Price3>571.41</Price3>
-<Price4>621.24</Price4>
-<Price5>588.59</Price5>
-<Price6>600.32</Price6>
-<Price7>908.51</Price7>
-<Price8>844.35</Price8>
+<Price>447.01</Price>
+<Price2>570.70</Price2>
+<Price3>570.70</Price3>
+<Price4>620.45</Price4>
+<Price5>587.80</Price5>
+<Price6>599.55</Price6>
+<Price7>907.57</Price7>
+<Price8>843.45</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-purifying-cleansing-gel-400-ml-11403.webp</Image1>
@@ -63639,14 +63639,14 @@
 <Tax>20</Tax>
 <Stock>51</Stock>
 <Miad>2028-08-01</Miad>
-<Price>466.56</Price>
-<Price2>593.93</Price2>
-<Price3>593.93</Price3>
-<Price4>646.25</Price4>
-<Price5>613.51</Price5>
-<Price6>624.42</Price6>
-<Price7>938.12</Price7>
-<Price8>872.89</Price8>
+<Price>466.39</Price>
+<Price2>593.72</Price2>
+<Price3>593.72</Price3>
+<Price4>646.03</Price4>
+<Price5>613.28</Price5>
+<Price6>624.20</Price6>
+<Price7>937.85</Price7>
+<Price8>872.64</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-rebalancing-cleansing-gel-400-ml-11407.webp</Image1>
