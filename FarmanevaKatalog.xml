@@ -14219,7 +14219,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>51</Stock>
+<Stock>50</Stock>
 <Miad>2028-01-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -38072,7 +38072,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>106</Stock>
+<Stock>104</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -49730,7 +49730,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>380</Stock>
+<Stock>383</Stock>
 <Miad>2029-01-01</Miad>
 <Price>314.41</Price>
 <Price2>403.51</Price2>
@@ -63255,14 +63255,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>552.50</Price>
-<Price2>696.04</Price2>
-<Price3>696.04</Price3>
-<Price4>759.69</Price4>
-<Price5>726.51</Price5>
-<Price6>733.70</Price6>
-<Price7>1072.40</Price7>
-<Price8>1002.32</Price8>
+<Price>619.48</Price>
+<Price2>775.63</Price2>
+<Price3>775.63</Price3>
+<Price4>848.10</Price4>
+<Price5>814.59</Price5>
+<Price6>818.87</Price6>
+<Price7>1177.06</Price7>
+<Price8>1103.19</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.webp</Image1>
@@ -77840,7 +77840,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2027-07-01</Miad>
 <Price>585.65</Price>
 <Price2>708.07</Price2>
