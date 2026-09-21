@@ -28765,7 +28765,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>120</Stock>
+<Stock>114</Stock>
 <Miad>2029-08-01</Miad>
 <Price>590.66</Price>
 <Price2>713.85</Price2>
@@ -37025,7 +37025,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2027-09-01</Miad>
 <Price>392.61</Price>
 <Price2>485.33</Price2>
@@ -60334,7 +60334,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2029-03-01</Miad>
 <Price>875.42</Price>
 <Price2>1042.41</Price2>
@@ -63255,14 +63255,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>619.48</Price>
-<Price2>775.63</Price2>
-<Price3>775.63</Price3>
-<Price4>848.10</Price4>
-<Price5>814.59</Price5>
-<Price6>818.87</Price6>
-<Price7>1177.06</Price7>
-<Price8>1103.19</Price8>
+<Price>552.50</Price>
+<Price2>696.04</Price2>
+<Price3>696.04</Price3>
+<Price4>759.69</Price4>
+<Price5>726.51</Price5>
+<Price6>733.70</Price6>
+<Price7>1072.40</Price7>
+<Price8>1002.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/shiniq-leke-karsiti-gunes-koruyucu-spf50-40-ml-11389.webp</Image1>
@@ -64410,14 +64410,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>524.34</Price2>
-<Price3>524.34</Price3>
-<Price4>568.95</Price4>
-<Price5>536.50</Price5>
-<Price6>549.95</Price6>
-<Price7>846.62</Price7>
-<Price8>784.70</Price8>
+<Price>373.91</Price>
+<Price2>483.84</Price2>
+<Price3>483.84</Price3>
+<Price4>523.96</Price4>
+<Price5>491.68</Price5>
+<Price6>506.60</Price6>
+<Price7>793.35</Price7>
+<Price8>733.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/siveno-bebek-gunes-kremi-leke-karsiti-antioksidan-nemlendirici-bitkisel-vegan-uva-uvb-spf50-50-ml-11430.webp</Image1>
@@ -76523,14 +76523,14 @@
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
-<Price>424.06</Price>
-<Price2>543.43</Price2>
-<Price3>543.43</Price3>
-<Price4>590.15</Price4>
-<Price5>557.62</Price5>
-<Price6>570.37</Price6>
-<Price7>871.71</Price7>
-<Price8>808.89</Price8>
+<Price>424.91</Price>
+<Price2>544.44</Price2>
+<Price3>544.44</Price3>
+<Price4>591.28</Price4>
+<Price5>558.74</Price5>
+<Price6>571.45</Price6>
+<Price7>873.04</Price7>
+<Price8>810.17</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/phyto-phytodetox-sampuan-oncesi-arindirici-maske-125-ml-21643.webp</Image1>
@@ -77147,7 +77147,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2029-05-01</Miad>
 <Price>806.56</Price>
 <Price2>997.92</Price2>
@@ -78387,7 +78387,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2028-11-01</Miad>
 <Price>524.37</Price>
 <Price2>637.36</Price2>
