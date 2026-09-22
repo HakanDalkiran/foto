@@ -52,7 +52,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2028-10-01</Miad>
 <Price>267.86</Price>
 <Price2>356.00</Price2>
@@ -6690,7 +6690,7 @@
 <category><![CDATA[Göz Çevresi Bakımı]]></category>
 <subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>300.15</Price>
 <Price2>334.00</Price2>
@@ -7096,7 +7096,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>100.00</Price>
 <Price2>200.00</Price2>
@@ -10568,7 +10568,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2028-10-01</Miad>
 <Price>49.04</Price>
 <Price2>72.96</Price2>
@@ -11103,7 +11103,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>200.00</Price>
 <Price2>504.81</Price2>
@@ -12866,7 +12866,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>524.90</Price>
 <Price2>586.89</Price2>
@@ -14485,7 +14485,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>5</Stock>
 <Miad>2027-07-01</Miad>
 <Price>192.59</Price>
 <Price2>228.00</Price2>
@@ -14650,6 +14650,52 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00355]]></Product_code>
+<Barcode>8683060770070</Barcode>
+<Name><![CDATA[Enterogermina Family 5 ml x 20 Flakon]]></Name>
+<Brand><![CDATA[Enterogermina]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Probiyotik]]></category>
+<Tax>10</Tax>
+<Stock>257</Stock>
+<Miad>2028-01-01</Miad>
+<Price>530.00</Price>
+<Price2>649.15</Price2>
+<Price3>649.15</Price3>
+<Price4>707.50</Price4>
+<Price5>681.69</Price5>
+<Price6>688.51</Price6>
+<Price7>935.49</Price7>
+<Price8>886.06</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8684.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8685.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8686.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/enterogermina-family-probiyotik-5-ml-20-flakon-8687.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Enterogermina Family Probiyotik 5 ml 20 Flakon</strong>, Bacillus clausii sporlar&#305; i&#231;eren, probiyotik mikroorganizma temelli bir takviye edici g&#305;dad&#305;r. Her flakonu 5 ml s&#305;v&#305; i&#231;inde 4 milyar (4x10&#8313;) CFU Bacillus clausii sunar; ailenin farkl&#305; bireyleri i&#231;in g&#252;nl&#252;k probiyotik deste&#287;i arayanlara y&#246;neliktir.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Flakon ba&#351;&#305;na 4 milyar CFU Bacillus clausii sporu i&#231;erir</li>
+<li>&#304;&#231;meye haz&#305;r 5 ml s&#305;v&#305; flakon formu</li>
+<li>T&#252;m aile bireyleri i&#231;in uygundur</li>
+<li>Glutensiz, laktozsuz ve &#351;ekersiz form&#252;l</li>
+<li>Oda s&#305;cakl&#305;&#287;&#305;nda saklanabilir, buzdolab&#305; gerektirmez</li>
+<li>Seyahatte kolay ta&#351;&#305;nabilir pratik ambalaj</li>
+<li>&#199;alkala, a&#231;, i&#231; ad&#305;mlar&#305;yla kolay kullan&#305;m</li>
+<li>Ba&#287;&#305;rsak floras&#305;n&#305; desteklemeye y&#246;nelik</li>
+<li>20 flakonluk ekonomik ambalaj</li>
+<li>Pratik tek kullan&#305;ml&#305;k flakonlar</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Genellikle g&#252;nde 1 flakon (5 ml) al&#305;nmas&#305; &#246;nerilir. Flakonu kullanmadan &#246;nce &#231;alkalay&#305;n, kapa&#287;&#305;n&#305; a&#231;&#305;n ve i&#231;eri&#287;ini do&#287;rudan i&#231;in ya da bir i&#231;ece&#287;e ekleyin. Kesin kullan&#305;m ve doz i&#231;in ambalaj &#252;zerindeki talimatlar&#305; izleyin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Dengeli ve &#231;e&#351;itli beslenmenin yerini tutmaz. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Farmaneva g&#252;vencesiyle ailenizin g&#252;nl&#252;k probiyotik deste&#287;ine pratik bir se&#231;enek sunar.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00356]]></Product_code>
 <Barcode>8683060770124</Barcode>
 <Name><![CDATA[Enterogermina Kids 5 ml 10 Flakon]]></Name>
@@ -14657,7 +14703,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>139</Stock>
 <Miad>2027-05-01</Miad>
 <Price>305.06</Price>
 <Price2>329.00</Price2>
@@ -16147,7 +16193,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>84.82</Price>
 <Price2>80.00</Price2>
@@ -19084,7 +19130,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2029-01-01</Miad>
 <Price>348.21</Price>
 <Price2>350.00</Price2>
@@ -24156,7 +24202,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Medikal Krem & Sprey]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>260</Stock>
 <Miad>2027-03-01</Miad>
 <Price>400.00</Price>
 <Price2>650.00</Price2>
@@ -24415,6 +24461,49 @@
 <h2>Uyar&#305;lar</h2>
 <p>Bu &#252;r&#252;n t&#305;bbi te&#351;his arac&#305; de&#287;ildir ve hekim muayenesinin yerini tutmaz; &#246;l&#231;&#252;m sonu&#231;lar&#305; tek ba&#351;&#305;na tan&#305; amac&#305;yla kullan&#305;lmamal&#305;d&#305;r. Kurulum, &#246;l&#231;&#252;m ko&#351;ullar&#305; ve bak&#305;m i&#231;in &#252;r&#252;n k&#305;lavuzuna ba&#351;vurun.</p>
 <p>Farmaneva g&#252;vencesiyle orijinal &#252;r&#252;n olarak sunulur.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00588]]></Product_code>
+<Barcode>6947707703251</Barcode>
+<Name><![CDATA[Mesilife AS-55A Bilekten Ölçer Dijital Tansiyon Aleti]]></Name>
+<Brand><![CDATA[Mesilife]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Tansiyon Aleti]]></category>
+<Tax>10</Tax>
+<Stock>27</Stock>
+<Miad></Miad>
+<Price>569.41</Price>
+<Price2>650.00</Price2>
+<Price3>650.00</Price3>
+<Price4>699.00</Price4>
+<Price5>699.00</Price5>
+<Price6>699.00</Price6>
+<Price7>764.00</Price7>
+<Price8>764.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/mesilife-as-55a-bilekten-olcer-dijital-tansiyon-aleti-9168.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/mesilife-as-55a-bilekten-olcer-dijital-tansiyon-aleti-9169.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/mesilife-as-55a-bilekten-olcer-dijital-tansiyon-aleti-9170.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Mesilife AS-55A Bilekten Ölçer Dijital Tansiyon Aleti</strong>, bilekten ölçüm yapan, tam otomatik dijital bir tansiyon aletidir. Tansiyonunu evde düzenli olarak takip etmek isteyenler için tasarlanmıştır. Tek tuşla ölçüm alır, sonucu dijital ekranında gösterir ve ölçümleri hafızasında saklar</p>
+<h2>Mesilife AS-55A Bilekten Ölçer Dijital Tansiyon Aleti Özellikleri</h2>
+<ul>
+<li>Bilekten ölçüm yapar; kol manşonu gerektirmez.</li>
+<li>Tam otomatik ölçüm için tek tuşla çalışır.</li>
+<li>Dijital ekranda okunaklı sonuç gösterir.</li>
+<li>Büyük ve küçük tansiyon ile nabız değerini birlikte verir.</li>
+<li>Ölçüm kayıtlarını hafızasında saklar.</li>
+<li>Pille çalışır; priz bağlantısı gerektirmez.</li>
+<li>Saklama kutusuyla birlikte sunulur.</li>
+<li>Kompakt boyutuyla seyahatte taşınabilir.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Cihazı bileğe, avuç içi yukarı bakacak şekilde ve el bileği kıvrımının yaklaşık iki parmak üstüne yerleştirin. Kolunuzu kalp hizasına getirip hareketsiz oturun ve başlat tuşuna basın. Ölçümden önce birkaç dakika dinlenin; daha güvenilir sonuç için ölçümü her gün aynı saatte tekrarlayın.</p>
+<h2>Uyarılar</h2>
+<p>Tıbbi cihazdır; ölçüm sonuçları teşhis yerine geçmez. Sonuçlarınıza göre ilaç başlamayın veya bırakmayın, hekiminize danışın. Cihazı düşürmeyin, ıslatmayın ve doğrudan güneş ışığında bırakmayın. Uzun süre kullanılmayacaksa pilleri çıkarın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Tansiyonunu evde düzenli takip etmek isteyenler Mesilife AS-55A tansiyon aletini Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -25471,7 +25560,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>48</Stock>
 <Miad>2029-04-01</Miad>
 <Price>1769.39</Price>
 <Price2>1850.00</Price2>
@@ -25515,7 +25604,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>58</Stock>
 <Miad>2029-04-01</Miad>
 <Price>861.11</Price>
 <Price2>950.00</Price2>
@@ -27866,7 +27955,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2026-11-01</Miad>
 <Price>199.11</Price>
 <Price2>235.04</Price2>
@@ -37177,7 +37266,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>2028-11-01</Miad>
 <Price>150.00</Price>
 <Price2>215.67</Price2>
@@ -39794,7 +39883,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>208.18</Price>
 <Price2>244.83</Price2>
@@ -41511,6 +41600,51 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00976]]></Product_code>
+<Barcode>8683060150018</Barcode>
+<Name><![CDATA[Pharmaton 50 Plus 30 Kapsül]]></Name>
+<Brand><![CDATA[Pharmaton]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>38</Stock>
+<Miad>2027-04-01</Miad>
+<Price>420.00</Price>
+<Price2>498.00</Price2>
+<Price3>498.00</Price3>
+<Price4>498.00</Price4>
+<Price5>498.00</Price5>
+<Price6>498.00</Price6>
+<Price7>724.43</Price7>
+<Price8>685.15</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10039.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10040.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10041.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10042.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Pharmaton 50 Plus 30 Kapsül</strong>, 50 yaş üzerindeki yetişkinlerin günlük vitamin ve mineral ihtiyacı düşünülerek hazırlanmış bir takviye edici gıdadır. Ginseng ekstresi ile vitamin ve mineralleri bir arada içerir. 30 kapsüllük ambalajıyla bir aylık düzenli kullanıma uygundur</p>
+<h2>Pharmaton 50 Plus 30 Kapsül Özellikleri</h2>
+<ul>
+<li>30 kapsüllük ambalajda sunulur.</li>
+<li>50 yaş ve üzeri yetişkinler için hazırlanmıştır.</li>
+<li>Ginseng ekstresi içerir.</li>
+<li>Vitamin ve mineralleri bir arada sunar.</li>
+<li>Günlük beslenmenin desteklenmesine katkıda bulunur.</li>
+<li>Günde tek kapsül kullanım kolaylığı sağlar.</li>
+<li>Bir aylık kullanıma yetecek miktardadır.</li>
+<li>Günlük rutine kolayca eklenir.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde 1 kapsül, tercihen kahvaltıyla birlikte bir bardak su ile alınır. Ambalaj üzerindeki kullanım talimatına uyun; farklı bir kullanım için hekiminize ya da eczacınıza danışın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin ve sağlıklı yaşam biçiminin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Sürekli ilaç kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>50 yaş üstü günlük desteğini arayanlar Pharmaton 50 Plus'ı Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00977]]></Product_code>
 <Barcode>8699809190160</Barcode>
 <Name><![CDATA[Pharmaton 50 Plus 30 Kapsül - Omega 3 Multivitamin ve Mineraller]]></Name>
@@ -42757,7 +42891,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>39.29</Price>
 <Price2>60.00</Price2>
@@ -43068,7 +43202,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>80.36</Price>
 <Price2>110.00</Price2>
@@ -43482,7 +43616,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>80.36</Price>
 <Price2>110.00</Price2>
@@ -43843,7 +43977,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>44.90</Price>
 <Price2>68.49</Price2>
@@ -44424,7 +44558,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>83.33</Price>
 <Price2>110.00</Price2>
@@ -44605,7 +44739,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>40.17</Price>
 <Price2>63.38</Price2>
@@ -46768,7 +46902,7 @@
 <category><![CDATA[Sporcu Ürünleri]]></category>
 <subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>2030-09-01</Miad>
 <Price>33.33</Price>
 <Price2>56.00</Price2>
@@ -47693,7 +47827,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2027-01-01</Miad>
 <Price>305.36</Price>
 <Price2>337.00</Price2>
@@ -51986,6 +52120,45 @@
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Pratik sa&#351;e formunda magnezyum deste&#287;i arayanlar Magnimore Plus &#350;ase'yi Farmaneva g&#252;vencesiyle edinebilir.</p>
 </section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01225]]></Product_code>
+<Barcode>8680133000669</Barcode>
+<Name><![CDATA[Magnimore Plus 60 Tablet]]></Name>
+<Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>42</Stock>
+<Miad>2030-01-01</Miad>
+<Price>520.00</Price>
+<Price2>669.00</Price2>
+<Price3>669.00</Price3>
+<Price4>699.00</Price4>
+<Price5>699.00</Price5>
+<Price6>699.00</Price6>
+<Price7>859.00</Price7>
+<Price8>859.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/tab-ilac-magnimore-plus-60-tablet-10491.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Magnimore Plus 60 Tablet</strong>, magnezyum asetil taurat, bisglisinat ve malat formlar&#305;n&#305; P5P (B6) ile bir araya getiren, g&#252;nl&#252;k magnezyum deste&#287;i sa&#287;layan bir takviye edici g&#305;dad&#305;r. Tablet formunu tercih eden yeti&#351;kinler i&#231;in 60 tabletlik ambalajda sunulur.</p>
+<h2>Magnimore Plus Tablet &#214;zellikleri</h2>
+<ul>
+<li>ATA-Mg, bisglisinat ve malat formlar&#305;nda magnezyum i&#231;erir.</li>
+<li>Pridoksal 5-fosfat (P5P/B6) ile zenginle&#351;tirilmi&#351;tir.</li>
+<li>Magnezyum yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li>
+<li>Normal kas ve sinir sistemi i&#351;leyi&#351;ine katk&#305; sa&#287;lar.</li>
+<li>G&#252;nde 1 tabletle pratik kullan&#305;m sunar.</li>
+<li>60 tabletlik ambalaj&#305; ile yakla&#351;&#305;k iki ayl&#305;k kullan&#305;m sa&#287;lar.</li>
+<li>Dengeli beslenmeyi tamamlay&#305;c&#305; olarak de&#287;erlendirilebilir.</li></ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>11 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in g&#252;nde 1 tablet, tercihen &#246;&#287;&#252;nden 2 saat sonra bir bardak su ile al&#305;nmas&#305; tavsiye edilir.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Tablet formunda magnezyum-B6 deste&#287;i arayanlar Magnimore Plus'&#305; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01226]]></Product_code>
