@@ -21541,13 +21541,13 @@
 <Stock>0</Stock>
 <Miad>2027-04-01</Miad>
 <Price>2246.48</Price>
-<Price2>2361.50</Price2>
-<Price3>2361.50</Price3>
-<Price4>2609.81</Price4>
-<Price5>2569.63</Price5>
+<Price2>2446.20</Price2>
+<Price3>2446.20</Price3>
+<Price4>2516.06</Price4>
+<Price5>2516.06</Price5>
 <Price6>2516.06</Price6>
-<Price7>3262.48</Price7>
-<Price8>3113.24</Price8>
+<Price7>3183.56</Price7>
+<Price8>3183.56</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/la-roche-posay-effaclar-ultra-concentrated-serum-30-ml-8998.webp</Image1>
@@ -25757,7 +25757,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2026-10-01</Miad>
 <Price>535.33</Price>
 <Price2>675.64</Price2>
@@ -26752,9 +26752,9 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2026-11-01</Miad>
-<Price>611.91</Price>
+<Price>718.43</Price>
 <Price2>766.63</Price2>
 <Price3>766.63</Price3>
 <Price4>838.11</Price4>
