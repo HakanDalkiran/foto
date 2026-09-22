@@ -10065,9 +10065,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-03-01</Miad>
-<Price>840.56</Price>
+<Price>919.50</Price>
 <Price2>1002.19</Price2>
 <Price3>1002.19</Price3>
 <Price4>1080.37</Price4>
@@ -12868,7 +12868,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>446.16</Price>
+<Price>524.90</Price>
 <Price2>586.89</Price2>
 <Price3>586.89</Price3>
 <Price4>587.89</Price4>
@@ -21406,7 +21406,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>146</Stock>
+<Stock>144</Stock>
 <Miad>2026-10-01</Miad>
 <Price>701.16</Price>
 <Price2>872.68</Price2>
@@ -21857,7 +21857,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1988.91</Price>
 <Price2>2402.80</Price2>
@@ -25757,7 +25757,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2026-10-01</Miad>
 <Price>535.33</Price>
 <Price2>675.64</Price2>
@@ -37114,13 +37114,13 @@
 <Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>439.05</Price>
-<Price2>485.33</Price2>
-<Price3>485.33</Price3>
-<Price4>517.60</Price4>
+<Price2>494.17</Price2>
+<Price3>494.17</Price3>
+<Price4>491.74</Price4>
 <Price5>491.74</Price5>
-<Price6>503.78</Price6>
-<Price7>724.90</Price7>
-<Price8>680.08</Price8>
+<Price6>491.74</Price6>
+<Price7>710.09</Price7>
+<Price8>710.09</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/ocean-gummies-iron-demir-60-cignenebilir-jel-9838.webp</Image1>
@@ -49023,9 +49023,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
-<Price>577.91</Price>
+<Price>644.14</Price>
 <Price2>699.14</Price2>
 <Price3>699.14</Price3>
 <Price4>750.40</Price4>
@@ -50931,13 +50931,13 @@
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
 <Price>567.38</Price>
-<Price2>617.73</Price2>
-<Price3>617.73</Price3>
-<Price4>661.77</Price4>
+<Price2>632.77</Price2>
+<Price3>632.77</Price3>
+<Price4>635.47</Price4>
 <Price5>635.47</Price5>
-<Price6>643.69</Price6>
-<Price7>889.53</Price7>
-<Price8>840.08</Price8>
+<Price6>635.47</Price6>
+<Price7>885.71</Price7>
+<Price8>885.71</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/tab-ilac-magnimore-kids-200-ml-10489.webp</Image1>
@@ -60337,7 +60337,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2027-08-01</Miad>
 <Price>1062.41</Price>
 <Price2>1258.17</Price2>
@@ -62088,9 +62088,9 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>160.56</Price>
+<Price>210.09</Price>
 <Price2>230.33</Price2>
 <Price3>230.33</Price3>
 <Price4>242.34</Price4>
@@ -64368,9 +64368,9 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Organik & Doğal]]></category>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
-<Price>242.16</Price>
+<Price>302.73</Price>
 <Price2>327.29</Price2>
 <Price3>327.29</Price3>
 <Price4>350.05</Price4>
