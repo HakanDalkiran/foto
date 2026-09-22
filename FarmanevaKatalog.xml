@@ -14650,49 +14650,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00356]]></Product_code>
-<Barcode>8683060770124</Barcode>
-<Name><![CDATA[Enterogermina Kids 5 ml 10 Flakon]]></Name>
-<Brand><![CDATA[Enterogermina]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Probiyotik]]></category>
-<Tax>1</Tax>
-<Stock>5</Stock>
-<Miad>2027-02-01</Miad>
-<Price>249.00</Price>
-<Price2>303.00</Price2>
-<Price3>303.00</Price3>
-<Price4>313.98</Price4>
-<Price5>330.44</Price5>
-<Price6>323.00</Price6>
-<Price7>513.59</Price7>
-<Price8>427.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-10-flakon-8688.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-10-flakon-8689.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/enterogermina-kids-5-ml-10-flakon-8690.webp</Image3>
-<Description><![CDATA[<section>
-<p><strong>Enterogermina Kids 5 ml 10 Flakon</strong>, Bacillus clausii sporları içeren, çocuklar için hazırlanmış 5 ml'lik içilebilir flakonlardan oluşan bir takviye edici gıdadır. 10 flakonluk ambalajıyla kısa süreli kullanım için uygundur ve çocukların kolayca tüketebileceği şekilde hazırlanmıştır</p>
-<h2>Enterogermina Kids 5 ml 10 Flakon Özellikleri</h2>
-<ul>
-<li>Her kutuda 5 ml'lik 10 adet içilebilir flakon bulunur.</li>
-<li>Bacillus clausii sporları içerir.</li>
-<li>Çocuklar için hazırlanmış formda sunulur.</li>
-<li>Flakon içeriği doğrudan ya da içecekle karıştırılarak alınabilir.</li>
-<li>Tek kullanımlık flakonlar hijyenik kullanım sağlar.</li>
-<li>Oda sıcaklığında saklanabilir.</li>
-<li>Yanında ölçek veya kaşık gerektirmez.</li>
-<li>Seyahatte ve okulda taşınması kolaydır.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Flakonun üst kısmı kırılarak açılır ve içeriği doğrudan ağza boşaltılır ya da bir miktar su, süt veya meyve suyuna karıştırılarak içirilir. Günlük kullanım miktarı için ambalaj üzerindeki talimata ve hekim önerisine uyulmalıdır.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde, ilaç kullanımında veya çocuklarda hekime danışarak kullanın. Çocukların erişemeyeceği yerde, serin ve kuru ortamda saklayın.</p>
-<p>Çocuğu için pratik flakon formunu tercih eden ebeveynler Enterogermina Kids'i Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00358]]></Product_code>
 <Barcode>8683060770063</Barcode>
 <Name><![CDATA[Enterogermina Family 5 ml 10 Flakon]]></Name>
@@ -21458,7 +21415,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>144</Stock>
+<Stock>142</Stock>
 <Miad>2026-10-01</Miad>
 <Price>701.16</Price>
 <Price2>872.68</Price2>
@@ -21919,7 +21876,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1988.91</Price>
 <Price2>2402.80</Price2>
@@ -26009,9 +25966,9 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Yağı]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
-<Price>535.33</Price>
+<Price>633.69</Price>
 <Price2>675.64</Price2>
 <Price3>675.64</Price3>
 <Price4>737.02</Price4>
@@ -78260,9 +78217,9 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-04-01</Miad>
-<Price>764.91</Price>
+<Price>896.25</Price>
 <Price2>948.43</Price2>
 <Price3>948.43</Price3>
 <Price4>1040.06</Price4>
