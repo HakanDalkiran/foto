@@ -25969,13 +25969,13 @@
 <Stock>0</Stock>
 <Miad>2026-10-01</Miad>
 <Price>633.69</Price>
-<Price2>675.64</Price2>
-<Price3>675.64</Price3>
-<Price4>737.02</Price4>
-<Price5>703.94</Price5>
-<Price6>711.86</Price6>
-<Price7>1045.57</Price7>
-<Price8>976.46</Price8>
+<Price2>704.39</Price2>
+<Price3>704.39</Price3>
+<Price4>709.73</Price4>
+<Price5>709.73</Price5>
+<Price6>709.73</Price6>
+<Price7>976.45</Price7>
+<Price8>976.45</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/mustela-bebek-yagi-100-ml-9225.webp</Image1>
@@ -27837,6 +27837,7 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-39215.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-42291.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/natuwell-omega-vm-30-tablet-42304.webp</Image3>
 <Description><![CDATA[<section>
 <p><strong>Natuwell Omega Vm 30 Tablet</strong>, omega yağ asitleri ile vitamin ve mineralleri bir arada sunan bir takviye edici gıdadır. Günlük beslenmesini tek üründe desteklemek isteyen yetişkinler için hazırlanmıştır. 30 tabletlik ambalajıyla bir aylık düzenli kullanıma uygundur</p>
 <h2>Natuwell Omega Vm 30 Tablet Özellikleri</h2>
@@ -41645,6 +41646,49 @@
 <h2>Uyar&#305;lar</h2>
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n tedavisi veya &#246;nlenmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n, dengeli ve &#231;e&#351;itli beslenmenin yerini tutmaz; hamilelik, emzirme veya d&#252;zenli ila&#231; kullan&#305;m&#305;nda hekiminize dan&#305;&#351;&#305;n.</p>
 <p>Farmaneva g&#252;vencesiyle g&#252;nl&#252;k canl&#305;l&#305;k deste&#287;ini evinize ta&#351;&#305;r.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00980]]></Product_code>
+<Barcode>8683060010220</Barcode>
+<Name><![CDATA[Pharmaton Vitality 30 Kapsül]]></Name>
+<Brand><![CDATA[Pharmaton]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>61</Stock>
+<Miad>2027-03-01</Miad>
+<Price>300.00</Price>
+<Price2>366.55</Price2>
+<Price3>366.55</Price3>
+<Price4>375.00</Price4>
+<Price5>372.86</Price5>
+<Price6>370.00</Price6>
+<Price7>561.40</Price7>
+<Price8>594.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/pharmaton-vitality-30-tablet-10057.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/pharmaton-vitality-30-tablet-10058.webp</Image2>
+<Description><![CDATA[<section>
+<p><strong>Pharmaton Vitality 30 Tablet</strong>, ginseng ekstresi ile vitamin ve mineralleri bir arada içeren bir takviye edici gıdadır. Yoğun temposunda günlük beslenmesini desteklemek isteyen yetişkinler için hazırlanmıştır. 30 tabletlik ambalajıyla bir aylık düzenli kullanıma uygundur</p>
+<h2>Pharmaton Vitality 30 Tablet Özellikleri</h2>
+<ul>
+<li>30 tabletlik ambalajda sunulur.</li>
+<li>Ginseng ekstresi içerir.</li>
+<li>Vitamin ve mineralleri bir arada sunar.</li>
+<li>Günlük beslenmenin desteklenmesine katkıda bulunur.</li>
+<li>Yetişkinlerin günlük kullanımı için hazırlanmıştır.</li>
+<li>Günde tek tablet kullanım kolaylığı sağlar.</li>
+<li>Bir aylık kullanıma yetecek miktardadır.</li>
+<li>Günlük rutine kolayca eklenir.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde 1 tablet, tercihen kahvaltıyla birlikte bir bardak su ile alınır. Ambalaj üzerindeki kullanım talimatına uyun; farklı bir kullanım için hekiminize ya da eczacınıza danışın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin ve sağlıklı yaşam biçiminin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Sürekli ilaç kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Günlük vitamin ve mineral desteğini tek üründe arayanlar Pharmaton Vitality'yi Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -78265,13 +78309,13 @@
 <Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>896.25</Price>
-<Price2>948.43</Price2>
-<Price3>948.43</Price3>
-<Price4>1040.06</Price4>
-<Price5>1005.83</Price5>
+<Price2>987.95</Price2>
+<Price3>987.95</Price3>
+<Price4>1003.80</Price4>
+<Price5>1003.80</Price5>
 <Price6>1003.80</Price6>
-<Price7>1404.29</Price7>
-<Price8>1322.21</Price8>
+<Price7>1335.77</Price7>
+<Price8>1335.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/la-roche-posay-effaclar-supramolecular-temizleme-jeli-200-ml-78113.webp</Image1>
