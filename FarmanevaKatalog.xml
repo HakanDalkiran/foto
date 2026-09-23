@@ -1907,7 +1907,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2027-12-01</Miad>
 <Price>824.41</Price>
 <Price2>983.55</Price2>
@@ -38386,7 +38386,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>350.11</Price>
 <Price2>436.29</Price2>
