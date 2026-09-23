@@ -1137,9 +1137,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>75</Stock>
+<Stock>0</Stock>
 <Miad>2026-10-01</Miad>
-<Price>127.42</Price>
+<Price>147.55</Price>
 <Price2>179.35</Price2>
 <Price3>179.35</Price3>
 <Price4>184.44</Price4>
@@ -8879,7 +8879,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2029-01-01</Miad>
 <Price>636.56</Price>
 <Price2>766.81</Price2>
@@ -72607,7 +72607,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>49</Stock>
+<Stock>52</Stock>
 <Miad>2029-01-01</Miad>
 <Price>391.85</Price>
 <Price2>484.45</Price2>
@@ -76124,16 +76124,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>2028-06-01</Miad>
-<Price>614.74</Price>
-<Price2>683.92</Price2>
-<Price3>683.92</Price3>
-<Price4>688.51</Price4>
-<Price5>688.51</Price5>
-<Price6>688.51</Price6>
-<Price7>950.52</Price7>
-<Price8>950.52</Price8>
+<Price>549.01</Price>
+<Price2>665.79</Price2>
+<Price3>665.79</Price3>
+<Price4>714.09</Price4>
+<Price5>687.63</Price5>
+<Price6>694.46</Price6>
+<Price7>949.29</Price7>
+<Price8>898.15</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/wellteen-him-13-19-years-30-tablet-21460.webp</Image1>
