@@ -16422,7 +16422,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>214.20</Price>
+<Price>270.99</Price>
 <Price2>294.07</Price2>
 <Price3>294.07</Price3>
 <Price4>313.15</Price4>
@@ -51082,9 +51082,9 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>1146.65</Price>
+<Price>1329.67</Price>
 <Price2>1402.02</Price2>
 <Price3>1402.02</Price3>
 <Price4>1543.94</Price4>
@@ -70388,7 +70388,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>9</Stock>
 <Miad>2028-11-01</Miad>
 <Price>449.65</Price>
 <Price2>551.15</Price2>
