@@ -6966,16 +6966,16 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>17</Stock>
+<Stock>19</Stock>
 <Miad>2027-10-01</Miad>
-<Price>327.16</Price>
-<Price2>418.43</Price2>
-<Price3>418.43</Price3>
-<Price4>447.78</Price4>
-<Price5>419.20</Price5>
-<Price6>434.72</Price6>
-<Price7>671.41</Price7>
-<Price8>622.51</Price8>
+<Price>347.56</Price>
+<Price2>442.30</Price2>
+<Price3>442.30</Price3>
+<Price4>474.00</Price4>
+<Price5>445.34</Price5>
+<Price6>460.08</Price6>
+<Price7>701.86</Price7>
+<Price8>651.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/blephaclean-steril-goz-pedi-20-li-8220.webp</Image1>
@@ -10137,7 +10137,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>34</Stock>
+<Stock>33</Stock>
 <Miad>2027-09-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -17607,7 +17607,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2028-09-01</Miad>
 <Price>466.56</Price>
 <Price2>570.66</Price2>
@@ -27516,7 +27516,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2027-04-01</Miad>
 <Price>986.00</Price>
 <Price2>1170.00</Price2>
@@ -32178,14 +32178,14 @@
 <Tax>1</Tax>
 <Stock>24</Stock>
 <Miad>2027-10-01</Miad>
-<Price>704.56</Price>
-<Price2>845.27</Price2>
-<Price3>845.27</Price3>
-<Price4>909.51</Price4>
-<Price5>882.46</Price5>
-<Price6>884.11</Price6>
-<Price7>1172.46</Price7>
-<Price8>1115.03</Price8>
+<Price>667.16</Price>
+<Price2>802.12</Price2>
+<Price3>802.12</Price3>
+<Price4>862.52</Price4>
+<Price5>835.62</Price5>
+<Price6>838.51</Price6>
+<Price7>1118.80</Price7>
+<Price8>1062.89</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/nutrof-total-30-kapsul-9514.webp</Image1>
@@ -36329,7 +36329,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1211.16</Price>
 <Price2>1429.80</Price2>
@@ -36879,7 +36879,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>11</Stock>
 <Miad>2027-09-01</Miad>
 <Price>402.81</Price>
 <Price2>497.10</Price2>
@@ -44723,7 +44723,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>31</Stock>
+<Stock>28</Stock>
 <Miad>2029-04-01</Miad>
 <Price>259.16</Price>
 <Price2>338.88</Price2>
@@ -45615,7 +45615,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2028-05-01</Miad>
 <Price>137.62</Price>
 <Price2>196.69</Price2>
@@ -49277,16 +49277,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-09-01</Miad>
-<Price>344.96</Price>
-<Price2>392.56</Price2>
-<Price3>392.56</Price3>
-<Price4>386.36</Price4>
-<Price5>386.36</Price5>
-<Price6>386.36</Price6>
-<Price7>581.33</Price7>
-<Price8>581.33</Price8>
+<Stock>1</Stock>
+<Miad>2028-12-01</Miad>
+<Price>296.64</Price>
+<Price2>374.60</Price2>
+<Price3>374.60</Price3>
+<Price4>397.04</Price4>
+<Price5>371.54</Price5>
+<Price6>386.78</Price6>
+<Price7>587.21</Price7>
+<Price8>546.27</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/solgar-methylcobalamin-1000-mcg-30-tablet-10427.webp</Image1>
@@ -55349,7 +55349,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>2028-05-01</Miad>
 <Price>1317.41</Price>
 <Price2>1604.92</Price2>
@@ -60818,7 +60818,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>201</Stock>
+<Stock>200</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -60947,7 +60947,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>67</Stock>
+<Stock>66</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -76127,14 +76127,14 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2028-06-01</Miad>
-<Price>549.01</Price>
-<Price2>665.79</Price2>
-<Price3>665.79</Price3>
-<Price4>714.09</Price4>
-<Price5>687.63</Price5>
-<Price6>694.46</Price6>
-<Price7>949.29</Price7>
-<Price8>898.15</Price8>
+<Price>549.87</Price>
+<Price2>666.78</Price2>
+<Price3>666.78</Price3>
+<Price4>715.17</Price4>
+<Price5>688.71</Price5>
+<Price6>695.51</Price6>
+<Price7>950.52</Price7>
+<Price8>899.35</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/wellteen-him-13-19-years-30-tablet-21460.webp</Image1>
@@ -77885,9 +77885,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-07-01</Miad>
-<Price>585.65</Price>
+<Price>652.25</Price>
 <Price2>708.07</Price2>
 <Price3>708.07</Price3>
 <Price4>760.12</Price4>
