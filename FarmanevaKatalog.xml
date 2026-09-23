@@ -2805,16 +2805,16 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2027-01-01</Miad>
+<Stock>235</Stock>
+<Miad>2027-10-01</Miad>
 <Price>465.71</Price>
-<Price2>503.73</Price2>
-<Price3>503.73</Price3>
-<Price4>501.65</Price4>
-<Price5>501.65</Price5>
-<Price6>501.65</Price6>
-<Price7>722.20</Price7>
-<Price8>722.20</Price8>
+<Price2>580.51</Price2>
+<Price3>580.51</Price3>
+<Price4>625.91</Price4>
+<Price5>596.73</Price5>
+<Price6>607.00</Price6>
+<Price7>878.20</Price7>
+<Price8>822.73</Price8>
 <CurrencyType>TRL</CurrencyType>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/artelac-advanced-goz-damlasi-0-5-ml-x-30-adet-7885.webp</Image1>
@@ -78115,13 +78115,13 @@
 <Stock>1</Stock>
 <Miad></Miad>
 <Price>3116.86</Price>
-<Price2>3980.25</Price2>
-<Price3>3980.25</Price3>
-<Price4>4106.93</Price4>
-<Price5>4106.93</Price5>
-<Price6>4106.93</Price6>
-<Price7>5127.40</Price7>
-<Price8>5127.40</Price8>
+<Price2>3743.05</Price2>
+<Price3>3743.05</Price3>
+<Price4>4144.54</Price4>
+<Price5>4098.54</Price5>
+<Price6>3994.58</Price6>
+<Price7>5079.21</Price7>
+<Price8>4864.31</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IRA70B</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01840</SaticiStokKodu>
@@ -80198,7 +80198,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>86</Stock>
+<Stock>12</Stock>
 <Miad>2026-11-01</Miad>
 <Price>97.33</Price>
 <Price2>149.56</Price2>
@@ -80811,8 +80811,8 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tens Cihazı Aksesuarları]]></category>
 <Tax>10</Tax>
-<Stock>290</Stock>
-<Miad>2026-11-01</Miad>
+<Stock>292</Stock>
+<Miad>2027-11-01</Miad>
 <Price>55.17</Price>
 <Price2>100.24</Price2>
 <Price3>100.24</Price3>
