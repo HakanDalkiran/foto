@@ -2809,7 +2809,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>233</Stock>
+<Stock>234</Stock>
 <Miad>2027-10-01</Miad>
 <Price>465.71</Price>
 <Price2>580.51</Price2>
@@ -4240,7 +4240,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
 <Price>518.41</Price>
 <Price2>630.48</Price2>
@@ -7285,7 +7285,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2027-10-01</Miad>
 <Price>347.56</Price>
 <Price2>442.30</Price2>
@@ -7504,7 +7504,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>226</Stock>
+<Stock>222</Stock>
 <Miad></Miad>
 <Price>696.06</Price>
 <Price2>849.99</Price2>
@@ -9614,7 +9614,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kolonyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>81</Stock>
+<Stock>79</Stock>
 <Miad></Miad>
 <Price>56.02</Price>
 <Price2>106.12</Price2>
@@ -30380,14 +30380,14 @@
 <Tax>1</Tax>
 <Stock>19</Stock>
 <Miad>2028-11-01</Miad>
-<Price>1387.97</Price>
-<Price2>1633.81</Price2>
-<Price3>1633.81</Price3>
-<Price4>1768.09</Price4>
-<Price5>1738.43</Price5>
-<Price6>1717.31</Price6>
-<Price7>2152.96</Price7>
-<Price8>2067.92</Price8>
+<Price>1359.91</Price>
+<Price2>1601.43</Price2>
+<Price3>1601.43</Price3>
+<Price4>1732.83</Price4>
+<Price5>1703.29</Price5>
+<Price6>1683.10</Price6>
+<Price7>2112.70</Price7>
+<Price8>2028.80</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLB1W</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00712</SaticiStokKodu>
@@ -41185,7 +41185,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2027-01-01</Miad>
 <Price>89.17</Price>
 <Price2>135.21</Price2>
@@ -47135,6 +47135,52 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV01096]]></Product_code>
+<Barcode>8699603800364</Barcode>
+<Name><![CDATA[Sanita Yakı Mentollü]]></Name>
+<Brand><![CDATA[Sanita]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Sporcu Ürünleri]]></category>
+<subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
+<Tax>10</Tax>
+<Stock>0</Stock>
+<Miad>2030-09-01</Miad>
+<Price>33.33</Price>
+<Price2>56.00</Price2>
+<Price3>56.00</Price3>
+<Price4>37.33</Price4>
+<Price5>37.33</Price5>
+<Price6>37.33</Price6>
+<Price7>154.86</Price7>
+<Price8>154.86</Price8>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKQI8</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01096</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/sanita-yaki-mentollu-10277.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Sanita Yak&#305; Mentoll&#252;</strong>, kas ve eklem b&#246;lgelerine uygulanan, mentol i&#231;eren yap&#305;&#351;kanl&#305; bir yak&#305; band&#305;d&#305;r. Mentol&#252;n serinletici etkisiyle uyguland&#305;&#287;&#305; b&#246;lgede ferahl&#305;k hissi olu&#351;turan yap&#305;s&#305;yla g&#252;nl&#252;k kas ve eklem yorgunlu&#287;unda rahatlama arayanlara y&#246;neliktir.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Mentol i&#231;eren yak&#305; band&#305;</li>
+<li>Uyguland&#305;&#287;&#305; b&#246;lgede serinletici his</li>
+<li>&#199;inko oksit esasl&#305; yap&#305;&#351;kan yap&#305;</li>
+<li>Kas ve eklem b&#246;lgelerine y&#246;nelik</li>
+<li>B&#246;lgesel ve pratik kullan&#305;m</li>
+<li>Cilde kolay uygulanan bant formu</li>
+<li>Ferahlat&#305;c&#305; mentol karakteri</li>
+<li>G&#252;nl&#252;k kullan&#305;m i&#231;in pratik</li>
+<li>Koruyucu tabakas&#305; &#231;&#305;kar&#305;larak yap&#305;&#351;t&#305;r&#305;l&#305;r</li>
+<li>Tek kullan&#305;ml&#305;k band</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Band&#305;n koruyucu tabakas&#305;n&#305; &#231;&#305;kar&#305;p temiz ve kuru cilde, uygulamak istedi&#287;iniz b&#246;lgeye yap&#305;&#351;t&#305;r&#305;n. B&#246;lgede serinletici bir his olu&#351;ur; band&#305; &#246;nerilen s&#252;reden fazla tutmay&#305;n. Kullan&#305;m s&#252;resi ve s&#305;kl&#305;&#287;&#305; i&#231;in ambalaj &#252;zerindeki talimatlara ba&#351;vurun.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;zca haricen kullan&#305;l&#305;r; yaral&#305;, tahri&#351; olmu&#351; veya hassas ciltte, g&#246;z &#231;evresinde ve mukozada kullanmay&#305;n. Ciltte k&#305;zar&#305;kl&#305;k, a&#351;&#305;r&#305; yanma veya tahri&#351; olu&#351;ursa band&#305; &#231;&#305;kar&#305;n ve &#351;ik&#226;yet s&#252;rerse bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Farmaneva, g&#252;nl&#252;k rahatlama &#252;r&#252;nlerini &#246;zenle bir araya getirir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV01097]]></Product_code>
 <Barcode>8697884000947</Barcode>
 <Name><![CDATA[Santasya Bonax 30 Tablet]]></Name>
@@ -48031,51 +48077,6 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Yaral&#305;, tahri&#351; olmu&#351;, varisli veya benli b&#246;lgelerde kullanmay&#305;n. A&#351;&#305;r&#305; &#305;s&#305;tmay&#305;n; uygulamadan &#246;nce &#305;s&#305;s&#305;n&#305; cildinizde kontrol edin. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Is&#305;tma derdi olmadan pratik a&#287;da isteyenler Sesu Sir A&#287;da Bant'&#305; Farmaneva g&#252;vencesiyle edinebilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01118]]></Product_code>
-<Barcode>8690605072797</Barcode>
-<Name><![CDATA[Sesu Tüy Dökücü Krem Sprey 150 ml - Hasas Ciltler]]></Name>
-<Brand><![CDATA[Sesu]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Ağda & Epilasyon]]></category>
-<subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
-<Tax>20</Tax>
-<Stock>1</Stock>
-<Miad>2023-03-01</Miad>
-<Price>200.00</Price>
-<Price2>337.00</Price2>
-<Price3>337.00</Price3>
-<Price4>327.00</Price4>
-<Price5>342.00</Price5>
-<Price6>342.00</Price6>
-<Price7>579.00</Price7>
-<Price8>579.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQLAXI</HepsiburadaSku>
-<SaticiStokKodu>FRMNV01118</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/sesu-tuy-dokucu-krem-sprey-150-ml-hasas-ciltler-10331.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/sesu-tuy-dokucu-krem-sprey-150-ml-hasas-ciltler-10332.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/sesu-tuy-dokucu-krem-sprey-150-ml-hasas-ciltler-10333.webp</Image3>
-<Image4>https://www.farmaneva.com/uploads/urunler/sesu-tuy-dokucu-krem-sprey-150-ml-hasas-ciltler-10334.webp</Image4>
-<Description><![CDATA[<section>
-<p><strong>Sesu T&#252;y D&#246;k&#252;c&#252; Krem Sprey 150 ml - Hassas Ciltler</strong>, sprey formuyla kolay uygulanan, hassas ciltler i&#231;in geli&#351;tirilmi&#351; a&#287;r&#305;s&#305;z bir t&#252;y d&#246;k&#252;c&#252; kremdir. Cilde nazik, h&#305;zl&#305; ve pratik bir t&#252;y alma deneyimi arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>Sesu T&#252;y D&#246;k&#252;c&#252; Krem Sprey (Hassas) &#214;zellikleri</h2>
-<ul>
-<li>Sprey formuyla kolay ve e&#351;it uygulama sa&#287;lar.</li>
-<li>Hassas ciltler i&#231;in geli&#351;tirilmi&#351; nazik form&#252;le sahiptir.</li>
-<li>E vitamini ve panthenol ile cildi nemlendirmeye yard&#305;mc&#305; olur.</li>
-<li>Boswellia serrata i&#231;eri&#287;iyle cilt tahri&#351;ini azaltmaya destek olur.</li>
-<li>Bacak, kol, koltuk alt&#305; ve bikini b&#246;lgesinde kullan&#305;labilir.</li>
-<li>150 ml ambalaj&#305;yla uzun &#246;m&#252;rl&#252; kullan&#305;m sunar.</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Cilde t&#252;yleri kapatacak &#351;ekilde p&#252;sk&#252;rt&#252;n, yay&#305;n ve 3-6 dakika bekleyin. K&#252;&#231;&#252;k bir alan&#305; kontrol ettikten sonra t&#252;yleri spatulayla temizleyip durulay&#305;n (en fazla 10 dakika).</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Yaral&#305;, tahri&#351; olmu&#351;, g&#252;ne&#351; yan&#305;&#287;&#305; olan ya da son 72 saatte t&#305;ra&#351; edilmi&#351; ciltte kullanmay&#305;n. Y&#252;z, genital b&#246;lge ve g&#246;&#287;&#252;ste kullanmay&#305;n. &#304;lk kullan&#305;mdan &#246;nce k&#252;&#231;&#252;k bir b&#246;lgede deneyin. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Hassas ciltlerde pratik bir t&#252;y d&#246;k&#252;c&#252; arayanlar Sesu T&#252;y D&#246;k&#252;c&#252; Krem Sprey'i Farmaneva g&#252;vencesiyle edinebilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -65805,14 +65806,14 @@
 <Tax>20</Tax>
 <Stock>131</Stock>
 <Miad>2028-01-01</Miad>
-<Price>446.16</Price>
-<Price2>569.69</Price2>
-<Price3>569.69</Price3>
-<Price4>619.32</Price4>
-<Price5>586.68</Price5>
-<Price6>598.47</Price6>
-<Price7>906.24</Price7>
-<Price8>842.17</Price8>
+<Price>469.96</Price>
+<Price2>597.97</Price2>
+<Price3>597.97</Price3>
+<Price4>650.74</Price4>
+<Price5>617.98</Price5>
+<Price6>628.74</Price6>
+<Price7>943.43</Price7>
+<Price8>878.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -67282,8 +67283,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>20</Tax>
-<Stock>4</Stock>
-<Miad>2027-01-01</Miad>
+<Stock>2</Stock>
+<Miad>2029-09-01</Miad>
 <Price>1508.66</Price>
 <Price2>1832.16</Price2>
 <Price3>1832.16</Price3>
