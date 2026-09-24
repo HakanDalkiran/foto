@@ -12398,7 +12398,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>2458.90</Price>
+<Price>2819.56</Price>
 <Price2>2961.25</Price2>
 <Price3>2961.25</Price3>
 <Price4>3276.06</Price4>
@@ -17178,7 +17178,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>1708.69</Price>
+<Price>1967.79</Price>
 <Price2>2069.84</Price2>
 <Price3>2069.84</Price3>
 <Price4>2285.81</Price4>
@@ -20045,7 +20045,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
-<Price>2293.75</Price>
+<Price>2632.05</Price>
 <Price2>2765.02</Price2>
 <Price3>2765.02</Price3>
 <Price4>3058.06</Price4>
@@ -24675,7 +24675,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-01-01</Miad>
-<Price>377.46</Price>
+<Price>422.12</Price>
 <Price2>467.85</Price2>
 <Price3>467.85</Price3>
 <Price4>498.57</Price4>
@@ -32909,7 +32909,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-02-01</Miad>
-<Price>905.31</Price>
+<Price>987.38</Price>
 <Price2>1076.90</Price2>
 <Price3>1076.90</Price3>
 <Price4>1161.72</Price4>
@@ -38226,13 +38226,13 @@
 <Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>753.14</Price>
-<Price2>819.10</Price2>
-<Price3>819.10</Price3>
-<Price4>881.02</Price4>
-<Price5>854.05</Price5>
-<Price6>856.46</Price6>
-<Price7>1139.92</Price7>
-<Price8>1083.41</Price8>
+<Price2>901.32</Price2>
+<Price3>901.32</Price3>
+<Price4>970.54</Price4>
+<Price5>943.31</Price5>
+<Price6>943.34</Price6>
+<Price7>1242.16</Price7>
+<Price8>1182.77</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLAZT</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00885</SaticiStokKodu>
@@ -38853,7 +38853,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
-<Price>682.21</Price>
+<Price>753.48</Price>
 <Price2>819.48</Price2>
 <Price3>819.48</Price3>
 <Price4>881.43</Price4>
@@ -41908,7 +41908,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
-<Price>821.02</Price>
+<Price>899.01</Price>
 <Price2>979.64</Price2>
 <Price3>979.64</Price3>
 <Price4>1055.82</Price4>
@@ -43332,7 +43332,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>318.62</Price>
+<Price>389.54</Price>
 <Price2>418.14</Price2>
 <Price3>418.14</Price3>
 <Price4>450.98</Price4>
@@ -46797,7 +46797,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
-<Price>2291.02</Price>
+<Price>2552.64</Price>
 <Price2>2715.88</Price2>
 <Price3>2715.88</Price3>
 <Price4>2972.67</Price4>
@@ -50981,7 +50981,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2027-07-01</Miad>
-<Price>1348.54</Price>
+<Price>1522.12</Price>
 <Price2>1613.31</Price2>
 <Price3>1613.31</Price3>
 <Price4>1760.94</Price4>
@@ -53540,7 +53540,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>5998.02</Price>
+<Price>6837.79</Price>
 <Price2>7166.48</Price2>
 <Price3>7166.48</Price3>
 <Price4>7947.54</Price4>
@@ -68508,7 +68508,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2028-09-01</Miad>
-<Price>1250.21</Price>
+<Price>1412.95</Price>
 <Price2>1498.27</Price2>
 <Price3>1498.27</Price3>
 <Price4>1634.52</Price4>
@@ -72288,7 +72288,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>242.16</Price>
 <Price2>327.29</Price2>
@@ -73928,13 +73928,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>1836.54</Price>
-<Price2>1932.48</Price2>
-<Price3>1932.48</Price3>
-<Price4>2133.22</Price4>
-<Price5>2094.85</Price5>
-<Price6>2056.93</Price6>
-<Price7>2698.32</Price7>
-<Price8>2569.47</Price8>
+<Price2>2221.75</Price2>
+<Price3>2221.75</Price3>
+<Price4>2454.57</Price4>
+<Price5>2414.97</Price5>
+<Price6>2366.51</Price6>
+<Price7>3078.71</Price7>
+<Price8>2936.11</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3600524150556</HepsiburadaSku>
 <SaticiStokKodu>3600524150556</SaticiStokKodu>
@@ -75089,7 +75089,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>50</Stock>
+<Stock>51</Stock>
 <Miad>2029-01-01</Miad>
 <Price>391.85</Price>
 <Price2>484.45</Price2>
@@ -80413,7 +80413,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2028-07-01</Miad>
-<Price>2324.68</Price>
+<Price>2667.17</Price>
 <Price2>2801.77</Price2>
 <Price3>2801.77</Price3>
 <Price4>3098.89</Price4>
