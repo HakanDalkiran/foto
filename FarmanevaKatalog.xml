@@ -44954,7 +44954,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>33</Stock>
 <Miad></Miad>
 <Price>96.90</Price>
 <Price2>154.69</Price2>
@@ -45185,7 +45185,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>41</Stock>
+<Stock>39</Stock>
 <Miad></Miad>
 <Price>96.90</Price>
 <Price2>154.69</Price2>
@@ -45419,7 +45419,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>99.45</Price>
 <Price2>157.72</Price2>
@@ -60340,7 +60340,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>254.91</Price>
 <Price2>342.44</Price2>
@@ -63784,7 +63784,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>197</Stock>
+<Stock>192</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -66740,14 +66740,14 @@
 <Tax>20</Tax>
 <Stock>131</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>597.97</Price2>
-<Price3>597.97</Price3>
-<Price4>650.74</Price4>
-<Price5>617.98</Price5>
-<Price6>628.74</Price6>
-<Price7>943.43</Price7>
-<Price8>878.01</Price8>
+<Price>446.16</Price>
+<Price2>569.69</Price2>
+<Price3>569.69</Price3>
+<Price4>619.32</Price4>
+<Price5>586.68</Price5>
+<Price6>598.47</Price6>
+<Price7>906.24</Price7>
+<Price8>842.17</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -67326,7 +67326,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>49</Stock>
+<Stock>48</Stock>
 <Miad>2029-05-01</Miad>
 <Price>254.06</Price>
 <Price2>341.43</Price2>
@@ -69357,7 +69357,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>6</Stock>
 <Miad>2027-09-01</Miad>
 <Price>152.83</Price>
 <Price2>214.49</Price2>
