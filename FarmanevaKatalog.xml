@@ -12398,7 +12398,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>1206.83</Price>
+<Price>1398.00</Price>
 <Price2>1473.52</Price2>
 <Price3>1473.52</Price3>
 <Price4>1623.38</Price4>
@@ -17178,7 +17178,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>809.18</Price>
+<Price>946.52</Price>
 <Price2>1001.03</Price2>
 <Price3>1001.03</Price3>
 <Price4>1098.50</Price4>
@@ -20045,7 +20045,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
-<Price>1119.28</Price>
+<Price>1298.60</Price>
 <Price2>1369.50</Price2>
 <Price3>1369.50</Price3>
 <Price4>1507.81</Price4>
@@ -24763,7 +24763,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-01-01</Miad>
-<Price>215.22</Price>
+<Price>241.34</Price>
 <Price2>280.65</Price2>
 <Price3>280.65</Price3>
 <Price4>294.75</Price4>
@@ -33319,7 +33319,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-02-01</Miad>
-<Price>548.39</Price>
+<Price>613.19</Price>
 <Price2>665.08</Price2>
 <Price3>665.08</Price3>
 <Price4>713.31</Price4>
@@ -38756,13 +38756,13 @@
 <Stock>0</Stock>
 <Miad>2027-09-01</Miad>
 <Price>439.05</Price>
-<Price2>485.33</Price2>
-<Price3>485.33</Price3>
-<Price4>517.60</Price4>
-<Price5>491.74</Price5>
-<Price6>503.78</Price6>
-<Price7>724.90</Price7>
-<Price8>680.08</Price8>
+<Price2>538.92</Price2>
+<Price3>538.92</Price3>
+<Price4>575.95</Price4>
+<Price5>549.91</Price5>
+<Price6>560.40</Price6>
+<Price7>791.53</Price7>
+<Price8>744.83</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLAZT</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00885</SaticiStokKodu>
@@ -39408,7 +39408,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
-<Price>392.81</Price>
+<Price>439.28</Price>
 <Price2>485.56</Price2>
 <Price3>485.56</Price3>
 <Price4>517.85</Price4>
@@ -42532,7 +42532,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
-<Price>486.16</Price>
+<Price>543.67</Price>
 <Price2>593.27</Price2>
 <Price3>593.27</Price3>
 <Price4>635.13</Price4>
@@ -44006,7 +44006,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>72.40</Price>
+<Price>109.99</Price>
 <Price2>125.58</Price2>
 <Price3>125.58</Price3>
 <Price4>125.98</Price4>
@@ -47689,7 +47689,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
-<Price>1279.33</Price>
+<Price>1445.28</Price>
 <Price2>1532.34</Price2>
 <Price3>1532.34</Price3>
 <Price4>1671.96</Price4>
@@ -51915,7 +51915,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2027-07-01</Miad>
-<Price>708.27</Price>
+<Price>810.29</Price>
 <Price2>864.28</Price2>
 <Price3>864.28</Price3>
 <Price4>937.76</Price4>
@@ -54474,7 +54474,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>3082.70</Price>
+<Price>3527.80</Price>
 <Price2>3702.46</Price2>
 <Price3>3702.46</Price3>
 <Price4>4099.45</Price4>
@@ -69442,7 +69442,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2028-09-01</Miad>
-<Price>651.71</Price>
+<Price>745.58</Price>
 <Price2>798.11</Price2>
 <Price3>798.11</Price3>
 <Price4>865.04</Price4>
@@ -74862,13 +74862,13 @@
 <Stock>0</Stock>
 <Miad></Miad>
 <Price>876.95</Price>
-<Price2>928.23</Price2>
-<Price3>928.23</Price3>
-<Price4>1017.62</Price4>
-<Price5>983.47</Price5>
-<Price6>982.18</Price6>
-<Price7>1377.73</Price7>
-<Price8>1296.61</Price8>
+<Price2>1081.56</Price2>
+<Price3>1081.56</Price3>
+<Price4>1187.95</Price4>
+<Price5>1153.15</Price5>
+<Price6>1146.27</Price6>
+<Price7>1579.35</Price7>
+<Price8>1490.95</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3600524150556</HepsiburadaSku>
 <SaticiStokKodu>3600524150556</SaticiStokKodu>
@@ -81347,7 +81347,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2028-07-01</Miad>
-<Price>1135.68</Price>
+<Price>1317.21</Price>
 <Price2>1388.98</Price2>
 <Price3>1388.98</Price3>
 <Price4>1529.46</Price4>
@@ -82854,6 +82854,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-kare-tens-pedi-p5050-42510.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-kare-tens-pedi-p5050-42559.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-kare-tens-pedi-p5050-42560.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-kare-tens-pedi-p5050-42561.jpg</Image5>
 <Description><![CDATA[<section> <p><strong>Mesilife Kare Tens Pedi P5050 2'li</strong>, tens cihazlar&#305;yla uyumlu kullan&#305;labilen, kare formunda 2 adet yap&#305;&#351;kanl&#305; elektrot pedinden olu&#351;an bir aksesuard&#305;r. Elektroterapi cihaz&#305; i&#231;in yedek pedi ihtiyac&#305; olanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p> <h2>Mesilife Kare Tens Pedi &#214;zellikleri</h2> <ul> <li>2 adet kare formunda tens pedi i&#231;erir.</li> <li>Cilde yap&#305;&#351;kanl&#305; y&#252;zeyiyle uygulan&#305;r.</li> <li>Tens cihazlar&#305;nda elektrot olarak kullan&#305;l&#305;r.</li> <li>Kolay tak&#305;p &#231;&#305;karma imk&#226;n&#305; sunar.</li> <li>Elektroterapi seanslar&#305;nda yedek par&#231;a olarak kullan&#305;labilir.</li> </ul> <h2>Nas&#305;l Kullan&#305;l&#305;r?</h2> <p>Pedin koruyucu filmini &#231;&#305;kar&#305;p cihaz&#305;n&#305;z&#305;n kablosuna ba&#287;lay&#305;n, ard&#305;ndan uygulanacak b&#246;lgenin temiz ve kuru cildine yap&#305;&#351;t&#305;r&#305;n. Kullan&#305;m sonras&#305; koruyucu filmi tekrar pedin &#252;zerine yerle&#351;tirerek saklay&#305;n.</p> <h2>Uyar&#305;lar</h2> <p>Yaln&#305;zca uyumlu tens cihazlar&#305;yla kullan&#305;n. Yaral&#305;, tahri&#351; olmu&#351; veya hassas ciltte kullanmay&#305;n. Yap&#305;&#351;kanl&#305;&#287;&#305;n&#305; kaybeden pedleri kullanmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p> <p>Tens cihaz&#305; i&#231;in yedek pedi arayanlar Mesilife Kare Tens Pedi P5050 2'li'yi Farmaneva'da bulabilir.</p> </section>]]></Description>
 </Product>
 <Product>
