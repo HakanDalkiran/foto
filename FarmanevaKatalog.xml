@@ -7858,7 +7858,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>135</Stock>
+<Stock>131</Stock>
 <Miad>2031-04-01</Miad>
 <Price>678.21</Price>
 <Price2>829.11</Price2>
@@ -12398,7 +12398,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>2819.56</Price>
+<Price>378.57</Price>
 <Price2>3389.79</Price2>
 <Price3>3389.79</Price3>
 <Price4>3752.11</Price4>
@@ -17178,7 +17178,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>1967.79</Price>
+<Price>214.20</Price>
 <Price2>2377.71</Price2>
 <Price3>2377.71</Price3>
 <Price4>2627.81</Price4>
@@ -20045,7 +20045,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2026-01-01</Miad>
-<Price>2632.05</Price>
+<Price>342.59</Price>
 <Price2>3166.99</Price2>
 <Price3>3166.99</Price3>
 <Price4>3504.61</Price4>
@@ -24763,7 +24763,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-01-01</Miad>
-<Price>422.12</Price>
+<Price>73.62</Price>
 <Price2>519.38</Price2>
 <Price3>519.38</Price3>
 <Price4>554.68</Price4>
@@ -33272,7 +33272,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>2029-05-01</Miad>
 <Price>208.16</Price>
 <Price2>272.51</Price2>
@@ -33319,7 +33319,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-02-01</Miad>
-<Price>987.38</Price>
+<Price>250.72</Price>
 <Price2>1171.59</Price2>
 <Price3>1171.59</Price3>
 <Price4>1264.82</Price4>
@@ -38755,14 +38755,14 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2027-09-01</Miad>
-<Price>827.85</Price>
-<Price2>901.32</Price2>
-<Price3>901.32</Price3>
-<Price4>970.54</Price4>
-<Price5>943.31</Price5>
-<Price6>943.34</Price6>
-<Price7>1242.16</Price7>
-<Price8>1182.77</Price8>
+<Price>392.61</Price>
+<Price2>485.33</Price2>
+<Price3>485.33</Price3>
+<Price4>517.60</Price4>
+<Price5>491.74</Price5>
+<Price6>503.78</Price6>
+<Price7>724.90</Price7>
+<Price8>680.08</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLAZT</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00885</SaticiStokKodu>
@@ -39408,7 +39408,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
-<Price>753.48</Price>
+<Price>224.40</Price>
 <Price2>901.71</Price2>
 <Price3>901.71</Price3>
 <Price4>970.97</Price4>
@@ -41275,7 +41275,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2026-11-01</Miad>
 <Price>261.80</Price>
 <Price2>334.40</Price2>
@@ -42532,7 +42532,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
-<Price>899.01</Price>
+<Price>221.96</Price>
 <Price2>1069.63</Price2>
 <Price3>1069.63</Price3>
 <Price4>1153.80</Price4>
@@ -44006,7 +44006,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>389.54</Price>
+<Price>39.29</Price>
 <Price2>502.41</Price2>
 <Price3>502.41</Price3>
 <Price4>544.59</Price4>
@@ -47689,7 +47689,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
-<Price>2552.64</Price>
+<Price>510.73</Price>
 <Price2>3021.94</Price2>
 <Price3>3021.94</Price3>
 <Price4>3309.03</Price4>
@@ -51915,7 +51915,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2027-07-01</Miad>
-<Price>1522.12</Price>
+<Price>251.33</Price>
 <Price2>1816.37</Price2>
 <Price3>1816.37</Price3>
 <Price4>1984.11</Price4>
@@ -52130,7 +52130,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>381</Stock>
+<Stock>379</Stock>
 <Miad>2029-01-01</Miad>
 <Price>314.41</Price>
 <Price2>403.51</Price2>
@@ -54474,7 +54474,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>6837.79</Price>
+<Price>1146.65</Price>
 <Price2>8164.30</Price2>
 <Price3>8164.30</Price3>
 <Price4>9056.01</Price4>
@@ -63687,7 +63687,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>200</Stock>
+<Stock>199</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -65377,7 +65377,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2028-11-01</Miad>
 <Price>194.56</Price>
 <Price2>270.73</Price2>
@@ -69442,7 +69442,7 @@
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2028-09-01</Miad>
-<Price>1412.95</Price>
+<Price>332.26</Price>
 <Price2>1688.66</Price2>
 <Price3>1688.66</Price3>
 <Price4>1843.75</Price4>
@@ -74861,14 +74861,14 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>2112.96</Price>
-<Price2>2221.75</Price2>
-<Price3>2221.75</Price3>
-<Price4>2454.57</Price4>
-<Price5>2414.97</Price5>
-<Price6>2366.51</Price6>
-<Price7>3078.71</Price7>
-<Price8>2936.11</Price8>
+<Price>747.91</Price>
+<Price2>928.23</Price2>
+<Price3>928.23</Price3>
+<Price4>1017.62</Price4>
+<Price5>983.47</Price5>
+<Price6>982.18</Price6>
+<Price7>1377.73</Price7>
+<Price8>1296.61</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3600524150556</HepsiburadaSku>
 <SaticiStokKodu>3600524150556</SaticiStokKodu>
@@ -81347,7 +81347,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2028-07-01</Miad>
-<Price>2667.17</Price>
+<Price>509.91</Price>
 <Price2>3208.72</Price2>
 <Price3>3208.72</Price3>
 <Price4>3550.96</Price4>
@@ -83341,30 +83341,5 @@
 <Image4>https://www.farmaneva.com/uploads/urunler/8682241212880-3_9vnwq.jpg</Image4>
 <Image5>https://www.farmaneva.com/uploads/urunler/8682241212880-4_q83p5.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Sleepy Easy Clean &#199;ama&#351;&#305;r Suyu Katk&#305;l&#305; Y&#252;zey Temizlik Havlusu 100 Yaprak</strong>, g&#252;nl&#252;k y&#252;zey temizli&#287;ini pratik hale getirmek isteyenler i&#231;in &#252;retilmi&#351;tir. &#199;ama&#351;&#305;r suyu katk&#305;l&#305; yap&#305;s&#305;yla mutfak, banyo ve evin &#231;e&#351;itli y&#252;zeylerinde hijyen sa&#287;lamaya yard&#305;mc&#305; olur.</p><h2>Sleepy Easy Clean &#214;zellikleri</h2><ul><li>&#199;ama&#351;&#305;r suyu katk&#305;l&#305; form&#252;l&#252; sayesinde y&#252;zeylerde hijyen sa&#287;lamaya yard&#305;mc&#305; olur.</li><li>100 yaprakl&#305;k pratik ambalaj&#305; ile uzun s&#252;reli kullan&#305;m imkan&#305; sunar.</li><li>Tek kullan&#305;ml&#305;k havlu yap&#305;s&#305; sayesinde her seferinde temiz bir y&#252;zey deneyimi sa&#287;lar.</li><li>Mutfak tezgah&#305;, banyo lavabosu ve fayans gibi y&#252;zeylerde rahat&#231;a kullan&#305;labilir.</li><li>Kolay &#231;ekme yap&#305;s&#305; sayesinde havlular tek tek al&#305;narak israf &#246;nlenir.</li><li>&#199;ama&#351;&#305;r suyu katk&#305;s&#305; ile y&#252;zeylerde ferah ve temiz bir his b&#305;rak&#305;r.</li><li>Ev temizli&#287;inde zamandan tasarruf etmek isteyenler i&#231;in pratik bir alternatiftir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Kullanmadan &#246;nce ambalaj&#305;n kapa&#287;&#305;n&#305; a&#231;&#305;n ve bir yaprak havlu &#231;ekin. Havluyu temizlemek istedi&#287;iniz y&#252;zeye uygulayarak silme i&#351;lemini ger&#231;ekle&#351;tirin. Kullan&#305;lan havluyu &#231;&#246;pe at&#305;n ve ambalaj&#305;n kapa&#287;&#305;n&#305; kapal&#305; tutarak kurumay&#305; &#246;nleyin.</p><h2>Uyar&#305;lar</h2><p>&#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda saklay&#305;n. G&#246;z ve cilt ile temas&#305;ndan ka&#231;&#305;n&#305;n; temas halinde bol su ile y&#305;kay&#305;n. G&#305;da ile temas eden y&#252;zeylerde kulland&#305;ktan sonra y&#252;zeyi temiz su ile durulay&#305;n. &#199;ama&#351;&#305;r suyuna hassasiyeti olanlar&#305;n dikkatli kullanmas&#305; &#246;nerilir.</p><p>Pratik y&#252;zey temizli&#287;i arayanlar bu &#252;r&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01935]]></Product_code>
-<Barcode>6978312971001</Barcode>
-<Name><![CDATA[Mesilife İnsülin Taşıma Çantası (Mini) YBH-2011]]></Name>
-<Brand><![CDATA[Mesilife]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
-<Tax>10</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>921.34</Price>
-<Price2>980.26</Price2>
-<Price3>980.26</Price3>
-<Price4>1065.22</Price4>
-<Price5>1034.56</Price5>
-<Price6>1031.90</Price6>
-<Price7>1388.20</Price7>
-<Price8>1316.52</Price8>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>6978312971001</HepsiburadaSku>
-<SaticiStokKodu>6978312971001</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-insulin-tasima-cantasi-mini-ybh-2011-42558.png</Image1>
-<Description><![CDATA[<section> <p><strong>Mesilife &#304;ns&#252;lin Ta&#351;&#305;ma &#199;antas&#305; (Mini) YBH-2011</strong>, ins&#252;lin kalemi veya flakonlar&#305;n&#305; g&#252;n i&#231;inde ya da seyahatte ta&#351;&#305;mak isteyenler i&#231;in tasarlanm&#305;&#351;, i&#231;ine yerle&#351;tirilen jel ped ile &#252;r&#252;nlerin serin kalmas&#305;na yard&#305;mc&#305; olan mini boy bir ta&#351;&#305;ma &#231;antas&#305;d&#305;r. Kompakt yap&#305;s&#305; sayesinde g&#252;nl&#252;k &#231;antaya, s&#305;rt &#231;antas&#305;na veya el &#231;antas&#305;na kolayca s&#305;&#287;ar.</p> <h2>Mesilife &#304;ns&#252;lin Ta&#351;&#305;ma &#199;antas&#305; &#214;zellikleri</h2> <ul> <li>Mini boy, kompakt ve hafif tasar&#305;m</li> <li>Kutu i&#231;eri&#287;inde so&#287;utucu jel ped bulunur</li> <li>&#304;&#231; y&#252;zeyi yal&#305;t&#305;ml&#305; malzeme ile kapl&#305;d&#305;r</li> <li>Fermuarl&#305; kapan&#305;&#351; ile i&#231;erik yerinde sabit kal&#305;r</li> <li>&#304;ns&#252;lin kalemi, i&#287;ne ucu ve k&#252;&#231;&#252;k malzemeler i&#231;in i&#231; b&#246;lme</li> <li>G&#252;nl&#252;k kullan&#305;ma ve seyahate uygun ta&#351;&#305;ma boyutu</li> <li>Mesilife markas&#305; YBH-2011 model</li> </ul> <h2>Nas&#305;l Kullan&#305;l&#305;r?</h2> <p>Jel ped, kullanmadan &#246;nce buzdolab&#305;nda veya derin dondurucuda so&#287;utulur, ard&#305;ndan &#231;antan&#305;n i&#231; b&#246;lmesine yerle&#351;tirilir. &#304;ns&#252;lin kalemi veya flakon jel pedin yan&#305;na konularak fermuar kapat&#305;l&#305;r. So&#287;utma s&#252;resi ortam s&#305;cakl&#305;&#287;&#305;na g&#246;re de&#287;i&#351;ir; uzun seyahatlerde jel pedin &#246;nceden yeniden so&#287;utulmas&#305; &#246;nerilir. &#199;anta do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan ve y&#252;ksek s&#305;cakl&#305;ktan uzak tutulmal&#305;d&#305;r.</p> <h2>Uyar&#305;lar</h2> <p>&#199;anta bir t&#305;bbi cihaz aksesuar&#305;d&#305;r, ila&#231; veya tedavi yerine ge&#231;mez. &#304;ns&#252;linin saklama ko&#351;ullar&#305; i&#231;in her zaman &#252;r&#252;n prospekt&#252;s&#252;ndeki talimatlar esas al&#305;nmal&#305;d&#305;r. Jel ped do&#287;rudan cilde veya ins&#252;lin flakonuna temas ettirilmeden, &#231;antan&#305;n kendi b&#246;lmesinde kullan&#305;lmal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; &#351;ekilde saklanmal&#305;d&#305;r.</p> <p>Mesilife &#304;ns&#252;lin Ta&#351;&#305;ma &#199;antas&#305; (Mini) YBH-2011'i Farmaneva'da bulabilir.</p> </section>]]></Description>
 </Product>
 </Products>
