@@ -9209,8 +9209,8 @@
 <Price4>184.07</Price4>
 <Price5>159.81</Price5>
 <Price6>180.20</Price6>
-<Price7>334.29</Price7>
-<Price8>295.94</Price8>
+<Price7>334.28</Price7>
+<Price8>295.93</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000HCAZL8</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00217</SaticiStokKodu>
@@ -53173,7 +53173,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>12</Stock>
 <Miad>2028-03-01</Miad>
 <Price>457.21</Price>
 <Price2>558.00</Price2>
