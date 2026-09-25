@@ -22711,7 +22711,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2026-10-01</Miad>
 <Price>1988.91</Price>
 <Price2>2402.80</Price2>
@@ -40002,16 +40002,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2026-10-01</Miad>
-<Price>697.60</Price>
-<Price2>773.41</Price2>
-<Price3>773.41</Price3>
-<Price4>781.31</Price4>
-<Price5>781.31</Price5>
-<Price6>781.31</Price6>
+<Price>628.91</Price>
+<Price2>757.98</Price2>
+<Price3>757.98</Price3>
+<Price4>814.47</Price4>
+<Price5>787.71</Price5>
+<Price6>791.88</Price6>
 <Price7>1063.92</Price7>
-<Price8>1063.92</Price8>
+<Price8>1009.55</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKX6T</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00917</SaticiStokKodu>
@@ -49954,7 +49954,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>342</Stock>
+<Stock>340</Stock>
 <Miad>2026-10-01</Miad>
 <Price>382.41</Price>
 <Price2>473.56</Price2>
@@ -82776,7 +82776,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2026-10-01</Miad>
 <Price>440.21</Price>
 <Price2>540.25</Price2>
