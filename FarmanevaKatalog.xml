@@ -3891,7 +3891,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Lens Solüsyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>167</Stock>
+<Stock>168</Stock>
 <Miad>2026-12-01</Miad>
 <Price>403.66</Price>
 <Price2>519.19</Price2>
@@ -12031,7 +12031,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>322.06</Price>
 <Price2>422.23</Price2>
@@ -13410,7 +13410,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>146</Stock>
+<Stock>143</Stock>
 <Miad></Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -39637,7 +39637,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>860.08</Price2>
@@ -46623,7 +46623,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>236</Stock>
+<Stock>235</Stock>
 <Miad>2028-07-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -47316,7 +47316,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>24</Stock>
 <Miad>2028-06-01</Miad>
 <Price>44.96</Price>
 <Price2>88.29</Price2>
@@ -66785,14 +66785,14 @@
 <Tax>20</Tax>
 <Stock>128</Stock>
 <Miad>2028-01-01</Miad>
-<Price>446.16</Price>
-<Price2>569.69</Price2>
-<Price3>569.69</Price3>
-<Price4>619.32</Price4>
-<Price5>586.68</Price5>
-<Price6>598.47</Price6>
-<Price7>906.24</Price7>
-<Price8>842.17</Price8>
+<Price>446.07</Price>
+<Price2>569.58</Price2>
+<Price3>569.58</Price3>
+<Price4>619.21</Price4>
+<Price5>586.56</Price5>
+<Price6>598.36</Price6>
+<Price7>906.10</Price7>
+<Price8>842.03</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -67636,14 +67636,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>523.96</Price4>
-<Price5>491.68</Price5>
-<Price6>506.60</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>568.95</Price4>
+<Price5>536.50</Price5>
+<Price6>549.95</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -81547,7 +81547,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-09-01</Miad>
 <Price>211.56</Price>
 <Price2>276.43</Price2>
@@ -83523,7 +83523,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>265</Stock>
+<Stock>415</Stock>
 <Miad>2028-03-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
