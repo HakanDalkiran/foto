@@ -3891,7 +3891,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Lens Solüsyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>174</Stock>
+<Stock>167</Stock>
 <Miad>2026-12-01</Miad>
 <Price>403.66</Price>
 <Price2>519.19</Price2>
@@ -4240,7 +4240,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
 <Price>518.41</Price>
 <Price2>630.48</Price2>
@@ -5047,16 +5047,16 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
-<Price>756.41</Price>
-<Price2>938.33</Price2>
-<Price3>938.33</Price3>
-<Price4>1028.84</Price4>
-<Price5>994.65</Price5>
-<Price6>992.99</Price6>
-<Price7>1391.01</Price7>
-<Price8>1309.41</Price8>
+<Price>722.50</Price>
+<Price2>898.04</Price2>
+<Price3>898.04</Price3>
+<Price4>984.08</Price4>
+<Price5>950.06</Price5>
+<Price6>949.87</Price6>
+<Price7>1338.03</Price7>
+<Price8>1258.34</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699546358700</HepsiburadaSku>
 <SaticiStokKodu>8699546358700</SaticiStokKodu>
@@ -7504,7 +7504,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>222</Stock>
+<Stock>212</Stock>
 <Miad></Miad>
 <Price>696.06</Price>
 <Price2>849.99</Price2>
@@ -7637,7 +7637,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>220</Stock>
+<Stock>210</Stock>
 <Miad></Miad>
 <Price>764.91</Price>
 <Price2>948.43</Price2>
@@ -63964,7 +63964,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>60</Stock>
+<Stock>56</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -64052,7 +64052,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>10</Tax>
-<Stock>40</Stock>
+<Stock>38</Stock>
 <Miad>2029-02-01</Miad>
 <Price>339.06</Price>
 <Price2>432.35</Price2>
@@ -65842,14 +65842,14 @@
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad>2029-02-01</Miad>
-<Price>620.41</Price>
-<Price2>776.73</Price2>
-<Price3>776.73</Price3>
-<Price4>849.33</Price4>
-<Price5>815.81</Price5>
-<Price6>820.05</Price6>
-<Price7>1178.51</Price7>
-<Price8>1104.59</Price8>
+<Price>510.00</Price>
+<Price2>645.54</Price2>
+<Price3>645.54</Price3>
+<Price4>703.59</Price4>
+<Price5>670.63</Price5>
+<Price6>679.65</Price6>
+<Price7>1005.99</Price7>
+<Price8>938.31</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0FVC3</HepsiburadaSku>
 <SaticiStokKodu>850069595821</SaticiStokKodu>
@@ -66203,14 +66203,14 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-01-01</Miad>
-<Price>849.06</Price>
-<Price2>1048.42</Price2>
-<Price3>1048.42</Price3>
-<Price4>1151.14</Price4>
-<Price5>1116.48</Price5>
-<Price6>1110.81</Price6>
-<Price7>1535.78</Price7>
-<Price8>1448.95</Price8>
+<Price>671.50</Price>
+<Price2>837.44</Price2>
+<Price3>837.44</Price3>
+<Price4>916.76</Price4>
+<Price5>882.99</Price5>
+<Price6>885.02</Price6>
+<Price7>1258.34</Price7>
+<Price8>1181.54</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EALI</HepsiburadaSku>
 <SaticiStokKodu>850071952124</SaticiStokKodu>
@@ -66785,14 +66785,14 @@
 <Tax>20</Tax>
 <Stock>128</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>597.97</Price2>
-<Price3>597.97</Price3>
-<Price4>650.74</Price4>
-<Price5>617.98</Price5>
-<Price6>628.74</Price6>
-<Price7>943.43</Price7>
-<Price8>878.01</Price8>
+<Price>446.16</Price>
+<Price2>569.69</Price2>
+<Price3>569.69</Price3>
+<Price4>619.32</Price4>
+<Price5>586.68</Price5>
+<Price6>598.47</Price6>
+<Price7>906.24</Price7>
+<Price8>842.17</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -66875,14 +66875,14 @@
 <Tax>20</Tax>
 <Stock>51</Stock>
 <Miad>2028-08-01</Miad>
-<Price>531.00</Price>
-<Price2>670.49</Price2>
-<Price3>670.49</Price3>
-<Price4>731.31</Price4>
-<Price5>698.24</Price5>
-<Price6>706.36</Price6>
-<Price7>1038.81</Price7>
-<Price8>969.94</Price8>
+<Price>466.13</Price>
+<Price2>593.41</Price2>
+<Price3>593.41</Price3>
+<Price4>645.68</Price4>
+<Price5>612.94</Price5>
+<Price6>623.87</Price6>
+<Price7>937.45</Price7>
+<Price8>872.24</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EBAG</HepsiburadaSku>
 <SaticiStokKodu>850069595845</SaticiStokKodu>
@@ -67636,14 +67636,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>524.34</Price2>
-<Price3>524.34</Price3>
-<Price4>568.95</Price4>
-<Price5>536.50</Price5>
-<Price6>549.95</Price6>
-<Price7>846.62</Price7>
-<Price8>784.70</Price8>
+<Price>373.91</Price>
+<Price2>483.84</Price2>
+<Price3>483.84</Price3>
+<Price4>523.96</Price4>
+<Price5>491.68</Price5>
+<Price6>506.60</Price6>
+<Price7>793.35</Price7>
+<Price8>733.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -68085,7 +68085,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>198</Stock>
+<Stock>195</Stock>
 <Miad>2027-02-01</Miad>
 <Price>970.19</Price>
 <Price2>1170.69</Price2>
@@ -68350,16 +68350,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2027-10-01</Miad>
-<Price>3572.90</Price>
-<Price2>3878.73</Price2>
-<Price3>3878.73</Price3>
-<Price4>4001.65</Price4>
-<Price5>4001.65</Price5>
-<Price6>4001.65</Price6>
-<Price7>4998.76</Price7>
-<Price8>4998.76</Price8>
+<Stock>2</Stock>
+<Miad>2028-05-01</Miad>
+<Price>3036.97</Price>
+<Price2>3648.12</Price2>
+<Price3>3648.12</Price3>
+<Price4>4039.08</Price4>
+<Price5>3993.49</Price5>
+<Price6>3892.99</Price6>
+<Price7>4954.38</Price7>
+<Price8>4743.99</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>033984013193</HepsiburadaSku>
 <SaticiStokKodu>033984013193</SaticiStokKodu>
@@ -80815,7 +80815,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2029-03-01</Miad>
 <Price>305.91</Price>
 <Price2>385.29</Price2>
@@ -82461,14 +82461,14 @@
 <Tax>20</Tax>
 <Stock>121</Stock>
 <Miad>2029-05-01</Miad>
-<Price>271.15</Price>
-<Price2>361.74</Price2>
-<Price3>361.74</Price3>
-<Price4>388.32</Price4>
-<Price5>356.55</Price5>
-<Price6>375.93</Price6>
-<Price7>632.79</Price7>
-<Price8>578.60</Price8>
+<Price>262.65</Price>
+<Price2>351.64</Price2>
+<Price3>351.64</Price3>
+<Price4>377.10</Price4>
+<Price5>345.37</Price5>
+<Price6>365.12</Price6>
+<Price7>619.51</Price7>
+<Price8>565.80</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699546358694</HepsiburadaSku>
 <SaticiStokKodu>8699546358694</SaticiStokKodu>
@@ -83147,7 +83147,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>13</Stock>
 <Miad>2029-07-01</Miad>
 <Price>348.41</Price>
 <Price2>434.33</Price2>
