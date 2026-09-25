@@ -1104,7 +1104,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>149</Stock>
+<Stock>148</Stock>
 <Miad>2026-10-01</Miad>
 <Price>118.92</Price>
 <Price2>169.54</Price2>
@@ -2050,8 +2050,8 @@
 <Price4>840.00</Price4>
 <Price5>840.00</Price5>
 <Price6>840.00</Price6>
-<Price7>1069.02</Price7>
-<Price8>1069.02</Price8>
+<Price7>1069.01</Price7>
+<Price8>1069.01</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQM64R</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00050</SaticiStokKodu>
@@ -7193,7 +7193,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>134.13</Price>
 <Price2>198.93</Price2>
@@ -7361,53 +7361,6 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici (g&#246;z &#231;evresi) kullan&#305;m i&#231;indir. Tek kullan&#305;ml&#305;kt&#305;r. G&#246;z tahri&#351;i g&#246;r&#252;l&#252;rse kullan&#305;m&#305; b&#305;rak&#305;p hekime dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>G&#246;z kapa&#287;&#305; hijyeni i&#231;in nazik bir temizleyici arayanlar Blephaclean G&#246;z Pedi'ni Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00175]]></Product_code>
-<Barcode>0041388001715</Barcode>
-<Name><![CDATA[Blistex Medplus Dudak Bakım Kremi SPF15 7 ml]]></Name>
-<Brand><![CDATA[Blistex]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Dudak Bakımı]]></category>
-<subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
-<Tax>10</Tax>
-<Stock>14</Stock>
-<Miad></Miad>
-<Price>50.00</Price>
-<Price2>200.00</Price2>
-<Price3>200.00</Price3>
-<Price4>170.00</Price4>
-<Price5>170.00</Price5>
-<Price6>170.00</Price6>
-<Price7>256.00</Price7>
-<Price8>256.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>0041388001715</HepsiburadaSku>
-<SaticiStokKodu>0041388001715</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/blistex-medplus-dudak-bakim-kremi-spf15-7-ml-8221.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/blistex-medplus-dudak-bakim-kremi-spf15-7-ml-8222.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/blistex-medplus-dudak-bakim-kremi-spf15-7-ml-8223.webp</Image3>
-<Description><![CDATA[<section>
-<p><strong>Blistex MedPlus Dudak Bak&#305;m Kremi SPF15 7 ml</strong>, kuruyan ve &#231;atlayan dudaklar&#305; onarmaya yard&#305;mc&#305; olan, SPF15 g&#252;ne&#351; korumal&#305; bir dudak bak&#305;m &#252;r&#252;n&#252;d&#252;r. Mentol, okaliptus ve kafur i&#231;eren ferahlat&#305;c&#305; form&#252;l&#252;yle dudaklara an&#305;nda serinlik hissi verirken nem dengesinin korunmas&#305;na destek olur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>SPF15 ile dudaklar&#305; g&#252;ne&#351;in zararl&#305; UVB &#305;&#351;&#305;nlar&#305;na kar&#351;&#305; korumaya yard&#305;mc&#305; olur</li>
-<li>Petrolatum i&#231;eri&#287;i nem kayb&#305;n&#305; &#246;nleyen koruyucu bir bariyer olu&#351;turur</li>
-<li>Lanolin dudak dokusunu yumu&#351;at&#305;r ve esnekli&#287;ini desteklemeye yard&#305;mc&#305; olur</li>
-<li>Mentol ve okaliptus ile uygulama an&#305;nda ferahl&#305;k hissi verir</li>
-<li>Shea ya&#287;&#305; ve E vitamini ile zenginle&#351;tirilmi&#351;tir</li>
-<li>Kuru ve &#231;atlam&#305;&#351; dudaklar&#305;n onar&#305;lmas&#305;na destek olur</li>
-<li>R&#252;zgar ve so&#287;uk gibi d&#305;&#351; etkenlere kar&#351;&#305; korumaya yard&#305;mc&#305; olur</li>
-<li>Kavanoz formuyla parmak ucuyla kolay uygulan&#305;r</li>
-<li>7 ml boyutuyla &#231;antada rahat&#231;a ta&#351;&#305;n&#305;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;n i&#231;inde ihtiya&#231; duyduk&#231;a dudaklara ince bir tabaka halinde uygulay&#305;n. &#214;zellikle g&#252;ne&#351;e, r&#252;zgara veya so&#287;u&#287;a &#231;&#305;kmadan &#246;nce kullan&#305;lmas&#305; &#246;nerilir. Ayr&#305;nt&#305;lar i&#231;in ambalajdaki kullan&#305;m bilgilerini inceleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>&#220;r&#252;n yaln&#305;zca haricen kullan&#305;m i&#231;indir. G&#246;zlerle temas&#305;ndan ka&#231;&#305;n&#305;n. Dudaklarda k&#305;zar&#305;kl&#305;k, ka&#351;&#305;nt&#305; veya tahri&#351; olu&#351;ursa kullan&#305;ma ara verin ve gerekirse bir uzmana dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p>
-<p>Blistex MedPlus, Farmaneva g&#252;vencesiyle dudak bak&#305;m rutininizde yerini al&#305;yor.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -7727,7 +7680,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>224</Stock>
+<Stock>220</Stock>
 <Miad></Miad>
 <Price>764.91</Price>
 <Price2>948.43</Price2>
@@ -10696,7 +10649,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>26</Stock>
+<Stock>19</Stock>
 <Miad>2027-09-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -15049,52 +15002,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00351]]></Product_code>
-<Barcode>4712558769020</Barcode>
-<Name><![CDATA[Ebsensor Şeker Ölçüm Strip 50 Lik]]></Name>
-<Brand><![CDATA[Ebsensor]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Şeker Ölçüm Cihazları]]></category>
-<subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
-<Tax>10</Tax>
-<Stock>5</Stock>
-<Miad>2027-07-01</Miad>
-<Price>140.00</Price>
-<Price2>228.00</Price2>
-<Price3>228.00</Price3>
-<Price4>400.00</Price4>
-<Price5>400.00</Price5>
-<Price6>400.00</Price6>
-<Price7>363.00</Price7>
-<Price8>363.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQKV7V</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00351</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/ebsensor-seker-olcum-strip-50-lik-8680.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Ebsensor &#350;eker &#214;l&#231;&#252;m Strip 50 Lik</strong>, Ebsensor kan &#351;ekeri &#246;l&#231;&#252;m cihazlar&#305;yla uyumlu &#231;al&#305;&#351;an tek kullan&#305;ml&#305;k &#246;l&#231;&#252;m &#231;ubuklar&#305;d&#305;r. Parmak ucundan al&#305;nan k&#252;&#231;&#252;k bir kan damlas&#305;yla kan &#351;ekeri seviyesini &#246;l&#231;meye yarayan bu stripler, d&#252;zenli kan &#351;ekeri takibi yapan diyabetli bireylere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Ebsensor glukometre modelleriyle uyumludur</li>
-<li>Kutuda 50 adet &#246;l&#231;&#252;m stripi bulunur</li>
-<li>K&#252;&#231;&#252;k kan damlas&#305;yla h&#305;zl&#305; &#246;l&#231;&#252;m sa&#287;lar</li>
-<li>Yakla&#351;&#305;k 10 saniyede sonu&#231; verir</li>
-<li>Geni&#351; &#246;l&#231;&#252;m aral&#305;&#287;&#305; (yakla&#351;&#305;k 20-600 mg/dL)</li>
-<li>G&#252;nl&#252;k kan &#351;ekeri takibi i&#231;in uygundur</li>
-<li>Tek kullan&#305;ml&#305;k ve hijyeniktir</li>
-<li>Kolay ve pratik kullan&#305;m</li>
-<li>Serin ve kuru ortamda saklanabilir</li>
-<li>Uzun s&#252;reli kullan&#305;m i&#231;in ekonomik paket</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Ellerinizi y&#305;kay&#305;p kurulad&#305;ktan sonra stribi cihaza tak&#305;n ve parmak ucundan al&#305;nan k&#252;&#231;&#252;k bir kan damlas&#305;n&#305; strip &#252;zerine uygulay&#305;n. Cihaz sonucu k&#305;sa s&#252;rede ekranda g&#246;sterir. Do&#287;ru kullan&#305;m i&#231;in cihaz ve strip k&#305;lavuzundaki talimatlar&#305; izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Bu &#252;r&#252;n t&#305;bbi te&#351;his arac&#305; de&#287;ildir; sonu&#231;lar&#305;n yorumu ve tedavi i&#231;in hekiminize dan&#305;&#351;&#305;n. Stripleri serin, kuru ortamda ve son kullanma tarihine dikkat ederek saklay&#305;n; k&#305;lavuza uygun kullan&#305;n.</p>
-<p>Farmaneva g&#252;vencesiyle g&#252;nl&#252;k kan &#351;ekeri takibinizi kolayla&#351;t&#305;ran g&#252;venilir bir sarf malzemesidir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00352]]></Product_code>
 <Barcode>8697595871775</Barcode>
 <Name><![CDATA[Efervit Defence 20 Efervesan Tablet - 2.'si %50 İndirimli]]></Name>
@@ -15103,7 +15010,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>49</Stock>
+<Stock>47</Stock>
 <Miad>2028-01-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -15286,7 +15193,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>16</Stock>
 <Miad>2027-03-01</Miad>
 <Price>786.25</Price>
 <Price2>939.52</Price2>
@@ -17669,7 +17576,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>89.17</Price>
 <Price2>145.51</Price2>
@@ -19325,7 +19232,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>1</Stock>
 <Miad>2028-01-01</Miad>
 <Price>169.91</Price>
 <Price2>241.44</Price2>
@@ -25984,7 +25891,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>53</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>276.16</Price>
 <Price2>358.77</Price2>
@@ -39771,7 +39678,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>860.08</Price2>
@@ -41311,51 +41218,6 @@
 <p>A&#351;&#305;r&#305; bast&#305;rmak hassas di&#351; etlerinde tahri&#351;e neden olabilir; nazik f&#305;r&#231;alay&#305;n. K&#305;llar&#305; y&#305;prand&#305;&#287;&#305;nda veya yakla&#351;&#305;k &#252;&#231; ayda bir f&#305;r&#231;an&#305;z&#305; de&#287;i&#351;tirin. Devam eden hassasiyet durumunda di&#351; hekiminize dan&#305;&#351;&#305;n.</p>
 <p>Farmaneva, hassas a&#287;&#305;z bak&#305;m&#305;n&#305;za uygun g&#252;venilir &#252;r&#252;nleri &#246;zenle bir araya getirir.</p>
 </section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00939]]></Product_code>
-<Barcode>8697595873663</Barcode>
-<Name><![CDATA[Orzax Cosakondrin Kompleks Jel 100 ml]]></Name>
-<Brand><![CDATA[Orzax]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
-<Tax>1</Tax>
-<Stock>3</Stock>
-<Miad>2029-01-01</Miad>
-<Price>205.36</Price>
-<Price2>241.79</Price2>
-<Price3>241.79</Price3>
-<Price4>250.00</Price4>
-<Price5>250.00</Price5>
-<Price6>250.00</Price6>
-<Price7>390.29</Price7>
-<Price8>390.29</Price8>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQKRPT</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00939</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39218.webp</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39219.webp</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39220.webp</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-39221.webp</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/orzax-cosakondrin-kompleks-jel-100-ml-42256.webp</Image5>
-<Description><![CDATA[<section>
-<p><strong>Orzax Cosakondrin Kompleks Jel 100 ml</strong>, glukozamin, kondroitin, MSM, hyal&#252;ronik asit ve bitkisel ya&#287;lar i&#231;eren, cilde masajla uygulanan aromatik bir jeldir. Eklem b&#246;lgelerinde ferahlat&#305;c&#305; bir bak&#305;m i&#231;in haricen kullanmak isteyenlere y&#246;neliktir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Glukozamin s&#252;lfat ve kondroitin s&#252;lfat i&#231;erir</li>
-<li>MSM (metils&#252;lfonilmetan) ve hyal&#252;ronik asit</li>
-<li>Boswellia serrata ve arnika ekstresi</li>
-<li>K&#226;fur ve mentol ile ferahlat&#305;c&#305; etki</li>
-<li>Zencefil, okalipt&#252;s, lavanta ve karanfil ya&#287;lar&#305;</li>
-<li>Kapsaisin i&#231;erir</li>
-<li>Cilde masajla kolay uygulama</li>
-<li>100 ml pratik t&#252;p</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>&#304;lgili b&#246;lgeye ince bir tabaka halinde uygulay&#305;n ve emilene kadar masaj yap&#305;n; genellikle g&#252;nde iki kez kullan&#305;l&#305;r. Uygulama sonras&#305; ellerinizi y&#305;kay&#305;n. Kesin kullan&#305;m i&#231;in ambalaj &#252;zerindeki y&#246;nergeleri inceleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir; g&#246;z, mukoza ve a&#231;&#305;k yaralarla temas&#305;ndan ka&#231;&#305;n&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. Hamilelik, emzirme d&#246;nemi ve mevcut rahats&#305;zl&#305;klarda kullan&#305;m &#246;ncesi hekiminize dan&#305;&#351;&#305;n.</p>
-<p>Farmaneva, g&#252;nl&#252;k bak&#305;m&#305;n&#305;za e&#351;lik eden g&#252;venilir &#252;r&#252;nleri &#246;zenle sizlere sunar.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00940]]></Product_code>
@@ -45178,7 +45040,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>31</Stock>
 <Miad></Miad>
 <Price>96.90</Price>
 <Price2>154.69</Price2>
@@ -45409,7 +45271,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad></Miad>
 <Price>96.90</Price>
 <Price2>154.69</Price2>
@@ -45643,7 +45505,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>22</Stock>
 <Miad></Miad>
 <Price>99.45</Price>
 <Price2>157.72</Price2>
@@ -53936,7 +53798,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>32</Stock>
+<Stock>31</Stock>
 <Miad>2028-01-01</Miad>
 <Price>813.88</Price>
 <Price2>971.41</Price2>
@@ -56306,6 +56168,49 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV01284]]></Product_code>
+<Barcode>8682328782220</Barcode>
+<Name><![CDATA[Vulalife Gebelik Testi Erken Ultra]]></Name>
+<Brand><![CDATA[Vula Life]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
+<subCategory><![CDATA[Gebelik Testi]]></subCategory>
+<Tax>10</Tax>
+<Stock>50</Stock>
+<Miad>2027-04-01</Miad>
+<Price>11.00</Price>
+<Price2>20.00</Price2>
+<Price3>20.00</Price3>
+<Price4>22.98</Price4>
+<Price5>23.00</Price5>
+<Price6>23.00</Price6>
+<Price7>160.00</Price7>
+<Price8>139.00</Price8>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQLCO4</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01284</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/vula-life-gebelik-testi-erken-ultra-10580.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Vulalife Gebelik Testi Erken Ultra</strong>, y&#252;ksek hassasiyetiyle erken d&#246;nemde sonu&#231; vermeye y&#246;nelik geli&#351;tirilmi&#351;, evde uygulanabilen bir gebelik testidir. Adet gecikmesinden &#246;nce daha d&#252;&#351;&#252;k hormon seviyelerini tespit edebilen hassas yap&#305;s&#305;yla beklemek istemeyenler i&#231;in uygundur.</p>
+<h2>Vulalife Erken Ultra Gebelik Testi &#214;zellikleri</h2>
+<ul>
+<li>&#304;drardaki hCG hormonunu y&#252;ksek hassasiyetle tespit etmeye y&#246;neliktir.</li>
+<li>Ultra hassas yap&#305;s&#305; sayesinde erken d&#246;nemde sonu&#231; verebilir.</li>
+<li>Sonu&#231;lar k&#305;sa s&#252;re i&#231;inde okunabilir.</li>
+<li>Evde, pratik ve kolay uygulama sunar.</li>
+<li>Tek kullan&#305;ml&#305;k hijyenik ambalajda sunulur.</li>
+<li>Kullan&#305;m k&#305;lavuzuna uygun bi&#231;imde kullan&#305;lmas&#305; &#246;nerilir.</li>
+<li>Evde pratik kullan&#305;m i&#231;in uygundur.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>En g&#252;venilir sonu&#231; i&#231;in sabah ilk idrar&#305; tercih edin. Emici ucu idrar ak&#305;&#351;&#305;na birka&#231; saniye tutun ya da temiz bir kaba al&#305;nan idrara dald&#305;r&#305;n; belirtilen s&#252;re i&#231;inde sonucu de&#287;erlendirin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Tek kullan&#305;ml&#305;kt&#305;r; ambalaj&#305; a&#231;&#305;ld&#305;ktan sonra hemen kullan&#305;n. Son kullanma tarihi ge&#231;mi&#351; &#252;r&#252;n&#252; kullanmay&#305;n. Test sonu&#231;lar&#305; &#246;n bilgi niteli&#287;indedir; kesin tan&#305; ve de&#287;erlendirme i&#231;in bir sa&#287;l&#305;k kurulu&#351;una ba&#351;vurun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>G&#246;n&#252;l rahatl&#305;&#287;&#305;yla kullanmak isteyenler Farmaneva'dan g&#252;venle edinebilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV01285]]></Product_code>
 <Barcode>8699680010250</Barcode>
 <Name><![CDATA[Wellcare Magnezyum + Vitamin B6 60 Tablet]]></Name>
@@ -57513,7 +57418,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>111</Stock>
+<Stock>110</Stock>
 <Miad>2028-04-01</Miad>
 <Price>157.25</Price>
 <Price2>219.66</Price2>
@@ -60613,7 +60518,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>254.91</Price>
 <Price2>342.44</Price2>
@@ -60880,7 +60785,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Bronzlaştırıcılar]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>365.41</Price>
 <Price2>473.74</Price2>
@@ -64057,7 +63962,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>192</Stock>
+<Stock>187</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -64192,7 +64097,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>63</Stock>
+<Stock>61</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -66611,14 +66516,14 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad>2028-09-01</Miad>
-<Price>594.06</Price>
-<Price2>745.42</Price2>
-<Price3>745.42</Price3>
-<Price4>814.55</Price4>
-<Price5>781.16</Price5>
-<Price6>786.55</Price6>
-<Price7>1137.34</Price7>
-<Price8>1064.91</Price8>
+<Price>573.75</Price>
+<Price2>721.29</Price2>
+<Price3>721.29</Price3>
+<Price4>787.74</Price4>
+<Price5>754.46</Price5>
+<Price6>760.72</Price6>
+<Price7>1105.60</Price7>
+<Price8>1034.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0DXK5</HepsiburadaSku>
 <SaticiStokKodu>850069595807</SaticiStokKodu>
@@ -66655,14 +66560,14 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>619.48</Price>
-<Price2>775.63</Price2>
-<Price3>775.63</Price3>
-<Price4>848.10</Price4>
-<Price5>814.59</Price5>
-<Price6>818.87</Price6>
-<Price7>1177.06</Price7>
-<Price8>1103.19</Price8>
+<Price>552.50</Price>
+<Price2>696.04</Price2>
+<Price3>696.04</Price3>
+<Price4>759.69</Price4>
+<Price5>726.51</Price5>
+<Price6>733.70</Price6>
+<Price7>1072.40</Price7>
+<Price8>1002.32</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EWY4</HepsiburadaSku>
 <SaticiStokKodu>850069595784</SaticiStokKodu>
@@ -67147,14 +67052,14 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>424.79</Price>
-<Price2>544.29</Price2>
-<Price3>544.29</Price3>
-<Price4>591.12</Price4>
-<Price5>558.58</Price5>
-<Price6>571.30</Price6>
-<Price7>872.85</Price7>
-<Price8>809.98</Price8>
+<Price>382.50</Price>
+<Price2>494.04</Price2>
+<Price3>494.04</Price3>
+<Price4>535.30</Price4>
+<Price5>502.97</Price5>
+<Price6>517.52</Price6>
+<Price7>806.78</Price7>
+<Price8>746.30</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000HCBMT0</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01534</SaticiStokKodu>
@@ -67864,14 +67769,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>524.34</Price2>
-<Price3>524.34</Price3>
-<Price4>568.95</Price4>
-<Price5>536.50</Price5>
-<Price6>549.95</Price6>
-<Price7>846.62</Price7>
-<Price8>784.70</Price8>
+<Price>373.91</Price>
+<Price2>483.84</Price2>
+<Price3>483.84</Price3>
+<Price4>523.96</Price4>
+<Price5>491.68</Price5>
+<Price6>506.60</Price6>
+<Price7>793.35</Price7>
+<Price8>733.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -76625,7 +76530,7 @@
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2029-02-01</Miad>
+<Miad>2027-06-01</Miad>
 <Price>586.41</Price>
 <Price2>708.94</Price2>
 <Price3>708.94</Price3>
@@ -81092,7 +80997,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2029-03-01</Miad>
 <Price>305.91</Price>
 <Price2>385.29</Price2>
