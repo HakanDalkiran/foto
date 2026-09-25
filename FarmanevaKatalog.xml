@@ -1104,7 +1104,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>148</Stock>
+<Stock>147</Stock>
 <Miad>2026-10-01</Miad>
 <Price>118.92</Price>
 <Price2>169.54</Price2>
@@ -10606,7 +10606,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>23</Stock>
 <Miad>2027-09-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -15107,7 +15107,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>14</Stock>
 <Miad>2027-03-01</Miad>
 <Price>786.25</Price>
 <Price2>939.52</Price2>
@@ -25652,7 +25652,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad></Miad>
 <Price>276.16</Price>
 <Price2>358.77</Price2>
@@ -39037,7 +39037,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>860.08</Price2>
@@ -46933,7 +46933,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2028-05-01</Miad>
 <Price>137.62</Price>
 <Price2>196.69</Price2>
@@ -52729,7 +52729,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad>2028-01-01</Miad>
 <Price>813.88</Price>
 <Price2>971.41</Price2>
@@ -56306,7 +56306,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>110</Stock>
+<Stock>109</Stock>
 <Miad>2028-04-01</Miad>
 <Price>157.25</Price>
 <Price2>219.66</Price2>
@@ -59673,7 +59673,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Bronzlaştırıcılar]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>365.41</Price>
 <Price2>473.74</Price2>
@@ -66657,14 +66657,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>523.96</Price4>
-<Price5>491.68</Price5>
-<Price6>506.60</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>568.95</Price4>
+<Price5>536.50</Price5>
+<Price6>549.95</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
