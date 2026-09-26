@@ -7681,7 +7681,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>206</Stock>
+<Stock>210</Stock>
 <Miad></Miad>
 <Price>764.91</Price>
 <Price2>948.43</Price2>
@@ -8125,7 +8125,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>62</Stock>
 <Miad>2030-05-01</Miad>
 <Price>59.42</Price>
 <Price2>110.16</Price2>
@@ -11794,7 +11794,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Vücut Losyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>120</Stock>
+<Stock>121</Stock>
 <Miad></Miad>
 <Price>126.65</Price>
 <Price2>190.04</Price2>
@@ -12943,7 +12943,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>88</Stock>
+<Stock>89</Stock>
 <Miad></Miad>
 <Price>327.16</Price>
 <Price2>428.29</Price2>
@@ -13543,7 +13543,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>301.66</Price>
 <Price2>397.99</Price2>
@@ -15104,7 +15104,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>47</Stock>
 <Miad>2028-01-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -24803,7 +24803,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>125</Stock>
+<Stock>126</Stock>
 <Miad>2028-04-01</Miad>
 <Price>348.41</Price>
 <Price2>434.33</Price2>
@@ -30876,7 +30876,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>16</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1359.91</Price>
 <Price2>1601.43</Price2>
@@ -39817,7 +39817,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>4</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>860.08</Price2>
@@ -46803,7 +46803,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>234</Stock>
+<Stock>235</Stock>
 <Miad>2028-07-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -47496,7 +47496,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>24</Stock>
 <Miad>2028-06-01</Miad>
 <Price>44.96</Price>
 <Price2>88.29</Price2>
@@ -64275,7 +64275,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>10</Tax>
-<Stock>36</Stock>
+<Stock>38</Stock>
 <Miad>2029-02-01</Miad>
 <Price>339.06</Price>
 <Price2>432.35</Price2>
@@ -65116,7 +65116,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>2029-03-01</Miad>
 <Price>182.66</Price>
 <Price2>256.59</Price2>
@@ -65251,7 +65251,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>23</Stock>
 <Miad>2029-03-01</Miad>
 <Price>198.90</Price>
 <Price2>275.89</Price2>
@@ -67006,7 +67006,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>128</Stock>
+<Stock>127</Stock>
 <Miad>2028-01-01</Miad>
 <Price>446.16</Price>
 <Price2>569.69</Price2>
@@ -81038,7 +81038,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>7</Stock>
 <Miad>2029-03-01</Miad>
 <Price>305.91</Price>
 <Price2>385.29</Price2>
@@ -81771,7 +81771,7 @@
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2027-09-01</Miad>
+<Miad>2028-09-01</Miad>
 <Price>211.56</Price>
 <Price2>276.43</Price2>
 <Price3>276.43</Price3>
