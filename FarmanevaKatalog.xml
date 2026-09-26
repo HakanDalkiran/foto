@@ -63683,7 +63683,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>31</Stock>
+<Stock>0</Stock>
 <Miad>2029-03-01</Miad>
 <Price>509.06</Price>
 <Price2>631.23</Price2>
@@ -63691,8 +63691,8 @@
 <Price4>661.56</Price4>
 <Price5>652.27</Price5>
 <Price6>639.84</Price6>
-<Price7>942.90</Price7>
-<Price8>885.38</Price8>
+<Price7>942.89</Price7>
+<Price8>885.37</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0GHIW</HepsiburadaSku>
 <SaticiStokKodu>8680133000492</SaticiStokKodu>
