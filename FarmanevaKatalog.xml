@@ -9287,7 +9287,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2029-01-01</Miad>
 <Price>636.56</Price>
 <Price2>766.81</Price2>
@@ -16277,16 +16277,16 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
-<Price>84.90</Price>
-<Price2>111.69</Price2>
-<Price3>111.69</Price3>
-<Price4>95.09</Price4>
-<Price5>95.09</Price5>
-<Price6>95.09</Price6>
-<Price7>225.44</Price7>
-<Price8>225.44</Price8>
+<Price>114.67</Price>
+<Price2>175.81</Price2>
+<Price3>175.81</Price3>
+<Price4>159.28</Price4>
+<Price5>150.79</Price5>
+<Price6>153.45</Price6>
+<Price7>388.29</Price7>
+<Price8>328.84</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLAAR</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00387</SaticiStokKodu>
@@ -16749,16 +16749,16 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
-<Price>79.90</Price>
-<Price2>106.29</Price2>
-<Price3>106.29</Price3>
-<Price4>89.49</Price4>
-<Price5>89.49</Price5>
-<Price6>89.49</Price6>
-<Price7>218.59</Price7>
-<Price8>218.59</Price8>
+<Price>97.75</Price>
+<Price2>155.70</Price2>
+<Price3>155.70</Price3>
+<Price4>136.95</Price4>
+<Price5>128.54</Price5>
+<Price6>131.93</Price6>
+<Price7>361.85</Price7>
+<Price8>303.36</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL5LJ</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00399</SaticiStokKodu>
@@ -17668,16 +17668,16 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
-<Price>129.90</Price>
-<Price2>160.29</Price2>
-<Price3>160.29</Price3>
-<Price4>145.49</Price4>
-<Price5>145.49</Price5>
-<Price6>145.49</Price6>
-<Price7>287.02</Price7>
-<Price8>287.02</Price8>
+<Price>168.30</Price>
+<Price2>239.53</Price2>
+<Price3>239.53</Price3>
+<Price4>230.07</Price4>
+<Price5>221.31</Price5>
+<Price6>221.64</Price6>
+<Price7>472.09</Price7>
+<Price8>423.70</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL635</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00420</SaticiStokKodu>
@@ -26090,52 +26090,6 @@
 <p>Bu cihaz t&#305;bbi te&#351;his arac&#305; de&#287;ildir; kalp pili ta&#351;&#305;yanlar, hamileler ve kronik rahats&#305;zl&#305;&#287;&#305; olanlar kullanmadan &#246;nce hekimine dan&#305;&#351;mal&#305;d&#305;r. Kalp b&#246;lgesi, a&#231;&#305;k yara ve tahri&#351; olmu&#351; cilt &#252;zerinde kullanmay&#305;n ve kullan&#305;m k&#305;lavuzundaki talimatlara uyun.</p>
 <p>Farmaneva, g&#252;nl&#252;k bak&#305;m rutininize destek olacak pratik &#252;r&#252;nleri bir arada sunar.</p>
 </section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00613]]></Product_code>
-<Barcode>8680760510098</Barcode>
-<Name><![CDATA[Minoxil Forte Deri Spreyi %5 60 ml]]></Name>
-<Brand><![CDATA[Minoxil]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
-<Tax>1</Tax>
-<Stock>58</Stock>
-<Miad>2029-04-01</Miad>
-<Price>600.00</Price>
-<Price2>799.00</Price2>
-<Price3>799.00</Price3>
-<Price4>1900.00</Price4>
-<Price5>1900.00</Price5>
-<Price6>1900.00</Price6>
-<Price7>1103.27</Price7>
-<Price8>1103.27</Price8>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8680760510098</HepsiburadaSku>
-<SaticiStokKodu>8680760510098</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/minoxil-forte-deri-spreyi-5-60-ml-78751.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Minoxil Forte Deri Spreyi %5 60 ml</strong>, her mililitresinde 50 mg minoksidil bulunan, doğrudan saç derisine uygulanan topikal bir çözeltidir. Saç dökülmesini azaltmaya ve saç çıkışını desteklemeye yönelik bakım arayan yetişkinlere yöneliktir.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>%5 oranında minoksidil içeren topikal deri spreyi çözeltisidir</li>
-<li>60 ml şişede yaklaşık 3 g minoksidil bulunur</li>
-<li>Saç dökülmesini azaltmaya ve saç çıkışını desteklemeye yönelik kullanılır</li>
-<li>Sprey başlığı sayesinde saç derisine kolay uygulanır</li>
-<li>Kuru saç ve saç derisine uygulanacak biçimde tasarlanmıştır</li>
-<li>Androgenetik tipte saç dökülmesi bakımında tercih edilir</li>
-<li>Etkisi için uzun süreli ve düzenli kullanım gerektirir</li>
-<li>Pratik 60 ml şişe hacmiyle sunulur</li>
-<li>Yalnızca haricen, saç derisine uygulanmak üzere tasarlanmıştır</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Genellikle kuru saç ve saç derisine sabah ve akşam olmak üzere günde iki kez uygulanır. Kesin doz, uygulama miktarı ve kullanım süresi için ürünün kullanma talimatını okuyun ve hekiminizin ya da eczacınızın önerilerine uyun. Ayrıntılı uygulama için <a href="/minoxil-sprey-nasil-kullanilir-doz-uygulama-adimlari-ve-sik-yapilan-hatalar">Minoxil sprey nasıl kullanılır</a> rehberimize bakabilirsiniz.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanılır; göz, ağız ve mukoza ile temasından kaçının, temas hâlinde bol suyla durulayın. Kullanmadan önce ürün prospektüsünü okuyun; gebelik, emzirme veya mevcut bir rahatsızlık durumunda hekiminize ya da eczacınıza danışın.</p>
-<p>Farmaneva, saç bakımı rutininizde güvenle yer verebileceğiniz ürünleri özenle sunar.</p>
-</section>]]></Description>
-<Keywords><![CDATA[minoksidil,minoksil,minoxil %5,minoxil forte %5,minoxil forte %5 deri spreyi,minoxil forte 5,minoxil forte 5 deri spreyi,minoxil forte 5 fiyat,minoxsil]]></Keywords>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00614]]></Product_code>
@@ -82665,11 +82619,7 @@
 <HepsiburadaSku>8699293110491</HepsiburadaSku>
 <SaticiStokKodu>8699293110491</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-insulin-tasima-cantasi-mini-ybh-2011-42558.png</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/mesilife-insulin-tasima-cantasi-mini-ybh-2011-42859.png</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cistus-antivirus-pastil-10-lu-42861.png</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cistus-antivirus-pastil-10-lu-42863.png</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/cistus-antivirus-pastil-10-lu-42864.png</Image5>
+<Image1>https://www.farmaneva.com/uploads/urunler/8699293110491-0_eggn5.png</Image1>
 <Description><![CDATA[<section><p><strong>Cistus Antivirus Pastil 10'lu</strong>, bo&#287;az konforu arayan yeti&#351;kinler i&#231;in Cistus creticus (laden) bitkisi ekstresi i&#231;eren, a&#287;&#305;zda eritilerek kullan&#305;lan &#351;ekersiz bir pastildir. Aromas&#305;z sade (klasik) &#231;e&#351;ittir; ball&#305; limonlu &#231;e&#351;idinden farkl&#305; olarak nane ya&#287;&#305; ile hafif ferah bir tat verir.</p><h2>Cistus Antivirus Pastil &#214;zellikleri</h2><ul><li>Cistus creticus ekstresi i&#231;erir</li><li>&#350;eker, gluten ve laktoz i&#231;ermez; maltitol, sorbitol ve stevia ile tatland&#305;r&#305;lm&#305;&#351;t&#305;r</li><li>Koruyucu madde ve renklendirici i&#231;ermez</li><li>Kutuda 10 adet pastil bulunur</li><li>Su gerektirmeden, g&#252;n i&#231;inde her yerde kullan&#305;labilir</li></ul><h2>&#304;&#231;indekiler</h2><p>Cistus creticus ekstresi, arap zamk&#305;, maltitol, sorbitol, su, askorbik asit, sitrik asit, aroma, stevia ekstresi, bitkisel ya&#287;, nane ya&#287;&#305;.</p><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>G&#252;nde 3 ile 6 pastil, &#231;i&#287;nenmeden a&#287;&#305;zda yava&#351;&#231;a eritilerek kullan&#305;l&#305;r. &#214;nerilen g&#252;nl&#252;k kullan&#305;m miktar&#305; a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. &#199;e&#351;itli ve dengeli beslenmenin yerine ge&#231;mez. Hamilelik, emzirme d&#246;nemi, kronik hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda kullanmadan &#246;nce hekime veya eczac&#305;ya dan&#305;&#351;&#305;n&#305;z. A&#351;&#305;r&#305; t&#252;ketimi laksatif etki yapabilir (poliol i&#231;erir). Serin, kuru yerde ve &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p><p>Cistus Antivirus Pastil 10'lu Farmaneva'da.</p></section>]]></Description>
 </Product>
 <Product>
