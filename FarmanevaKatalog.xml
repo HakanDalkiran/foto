@@ -231,7 +231,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1444.91</Price>
 <Price2>1726.05</Price2>
@@ -7196,7 +7196,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>24</Stock>
+<Stock>20</Stock>
 <Miad>2026-11-01</Miad>
 <Price>278.20</Price>
 <Price2>353.32</Price2>
@@ -8168,7 +8168,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>3</Stock>
 <Miad>2027-06-01</Miad>
 <Price>627.21</Price>
 <Price2>756.02</Price2>
@@ -10650,7 +10650,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad>2027-09-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -10952,52 +10952,6 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Bite kar&#351;&#305; insektisitsiz bir &#231;&#246;z&#252;m arayanlar Dembit Sprey'i Farmaneva'da bulabilir.</p></section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00256]]></Product_code>
-<Barcode>8684663765425</Barcode>
-<Name><![CDATA[Dermastudio Lavanta Yağı Saç Bakım Spreyi 100 ml]]></Name>
-<Brand><![CDATA[Dermastudio]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
-<Tax>20</Tax>
-<Stock>1</Stock>
-<Miad>2028-10-01</Miad>
-<Price>20.00</Price>
-<Price2>72.96</Price2>
-<Price3>72.96</Price3>
-<Price4>54.92</Price4>
-<Price5>54.92</Price5>
-<Price6>54.92</Price6>
-<Price7>200.00</Price7>
-<Price8>179.00</Price8>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GU3SLD</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00256</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/dermastudio-lavanta-yagi-sac-bakim-spreyi-100-ml-8421.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Dermastudio Lavanta Ya&#287;&#305; Sa&#231; Bak&#305;m Spreyi 100 ml</strong>, lavanta ya&#287;&#305; i&#231;eri&#287;iyle sa&#231;a bak&#305;m yapmay&#305; ama&#231;layan, sprey formunda bir sa&#231; bak&#305;m &#252;r&#252;n&#252;d&#252;r. G&#252;nl&#252;k sa&#231; bak&#305;m rutinine lavantan&#305;n ho&#351; kokusuyla ferahl&#305;k katmak isteyenlere y&#246;nelik, 100 ml hacimli pratik bir &#252;r&#252;nd&#252;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Lavanta ya&#287;&#305; i&#231;eri&#287;iyle sa&#231;a bak&#305;m deste&#287;i</li>
-<li>Lavantan&#305;n ho&#351; ve ferahlat&#305;c&#305; kokusu</li>
-<li>Sprey formuyla kolay ve homojen uygulama</li>
-<li>G&#252;nl&#252;k sa&#231; bak&#305;m rutinine eklenebilir</li>
-<li>Sa&#231;lar&#305; ferahlatmaya yard&#305;mc&#305; olur</li>
-<li>Pratik ta&#351;&#305;nabilir ambalaj</li>
-<li>Kolay p&#252;sk&#252;rt&#252;len pompa ba&#351;l&#305;&#287;&#305;</li>
-<li>100 ml hacimli kullan&#305;&#351;l&#305; boyut</li>
-<li>Ekonomik g&#252;nl&#252;k kullan&#305;m</li>
-<li>Dermastudio kalite anlay&#305;&#351;&#305;yla sunulur</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Sa&#231;a uygun mesafeden p&#252;sk&#252;rt&#252;n ve dilerseniz nazik&#231;e taray&#305;n ya da masaj yap&#305;n. G&#252;nl&#252;k bak&#305;m rutininizde kullanabilirsiniz. Kesin kullan&#305;m bilgisi i&#231;in &#252;r&#252;n ambalaj&#305;ndaki talimatlar&#305; inceleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir; g&#246;z ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas durumunda bol su ile durulay&#305;n. Ciltte tahri&#351; olu&#351;mas&#305; halinde kullan&#305;m&#305; b&#305;rak&#305;n ve &#231;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n, sa&#231; bak&#305;m rutininize lavanta ferahl&#305;&#287;&#305; katan pratik bir se&#231;enektir.</p>
-</section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00258]]></Product_code>
@@ -14918,7 +14872,7 @@
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <subCategory><![CDATA[Çocuk Omega 3 / Balık Yağı]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad>2027-09-01</Miad>
 <Price>573.66</Price>
 <Price2>694.23</Price2>
@@ -18164,7 +18118,7 @@
 <category><![CDATA[Hasta Bezi]]></category>
 <subCategory><![CDATA[Hasta Altı Bezi]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>173.31</Price>
 <Price2>238.45</Price2>
@@ -20584,7 +20538,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>50</Stock>
+<Stock>49</Stock>
 <Miad>2028-04-01</Miad>
 <Price>1542.24</Price>
 <Price2>1811.81</Price2>
@@ -24941,7 +24895,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>499</Stock>
 <Miad>2030-03-01</Miad>
 <Price>1215.41</Price>
 <Price2>1434.70</Price2>
@@ -26645,7 +26599,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>49</Stock>
 <Miad></Miad>
 <Price>36.46</Price>
 <Price2>82.88</Price2>
@@ -37978,7 +37932,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2027-08-01</Miad>
 <Price>337.45</Price>
 <Price2>421.69</Price2>
@@ -38971,7 +38925,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad>2027-06-01</Miad>
 <Price>381.56</Price>
 <Price2>472.58</Price2>
@@ -39634,7 +39588,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2028-12-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -39909,7 +39863,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2028-10-01</Miad>
 <Price>717.40</Price>
 <Price2>860.08</Price2>
@@ -42374,7 +42328,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>93</Stock>
+<Stock>92</Stock>
 <Miad>2027-03-01</Miad>
 <Price>140.16</Price>
 <Price2>194.05</Price2>
@@ -46437,7 +46391,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>215.05</Price>
 <Price2>295.08</Price2>
@@ -47404,7 +47358,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-04-01</Miad>
 <Price>340.00</Price>
 <Price2>433.45</Price2>
@@ -63208,7 +63162,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>75</Stock>
+<Stock>74</Stock>
 <Miad></Miad>
 <Price>1274.07</Price>
 <Price2>1526.19</Price2>
@@ -63252,7 +63206,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>91</Stock>
+<Stock>90</Stock>
 <Miad></Miad>
 <Price>1325.91</Price>
 <Price2>1586.83</Price2>
@@ -63342,7 +63296,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2029-05-01</Miad>
 <Price>637.41</Price>
 <Price2>767.79</Price2>
@@ -65217,7 +65171,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>8</Stock>
 <Miad>2027-12-01</Miad>
 <Price>207.31</Price>
 <Price2>278.22</Price2>
@@ -66298,7 +66252,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-02-01</Miad>
 <Price>510.00</Price>
 <Price2>645.54</Price2>
