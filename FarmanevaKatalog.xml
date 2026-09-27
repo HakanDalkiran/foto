@@ -7196,7 +7196,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2026-11-01</Miad>
 <Price>278.20</Price>
 <Price2>353.32</Price2>
@@ -62083,7 +62083,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>83</Stock>
+<Stock>82</Stock>
 <Miad></Miad>
 <Price>1325.91</Price>
 <Price2>1586.83</Price2>
