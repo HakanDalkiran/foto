@@ -15632,7 +15632,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>45</Stock>
+<Stock>46</Stock>
 <Miad>2028-01-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -20566,7 +20566,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>126</Stock>
+<Stock>127</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>81.87</Price2>
@@ -22633,7 +22633,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>44</Stock>
+<Stock>47</Stock>
 <Miad>2029-05-01</Miad>
 <Price>586.41</Price>
 <Price2>736.33</Price2>
@@ -31567,7 +31567,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>19</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1019.92</Price>
 <Price2>1209.14</Price2>
@@ -39060,17 +39060,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>20</Stock>
 <Miad>2028-10-01</Miad>
-<Price>529.90</Price>
-<Price2>592.29</Price2>
-<Price3>592.29</Price3>
-<Price4>593.49</Price4>
-<Price5>593.49</Price5>
-<Price6>593.49</Price6>
-<Price7>834.42</Price7>
-<Price8>834.42</Price8>
-<Price9>652.20</Price9>
+<Price>292.40</Price>
+<Price2>369.71</Price2>
+<Price3>369.71</Price3>
+<Price4>373.69</Price4>
+<Price5>366.23</Price5>
+<Price6>362.65</Price6>
+<Price7>581.13</Price7>
+<Price8>540.35</Price8>
+<Price9>362.65</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKRLK</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00864</SaticiStokKodu>
@@ -39637,17 +39637,17 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>549.90</Price>
-<Price2>613.89</Price2>
-<Price3>613.89</Price3>
-<Price4>615.89</Price4>
-<Price5>615.89</Price5>
-<Price6>615.89</Price6>
-<Price7>861.79</Price7>
-<Price8>861.79</Price8>
-<Price9>676.59</Price9>
+<Stock>1</Stock>
+<Miad>2029-07-01</Miad>
+<Price>395.25</Price>
+<Price2>488.38</Price2>
+<Price3>488.38</Price3>
+<Price4>502.90</Price4>
+<Price5>495.05</Price5>
+<Price6>488.04</Price6>
+<Price7>728.69</Price7>
+<Price8>683.76</Price8>
+<Price9>488.04</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLK7A</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00876</SaticiStokKodu>
@@ -39930,7 +39930,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>23</Stock>
 <Miad>2027-06-01</Miad>
 <Price>381.56</Price>
 <Price2>472.58</Price2>
@@ -39980,7 +39980,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>14</Stock>
 <Miad>2027-11-01</Miad>
 <Price>491.30</Price>
 <Price2>599.20</Price2>
@@ -40309,17 +40309,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-01-01</Miad>
-<Price>759.90</Price>
-<Price2>840.69</Price2>
-<Price3>840.69</Price3>
-<Price4>851.09</Price4>
-<Price5>851.09</Price5>
-<Price6>851.09</Price6>
-<Price7>1149.17</Price7>
-<Price8>1149.17</Price8>
-<Price9>932.62</Price9>
+<Stock>15</Stock>
+<Miad>2027-11-01</Miad>
+<Price>254.06</Price>
+<Price2>325.47</Price2>
+<Price3>325.47</Price3>
+<Price4>325.52</Price4>
+<Price5>318.21</Price5>
+<Price6>315.90</Price6>
+<Price7>526.12</Price7>
+<Price8>486.90</Price8>
+<Price9>315.90</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLDNJ</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00890</SaticiStokKodu>
@@ -40409,17 +40409,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>55</Stock>
 <Miad>2027-08-01</Miad>
-<Price>274.00</Price>
-<Price2>315.92</Price2>
-<Price3>315.92</Price3>
-<Price4>306.88</Price4>
-<Price5>306.88</Price5>
-<Price6>306.88</Price6>
-<Price7>484.22</Price7>
-<Price8>484.22</Price8>
-<Price9>340.21</Price9>
+<Price>208.16</Price>
+<Price2>272.51</Price2>
+<Price3>272.51</Price3>
+<Price4>267.86</Price4>
+<Price5>260.72</Price5>
+<Price6>259.94</Price6>
+<Price7>460.27</Price7>
+<Price8>422.90</Price8>
+<Price9>259.94</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKOI1</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00892</SaticiStokKodu>
@@ -41348,17 +41348,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>322.69</Price>
-<Price2>368.51</Price2>
-<Price3>368.51</Price3>
-<Price4>361.41</Price4>
-<Price5>361.41</Price5>
-<Price6>361.41</Price6>
-<Price7>550.85</Price7>
-<Price8>550.85</Price8>
-<Price9>399.58</Price9>
+<Stock>1</Stock>
+<Miad>2029-05-01</Miad>
+<Price>169.15</Price>
+<Price2>227.50</Price2>
+<Price3>227.50</Price3>
+<Price4>218.85</Price4>
+<Price5>211.86</Price5>
+<Price6>212.38</Price6>
+<Price7>404.30</Price7>
+<Price8>357.52</Price8>
+<Price9>212.38</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKUKK</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00913</SaticiStokKodu>
@@ -43418,7 +43418,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>88</Stock>
+<Stock>90</Stock>
 <Miad>2027-03-01</Miad>
 <Price>140.16</Price>
 <Price2>194.05</Price2>
@@ -60982,7 +60982,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
-<Stock>26</Stock>
+<Stock>27</Stock>
 <Miad>2028-12-01</Miad>
 <Price>803.16</Price>
 <Price2>975.29</Price2>
@@ -64871,7 +64871,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Yağlar]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>6</Stock>
 <Miad>2028-07-01</Miad>
 <Price>250.66</Price>
 <Price2>321.55</Price2>
@@ -65745,7 +65745,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>176</Stock>
+<Stock>181</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -67803,15 +67803,15 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad>2029-02-01</Miad>
-<Price>510.00</Price>
-<Price2>645.54</Price2>
-<Price3>645.54</Price3>
-<Price4>681.10</Price4>
-<Price5>670.63</Price5>
-<Price6>656.15</Price6>
-<Price7>1005.99</Price7>
-<Price8>938.31</Price8>
-<Price9>656.15</Price9>
+<Price>620.41</Price>
+<Price2>776.73</Price2>
+<Price3>776.73</Price3>
+<Price4>826.83</Price4>
+<Price5>815.81</Price5>
+<Price6>796.55</Price6>
+<Price7>1178.51</Price7>
+<Price8>1104.59</Price8>
+<Price9>796.55</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0FVC3</HepsiburadaSku>
 <SaticiStokKodu>850069595821</SaticiStokKodu>
@@ -70688,7 +70688,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>10</Tax>
-<Stock>48</Stock>
+<Stock>51</Stock>
 <Miad>2028-05-01</Miad>
 <Price>254.91</Price>
 <Price2>333.91</Price2>
@@ -78495,17 +78495,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2029-08-01</Miad>
-<Price>459.00</Price>
-<Price2>561.93</Price2>
-<Price3>561.93</Price3>
-<Price4>582.99</Price4>
-<Price5>574.90</Price5>
-<Price6>565.76</Price6>
-<Price7>820.15</Price7>
-<Price8>772.65</Price8>
-<Price9>565.76</Price9>
+<Stock>15</Stock>
+<Miad>2029-06-01</Miad>
+<Price>467.41</Price>
+<Price2>571.64</Price2>
+<Price3>571.64</Price3>
+<Price4>593.56</Price4>
+<Price5>585.43</Price5>
+<Price6>576.02</Price6>
+<Price7>832.22</Price7>
+<Price8>784.37</Price8>
+<Price9>576.02</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IRA1DD</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01751</SaticiStokKodu>
