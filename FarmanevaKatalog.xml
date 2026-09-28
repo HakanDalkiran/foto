@@ -51006,13 +51006,13 @@
 <Stock>10</Stock>
 <Miad>2027-07-01</Miad>
 <Price>747.06</Price>
-<Price2>835.46</Price2>
-<Price3>835.46</Price3>
-<Price4>880.81</Price4>
-<Price5>871.81</Price5>
-<Price6>854.78</Price6>
-<Price7>1160.27</Price7>
-<Price8>955.21</Price8>
+<Price2>894.31</Price2>
+<Price3>894.31</Price3>
+<Price4>944.89</Price4>
+<Price5>935.69</Price5>
+<Price6>916.96</Price6>
+<Price7>1233.44</Price7>
+<Price8>1016.78</Price8>
 <Price9>916.96</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKBN2</HepsiburadaSku>
@@ -53574,7 +53574,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>499</Stock>
+<Stock>30</Stock>
 <Miad>2028-05-01</Miad>
 <Price>466.56</Price>
 <Price2>521.00</Price2>
@@ -54766,11 +54766,11 @@
 <Stock>12</Stock>
 <Miad>2028-03-01</Miad>
 <Price>457.21</Price>
-<Price2>558.00</Price2>
-<Price3>558.00</Price3>
-<Price4>614.98</Price4>
+<Price2>570.57</Price2>
+<Price3>570.57</Price3>
+<Price4>594.90</Price4>
 <Price5>585.84</Price5>
-<Price6>596.43</Price6>
+<Price6>575.37</Price6>
 <Price7>865.51</Price7>
 <Price8>810.45</Price8>
 <Price9>575.37</Price9>
