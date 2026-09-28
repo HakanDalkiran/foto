@@ -7455,7 +7455,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2026-11-01</Miad>
 <Price>278.20</Price>
 <Price2>353.32</Price2>
@@ -9637,7 +9637,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-01-01</Miad>
 <Price>636.56</Price>
 <Price2>766.81</Price2>
@@ -78467,7 +78467,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>48</Stock>
+<Stock>46</Stock>
 <Miad>2029-01-01</Miad>
 <Price>391.85</Price>
 <Price2>484.45</Price2>
@@ -85860,7 +85860,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>104</Stock>
+<Stock>103</Stock>
 <Miad>2028-05-01</Miad>
 <Price>241.40</Price>
 <Price2>310.86</Price2>
