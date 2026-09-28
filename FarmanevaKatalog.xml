@@ -30218,9 +30218,9 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>30</Stock>
 <Miad>2028-01-01</Miad>
-<Price>560.06</Price>
+<Price>477.25</Price>
 <Price2>678.54</Price2>
 <Price3>678.54</Price3>
 <Price4>709.96</Price4>
@@ -53621,7 +53621,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>499</Stock>
 <Miad>2028-05-01</Miad>
 <Price>466.56</Price>
 <Price2>521.00</Price2>
