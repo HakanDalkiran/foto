@@ -2820,7 +2820,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>232</Stock>
+<Stock>212</Stock>
 <Miad>2027-10-01</Miad>
 <Price>465.71</Price>
 <Price2>580.51</Price2>
@@ -3903,15 +3903,15 @@
 <subCategory><![CDATA[Lens Solüsyonu]]></subCategory>
 <Tax>20</Tax>
 <Stock>165</Stock>
-<Miad>2026-12-01</Miad>
-<Price>403.66</Price>
-<Price2>519.19</Price2>
-<Price3>519.19</Price3>
-<Price4>540.73</Price4>
-<Price5>530.80</Price5>
-<Price6>520.93</Price6>
-<Price7>839.84</Price7>
-<Price8>778.16</Price8>
+<Miad>2027-03-01</Miad>
+<Price>433.41</Price>
+<Price2>554.54</Price2>
+<Price3>554.54</Price3>
+<Price4>580.00</Price4>
+<Price5>569.92</Price5>
+<Price6>558.76</Price6>
+<Price7>886.32</Price7>
+<Price8>822.97</Price8>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLA9J</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00097</SaticiStokKodu>
@@ -8136,7 +8136,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>62</Stock>
+<Stock>59</Stock>
 <Miad>2030-05-01</Miad>
 <Price>59.42</Price>
 <Price2>110.16</Price2>
@@ -18904,7 +18904,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>112</Stock>
+<Stock>111</Stock>
 <Miad></Miad>
 <Price>365.41</Price>
 <Price2>463.18</Price2>
@@ -24919,7 +24919,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>126</Stock>
+<Stock>125</Stock>
 <Miad>2028-04-01</Miad>
 <Price>348.41</Price>
 <Price2>434.33</Price2>
@@ -65319,7 +65319,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2029-03-01</Miad>
 <Price>182.66</Price>
 <Price2>256.59</Price2>
@@ -65454,7 +65454,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad>2029-03-01</Miad>
 <Price>198.90</Price>
 <Price2>275.89</Price2>
@@ -67209,7 +67209,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>123</Stock>
+<Stock>122</Stock>
 <Miad>2028-01-01</Miad>
 <Price>446.16</Price>
 <Price2>569.69</Price2>
