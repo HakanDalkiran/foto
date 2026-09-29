@@ -283,7 +283,7 @@
 <category><![CDATA[Solunum Destek Ürünleri]]></category>
 <subCategory><![CDATA[Spacer]]></subCategory>
 <Tax>10</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1444.91</Price>
 <Price2>1726.05</Price2>
@@ -863,15 +863,15 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2028-01-01</Miad>
-<Price>178.41</Price>
-<Price2>238.18</Price2>
-<Price3>238.18</Price3>
-<Price4>230.48</Price4>
-<Price5>223.46</Price5>
-<Price6>223.67</Price6>
-<Price7>417.58</Price7>
-<Price8>370.43</Price8>
-<Price9>223.67</Price9>
+<Price>185.22</Price>
+<Price2>246.04</Price2>
+<Price3>246.04</Price3>
+<Price4>239.04</Price4>
+<Price5>231.99</Price5>
+<Price6>231.97</Price6>
+<Price7>427.35</Price7>
+<Price8>379.93</Price8>
+<Price9>231.97</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLHOJ</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00022</SaticiStokKodu>
@@ -9637,7 +9637,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>636.56</Price>
 <Price2>766.81</Price2>
@@ -15588,7 +15588,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>21</Stock>
 <Miad>2028-01-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -25742,65 +25742,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00582]]></Product_code>
-<Barcode>8680782940026</Barcode>
-<Name><![CDATA[Memethol Hemoroid Bariyer Sprey 10 ml]]></Name>
-<Brand><![CDATA[Memethol]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Medikal Krem & Sprey]]></category>
-<Tax>10</Tax>
-<Stock>236</Stock>
-<Miad>2027-03-01</Miad>
-<Price>400.00</Price>
-<Price2>650.00</Price2>
-<Price3>650.00</Price3>
-<Price4>648.00</Price4>
-<Price5>648.00</Price5>
-<Price6>648.00</Price6>
-<Price7>799.00</Price7>
-<Price8>799.03</Price8>
-<Price9>648.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8680782940026</HepsiburadaSku>
-<SaticiStokKodu>8680782940026</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/8680782940026-0_ekv0p.jpg</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/8680782940026-1_ztpya.png</Image2>
-<Description><![CDATA[<section>
-<p><strong>Memethol Hemoroid Bariyer Sprey 10 ml</strong>, uygulandığı bölgede koruyucu bir bariyer oluşturmak üzere geliştirilmiş 10 ml hacminde bir spreydir. Sprey formu sayesinde dokunmadan, hijyenik biçimde uygulanır ve günlük temizlik rutininin ardından kullanılabilir. Yetişkinlerde harici kullanım için tasarlanmıştır.</p>
-<h2>Memethol Hemoroid Bariyer Sprey 10 ml Özellikleri</h2>
-<ul>
-<li>10 ml sprey ambalajda sunulur</li>
-<li>Uygulandığı bölgede koruyucu bir bariyer oluşturur</li>
-<li>Sprey başlığı sayesinde dokunmadan uygulanır</li>
-<li>Hijyenik ve pratik kullanım sağlar</li>
-<li>Çantada taşınabilecek küçük ambalaj boyutu</li>
-<li>Kolay yayılan yapıdadır</li>
-<li>Yetişkinlerde harici kullanım için tasarlanmıştır</li>
-<li>Günlük bakım rutinine kolayca eklenir</li>
-<li>CE işaretli tıbbi cihaz sınıfındadır</li>
-<li>Buzdolabı gerektirmez, oda sıcaklığında saklanır</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Bölge temizlenip kurulandıktan sonra ürün kısa mesafeden püskürtülür. Günde birkaç kez veya ihtiyaç duyuldukça uygulanabilir. Kullanım sonrası kapağı kapatılır. Ambalaj üzerindeki kullanma talimatı esastır.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanılır, yutulmaz. Göz ve mukoza ile temasından kaçınılır; temas hâlinde bol su ile durulanır. Açık yara ve tahriş olmuş ciltte kullanmadan önce sağlık profesyoneline danışılır. Çocukların ulaşamayacağı yerde, oda sıcaklığında saklanır. Ambalajı hasarlıysa kullanılmaz. Şikâyetiniz sürerse hekiminize başvurun.</p>
-<h2>Sık Sorulan Sorular</h2>
-<h3>Memethol Hemoroid Bariyer Sprey ne işe yarar?</h3>
-<p>Memethol Hemoroid Bariyer Sprey 10 ml (barkod 8680782940026), uygulandığı bölgede koruyucu bir bariyer tabakası oluşturmak için geliştirilmiş, harici kullanım için bir spreydir.</p>
-<h3>Memethol sprey nasıl kullanılır?</h3>
-<p>Bölge temizlenip kurulandıktan sonra kısa mesafeden püskürtülür. Günde birkaç kez ya da ihtiyaç duyuldukça uygulanabilir; ambalajdaki talimat esastır.</p>
-<h3>Memethol sprey içeriğinde ne var?</h3>
-<p>Bileşenler ambalajda ve kullanım kılavuzunda yazar. Sprey 10 ml'dir.</p>
-<h3>Memethol spreyi kimler kullanmamalı?</h3>
-<p>Bileşenlerine hassasiyeti olanlar kullanmamalıdır. Kanama, şiddetli ağrı ya da şikâyetin sürmesi durumunda hekime başvurulmalıdır. Hamileler ve emzirenler önce hekime danışmalıdır.</p>
-<h3>Sprey ile krem arasındaki fark nedir?</h3>
-<p>Sprey bölgeye dokunmadan uygulanır, bu yüzden daha hijyeniktir ve dışarıda da kolay kullanılır. Krem ise parmakla ya da aplikatörle sürülür.</p>
-<p>Farmaneva'da satılan tüm ürünler %100 orijinal ve faturalıdır, ecza deposundan tedarik edilir. Güvenli ödeme ve hızlı kargo ile gönderilir.</p>
-</section>]]></Description>
-<Keywords><![CDATA[memethol sprey,memetol]]></Keywords>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00583]]></Product_code>
 <Barcode>8680697001720</Barcode>
 <Name><![CDATA[Mesilife A200 Infra-Red Alından Temassız Ateş Ölçer]]></Name>
@@ -32684,7 +32625,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>76</Stock>
+<Stock>71</Stock>
 <Miad></Miad>
 <Price>92.56</Price>
 <Price2>149.53</Price2>
@@ -43434,7 +43375,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2027-11-01</Miad>
 <Price>152.91</Price>
 <Price2>208.76</Price2>
@@ -53159,7 +53100,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-10-01</Miad>
 <Price>926.42</Price>
 <Price2>1101.26</Price2>
@@ -54521,17 +54462,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>110</Stock>
+<Stock>109</Stock>
 <Miad>2028-05-01</Miad>
-<Price>365.41</Price>
-<Price2>453.95</Price2>
-<Price3>453.95</Price3>
-<Price4>465.41</Price4>
-<Price5>457.68</Price5>
-<Price6>451.66</Price6>
-<Price7>685.88</Price7>
-<Price8>642.15</Price8>
-<Price9>451.66</Price9>
+<Price>375.61</Price>
+<Price2>465.72</Price2>
+<Price3>465.72</Price3>
+<Price4>478.23</Price4>
+<Price5>470.45</Price5>
+<Price6>464.09</Price6>
+<Price7>700.51</Price7>
+<Price8>656.37</Price8>
+<Price9>464.09</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699546020560</HepsiburadaSku>
 <SaticiStokKodu>8699546020560</SaticiStokKodu>
@@ -55489,7 +55430,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>24</Stock>
+<Stock>23</Stock>
 <Miad>2028-11-01</Miad>
 <Price>551.56</Price>
 <Price2>668.73</Price2>
@@ -62087,7 +62028,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>254.91</Price>
 <Price2>342.44</Price2>
@@ -66603,7 +66544,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-06-01</Miad>
 <Price>650.16</Price>
 <Price2>796.30</Price2>
@@ -68627,17 +68568,17 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>119</Stock>
+<Stock>118</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>597.97</Price2>
-<Price3>597.97</Price3>
-<Price4>628.25</Price4>
-<Price5>617.98</Price5>
-<Price6>605.24</Price6>
-<Price7>943.43</Price7>
-<Price8>878.01</Price8>
-<Price9>605.24</Price9>
+<Price>445.15</Price>
+<Price2>568.49</Price2>
+<Price3>568.49</Price3>
+<Price4>595.50</Price4>
+<Price5>585.35</Price5>
+<Price6>573.69</Price6>
+<Price7>904.67</Price7>
+<Price8>840.65</Price8>
+<Price9>573.69</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -69499,15 +69440,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>501.47</Price4>
-<Price5>491.68</Price5>
-<Price6>483.10</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
-<Price9>483.10</Price9>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>546.46</Price4>
+<Price5>536.50</Price5>
+<Price6>526.45</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
+<Price9>526.45</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -69865,15 +69806,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>378.16</Price>
-<Price2>488.89</Price2>
-<Price3>488.89</Price3>
-<Price4>507.07</Price4>
-<Price5>497.26</Price5>
-<Price6>488.50</Price6>
-<Price7>799.99</Price7>
-<Price8>739.76</Price8>
-<Price9>488.50</Price9>
+<Price>323.00</Price>
+<Price2>423.35</Price2>
+<Price3>423.35</Price3>
+<Price4>434.27</Price4>
+<Price5>424.73</Price5>
+<Price6>418.36</Price6>
+<Price7>713.81</Price7>
+<Price8>656.69</Price8>
+<Price9>418.36</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099602</HepsiburadaSku>
 <SaticiStokKodu>8681511099602</SaticiStokKodu>
@@ -73595,7 +73536,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Yıpranmış Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad></Miad>
 <Price>210.80</Price>
 <Price2>290.03</Price2>
@@ -74269,7 +74210,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2028-05-01</Miad>
 <Price>695.21</Price>
 <Price2>849.00</Price2>
