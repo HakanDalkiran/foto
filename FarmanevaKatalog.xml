@@ -548,7 +548,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>25</Stock>
+<Stock>24</Stock>
 <Miad>2026-10-01</Miad>
 <Price>84.15</Price>
 <Price2>129.42</Price2>
@@ -52741,7 +52741,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>364</Stock>
+<Stock>363</Stock>
 <Miad>2029-01-01</Miad>
 <Price>314.41</Price>
 <Price2>403.51</Price2>
@@ -67374,7 +67374,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2028-05-01</Miad>
 <Price>719.87</Price>
 <Price2>894.91</Price2>
@@ -67603,7 +67603,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2029-01-01</Miad>
 <Price>528.62</Price>
 <Price2>667.67</Price2>
@@ -72977,7 +72977,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-01-01</Miad>
 <Price>594.06</Price>
 <Price2>745.42</Price2>
@@ -80843,7 +80843,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Yıpranmış Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>339.91</Price>
 <Price2>443.44</Price2>
