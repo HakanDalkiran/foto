@@ -3203,6 +3203,55 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00076]]></Product_code>
+<Barcode>3282770204667</Barcode>
+<Name><![CDATA[Avene Cicalfate+ Restorative Protective Cream 40 ml]]></Name>
+<Brand><![CDATA[Avène]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
+<Tax>20</Tax>
+<Stock>1</Stock>
+<Miad>2028-09-01</Miad>
+<Price>250.00</Price>
+<Price2>455.11</Price2>
+<Price3>455.11</Price3>
+<Price4>503.01</Price4>
+<Price5>475.20</Price5>
+<Price6>488.61</Price6>
+<Price7>726.63</Price7>
+<Price8>677.86</Price8>
+<Price9>488.61</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>3282770204667</HepsiburadaSku>
+<SaticiStokKodu>3282770204667</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/av-ne-cicalfate-restorative-protective-cream-40-ml-7896.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/av-ne-cicalfate-restorative-protective-cream-40-ml-7897.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/av-ne-cicalfate-restorative-protective-cream-40-ml-7898.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/av-ne-cicalfate-restorative-protective-cream-40-ml-7899.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Av&#232;ne Cicalfate+ Restorative Protective Cream 40 ml</strong>, tahri&#351; olmu&#351; ve hassasla&#351;m&#305;&#351; ciltler i&#231;in geli&#351;tirilmi&#351; onar&#305;c&#305; ve koruyucu bir bak&#305;m kremidir. Postbiyotik Aquaphilus Dolomiae ferment &#246;z&#252;, bak&#305;r-&#231;inko s&#252;lfat kompleksi ve Av&#232;ne termal suyunu bir araya getiren form&#252;l&#252;yle cilt bariyerinin yenilenmesine destek olur.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Cildin onar&#305;m s&#252;recini destekleyen postbiyotik i&#231;erik</li>
+<li>Bak&#305;r ve &#231;inko s&#252;lfat ile ar&#305;nd&#305;r&#305;c&#305; ve koruyucu etki</li>
+<li>Yat&#305;&#351;t&#305;r&#305;c&#305; Av&#232;ne termal suyu i&#231;erir</li>
+<li>Kuruluk, &#231;atlama ve tahri&#351;e e&#287;ilimli ciltlere uygundur</li>
+<li>Parf&#252;m, paraben ve alkol i&#231;ermez</li>
+<li>Komedojenik olmayan zengin krem doku</li>
+<li>Bebek, &#231;ocuk ve yeti&#351;kinlerde kullan&#305;labilir</li>
+<li>Y&#252;z ve v&#252;cutta kullan&#305;ma uygundur</li>
+<li>40 ml'lik pratik t&#252;p ambalaj</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Temizlenmi&#351; cilde, tahri&#351; olmu&#351; veya kurumu&#351; b&#246;lgeye g&#252;nde 1-2 kez ince bir tabaka halinde uygulay&#305;n; gerekti&#287;inde g&#252;nl&#252;k nemlendirici olarak da kullan&#305;labilir. Uygulama s&#305;kl&#305;&#287;&#305; ve s&#252;resi i&#231;in ambalaj talimat&#305;n&#305; izleyin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Haricen kullan&#305;l&#305;r. G&#246;zlerle temas&#305;ndan ka&#231;&#305;n&#305;n&#305;z; temas halinde bol su ile durulay&#305;n&#305;z. K&#305;zar&#305;kl&#305;k, ka&#351;&#305;nt&#305; veya tahri&#351; olu&#351;ursa kullan&#305;ma ara verip bir uzmana dan&#305;&#351;&#305;n&#305;z. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru bir ortamda saklay&#305;n&#305;z. A&#231;&#305;k yara &#252;zerine uygulamadan &#246;nce bir sa&#287;l&#305;k profesyoneline dan&#305;&#351;&#305;n&#305;z.</p>
+<p>Av&#232;ne Cicalfate+ kremi Farmaneva g&#252;vencesiyle sat&#305;n alabilirsiniz.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00077]]></Product_code>
 <Barcode>3282770394467</Barcode>
 <Name><![CDATA[Avene Cicalfate+ SPF50+ Cream 30 ml]]></Name>
@@ -8894,7 +8943,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>79</Stock>
+<Stock>77</Stock>
 <Miad></Miad>
 <Price>720.71</Price>
 <Price2>895.91</Price2>
@@ -9328,7 +9377,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>25</Stock>
+<Stock>20</Stock>
 <Miad>2029-03-01</Miad>
 <Price>118.92</Price>
 <Price2>169.54</Price2>
@@ -11547,7 +11596,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>297</Stock>
+<Stock>293</Stock>
 <Miad></Miad>
 <Price>161.41</Price>
 <Price2>231.34</Price2>
@@ -12494,7 +12543,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>152</Stock>
+<Stock>150</Stock>
 <Miad></Miad>
 <Price>360.40</Price>
 <Price2>467.79</Price2>
@@ -16437,7 +16486,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>118.92</Price>
 <Price2>174.82</Price2>
@@ -16806,7 +16855,7 @@
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Organik & Doğal]]></category>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad></Miad>
 <Price>86.70</Price>
 <Price2>142.57</Price2>
@@ -30461,6 +30510,53 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00684]]></Product_code>
+<Barcode>8680645530968</Barcode>
+<Name><![CDATA[NBT Life Endofer 30 Kapsül]]></Name>
+<Brand><![CDATA[Nbt Life]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Demir]]></subCategory>
+<Tax>1</Tax>
+<Stock>500</Stock>
+<Miad>2028-01-01</Miad>
+<Price>560.06</Price>
+<Price2>678.54</Price2>
+<Price3>678.54</Price3>
+<Price4>709.96</Price4>
+<Price5>701.47</Price5>
+<Price6>688.97</Price6>
+<Price7>965.14</Price7>
+<Price8>913.56</Price8>
+<Price9>688.97</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQL10L</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00684</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/nbt-life-endofer-30-kapsul-64624.png</Image1>
+<Description><![CDATA[<section>
+<p><strong>Nbt Life Endofer 30 Tablet 2 Adet</strong>, her kaps&#252;l&#252;nde 17 mg demir (ferrik pirofosfat) ve 100 mg C vitamini i&#231;eren takviye edici g&#305;dad&#305;r. Demiri C vitamini ile birlikte sunan bu &#252;r&#252;n, g&#252;nl&#252;k demir deste&#287;i arayan yeti&#351;kinlere y&#246;neliktir; bu paket 2 adet 30'lu kutu i&#231;erir.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>2 adet 30'lu kutu i&#231;eren avantajl&#305; paket</li>
+<li>Kaps&#252;l ba&#351;&#305;na 17 mg demir (ferrik pirofosfat)</li>
+<li>Kaps&#252;l ba&#351;&#305;na 100 mg C vitamini (askorbik asit)</li>
+<li>Demir ve C vitamini bir arada</li>
+<li>C vitamini demirin normal emilimine katk&#305; sa&#287;lar</li>
+<li>Demir yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305; sa&#287;lar</li>
+<li>Demir normal kan yap&#305;m&#305;na katk&#305; sa&#287;lar</li>
+<li>Mikropartik&#252;l demir formu ile mide dostu i&#231;erik</li>
+<li>Bitkisel kaynakl&#305; kaps&#252;l kabu&#287;u</li>
+<li>G&#252;nde 1 kaps&#252;l ile pratik kullan&#305;m</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Takviye edici g&#305;da olarak g&#252;nde 1 kaps&#252;l, genellikle yemekten yakla&#351;&#305;k 2 saat &#246;nce al&#305;nmas&#305; &#246;nerilir. Kaps&#252;l&#252; bol su ile yutun; kesin kullan&#305;m ve doz i&#231;in ambalaj &#252;zerindeki k&#305;lavuzu esas al&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n, dengeli beslenmenin yerine ge&#231;mez. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n; hamilelik, emzirme veya ila&#231; kullan&#305;m&#305;nda doktora dan&#305;&#351;&#305;n.</p>
+<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n, g&#252;nl&#252;k demir ve C vitamini ihtiyac&#305;na pratik bir destek sa&#287;lar.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00685]]></Product_code>
 <Barcode>8680645530968-2</Barcode>
 <Name><![CDATA[Nbt Life Endofer 30 Tablet 2 Adet]]></Name>
@@ -37922,7 +38018,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>696.91</Price>
 <Price2>867.63</Price2>
@@ -40850,17 +40946,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-10-01</Miad>
-<Price>717.39</Price>
-<Price2>860.08</Price2>
-<Price3>860.08</Price3>
-<Price4>907.62</Price4>
-<Price5>898.54</Price5>
-<Price6>880.80</Price6>
-<Price7>1190.88</Price7>
-<Price8>1132.94</Price8>
-<Price9>880.79</Price9>
+<Stock>3</Stock>
+<Miad>2029-07-01</Miad>
+<Price>759.00</Price>
+<Price2>882.63</Price2>
+<Price3>882.63</Price3>
+<Price4>936.25</Price4>
+<Price5>928.11</Price5>
+<Price6>911.62</Price6>
+<Price7>1187.21</Price7>
+<Price8>1136.51</Price8>
+<Price9>911.62</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL3JQ</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00903</SaticiStokKodu>
@@ -41315,9 +41411,9 @@
 <Price>171.70</Price>
 <Price2>230.44</Price2>
 <Price3>230.44</Price3>
-<Price4>222.05</Price4>
-<Price5>215.05</Price5>
-<Price6>215.49</Price6>
+<Price4>181.86</Price4>
+<Price5>181.86</Price5>
+<Price6>181.86</Price6>
 <Price7>407.96</Price7>
 <Price8>361.08</Price8>
 <Price9>215.49</Price9>
@@ -43078,7 +43174,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2027-01-01</Miad>
 <Price>89.17</Price>
 <Price2>135.21</Price2>
@@ -48393,7 +48489,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>25</Stock>
+<Stock>23</Stock>
 <Miad>2029-04-01</Miad>
 <Price>259.16</Price>
 <Price2>338.88</Price2>
@@ -52177,6 +52273,50 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV01157]]></Product_code>
+<Barcode>8445291131729-2</Barcode>
+<Name><![CDATA[SMA Optipro 2 Devam Sütü 450 gr 2'li]]></Name>
+<Brand><![CDATA[Sma]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Beslenme]]></category>
+<subCategory><![CDATA[Bebek Maması]]></subCategory>
+<Tax>1</Tax>
+<Stock>1</Stock>
+<Miad>2027-05-01</Miad>
+<Price>704.56</Price>
+<Price2>878.00</Price2>
+<Price3>878.00</Price3>
+<Price4>928.37</Price4>
+<Price5>928.37</Price5>
+<Price6>928.37</Price6>
+<Price7>1200.00</Price7>
+<Price8>1200.00</Price8>
+<Price9>928.37</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKAWT</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01157</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/sma-optipro-2-devam-sutu-450-gr-2-li-900-gr-lik-paket-10384.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Sma Optipro 2 900 gr 6 Adet</strong>, 6-12 ayl&#305;k bebeklerin &#231;e&#351;itlenen beslenmesini desteklemek i&#231;in haz&#305;rlanm&#305;&#351;, Nestl&#233;'nin OPTIPRO protein teknolojisini temel alan toz devam s&#252;t&#252;d&#252;r. Tamamlay&#305;c&#305; beslenmeye ge&#231;en bebeklerin s&#305;v&#305; ve besin al&#305;m&#305;na katk&#305; sa&#287;lamak &#252;zere tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>6-12 ay d&#246;nemine uygun devam s&#252;t&#252; form&#252;l&#252;</li>
+<li>OPTIPRO protein teknolojisiyle dengeli protein i&#231;eri&#287;i</li>
+<li>Prebiyotik lif i&#231;eri&#287;iyle ba&#287;&#305;rsak floras&#305;na destek</li>
+<li>Probiyotik i&#231;eri&#287;iyle sindirim sistemine katk&#305;</li>
+<li>A, C, D, E, K vitaminleri ile biotin ve folat kayna&#287;&#305;</li>
+<li>Demir, &#231;inko, fosfor, potasyum ve selenyum i&#231;erir</li>
+<li>Suda kolayca &#231;&#246;z&#252;nen pratik toz form</li>
+<li>&#214;l&#231;ekli kullan&#305;m (yakla&#351;&#305;k 4,5 g/&#246;l&#231;ek)</li>
+<li>6 adet 900 graml&#305;k kutudan olu&#351;an avantajl&#305; paket</li></ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Genellikle kaynat&#305;l&#305;p &#305;l&#305;t&#305;lm&#305;&#351; 30 ml suya bir &#246;l&#231;ek toz eklenerek haz&#305;rlan&#305;r. Bebe&#287;inizin ya&#351;&#305;na ve ihtiyac&#305;na g&#246;re kesin haz&#305;rlama oran&#305; ve g&#252;nl&#252;k &#246;&#287;&#252;n say&#305;s&#305; i&#231;in ambalaj &#252;zerindeki talimat&#305; izleyin. A&#231;&#305;lan kutuyu &#246;nerilen s&#252;re i&#231;inde t&#252;ketin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Anne s&#252;t&#252; bebekler i&#231;in en iyi besindir; devam s&#252;t&#252; ilk 6 ayda anne s&#252;t&#252; yerine kullan&#305;lmamal&#305;d&#305;r. Yaln&#305;zca tamamlay&#305;c&#305; beslenmeye ge&#231;mi&#351; bebekler i&#231;in, sa&#287;l&#305;k &#231;al&#305;&#351;an&#305; &#246;nerisiyle kullan&#305;n.</p>
+<p>Farmaneva g&#252;vencesiyle sunulan bu paketle bebe&#287;inizin beslenme rutinini rahat&#231;a s&#252;rd&#252;rebilirsiniz.</p></section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV01158]]></Product_code>
 <Barcode>7613036632850</Barcode>
 <Name><![CDATA[SMA Optipro 3 Devam Sütü 400 gr]]></Name>
@@ -53621,7 +53761,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>84</Stock>
+<Stock>83</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
@@ -55807,6 +55947,64 @@
 <h2>&#214;nemli Bilgilendirme</h2>
 <p>Yaln&#305;zca g&#246;ze uygulamak i&#231;indir. Jel k&#305;sa s&#252;reli bulan&#305;k g&#246;rmeye neden olabilece&#287;inden g&#246;r&#252;&#351; netle&#351;ene kadar ara&#231; kullanmay&#305;n. Kontakt lens kullan&#305;m&#305; ve ba&#351;ka g&#246;z &#252;r&#252;nleriyle uygulama aral&#305;&#287;&#305; i&#231;in kullanma talimat&#305;n&#305; izleyin. A&#287;r&#305;, s&#252;rekli k&#305;zar&#305;kl&#305;k veya g&#246;rme de&#287;i&#351;ikli&#287;i olursa doktora dan&#305;&#351;&#305;n.</p>
 <p>&#304;htiyac&#305;n oldu&#287;unda sto&#287;unu tazele; Farmaneva'dan g&#252;venle sipari&#351; edebilirsin.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01240]]></Product_code>
+<Barcode>3662042004193</Barcode>
+<Name><![CDATA[Thealoz Duo Göz Damlası 10 ml]]></Name>
+<Brand><![CDATA[Thea]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Göz Bakımı]]></category>
+<subCategory><![CDATA[Göz Damlası]]></subCategory>
+<Tax>10</Tax>
+<Stock>3</Stock>
+<Miad>2028-03-01</Miad>
+<Price>457.21</Price>
+<Price2>570.57</Price2>
+<Price3>570.57</Price3>
+<Price4>594.90</Price4>
+<Price5>585.84</Price5>
+<Price6>575.37</Price6>
+<Price7>865.51</Price7>
+<Price8>810.45</Price8>
+<Price9>575.37</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>3662042004193</HepsiburadaSku>
+<SaticiStokKodu>3662042004193</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/thea-thealoz-duo-goz-damlasi-10-ml-10508.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Thea Thealoz Duo Göz Damlası 10 ml</strong>, %3 trehaloz ve %0,15 sodyum hiyalüronat içeren, koruyucu madde içermeyen bir oftalmik çözeltidir. Kuru ve gergin hisseden gözlere nemlendirici destek arayan yetişkinlere yöneliktir.</p>
+<h2>Öne Çıkan Özellikler</h2>
+<ul>
+<li>%3 trehaloz içeriğiyle hücreleri kuruluğa karşı destekler</li>
+<li>%0,15 sodyum hiyalüronat ile nemlendirme</li>
+<li>Koruyucu madde içermeyen formül</li>
+<li>Hassas gözlerde güvenle kullanıma uygun</li>
+<li>Kontakt lenslerle uyumlu</li>
+<li>Göz yüzeyinin uzun süre nemli kalmasına yardımcı</li>
+<li>Gözyaşı filmini destekleyen ikili içerik</li>
+<li>Pratik 10 ml şişe</li>
+<li>Gün içinde ihtiyaca göre kullanım</li>
+<li>Trehaloz ve hyaluronik asidi birleştiren formül</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Uygulamadan önce ellerinizi iyice yıkayın ve şişeyi çalkalayın. İhtiyaca göre günde 1 veya 2 damla her göze damlatılır. Kesin kullanım için ambalaj ve kullanım kılavuzundaki talimatlara başvurun.</p>
+<h2>Uyarılar</h2>
+<p>Yalnızca haricen, göze uygulama içindir. Damlalık ucunun göze veya başka bir yüzeye temas etmemesine dikkat edin. Şişe açıldıktan sonra belirtilen süre içinde kullanın; gözde kalıcı kızarıklık, ağrı veya görme değişikliği olursa kullanımı bırakıp bir göz sağlığı uzmanına danışın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Thealoz Duo Göz Damlası ne işe yarar?</h3>
+<p>Thealoz Duo Göz Damlası 10 ml (barkod 3662042004193), kuru ve gergin hisseden gözleri nemlendirmek için kullanılan, koruyucu madde içermeyen bir göz damlasıdır.</p>
+<h3>Thealoz Duo nasıl kullanılır?</h3>
+<p>Eller yıkanır, şişe çalkalanır ve ihtiyaca göre her göze günde 1-2 damla damlatılır.</p>
+<h3>Thealoz Duo içeriğinde neler var?</h3>
+<p>%3 trehaloz ve %0,15 sodyum hiyalüronat içerir; koruyucu madde içermez.</p>
+<h3>Thealoz Duo'yu kimler kullanmamalı?</h3>
+<p>Bileşenlerine hassasiyeti olanlar kullanmamalıdır. Gözde ağrı, kızarıklık ya da görme değişikliği varsa göz hekimine başvurulmalıdır.</p>
+<h3>Thealoz Duo damla ile Thealoz Duo Gel farkı nedir?</h3>
+<p>Damla gün içinde sık kullanım içindir. Gel daha yoğun kıvamlıdır, tek kullanımlık flakonlarda gelir ve çoğunlukla gece tercih edilir.</p>
+<p>Farmaneva güvencesiyle sunulan bu ürün, gün içinde göz konforuna destek olur.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -61825,7 +62023,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>211.22</Price>
 <Price2>290.53</Price2>
@@ -68781,7 +68979,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>118</Stock>
+<Stock>116</Stock>
 <Miad>2028-01-01</Miad>
 <Price>444.89</Price>
 <Price2>568.18</Price2>
@@ -68875,15 +69073,15 @@
 <Tax>20</Tax>
 <Stock>50</Stock>
 <Miad>2028-08-01</Miad>
-<Price>465.55</Price>
-<Price2>592.73</Price2>
-<Price3>592.73</Price3>
-<Price4>622.43</Price4>
-<Price5>612.18</Price5>
-<Price6>599.63</Price6>
-<Price7>936.54</Price7>
-<Price8>871.37</Price8>
-<Price9>599.63</Price9>
+<Price>465.29</Price>
+<Price2>592.42</Price2>
+<Price3>592.42</Price3>
+<Price4>622.08</Price4>
+<Price5>611.84</Price5>
+<Price6>599.30</Price6>
+<Price7>936.13</Price7>
+<Price8>870.98</Price8>
+<Price9>599.30</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EBAG</HepsiburadaSku>
 <SaticiStokKodu>850069595845</SaticiStokKodu>
@@ -73749,7 +73947,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Yıpranmış Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad></Miad>
 <Price>210.80</Price>
 <Price2>290.03</Price2>
