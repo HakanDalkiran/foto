@@ -40170,7 +40170,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>13</Stock>
 <Miad>2027-11-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -42756,17 +42756,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>659.93</Price>
-<Price2>732.72</Price2>
-<Price3>732.72</Price3>
-<Price4>739.12</Price4>
-<Price5>739.12</Price5>
-<Price6>739.12</Price6>
-<Price7>1012.36</Price7>
-<Price8>1012.36</Price8>
-<Price9>810.73</Price9>
+<Stock>26</Stock>
+<Miad>2027-02-01</Miad>
+<Price>355.21</Price>
+<Price2>442.18</Price2>
+<Price3>442.18</Price3>
+<Price4>452.60</Price4>
+<Price5>444.90</Price5>
+<Price6>439.22</Price6>
+<Price7>671.24</Price7>
+<Price8>627.93</Price8>
+<Price9>439.22</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKWS6</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00949</SaticiStokKodu>
@@ -56166,7 +56166,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>14</Stock>
+<Stock>13</Stock>
 <Miad></Miad>
 <Price>1300.41</Price>
 <Price2>1584.72</Price2>
@@ -74913,7 +74913,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>20</Stock>
 <Miad>2027-03-01</Miad>
 <Price>191.16</Price>
 <Price2>252.89</Price2>
