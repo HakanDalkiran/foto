@@ -20522,7 +20522,7 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>123</Stock>
+<Stock>121</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>81.87</Price2>
@@ -31428,7 +31428,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>17</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1019.92</Price>
 <Price2>1209.14</Price2>
@@ -39974,16 +39974,16 @@
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>13</Stock>
-<Miad>2028-01-01</Miad>
-<Price>465.71</Price>
-<Price2>569.68</Price2>
-<Price3>569.68</Price3>
-<Price4>591.42</Price4>
-<Price5>583.30</Price5>
-<Price6>573.94</Price6>
-<Price7>829.78</Price7>
-<Price8>782.00</Price8>
-<Price9>573.94</Price9>
+<Miad>2028-07-01</Miad>
+<Price>586.41</Price>
+<Price2>708.94</Price2>
+<Price3>708.94</Price3>
+<Price4>743.06</Price4>
+<Price5>734.48</Price5>
+<Price6>721.10</Price6>
+<Price7>1002.95</Price7>
+<Price8>950.30</Price8>
+<Price9>721.10</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLL5L</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00886</SaticiStokKodu>
@@ -40023,7 +40023,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>3</Stock>
 <Miad>2027-07-01</Miad>
 <Price>382.50</Price>
 <Price2>473.67</Price2>
@@ -43375,7 +43375,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>39</Stock>
+<Stock>38</Stock>
 <Miad>2027-11-01</Miad>
 <Price>152.91</Price>
 <Price2>208.76</Price2>
@@ -53461,7 +53461,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>94</Stock>
+<Stock>84</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
@@ -67606,15 +67606,15 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad>2029-02-01</Miad>
-<Price>620.41</Price>
-<Price2>776.73</Price2>
-<Price3>776.73</Price3>
-<Price4>826.83</Price4>
-<Price5>815.81</Price5>
-<Price6>796.55</Price6>
-<Price7>1178.51</Price7>
-<Price8>1104.59</Price8>
-<Price9>796.55</Price9>
+<Price>510.00</Price>
+<Price2>645.54</Price2>
+<Price3>645.54</Price3>
+<Price4>681.10</Price4>
+<Price5>670.63</Price5>
+<Price6>656.15</Price6>
+<Price7>1005.99</Price7>
+<Price8>938.31</Price8>
+<Price9>656.15</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0FVC3</HepsiburadaSku>
 <SaticiStokKodu>850069595821</SaticiStokKodu>
@@ -67975,15 +67975,15 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-01-01</Miad>
-<Price>849.06</Price>
-<Price2>1048.42</Price2>
-<Price3>1048.42</Price3>
-<Price4>1128.64</Price4>
-<Price5>1116.48</Price5>
-<Price6>1087.31</Price6>
-<Price7>1535.78</Price7>
-<Price8>1448.95</Price8>
-<Price9>1087.31</Price9>
+<Price>671.50</Price>
+<Price2>837.44</Price2>
+<Price3>837.44</Price3>
+<Price4>894.27</Price4>
+<Price5>882.99</Price5>
+<Price6>861.52</Price6>
+<Price7>1258.34</Price7>
+<Price8>1181.54</Price8>
+<Price9>861.52</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EALI</HepsiburadaSku>
 <SaticiStokKodu>850071952124</SaticiStokKodu>
@@ -68570,15 +68570,15 @@
 <Tax>20</Tax>
 <Stock>119</Stock>
 <Miad>2028-01-01</Miad>
-<Price>445.31</Price>
-<Price2>568.68</Price2>
-<Price3>568.68</Price3>
-<Price4>595.71</Price4>
-<Price5>585.56</Price5>
-<Price6>573.89</Price6>
-<Price7>904.92</Price7>
-<Price8>840.89</Price8>
-<Price9>573.89</Price9>
+<Price>469.96</Price>
+<Price2>597.97</Price2>
+<Price3>597.97</Price3>
+<Price4>628.25</Price4>
+<Price5>617.98</Price5>
+<Price6>605.24</Price6>
+<Price7>943.43</Price7>
+<Price8>878.01</Price8>
+<Price9>605.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -68662,15 +68662,15 @@
 <Tax>20</Tax>
 <Stock>50</Stock>
 <Miad>2028-08-01</Miad>
-<Price>531.00</Price>
-<Price2>670.49</Price2>
-<Price3>670.49</Price3>
-<Price4>708.82</Price4>
-<Price5>698.24</Price5>
-<Price6>682.86</Price6>
-<Price7>1038.81</Price7>
-<Price8>969.94</Price8>
-<Price9>682.86</Price9>
+<Price>465.55</Price>
+<Price2>592.73</Price2>
+<Price3>592.73</Price3>
+<Price4>622.43</Price4>
+<Price5>612.18</Price5>
+<Price6>599.63</Price6>
+<Price7>936.54</Price7>
+<Price8>871.37</Price8>
+<Price9>599.63</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EBAG</HepsiburadaSku>
 <SaticiStokKodu>850069595845</SaticiStokKodu>
@@ -69806,15 +69806,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>323.00</Price>
-<Price2>423.35</Price2>
-<Price3>423.35</Price3>
-<Price4>434.27</Price4>
-<Price5>424.73</Price5>
-<Price6>418.36</Price6>
-<Price7>713.81</Price7>
-<Price8>656.69</Price8>
-<Price9>418.36</Price9>
+<Price>378.16</Price>
+<Price2>488.89</Price2>
+<Price3>488.89</Price3>
+<Price4>507.07</Price4>
+<Price5>497.26</Price5>
+<Price6>488.50</Price6>
+<Price7>799.99</Price7>
+<Price8>739.76</Price8>
+<Price9>488.50</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099602</HepsiburadaSku>
 <SaticiStokKodu>8681511099602</SaticiStokKodu>
