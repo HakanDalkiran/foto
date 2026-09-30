@@ -15635,7 +15635,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>0</Stock>
 <Miad>2027-02-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -62083,7 +62083,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>254.91</Price>
 <Price2>342.44</Price2>
@@ -78259,8 +78259,8 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-09-01</Miad>
+<Stock>1</Stock>
+<Miad>2028-05-01</Miad>
 <Price>202.30</Price>
 <Price2>265.75</Price2>
 <Price3>265.75</Price3>
