@@ -29544,7 +29544,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kalp & Damar Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>882.30</Price>
 <Price2>1050.35</Price2>
@@ -40597,17 +40597,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-08-01</Miad>
-<Price>204.90</Price>
-<Price2>241.29</Price2>
-<Price3>241.29</Price3>
-<Price4>229.49</Price4>
-<Price5>229.49</Price5>
-<Price6>229.49</Price6>
-<Price7>389.66</Price7>
-<Price8>389.66</Price8>
-<Price9>255.97</Price9>
+<Stock>252</Stock>
+<Miad>2027-10-01</Miad>
+<Price>174.16</Price>
+<Price2>233.28</Price2>
+<Price3>233.28</Price3>
+<Price4>225.14</Price4>
+<Price5>218.14</Price5>
+<Price6>218.49</Price6>
+<Price7>411.49</Price7>
+<Price8>364.51</Price8>
+<Price9>218.49</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKTBE</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00911</SaticiStokKodu>
@@ -53148,17 +53148,17 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2026-09-01</Miad>
-<Price>368.90</Price>
-<Price2>418.41</Price2>
-<Price3>418.41</Price3>
-<Price4>413.17</Price4>
-<Price5>413.17</Price5>
-<Price6>413.17</Price6>
-<Price7>614.09</Price7>
-<Price8>614.09</Price8>
-<Price9>476.73</Price9>
+<Stock>500</Stock>
+<Miad>2027-02-01</Miad>
+<Price>313.56</Price>
+<Price2>412.13</Price2>
+<Price3>412.13</Price3>
+<Price4>421.81</Price4>
+<Price5>412.32</Price5>
+<Price6>406.36</Price6>
+<Price7>699.06</Price7>
+<Price8>642.47</Price8>
+<Price9>406.36</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699638355662</HepsiburadaSku>
 <SaticiStokKodu>8699638355662</SaticiStokKodu>
@@ -77236,7 +77236,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>48</Stock>
+<Stock>46</Stock>
 <Miad>2029-01-01</Miad>
 <Price>391.85</Price>
 <Price2>484.45</Price2>
