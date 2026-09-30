@@ -2181,7 +2181,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>10</Stock>
 <Miad>2027-09-01</Miad>
 <Price>700.00</Price>
 <Price2>838.00</Price2>
@@ -2217,50 +2217,6 @@
 <h2>Uyar&#305;lar</h2>
 <p>Anne s&#252;t&#252; bebekler i&#231;in en iyi besindir ve ilk 6 ay boyunca tek ba&#351;&#305;na yeterlidir. Bu &#252;r&#252;n anne s&#252;t&#252;n&#252;n yerini tutmaz; kullanmadan &#246;nce mutlaka doktorunuza veya sa&#287;l&#305;k uzman&#305;n&#305;za dan&#305;&#351;&#305;n&#305;z. Haz&#305;rlanan mamay&#305; bekletmeden t&#252;ketiniz; a&#231;&#305;lan kutuyu serin ve kuru ortamda saklay&#305;p &#246;nerilen s&#252;re i&#231;inde bitiriniz.</p>
 <p>Aptamil Pronutra 3'&#252; Farmaneva g&#252;vencesiyle uygun ko&#351;ullarda temin edebilirsiniz.</p></section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00053]]></Product_code>
-<Barcode>8699745030339</Barcode>
-<Name><![CDATA[Aptamil Pronutra 4 Devam Sütü 900 gr 1-2 Yaş]]></Name>
-<Brand><![CDATA[Aptamil]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Beslenme]]></category>
-<subCategory><![CDATA[Bebek Maması]]></subCategory>
-<Tax>1</Tax>
-<Stock>10</Stock>
-<Miad>2027-04-01</Miad>
-<Price>700.00</Price>
-<Price2>828.89</Price2>
-<Price3>828.89</Price3>
-<Price4>840.00</Price4>
-<Price5>840.00</Price5>
-<Price6>840.00</Price6>
-<Price7>1043.00</Price7>
-<Price8>1043.00</Price8>
-<Price9>931.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQLPGV</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00053</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/aptamil-pronutra-4-devam-sutu-900-gr-1-2-yas-87929.png</Image1>
-<Description><![CDATA[<section>
-<p><strong>Aptamil Pronutra 4 Devam S&#252;t&#252; 900 gr 1-2 Ya&#351;</strong>, 1-2 ya&#351; aras&#305; &#231;ocuklar&#305;n beslenmesine y&#246;nelik geli&#351;tirilmi&#351;, prebiyotik ve DHA i&#231;eren, vitamin ve minerallerle zenginle&#351;tirilmi&#351; bir devam s&#252;t&#252;d&#252;r. &#199;ocu&#287;unun beslenmesini bir sa&#287;l&#305;k uzman&#305;n&#305;n &#246;nerisiyle desteklemek isteyen ebeveynler i&#231;in ekonomik 900 gr boyda sunulur.</p>
-<h2>Aptamil Pronutra 4 &#214;zellikleri</h2>
-<ul>
-<li>1-2 ya&#351; aras&#305; &#231;ocuklar&#305;n beslenmesine y&#246;neliktir.</li>
-<li>Prebiyotik i&#231;eren bir form&#252;le sahiptir.</li>
-<li>DHA gibi ya&#287; asitleri i&#231;erir.</li>
-<li>Vitamin ve minerallerle zenginle&#351;tirilmi&#351;tir.</li>
-<li>Dengeli beslenmenin bir par&#231;as&#305; olarak kullan&#305;l&#305;r.</li>
-<li>900 gr ekonomik kutuda sunulur.</li>
-<li>Haz&#305;rlamas&#305; pratik bir formdad&#305;r ve g&#252;nl&#252;k s&#252;t ihtiyac&#305;n&#305; desteklemeye yard&#305;mc&#305; olur.</li>
-<li>A&#231;&#305;ld&#305;ktan sonra ambalaj&#305;ndaki s&#252;re i&#231;inde t&#252;ketilmesi &#246;nerilir.</li>
-<li>Bebe&#287;in ilgili geli&#351;im d&#246;nemine uygun olarak haz&#305;rlanm&#305;&#351;t&#305;r.</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Haz&#305;rlama i&#231;in ambalajdaki talimatlar&#305; izleyin ve hijyen kurallar&#305;na dikkat edin. &#199;ocu&#287;unuzun beslenmesiyle ilgili bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Bebek/devam s&#252;tleri yaln&#305;zca sa&#287;l&#305;k uzman&#305;n&#305;n &#246;nerisiyle kullan&#305;lmal&#305;d&#305;r. Dengeli beslenmenin yerine ge&#231;mez. Haz&#305;rlama talimatlar&#305;na ve hijyene dikkat edin. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>&#199;ocu&#287;unun beslenmesini desteklemek isteyen ebeveynler Aptamil Pronutra 4'&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00054]]></Product_code>
@@ -5107,67 +5063,6 @@
 <p>Haricen kullan&#305;l&#305;r; g&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n&#305;z. Ciltte beklenmeyen k&#305;zar&#305;kl&#305;k veya tahri&#351; g&#246;r&#252;l&#252;rse kullan&#305;ma ara veriniz ve gerekirse doktora dan&#305;&#351;&#305;n&#305;z. Pi&#351;i&#287;in ilerlemesi veya enfeksiyon &#351;&#252;phesi durumunda hekiminize ba&#351;vurunuz. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n&#305;z.</p>
 <p>Bepanthol Baby'nin 2'li avantaj paketini Farmaneva g&#252;vencesiyle sat&#305;n alabilirsiniz.</p>
 </section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00118]]></Product_code>
-<Barcode>8699546370382</Barcode>
-<Name><![CDATA[Bepanthol Baby Pişik Önleyici Merhem 100 gr]]></Name>
-<Brand><![CDATA[Bepanthol]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
-<Tax>1</Tax>
-<Stock>627</Stock>
-<Miad>2028-08-01</Miad>
-<Price>280.00</Price>
-<Price2>368.00</Price2>
-<Price3>368.00</Price3>
-<Price4>420.00</Price4>
-<Price5>420.00</Price5>
-<Price6>420.00</Price6>
-<Price7>542.42</Price7>
-<Price8>507.64</Price8>
-<Price9>420.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8699546370382</HepsiburadaSku>
-<SaticiStokKodu>8699546370382</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8036.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8037.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8038.webp</Image3>
-<Image4>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8039.webp</Image4>
-<Image5>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8040.webp</Image5>
-<Image6>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8041.webp</Image6>
-<Image7>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8042.webp</Image7>
-<Image8>https://www.farmaneva.com/uploads/urunler/bepanthol-baby-pisik-onleyici-merhem-100-gr-8044.webp</Image8>
-<Description><![CDATA[<section>
-<p><strong>Bepanthol Baby Pişik Önleyici Merhem 100 gr</strong>, bebeklerin bez bölgesindeki hassas cildi pişiğe karşı korumaya yardımcı olan, %5 Provitamin B5 (dekspantenol) içerikli bir bakım merhemidir. Lanolin, tatlı badem yağı ve balmumu içeren formülü cildi yumuşatır ve yenidoğandan itibaren kullanılabilir.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>%5 Provitamin B5 ile cildin nemini ve bariyer işlevini destekler</li>
-<li>Lanolin, bezin yol açtığı sürtünmeyi azaltmaya yardımcı olur</li>
-<li>Tatlı badem yağı ve balmumu ile besleyici bakım sağlar</li>
-<li>Geçirgen yapısı sayesinde cilt nefes almaya devam eder</li>
-<li>Parfüm, koruyucu, renklendirici, paraben ve SLS içermez</li>
-<li>Yapışkan his bırakmaz, ciltten kolay temizlenir</li>
-<li>Her bez değişiminde güvenle kullanılabilir</li>
-<li>100 gramlık tüp uzun süreli kullanım için idealdir</li></ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Bez değişiminde bebeğinizin alt bölgesini nazikçe temizleyip iyice kurulayın; ardından merhemi ince bir tabaka halinde bez bölgesine uygulayın. Her bez değişiminde tekrarlanabilir; kullanım detayları için ambalaj üzerindeki talimatlara başvurunuz.</p>
-<h2>Uyarılar</h2>
-<p>Haricen kullanılır; gözlerle temasından kaçınınız. Ciltte kızarıklık, tahriş veya alerjik reaksiyon gelişirse kullanımı bırakınız. Pişik şikayetinin geçmemesi halinde doktorunuza danışınız. Çocukların erişemeyeceği yerde saklayınız.</p>
-<h2>Sık Sorulan Sorular</h2>
-<h3>Bepanthol Baby Pişik Önleyici Merhem ne işe yarar?</h3>
-<p>Bepanthol Baby Pişik Önleyici Merhem 100 gr (barkod 8699546370382), bebeğin bez bölgesindeki hassas cildi korumak ve yumuşatmak için kullanılan bir bakım merhemidir.</p>
-<h3>Bepanthol Baby nasıl kullanılır?</h3>
-<p>Her bez değişiminde bölge nazikçe temizlenip kurulanır ve merhem ince bir tabaka halinde sürülür.</p>
-<h3>Bepanthol Baby içeriğinde neler var?</h3>
-<p>%5 provitamin B5 (dekspantenol), lanolin, tatlı badem yağı ve balmumu içerir.</p>
-<h3>Bepanthol Baby'yi kimler kullanmamalı?</h3>
-<p>Lanolin ya da diğer bileşenlere hassasiyeti olan bebeklerde kullanılmaz. Ciltte açık yara, sulanma ya da iltihap varsa önce hekime danışılmalıdır.</p>
-<h3>Bepanthol Baby 30 gr ile 100 gr farkı nedir?</h3>
-<p>İçerik aynıdır. 30 gr çanta ve seyahat için, 100 gr ise evde günlük kullanım için daha ekonomiktir.</p>
-<p>Bepanthol Baby Pişik Önleyici Merhem'i Farmaneva ayrıcalığıyla bebeğinizin bakım rutinine ekleyebilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00119]]></Product_code>
@@ -19921,64 +19816,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00451]]></Product_code>
-<Barcode>8689415912812</Barcode>
-<Name><![CDATA[Hhs A 1 L-Carnitine Lepidium Bitkisel 30 Kapsül]]></Name>
-<Brand><![CDATA[Hhs]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
-<Tax>1</Tax>
-<Stock>239</Stock>
-<Miad>2029-07-01</Miad>
-<Price>440.00</Price>
-<Price2>560.00</Price2>
-<Price3>560.00</Price3>
-<Price4>555.00</Price4>
-<Price5>555.00</Price5>
-<Price6>555.00</Price6>
-<Price7>729.01</Price7>
-<Price8>729.01</Price8>
-<Price9>555.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8689415912812</HepsiburadaSku>
-<SaticiStokKodu>8689415912812</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/hhs-a-1-l-carnitine-lepidium-bitkisel-30-kapsul-87334.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/8689415912812-1_3rnzh.jpg</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/8689415912812-2_8vv9g.jpg</Image3>
-<Description><![CDATA[<section>
-<p><strong>Hhs A1 L-Carnitine Lepidium Bitkisel 30 Kapsül</strong>, L-karnitin amino asidini çeşitli bitki ekstreleriyle bir araya getiren bitkisel içerikli bir takviye edici gıdadır. Maca (Lepidium), zencefil, kakule ve garcinia cambogia gibi bileşenler içeren formül, günlük beslenmesini bitkisel bir ürünle desteklemek isteyen yetişkinler için hazırlanmıştır.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Her kapsülde L-karnitin ile birlikte bitki ekstreleri içerir</li>
-<li>Maca (Lepidium meyenii) ekstresi içerir</li>
-<li>Zencefil ve kakule ekstreleri ile desteklenmiştir</li>
-<li>Garcinia cambogia ekstresi içerir</li>
-<li>Havlıcan, tarçın ve rezene ekstreleri içerir</li>
-<li>Karanfil ve dereotu ekstreleriyle zenginleştirilmiştir</li>
-<li>Gluten içermez</li>
-<li>Laktoz ve koruyucu içermez</li>
-<li>Pratik 30 kapsüllük kutuda sunulur</li></ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Yetişkinler için kahvaltıdan yaklaşık 1 saat önce veya sonra günde 1 kapsül tüketilmesi önerilir. Kesin kullanım şekli ve günlük miktar için ambalaj üzerindeki bilgileri ve kullanım kılavuzunu esas alın.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik, emzirme, hastalık veya ilaç kullanımı durumunda hekiminize danışın.</p>
-<h2>Sık Sorulan Sorular</h2>
-<h3>Hhs A1 L-Carnitine Lepidium ne işe yarar?</h3>
-<p>Hhs A1 L-Carnitine Lepidium Bitkisel 30 Kapsül (barkod 8689415912812), L-karnitini bitki ekstreleriyle birlikte sunan bir takviye edici gıdadır; ilaç değildir.</p>
-<h3>Hhs A1 nasıl kullanılır?</h3>
-<p>Yetişkinler günde 1 kapsülü kahvaltıdan yaklaşık 1 saat önce ya da sonra alır.</p>
-<h3>Hhs A1 içeriğinde neler var?</h3>
-<p>L-karnitin ile maca (Lepidium), zencefil, kakule ve garcinia cambogia ekstreleri içerir.</p>
-<h3>Hhs A1'i kimler kullanmamalı?</h3>
-<p>18 yaş altı, hamile ve emziren kişiler ile bileşenlere hassasiyeti olanlar kullanmamalıdır. Sürekli ilaç kullananlar ve kronik rahatsızlığı olanlar hekime danışmalıdır.</p>
-<h3>Hhs A1 ile yalnız L-karnitin içeren ürünlerin farkı nedir?</h3>
-<p>Hhs A1'de L-karnitin tek başına değil; maca, zencefil, kakule ve garcinia cambogia ekstreleriyle birlikte bulunur.</p>
-<p>Hhs A1 L-Carnitine Lepidium, Farmaneva güvencesiyle sunulur.</p></section>]]></Description>
-<Keywords><![CDATA[karnitin,l karnitin]]></Keywords>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00452]]></Product_code>
 <Barcode>8699540024557</Barcode>
 <Name><![CDATA[Hidroten Çatlak Önlemeye Yardımcı Jel 100 ml]]></Name>
@@ -25868,65 +25705,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00582]]></Product_code>
-<Barcode>8680782940026</Barcode>
-<Name><![CDATA[Memethol Hemoroid Bariyer Sprey 10 ml]]></Name>
-<Brand><![CDATA[Memethol]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Medikal Krem & Sprey]]></category>
-<Tax>10</Tax>
-<Stock>226</Stock>
-<Miad>2027-03-01</Miad>
-<Price>400.00</Price>
-<Price2>780.00</Price2>
-<Price3>780.00</Price3>
-<Price4>648.00</Price4>
-<Price5>648.00</Price5>
-<Price6>648.00</Price6>
-<Price7>799.00</Price7>
-<Price8>799.03</Price8>
-<Price9>648.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8680782940026</HepsiburadaSku>
-<SaticiStokKodu>8680782940026</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/8680782940026-0_ekv0p.jpg</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/8680782940026-1_ztpya.png</Image2>
-<Description><![CDATA[<section>
-<p><strong>Memethol Hemoroid Bariyer Sprey 10 ml</strong>, uygulandığı bölgede koruyucu bir bariyer oluşturmak üzere geliştirilmiş 10 ml hacminde bir spreydir. Sprey formu sayesinde dokunmadan, hijyenik biçimde uygulanır ve günlük temizlik rutininin ardından kullanılabilir. Yetişkinlerde harici kullanım için tasarlanmıştır.</p>
-<h2>Memethol Hemoroid Bariyer Sprey 10 ml Özellikleri</h2>
-<ul>
-<li>10 ml sprey ambalajda sunulur</li>
-<li>Uygulandığı bölgede koruyucu bir bariyer oluşturur</li>
-<li>Sprey başlığı sayesinde dokunmadan uygulanır</li>
-<li>Hijyenik ve pratik kullanım sağlar</li>
-<li>Çantada taşınabilecek küçük ambalaj boyutu</li>
-<li>Kolay yayılan yapıdadır</li>
-<li>Yetişkinlerde harici kullanım için tasarlanmıştır</li>
-<li>Günlük bakım rutinine kolayca eklenir</li>
-<li>CE işaretli tıbbi cihaz sınıfındadır</li>
-<li>Buzdolabı gerektirmez, oda sıcaklığında saklanır</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Bölge temizlenip kurulandıktan sonra ürün kısa mesafeden püskürtülür. Günde birkaç kez veya ihtiyaç duyuldukça uygulanabilir. Kullanım sonrası kapağı kapatılır. Ambalaj üzerindeki kullanma talimatı esastır.</p>
-<h2>Uyarılar</h2>
-<p>Yalnızca haricen kullanılır, yutulmaz. Göz ve mukoza ile temasından kaçınılır; temas hâlinde bol su ile durulanır. Açık yara ve tahriş olmuş ciltte kullanmadan önce sağlık profesyoneline danışılır. Çocukların ulaşamayacağı yerde, oda sıcaklığında saklanır. Ambalajı hasarlıysa kullanılmaz. Şikâyetiniz sürerse hekiminize başvurun.</p>
-<h2>Sık Sorulan Sorular</h2>
-<h3>Memethol Hemoroid Bariyer Sprey ne işe yarar?</h3>
-<p>Memethol Hemoroid Bariyer Sprey 10 ml (barkod 8680782940026), uygulandığı bölgede koruyucu bir bariyer tabakası oluşturmak için geliştirilmiş, harici kullanım için bir spreydir.</p>
-<h3>Memethol sprey nasıl kullanılır?</h3>
-<p>Bölge temizlenip kurulandıktan sonra kısa mesafeden püskürtülür. Günde birkaç kez ya da ihtiyaç duyuldukça uygulanabilir; ambalajdaki talimat esastır.</p>
-<h3>Memethol sprey içeriğinde ne var?</h3>
-<p>Bileşenler ambalajda ve kullanım kılavuzunda yazar. Sprey 10 ml'dir.</p>
-<h3>Memethol spreyi kimler kullanmamalı?</h3>
-<p>Bileşenlerine hassasiyeti olanlar kullanmamalıdır. Kanama, şiddetli ağrı ya da şikâyetin sürmesi durumunda hekime başvurulmalıdır. Hamileler ve emzirenler önce hekime danışmalıdır.</p>
-<h3>Sprey ile krem arasındaki fark nedir?</h3>
-<p>Sprey bölgeye dokunmadan uygulanır, bu yüzden daha hijyeniktir ve dışarıda da kolay kullanılır. Krem ise parmakla ya da aplikatörle sürülür.</p>
-<p>Farmaneva'da satılan tüm ürünler %100 orijinal ve faturalıdır, ecza deposundan tedarik edilir. Güvenli ödeme ve hızlı kargo ile gönderilir.</p>
-</section>]]></Description>
-<Keywords><![CDATA[memethol sprey,memetol]]></Keywords>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00583]]></Product_code>
 <Barcode>8680697001720</Barcode>
 <Name><![CDATA[Mesilife A200 Infra-Red Alından Temassız Ateş Ölçer]]></Name>
@@ -30400,16 +30178,16 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>10</Stock>
 <Miad>2028-01-01</Miad>
 <Price>487.90</Price>
 <Price2>678.54</Price2>
 <Price3>678.54</Price3>
-<Price4>709.96</Price4>
-<Price5>701.47</Price5>
-<Price6>688.97</Price6>
+<Price4>574.99</Price4>
+<Price5>574.99</Price5>
+<Price6>574.99</Price6>
 <Price7>965.14</Price7>
-<Price8>913.56</Price8>
+<Price8>799.00</Price8>
 <Price9>574.99</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL10L</HepsiburadaSku>
