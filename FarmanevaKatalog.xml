@@ -18681,7 +18681,7 @@
 <category><![CDATA[Hasta Bezi]]></category>
 <subCategory><![CDATA[Hasta Altı Bezi]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>173.31</Price>
 <Price2>238.45</Price2>
@@ -41397,8 +41397,8 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
-<Miad></Miad>
+<Stock>6</Stock>
+<Miad>2026-11-01</Miad>
 <Price>350.11</Price>
 <Price2>436.29</Price2>
 <Price3>436.29</Price3>
