@@ -9275,7 +9275,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>13</Stock>
 <Miad>2029-03-01</Miad>
 <Price>126.65</Price>
 <Price2>178.46</Price2>
@@ -9594,7 +9594,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>6</Stock>
 <Miad>2028-08-01</Miad>
 <Price>611.91</Price>
 <Price2>738.37</Price2>
@@ -9972,7 +9972,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kolonyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>50</Stock>
 <Miad></Miad>
 <Price>56.02</Price>
 <Price2>106.12</Price2>
@@ -10986,7 +10986,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>13</Stock>
 <Miad>2027-09-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -14033,54 +14033,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00317]]></Product_code>
-<Barcode>8697796000127</Barcode>
-<Name><![CDATA[Dermoskin Topicalbiotin N Vitamin Kremi Normal Ciltler 50 ml]]></Name>
-<Brand><![CDATA[Dermoskin]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Nemlendirici]]></subCategory>
-<Tax>20</Tax>
-<Stock>4</Stock>
-<Miad></Miad>
-<Price>301.66</Price>
-<Price2>397.99</Price2>
-<Price3>397.99</Price3>
-<Price4>406.10</Price4>
-<Price5>396.67</Price5>
-<Price6>391.23</Price6>
-<Price7>680.46</Price7>
-<Price8>624.55</Price8>
-<Price9>391.23</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQLH0N</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00317</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-n-vitamin-kremi-normal-ciltler-50-ml-8590.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/dermoskin-topicalbiotin-n-vitamin-kremi-normal-ciltler-50-ml-8591.webp</Image2>
-<Description><![CDATA[<section>
-<p><strong>Dermoskin Topicalbiotin N Vitamin Kremi (Normal Ciltler)</strong>, biotin ve vitamin i&#231;eri&#287;iyle normal ciltlere y&#246;nelik geli&#351;tirilmi&#351;, besleyici bir vitamin kremidir. Cildinin dengesini koruyarak g&#252;nl&#252;k bak&#305;m yapmak isteyenler i&#231;in sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Biotin ve vitamin i&#231;eri&#287;ine sahiptir.</li>
-<li>Normal ciltler i&#231;in geli&#351;tirilmi&#351;tir.</li>
-<li>Cildi besleyerek canl&#305; ve sa&#287;l&#305;kl&#305; bir g&#246;r&#252;n&#252;m deste&#287;i verir.</li>
-<li>Cildin nem dengesini korumaya yard&#305;mc&#305; olur.</li>
-<li>G&#252;nl&#252;k cilt bak&#305;m&#305;na destek sunar.</li>
-<li>Y&#252;z ve v&#252;cutta uygun b&#246;lgelerde kullan&#305;labilir.</li>
-<li>Hafif, ya&#287;s&#305;z dokusuyla cilde h&#305;zla emilir ve g&#252;n boyu rahat kullan&#305;m sa&#287;lar.</li>
-<li>Cildin g&#252;nl&#252;k bak&#305;m&#305;na destek olur ve d&#252;zenli kullan&#305;ma uygundur.</li>
-<li>Cildin ihtiyac&#305;na g&#246;re g&#252;nl&#252;k olarak kullan&#305;labilir.</li>
-<li>Bak&#305;m rutinini tamamlayan bir ad&#305;m olarak kullan&#305;labilir.</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Temizlenmi&#351; cilde g&#252;nde bir-iki kez ince bir tabaka h&#226;linde uygulay&#305;p nazik&#231;e yedirin. D&#252;zenli kullan&#305;mda en iyi sonucu verir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Normal cildine uygun bir vitamin kremi arayanlar Dermoskin Topicalbiotin N'yi Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00318]]></Product_code>
 <Barcode>8697796000110</Barcode>
 <Name><![CDATA[Dermoskin Topicalbiotin T Vitamin Kremi Kuru Ciltler 50 ml]]></Name>
@@ -14089,7 +14041,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>128</Stock>
+<Stock>125</Stock>
 <Miad></Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -14238,7 +14190,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Yağlı Saçlar İçin Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>68</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>126.56</Price>
 <Price2>189.93</Price2>
@@ -18541,7 +18493,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>94</Stock>
+<Stock>93</Stock>
 <Miad>2027-09-01</Miad>
 <Price>849.06</Price>
 <Price2>1012.00</Price2>
@@ -20242,7 +20194,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2027-01-01</Miad>
 <Price>161.41</Price>
 <Price2>231.34</Price2>
@@ -38505,7 +38457,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2028-10-01</Miad>
 <Price>292.40</Price>
 <Price2>369.71</Price2>
@@ -39362,17 +39314,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>42</Stock>
 <Miad>2027-06-01</Miad>
-<Price>381.56</Price>
-<Price2>472.58</Price2>
-<Price3>472.58</Price3>
-<Price4>485.70</Price4>
-<Price5>477.90</Price5>
-<Price6>471.35</Price6>
-<Price7>709.05</Price7>
-<Price8>664.67</Price8>
-<Price9>471.35</Price9>
+<Price>403.75</Price>
+<Price2>498.19</Price2>
+<Price3>498.19</Price3>
+<Price4>513.58</Price4>
+<Price5>505.70</Price5>
+<Price6>498.40</Price6>
+<Price7>740.88</Price7>
+<Price8>695.61</Price8>
+<Price9>498.40</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKLRM</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00882</SaticiStokKodu>
@@ -39515,15 +39467,15 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2027-09-01</Miad>
-<Price>392.61</Price>
-<Price2>485.33</Price2>
-<Price3>485.33</Price3>
-<Price4>499.59</Price4>
-<Price5>491.74</Price5>
-<Price6>484.82</Price6>
-<Price7>724.90</Price7>
-<Price8>680.08</Price8>
-<Price9>484.82</Price9>
+<Price>488.75</Price>
+<Price2>596.26</Price2>
+<Price3>596.26</Price3>
+<Price4>620.37</Price4>
+<Price5>612.16</Price5>
+<Price6>602.03</Price6>
+<Price7>862.83</Price7>
+<Price8>814.13</Price8>
+<Price9>602.03</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLAZT</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00885</SaticiStokKodu>
@@ -39542,7 +39494,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>0</Stock>
 <Miad>2028-07-01</Miad>
 <Price>586.41</Price>
 <Price2>708.94</Price2>
@@ -42679,7 +42631,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>82</Stock>
+<Stock>79</Stock>
 <Miad>2027-03-01</Miad>
 <Price>140.16</Price>
 <Price2>194.05</Price2>
@@ -47091,7 +47043,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>225</Stock>
+<Stock>224</Stock>
 <Miad>2028-07-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -52210,7 +52162,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2029-10-01</Miad>
 <Price>926.42</Price>
 <Price2>1101.26</Price2>
@@ -52837,7 +52789,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>363</Stock>
+<Stock>361</Stock>
 <Miad>2029-01-01</Miad>
 <Price>314.41</Price>
 <Price2>403.51</Price2>
@@ -64807,7 +64759,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>44</Stock>
 <Miad>2029-03-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -68561,15 +68513,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>524.34</Price2>
-<Price3>524.34</Price3>
-<Price4>546.46</Price4>
-<Price5>536.50</Price5>
-<Price6>526.45</Price6>
-<Price7>846.62</Price7>
-<Price8>784.70</Price8>
-<Price9>526.45</Price9>
+<Price>373.91</Price>
+<Price2>483.84</Price2>
+<Price3>483.84</Price3>
+<Price4>501.47</Price4>
+<Price5>491.68</Price5>
+<Price6>483.10</Price6>
+<Price7>793.35</Price7>
+<Price8>733.36</Price8>
+<Price9>483.10</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -69020,7 +68972,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>167</Stock>
+<Stock>163</Stock>
 <Miad>2027-02-01</Miad>
 <Price>970.19</Price>
 <Price2>1170.69</Price2>
@@ -69958,7 +69910,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-09-01</Miad>
 <Price>242.16</Price>
 <Price2>318.99</Price2>
@@ -77278,7 +77230,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2029-01-01</Miad>
 <Price>391.85</Price>
 <Price2>484.45</Price2>
@@ -77932,7 +77884,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>23</Stock>
+<Stock>21</Stock>
 <Miad>2028-02-01</Miad>
 <Price>181.05</Price>
 <Price2>254.68</Price2>
@@ -81933,7 +81885,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>382.49</Price>
 <Price2>494.03</Price2>
@@ -82736,37 +82688,6 @@
 <Image4>https://www.farmaneva.com/uploads/urunler/3504105037581-3_6ldmc.jpg</Image4>
 <Image5>https://www.farmaneva.com/uploads/urunler/3504105037581-4_s42ja.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Mustela Stelatopia Intense 30 ml</strong>, atopik ve &#231;ok kuru ciltli bebekler ve &#231;ocuklar i&#231;in &#246;zel olarak geli&#351;tirilmi&#351; yo&#287;un nemlendirici bir cremdir. Hassas cilt tipi olan 0+ ya&#351; grubu bebeklerden yeti&#351;kinlere kadar g&#252;venle kullan&#305;labilir.</p><h2>Mustela Stelatopia Intense 30 ml &#214;zellikleri</h2><ul><li>AtoPIK cilt belirtilerini azaltmaya yard&#305;mc&#305; olur</li><li>Cilt bariyerini g&#252;&#231;lendirir ve nem tutar</li><li>Uzun s&#252;reli nemlendirme etkisi sa&#287;lar</li><li>Hassas cilt i&#231;in hipoalerjenik form&#252;lasyon</li><li>Paraben, ftalat ve fenoksi etanol i&#231;ermez</li><li>Do&#287;al kaynakl&#305; avokado perseosi ve &#351;eya ya&#287;&#305; i&#231;erir</li><li>Klinik olarak atopik ciltte etkili ve g&#252;venli oldu&#287;u g&#246;sterilmi&#351;tir</li><li>H&#305;zl&#305; emilir, yap&#305;&#351;maz ve ya&#287;l&#305; b&#305;rakmaz</li><li>G&#252;nl&#252;k kullan&#305;m i&#231;in uygundur, banyo sonras&#305; uygulanmas&#305; &#246;nerilir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Temiz ve nemli cilt &#252;zerine hafif&#231;e masaj yaparak uygulay&#305;n. &#214;zellikle banyo sonras&#305; veya cilt hissi geredi&#287;inde 1-2 kez g&#252;n i&#231;inde kullan&#305;labilir. Hassas b&#246;lgelere (y&#252;z, kollarn&#305;n i&#231; k&#305;sm&#305;, diz arkas&#305; vb.) g&#252;venle uygulanabilir. Kullan&#305;m &#246;ncesi elinizi y&#305;kay&#305;n ve &#252;r&#252;n&#252; temiz ellerle al&#305;n.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;z d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas edilirse, hemen bol suyla y&#305;kay&#305;n. &#304;rritasyon veya alerjik reaksiyon olu&#351;ursa kullan&#305;m&#305; durdurun ve hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. 3 ya&#351; alt&#305;ndaki &#231;ocuklarda kullan&#305;m &#246;ncesi bir cilt testi yap&#305;lmas&#305; &#246;nerilir. Serin, kuru ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. &#199;ocuklar&#305;n elinin ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde depolay&#305;n. Son kullanma tarihini kontrol edin, expired &#252;r&#252;n kullanmay&#305;n.</p><p>Mustela Stelatopia Intense 30 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01869]]></Product_code>
-<Barcode>7640128141297</Barcode>
-<Name><![CDATA[New Life B Active Trio 30 Tablet]]></Name>
-<Brand><![CDATA[New Life]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[B Vitamini]]></subCategory>
-<Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2028-09-01</Miad>
-<Price>377.40</Price>
-<Price2>467.78</Price2>
-<Price3>467.78</Price3>
-<Price4>480.48</Price4>
-<Price5>472.69</Price5>
-<Price6>466.28</Price6>
-<Price7>703.08</Price7>
-<Price8>658.87</Price8>
-<Price9>466.28</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000IR9I74</HepsiburadaSku>
-<SaticiStokKodu>FRMNV01869</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/7640128141297-0_gh9f3.png</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/7640128141297-1_jpnzh.jpg</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/7640128141297-2_6cw2i.jpg</Image3>
-<Image4>https://www.farmaneva.com/uploads/urunler/7640128141297-3_o1qz3.png</Image4>
-<Image5>https://www.farmaneva.com/uploads/urunler/7640128141297-4_s9zlr.jpg</Image5>
-<Description><![CDATA[<section><p><strong>New Life B Active Trio 30 Tablet</strong></p><ul><li>Her tablette B1 (benfotiamin) 100 mg, B6 (piridoksal-5-fosfat) 50 mg, B12 (metilkobalamin) 500 mcg bulunur.</li><li>30 tabletlik ambalajda sunulur.</li><li>Gluten, laktoz, şeker ve yapay renklendirici içermez.</li><li>Vegan ve vejetaryen beslenenler için uygundur.</li><li>Mikroenkapsülasyon teknolojisiyle üretilmiştir.</li><li>GMP ve ISO 22000 standartlarına uygun üretilmiştir.</li></ul><p>Takviye edici gıdadır. Normal beslenmenin yerine geçmez.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01870]]></Product_code>
@@ -84342,7 +84263,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>440.21</Price>
 <Price2>540.25</Price2>
@@ -84483,7 +84404,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>6</Stock>
 <Miad>2029-05-01</Miad>
 <Price>296.65</Price>
 <Price2>392.04</Price2>
@@ -84815,7 +84736,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>314</Stock>
+<Stock>348</Stock>
 <Miad>2028-03-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -85218,8 +85139,8 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>16</Stock>
-<Miad>2027-06-01</Miad>
+<Stock>0</Stock>
+<Miad></Miad>
 <Price>150.37</Price>
 <Price2>205.83</Price2>
 <Price3>205.83</Price3>
