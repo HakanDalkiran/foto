@@ -22961,7 +22961,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>135</Stock>
+<Stock>134</Stock>
 <Miad></Miad>
 <Price>701.16</Price>
 <Price2>872.68</Price2>
@@ -40782,7 +40782,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2026-11-01</Miad>
 <Price>350.11</Price>
 <Price2>436.29</Price2>
@@ -47045,7 +47045,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>229</Stock>
+<Stock>228</Stock>
 <Miad>2028-07-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -47089,7 +47089,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>497</Stock>
 <Miad>2028-04-01</Miad>
 <Price>412.25</Price>
 <Price2>599.00</Price2>
