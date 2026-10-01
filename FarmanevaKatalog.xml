@@ -12497,7 +12497,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>637.41</Price>
 <Price2>796.93</Price2>
@@ -25151,7 +25151,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2027-06-01</Miad>
 <Price>1147.41</Price>
 <Price2>1356.24</Price2>
@@ -43426,6 +43426,65 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00976]]></Product_code>
+<Barcode>8683060150018</Barcode>
+<Name><![CDATA[Pharmaton 50 Plus 30 Kapsül]]></Name>
+<Brand><![CDATA[Pharmaton]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>20</Stock>
+<Miad>2027-04-01</Miad>
+<Price>420.00</Price>
+<Price2>497.86</Price2>
+<Price3>497.86</Price3>
+<Price4>498.99</Price4>
+<Price5>514.14</Price5>
+<Price6>507.45</Price6>
+<Price7>764.20</Price7>
+<Price8>718.27</Price8>
+<Price9>507.45</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKUA9</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00976</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10039.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10040.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10041.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10042.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Pharmaton 50 Plus 30 Kapsül</strong>, 50 yaş üzerindeki yetişkinlerin günlük vitamin ve mineral ihtiyacı düşünülerek hazırlanmış bir takviye edici gıdadır. Ginseng ekstresi ile vitamin ve mineralleri bir arada içerir. 30 kapsüllük ambalajıyla bir aylık düzenli kullanıma uygundur</p>
+<h2>Pharmaton 50 Plus 30 Kapsül Özellikleri</h2>
+<ul>
+<li>30 kapsüllük ambalajda sunulur.</li>
+<li>50 yaş ve üzeri yetişkinler için hazırlanmıştır.</li>
+<li>Ginseng ekstresi içerir.</li>
+<li>Vitamin ve mineralleri bir arada sunar.</li>
+<li>Günlük beslenmenin desteklenmesine katkıda bulunur.</li>
+<li>Günde tek kapsül kullanım kolaylığı sağlar.</li>
+<li>Bir aylık kullanıma yetecek miktardadır.</li>
+<li>Günlük rutine kolayca eklenir.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde 1 kapsül, tercihen kahvaltıyla birlikte bir bardak su ile alınır. Ambalaj üzerindeki kullanım talimatına uyun; farklı bir kullanım için hekiminize ya da eczacınıza danışın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin ve sağlıklı yaşam biçiminin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Sürekli ilaç kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır. Çocukların erişemeyeceği yerde saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Pharmaton 50 Plus ne işe yarar?</h3>
+<p>Pharmaton 50 Plus 30 Kapsül (barkod 8683060150018), 50 yaş üzeri yetişkinlerin günlük vitamin ve mineral alımını tamamlamak için hazırlanmış bir takviye edici gıdadır; ilaç değildir.</p>
+<h3>Pharmaton 50 Plus nasıl kullanılır?</h3>
+<p>Günde 1 kapsül, tercihen kahvaltıyla birlikte bir bardak su ile alınır. 30 kapsül bir aylık kullanıma yeter.</p>
+<h3>Pharmaton 50 Plus içeriğinde neler var?</h3>
+<p>Ginseng ekstresi ile vitamin ve mineralleri bir arada içerir. Miktarlar ambalajdaki besin öğesi tablosunda yazar.</p>
+<h3>Pharmaton 50 Plus'ı kimler kullanmamalı?</h3>
+<p>Bileşenlerden birine hassasiyeti olanlar kullanmamalıdır. Sürekli ilaç kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır.</p>
+<h3>Pharmaton 50 Plus ile Pharmaton Vitality farkı nedir?</h3>
+<p>İkisi de ginseng, vitamin ve mineral içerir. 50 Plus 50 yaş ve üzeri için, Vitality ise yoğun tempolu genel yetişkinler için hazırlanmıştır.</p>
+<p>50 yaş üstü günlük desteğini arayanlar Pharmaton 50 Plus'ı Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00977]]></Product_code>
 <Barcode>8699809190160</Barcode>
 <Name><![CDATA[Pharmaton 50 Plus 30 Kapsül - Omega 3 Multivitamin ve Mineraller]]></Name>
@@ -45072,7 +45131,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>43</Stock>
 <Miad></Miad>
 <Price>198.81</Price>
 <Price2>275.78</Price2>
@@ -53616,6 +53675,54 @@
 <h2>Uyarılar</h2>
 <p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin ve sağlıklı yaşam biçiminin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Sürekli ilaç kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır. Çocukların erişemeyeceği yerde saklayın.</p>
 <p>Koenzim Q10'lu günlük desteğini arayanlar Supradyn Daily Koenzim Q10'u Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01213]]></Product_code>
+<Barcode>8699546020560</Barcode>
+<Name><![CDATA[Supradyn Daily Multivitamin Efervesan 30 Tablet]]></Name>
+<Brand><![CDATA[Supradyn]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>3</Stock>
+<Miad>2028-05-01</Miad>
+<Price>329.51</Price>
+<Price2>447.00</Price2>
+<Price3>447.00</Price3>
+<Price4>397.97</Price4>
+<Price5>397.00</Price5>
+<Price6>397.00</Price6>
+<Price7>634.37</Price7>
+<Price8>592.10</Price8>
+<Price9>397.00</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>8699546020560</HepsiburadaSku>
+<SaticiStokKodu>8699546020560</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/supradyn-daily-multivitamin-efervesan-30-tablet-10472.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/supradyn-daily-multivitamin-efervesan-30-tablet-10473.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/supradyn-daily-multivitamin-efervesan-30-tablet-10474.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Supradyn Daily Multivitamin 30 Efervesan Tablet</strong>, 13 vitamin, 9 mineral ve koenzim Q10 i&#231;eren suda &#231;&#246;z&#252;nen takviye edici g&#305;dad&#305;r. B grubu vitaminler, C vitamini, demir ve magnezyum normal enerji olu&#351;um metabolizmas&#305;na; &#231;e&#351;itli vitamin ve mineraller yorgunluk ile bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</p>
+<h2>&#220;r&#252;n &#214;zellikleri</h2>
+<ul>
+<li>13 vitamin ve 9 mineral i&#231;erir.</li>
+<li>Her tablette 4,5 mg koenzim Q10 bulunur.</li>
+<li>Suda &#231;&#246;z&#252;nerek t&#252;ketilen efervesan formdad&#305;r.</li>
+<li>G&#252;nde tek tabletlik kullan&#305;m kolayl&#305;&#287;&#305; sunar.</li>
+<li>30 efervesan tablet i&#231;erir.</li>
+<li>D&#252;zenli kullan&#305;ma uygun bir formdad&#305;r.</li>
+<li>Yeti&#351;kinlerin g&#252;nl&#252;k deste&#287;ine y&#246;neliktir.</li>
+<li>Dengeli beslenmeyi tamamlay&#305;c&#305; olarak kullan&#305;labilir.</li>
+<li>G&#252;nl&#252;k rutine kolayca eklenen pratik bir takviyedir.</li>
+</ul>
+<h2>Kullan&#305;m &#214;nerisi</h2>
+<p>Yeti&#351;kinler i&#231;in g&#252;nde 1 efervesan tabletin tok karn&#305;na yakla&#351;&#305;k 200-250 ml suda tamamen eritilerek t&#252;ketilmesi &#246;nerilir. Ambalaj talimatlar&#305;n&#305; esas al&#305;n.</p>
+<h2>&#214;nemli Bilgilendirme</h2>
+<p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda sa&#287;l&#305;k profesyoneline dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p>
+<p>D&#252;zenli kullan&#305;m planlayanlar i&#231;in Farmaneva'da orijinaliyle haz&#305;r.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -67754,15 +67861,15 @@
 <Tax>20</Tax>
 <Stock>106</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>597.97</Price2>
-<Price3>597.97</Price3>
-<Price4>628.25</Price4>
-<Price5>617.98</Price5>
-<Price6>605.24</Price6>
-<Price7>943.43</Price7>
-<Price8>878.01</Price8>
-<Price9>605.24</Price9>
+<Price>444.63</Price>
+<Price2>567.87</Price2>
+<Price3>567.87</Price3>
+<Price4>594.81</Price4>
+<Price5>584.67</Price5>
+<Price6>573.03</Price6>
+<Price7>903.85</Price7>
+<Price8>839.86</Price8>
+<Price9>573.03</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -68624,15 +68731,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>501.47</Price4>
-<Price5>491.68</Price5>
-<Price6>483.10</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
-<Price9>483.10</Price9>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>546.46</Price4>
+<Price5>536.50</Price5>
+<Price6>526.45</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
+<Price9>526.45</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -68990,14 +69097,14 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2028-04-01</Miad>
-<Price>378.16</Price>
-<Price2>488.89</Price2>
-<Price3>488.89</Price3>
-<Price4>507.07</Price4>
-<Price5>497.26</Price5>
-<Price6>488.50</Price6>
-<Price7>799.99</Price7>
-<Price8>739.76</Price8>
+<Price>323.00</Price>
+<Price2>423.35</Price2>
+<Price3>423.35</Price3>
+<Price4>434.27</Price4>
+<Price5>424.73</Price5>
+<Price6>418.36</Price6>
+<Price7>713.81</Price7>
+<Price8>656.69</Price8>
 <Price9>430.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099602</HepsiburadaSku>
@@ -77058,7 +77165,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>30</Stock>
 <Miad></Miad>
 <Price>82.45</Price>
 <Price2>137.52</Price2>
