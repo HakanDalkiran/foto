@@ -7592,7 +7592,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2027-10-01</Miad>
 <Price>347.56</Price>
 <Price2>442.30</Price2>
@@ -18541,7 +18541,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>95</Stock>
+<Stock>94</Stock>
 <Miad>2027-09-01</Miad>
 <Price>849.06</Price>
 <Price2>1012.00</Price2>
@@ -38976,15 +38976,15 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2027-09-01</Miad>
-<Price>242.16</Price>
-<Price2>311.74</Price2>
-<Price3>311.74</Price3>
-<Price4>310.57</Price4>
-<Price5>303.31</Price5>
-<Price6>301.39</Price6>
-<Price7>509.05</Price7>
-<Price8>470.30</Price8>
-<Price9>301.39</Price9>
+<Price>263.41</Price>
+<Price2>336.26</Price2>
+<Price3>336.26</Price3>
+<Price4>337.27</Price4>
+<Price5>329.92</Price5>
+<Price6>327.30</Price6>
+<Price7>539.53</Price7>
+<Price8>499.93</Price8>
+<Price9>327.30</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLHD9</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00874</SaticiStokKodu>
@@ -39927,15 +39927,15 @@
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2028-12-01</Miad>
-<Price>219.21</Price>
-<Price2>285.26</Price2>
-<Price3>285.26</Price3>
-<Price4>281.74</Price4>
-<Price5>274.56</Price5>
-<Price6>273.41</Price6>
-<Price7>476.12</Price7>
-<Price8>438.30</Price8>
-<Price9>273.41</Price9>
+<Price>253.21</Price>
+<Price2>324.49</Price2>
+<Price3>324.49</Price3>
+<Price4>324.46</Price4>
+<Price5>317.15</Price5>
+<Price6>314.87</Price6>
+<Price7>524.90</Price7>
+<Price8>485.71</Price8>
+<Price9>314.87</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKV9S</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00894</SaticiStokKodu>
@@ -40549,7 +40549,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>89</Stock>
+<Stock>88</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -42679,7 +42679,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>84</Stock>
+<Stock>83</Stock>
 <Miad>2027-03-01</Miad>
 <Price>140.16</Price>
 <Price2>194.05</Price2>
@@ -47719,7 +47719,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>24</Stock>
+<Stock>15</Stock>
 <Miad>2028-06-01</Miad>
 <Price>44.96</Price>
 <Price2>88.29</Price2>
@@ -52526,7 +52526,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>83</Stock>
+<Stock>82</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
@@ -54016,6 +54016,59 @@
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Pratik sa&#351;e formunda magnezyum deste&#287;i arayanlar Magnimore Plus &#350;ase'yi Farmaneva g&#252;vencesiyle edinebilir.</p>
 </section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01225]]></Product_code>
+<Barcode>8680133000669</Barcode>
+<Name><![CDATA[Magnimore Plus 60 Tablet]]></Name>
+<Brand><![CDATA[Tab İlaç]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>12</Stock>
+<Miad>2030-01-01</Miad>
+<Price>446.25</Price>
+<Price2>547.22</Price2>
+<Price3>547.22</Price3>
+<Price4>566.97</Price4>
+<Price5>558.93</Price5>
+<Price6>550.22</Price6>
+<Price7>801.86</Price7>
+<Price8>754.87</Price8>
+<Price9>550.22</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKYYS</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01225</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/tab-ilac-magnimore-plus-60-tablet-10491.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Magnimore Plus 60 Tablet</strong>, magnezyum asetil taurat, bisglisinat ve malat formlarını P5P (B6) ile bir araya getiren, günlük magnezyum desteği sağlayan bir takviye edici gıdadır. Tablet formunu tercih eden yetişkinler için 60 tabletlik ambalajda sunulur.</p>
+<h2>Magnimore Plus Tablet Özellikleri</h2>
+<ul>
+<li>ATA-Mg, bisglisinat ve malat formlarında magnezyum içerir.</li>
+<li>Pridoksal 5-fosfat (P5P/B6) ile zenginleştirilmiştir.</li>
+<li>Magnezyum yorgunluk ve bitkinliğin azalmasına katkıda bulunur.</li>
+<li>Normal kas ve sinir sistemi işleyişine katkı sağlar.</li>
+<li>Günde 1 tabletle pratik kullanım sunar.</li>
+<li>60 tabletlik ambalajı ile yaklaşık iki aylık kullanım sağlar.</li>
+<li>Dengeli beslenmeyi tamamlayıcı olarak değerlendirilebilir.</li></ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>11 yaş ve üzeri yetişkinler için günde 1 tablet, tercihen öğünden 2 saat sonra bir bardak su ile alınması tavsiye edilir.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir. Hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik, emzirme döneminde veya bir rahatsızlığınız varsa kullanmadan önce doktorunuza danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Magnimore Plus ne işe yarar?</h3>
+<p>Magnimore Plus 60 Tablet (barkod 8680133000669), günlük magnezyum alımını tamamlamak için hazırlanmış bir takviye edici gıdadır; ilaç değildir.</p>
+<h3>Magnimore Plus nasıl kullanılır?</h3>
+<p>11 yaş ve üzeri için günde 1 tablet, tercihen öğünden 2 saat sonra bir bardak su ile alınır.</p>
+<h3>Magnimore Plus içeriğinde neler var?</h3>
+<p>Magnezyum asetil taurat, bisglisinat ve malat formları ile P5P (aktif B6 vitamini) içerir.</p>
+<h3>Magnimore Plus'ı kimler kullanmamalı?</h3>
+<p>11 yaş altı çocuklar, bileşenlere hassasiyeti olanlar ve böbrek rahatsızlığı olanlar hekime danışmadan kullanmamalıdır. Hamile ve emzirenler de önce hekime danışmalıdır.</p>
+<h3>Magnimore Plus 60, 90 ve 120 tablet arasındaki fark nedir?</h3>
+<p>Formül aynıdır, yalnız kutudaki tablet sayısı farklıdır. Günde 1 tabletle 60 tablet iki ay, 90 tablet üç ay, 120 tablet dört ay yeter.</p>
+<p>Tablet formunda magnezyum-B6 desteği arayanlar Magnimore Plus'ı Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01226]]></Product_code>
@@ -64628,7 +64681,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>170</Stock>
+<Stock>169</Stock>
 <Miad>2028-01-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -64721,7 +64774,7 @@
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
 <Stock>4</Stock>
-<Miad>2027-06-01</Miad>
+<Miad>2027-08-01</Miad>
 <Price>412.16</Price>
 <Price2>507.89</Price2>
 <Price3>507.89</Price3>
@@ -66686,15 +66739,15 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad>2029-02-01</Miad>
-<Price>510.00</Price>
-<Price2>645.54</Price2>
-<Price3>645.54</Price3>
-<Price4>681.10</Price4>
-<Price5>670.63</Price5>
-<Price6>656.15</Price6>
-<Price7>1005.99</Price7>
-<Price8>938.31</Price8>
-<Price9>656.15</Price9>
+<Price>620.41</Price>
+<Price2>776.73</Price2>
+<Price3>776.73</Price3>
+<Price4>826.83</Price4>
+<Price5>815.81</Price5>
+<Price6>796.55</Price6>
+<Price7>1178.51</Price7>
+<Price8>1104.59</Price8>
+<Price9>796.55</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0FVC3</HepsiburadaSku>
 <SaticiStokKodu>850069595821</SaticiStokKodu>
@@ -67055,15 +67108,15 @@
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-01-01</Miad>
-<Price>671.50</Price>
-<Price2>837.44</Price2>
-<Price3>837.44</Price3>
-<Price4>894.27</Price4>
-<Price5>882.99</Price5>
-<Price6>861.52</Price6>
-<Price7>1258.34</Price7>
-<Price8>1181.54</Price8>
-<Price9>861.52</Price9>
+<Price>849.06</Price>
+<Price2>1048.42</Price2>
+<Price3>1048.42</Price3>
+<Price4>1128.64</Price4>
+<Price5>1116.48</Price5>
+<Price6>1087.31</Price6>
+<Price7>1535.78</Price7>
+<Price8>1448.95</Price8>
+<Price9>1087.31</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EALI</HepsiburadaSku>
 <SaticiStokKodu>850071952124</SaticiStokKodu>
@@ -67239,15 +67292,15 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad>2028-09-01</Miad>
-<Price>573.75</Price>
-<Price2>721.29</Price2>
-<Price3>721.29</Price3>
-<Price4>765.25</Price4>
-<Price5>754.46</Price5>
-<Price6>737.22</Price6>
-<Price7>1105.60</Price7>
-<Price8>1034.32</Price8>
-<Price9>737.22</Price9>
+<Price>594.06</Price>
+<Price2>745.42</Price2>
+<Price3>745.42</Price3>
+<Price4>792.05</Price4>
+<Price5>781.16</Price5>
+<Price6>763.05</Price6>
+<Price7>1137.34</Price7>
+<Price8>1064.91</Price8>
+<Price9>763.05</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0DXK5</HepsiburadaSku>
 <SaticiStokKodu>850069595807</SaticiStokKodu>
@@ -67284,15 +67337,15 @@
 <Tax>20</Tax>
 <Stock>7</Stock>
 <Miad>2029-04-01</Miad>
-<Price>552.50</Price>
-<Price2>696.04</Price2>
-<Price3>696.04</Price3>
-<Price4>737.20</Price4>
-<Price5>726.51</Price5>
-<Price6>710.20</Price6>
-<Price7>1072.40</Price7>
-<Price8>1002.32</Price8>
-<Price9>710.20</Price9>
+<Price>619.48</Price>
+<Price2>775.63</Price2>
+<Price3>775.63</Price3>
+<Price4>825.61</Price4>
+<Price5>814.59</Price5>
+<Price6>795.37</Price6>
+<Price7>1177.06</Price7>
+<Price8>1103.19</Price8>
+<Price9>795.37</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EWY4</HepsiburadaSku>
 <SaticiStokKodu>850069595784</SaticiStokKodu>
@@ -67650,15 +67703,15 @@
 <Tax>20</Tax>
 <Stock>108</Stock>
 <Miad>2028-01-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>444.38</Price>
+<Price2>567.57</Price2>
+<Price3>567.57</Price3>
+<Price4>594.48</Price4>
+<Price5>584.34</Price5>
+<Price6>572.71</Price6>
+<Price7>903.46</Price7>
+<Price8>839.49</Price8>
+<Price9>572.71</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -67742,15 +67795,15 @@
 <Tax>20</Tax>
 <Stock>50</Stock>
 <Miad>2028-08-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>531.00</Price>
+<Price2>670.49</Price2>
+<Price3>670.49</Price3>
+<Price4>708.82</Price4>
+<Price5>698.24</Price5>
+<Price6>682.86</Price6>
+<Price7>1038.81</Price7>
+<Price8>969.94</Price8>
+<Price9>682.86</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EBAG</HepsiburadaSku>
 <SaticiStokKodu>850069595845</SaticiStokKodu>
@@ -67787,15 +67840,15 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-04-01</Miad>
-<Price>382.50</Price>
-<Price2>494.04</Price2>
-<Price3>494.04</Price3>
-<Price4>512.80</Price4>
-<Price5>502.97</Price5>
-<Price6>494.02</Price6>
-<Price7>806.78</Price7>
-<Price8>746.30</Price8>
-<Price9>494.02</Price9>
+<Price>424.79</Price>
+<Price2>544.29</Price2>
+<Price3>544.29</Price3>
+<Price4>568.62</Price4>
+<Price5>558.58</Price5>
+<Price6>547.80</Price6>
+<Price7>872.85</Price7>
+<Price8>809.98</Price8>
+<Price9>547.80</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000HCBMT0</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01534</SaticiStokKodu>
@@ -68520,15 +68573,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>408.00</Price>
-<Price2>524.34</Price2>
-<Price3>524.34</Price3>
-<Price4>546.46</Price4>
-<Price5>536.50</Price5>
-<Price6>526.45</Price6>
-<Price7>846.62</Price7>
-<Price8>784.70</Price8>
-<Price9>526.45</Price9>
+<Price>373.91</Price>
+<Price2>483.84</Price2>
+<Price3>483.84</Price3>
+<Price4>501.47</Price4>
+<Price5>491.68</Price5>
+<Price6>483.10</Price6>
+<Price7>793.35</Price7>
+<Price8>733.36</Price8>
+<Price9>483.10</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -68979,7 +69032,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>172</Stock>
+<Stock>169</Stock>
 <Miad>2027-02-01</Miad>
 <Price>970.19</Price>
 <Price2>1170.69</Price2>
@@ -82327,7 +82380,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>1019.07</Price>
 <Price2>1227.87</Price2>
