@@ -7945,51 +7945,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00183]]></Product_code>
-<Barcode>8690742330156</Barcode>
-<Name><![CDATA[Canped Emici Külot Xlarge 30'lu]]></Name>
-<Brand><![CDATA[Canped]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Hasta Bezi]]></category>
-<Tax>20</Tax>
-<Stock>30</Stock>
-<Miad></Miad>
-<Price>717.12</Price>
-<Price2>992.71</Price2>
-<Price3>992.71</Price3>
-<Price4>863.99</Price4>
-<Price5>863.99</Price5>
-<Price6>863.99</Price6>
-<Price7>1329.62</Price7>
-<Price8>1165.96</Price8>
-<Price9>863.99</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQKZ8P</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00183</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/canped-emici-kulot-xlarge-30-lu-8234.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Canped Emici K&#252;lot xLarge 30'lu</strong>, y&#252;ksek emicilikli yap&#305;s&#305;yla idrar ka&#231;&#305;rma ya&#351;ayan bireyler i&#231;in geli&#351;tirilmi&#351;, k&#252;lot tipi bir emici &#252;r&#252;nd&#252;r. Ba&#287;&#305;ms&#305;z ve aktif kalmak isteyen bireyler ile bak&#305;m verenler i&#231;in xLarge bedende, 30'lu pakette sunulur.</p>
-<h2>Canped Emici K&#252;lot &#214;zellikleri</h2>
-<ul>
-<li>Y&#252;ksek emicilikli yap&#305;s&#305;yla uzun s&#252;reli koruma sa&#287;lar.</li>
-<li>H&#305;zl&#305; emen yap&#305;s&#305;yla cildi kuru tutmaya yard&#305;mc&#305; olur.</li>
-<li>S&#305;zd&#305;rmaz d&#305;&#351; y&#252;zeyiyle g&#252;venli kullan&#305;m sunar.</li>
-<li>Yumu&#351;ak ve nefes alabilen yap&#305;s&#305;yla konfor sa&#287;lar.</li>
-<li>V&#252;cuda uyum sa&#287;layan k&#252;lot tipi tasar&#305;ma sahiptir.</li>
-<li>Yanlardan y&#305;rt&#305;larak kolayca &#231;&#305;kar&#305;labilir.</li>
-<li>xLarge bedende, 30'lu pakette sunulur.</li>
-<li>Kullan&#305;m k&#305;lavuzuna uygun bi&#231;imde kullan&#305;lmas&#305; &#246;nerilir.</li>
-<li>Evde pratik kullan&#305;m i&#231;in uygundur.</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>K&#252;lodu normal bir i&#231; &#231;ama&#351;&#305;r&#305; gibi giyin; &#305;slakl&#305;k g&#246;stergesi doldu&#287;unda yanlardan y&#305;rtarak &#231;&#305;kar&#305;p yenisiyle de&#287;i&#351;tirin. Cilt sa&#287;l&#305;&#287;&#305; i&#231;in d&#252;zenli de&#287;i&#351;im &#246;nerilir; pi&#351;ik riskini azaltmaya yard&#305;mc&#305; olur.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Tek kullan&#305;ml&#305;kt&#305;r; kirlendi&#287;inde de&#287;i&#351;tirin. Cilt tahri&#351;i g&#246;r&#252;l&#252;rse kullan&#305;m&#305; g&#246;zden ge&#231;irin. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Ba&#287;&#305;ms&#305;z ve aktif kalmak isteyen bireyler ile bak&#305;m verenler xLarge Canped Emici K&#252;lot'u Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00184]]></Product_code>
 <Barcode>8690742310943</Barcode>
 <Name><![CDATA[Canped Mesane Pedi Kadın Large 10'lu]]></Name>
@@ -23444,7 +23399,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2029-01-01</Miad>
 <Price>1487.41</Price>
 <Price2>1806.91</Price2>
@@ -23452,8 +23407,8 @@
 <Price4>1971.24</Price4>
 <Price5>1955.88</Price5>
 <Price6>1899.05</Price6>
-<Price7>2533.20</Price7>
-<Price8>2410.32</Price8>
+<Price7>2533.19</Price7>
+<Price8>2410.31</Price8>
 <Price9>1899.05</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLH4T</HepsiburadaSku>
@@ -30130,7 +30085,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>499</Stock>
+<Stock>497</Stock>
 <Miad>2028-01-01</Miad>
 <Price>487.90</Price>
 <Price2>678.54</Price2>
