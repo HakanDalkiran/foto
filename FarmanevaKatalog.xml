@@ -2931,7 +2931,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>191</Stock>
+<Stock>190</Stock>
 <Miad>2027-10-01</Miad>
 <Price>394.25</Price>
 <Price2>496.92</Price2>
@@ -7543,7 +7543,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-10-01</Miad>
 <Price>347.56</Price>
 <Price2>442.30</Price2>
@@ -9923,7 +9923,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kolonyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>53</Stock>
+<Stock>56</Stock>
 <Miad></Miad>
 <Price>56.02</Price>
 <Price2>106.12</Price2>
@@ -10760,7 +10760,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad>2028-05-01</Miad>
 <Price>956.17</Price>
 <Price2>1135.58</Price2>
@@ -17994,7 +17994,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>214.20</Price>
 <Price2>294.07</Price2>
@@ -39117,17 +39117,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Form & Diyet]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-10-01</Miad>
-<Price>339.91</Price>
-<Price2>424.53</Price2>
-<Price3>424.53</Price3>
-<Price4>433.38</Price4>
-<Price5>425.74</Price5>
-<Price6>420.57</Price6>
-<Price7>649.29</Price7>
-<Price8>606.60</Price8>
-<Price9>420.57</Price9>
+<Stock>16</Stock>
+<Miad>2027-11-01</Miad>
+<Price>343.40</Price>
+<Price2>428.55</Price2>
+<Price3>428.55</Price3>
+<Price4>437.76</Price4>
+<Price5>430.11</Price5>
+<Price6>424.83</Price6>
+<Price7>654.30</Price7>
+<Price8>611.46</Price8>
+<Price9>424.83</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLZV0</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00880</SaticiStokKodu>
@@ -39591,7 +39591,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>9</Stock>
 <Miad>2029-07-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
@@ -40176,15 +40176,15 @@
 <Tax>1</Tax>
 <Stock>3</Stock>
 <Miad>2028-12-01</Miad>
-<Price>551.56</Price>
-<Price2>668.73</Price2>
-<Price3>668.73</Price3>
-<Price4>699.28</Price4>
-<Price5>690.83</Price5>
-<Price6>678.61</Price6>
-<Price7>952.95</Price7>
-<Price8>901.70</Price8>
-<Price9>678.61</Price9>
+<Price>458.91</Price>
+<Price2>561.83</Price2>
+<Price3>561.83</Price3>
+<Price4>582.88</Price4>
+<Price5>574.78</Price5>
+<Price6>565.65</Price6>
+<Price7>820.02</Price7>
+<Price8>772.52</Price8>
+<Price9>565.65</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLXDS</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00905</SaticiStokKodu>
@@ -40453,15 +40453,15 @@
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2029-04-01</Miad>
-<Price>174.16</Price>
-<Price2>233.28</Price2>
-<Price3>233.28</Price3>
-<Price4>225.14</Price4>
-<Price5>218.14</Price5>
-<Price6>218.49</Price6>
-<Price7>411.49</Price7>
-<Price8>364.51</Price8>
-<Price9>218.49</Price9>
+<Price>183.60</Price>
+<Price2>244.17</Price2>
+<Price3>244.17</Price3>
+<Price4>237.00</Price4>
+<Price5>229.96</Price5>
+<Price6>230.00</Price6>
+<Price7>425.03</Price7>
+<Price8>377.67</Price8>
+<Price9>230.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKTBE</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00911</SaticiStokKodu>
@@ -41843,7 +41843,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad>2026-11-01</Miad>
 <Price>261.80</Price>
 <Price2>334.40</Price2>
@@ -42075,7 +42075,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2027-02-01</Miad>
 <Price>355.21</Price>
 <Price2>442.18</Price2>
@@ -44458,7 +44458,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>69</Stock>
+<Stock>68</Stock>
 <Miad></Miad>
 <Price>195.41</Price>
 <Price2>271.74</Price2>
@@ -44777,7 +44777,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>62</Stock>
+<Stock>61</Stock>
 <Miad></Miad>
 <Price>203.15</Price>
 <Price2>280.94</Price2>
@@ -44920,7 +44920,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>41</Stock>
 <Miad></Miad>
 <Price>198.81</Price>
 <Price2>275.78</Price2>
@@ -45195,7 +45195,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>182.66</Price>
 <Price2>256.59</Price2>
@@ -45243,7 +45243,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>65</Stock>
+<Stock>64</Stock>
 <Miad></Miad>
 <Price>206.47</Price>
 <Price2>284.88</Price2>
@@ -45958,7 +45958,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>35</Stock>
+<Stock>34</Stock>
 <Miad></Miad>
 <Price>195.41</Price>
 <Price2>271.74</Price2>
@@ -47216,7 +47216,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>19</Stock>
 <Miad>2028-01-01</Miad>
 <Price>178.41</Price>
 <Price2>244.41</Price2>
@@ -47962,7 +47962,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>429</Stock>
+<Stock>409</Stock>
 <Miad>2030-07-01</Miad>
 <Price>89.25</Price>
 <Price2>140.11</Price2>
@@ -48534,7 +48534,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>89.17</Price>
 <Price2>135.21</Price2>
@@ -52059,7 +52059,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-01-01</Miad>
 <Price>926.42</Price>
 <Price2>1101.26</Price2>
@@ -61755,7 +61755,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>9</Stock>
+<Stock>7</Stock>
 <Miad>2028-12-01</Miad>
 <Price>288.06</Price>
 <Price2>381.83</Price2>
@@ -63699,7 +63699,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Yağlar]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-07-01</Miad>
 <Price>250.66</Price>
 <Price2>321.55</Price2>
@@ -63745,7 +63745,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>7</Stock>
 <Miad>2028-04-01</Miad>
 <Price>304.21</Price>
 <Price2>383.33</Price2>
@@ -64104,7 +64104,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2029-03-01</Miad>
 <Price>875.42</Price>
 <Price2>1042.41</Price2>
@@ -65432,7 +65432,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>60</Stock>
 <Miad></Miad>
 <Price>203.91</Price>
 <Price2>281.84</Price2>
@@ -67502,7 +67502,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2028-04-01</Miad>
 <Price>420.66</Price>
 <Price2>539.39</Price2>
@@ -67547,7 +67547,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>97</Stock>
+<Stock>100</Stock>
 <Miad>2028-01-01</Miad>
 <Price>442.00</Price>
 <Price2>564.74</Price2>
@@ -67867,7 +67867,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2028-04-01</Miad>
 <Price>552.33</Price>
 <Price2>695.84</Price2>
@@ -68419,15 +68419,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>501.47</Price4>
-<Price5>491.68</Price5>
-<Price6>483.10</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
-<Price9>483.10</Price9>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>546.46</Price4>
+<Price5>536.50</Price5>
+<Price6>526.45</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
+<Price9>526.45</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -77327,7 +77327,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>14</Stock>
+<Stock>12</Stock>
 <Miad>2029-06-01</Miad>
 <Price>467.41</Price>
 <Price2>571.64</Price2>
@@ -77840,7 +77840,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2028-02-01</Miad>
 <Price>181.05</Price>
 <Price2>254.68</Price2>
@@ -84777,6 +84777,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-core-30-tablet-45032.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-core-30-tablet-45033.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-core-30-tablet-45034.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-core-30-tablet-45116.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-core-30-tablet-45117.webp</Image5>
 <Description><![CDATA[<section><p><strong>Day2Day The Collagen Beauty Core 30 Tablet</strong>, her tablette 1000 mg Tip I-Tip III kolajen peptitlerini C vitamini, biotin, hyaluronik asit, &#231;inko, resveratrol ve hidrolize keratin ile bir arada sunan takviye edici g&#305;dad&#305;r. Sa&#231;, cilt ve t&#305;rnak bak&#305;m&#305;n&#305; beslenmesiyle desteklemek isteyen, pratik tablet formu tercih eden 11 ya&#351; ve &#252;zeri bireyler i&#231;in uygundur.</p><h2>Day2Day Collagen Beauty Core &#214;zellikleri</h2><ul><li>Her tablette 1000 mg Tip I-Tip III kolajen peptitleri bulunur.</li><li>Her tablette 100 mg C vitamini (%125 BRD) ve 1000 &#181;g biotin (%2000 BRD) i&#231;erir.</li><li>50 mg hyaluronik asit, 30 mg resveratrol (Japon poligonumu ekstresi) ve 10 mg hidrolize keratin i&#231;erir.</li><li>Her tablette 5 mg &#231;inko (%50 BRD) bulunur.</li><li>C vitamini cildin, kemiklerin ve k&#305;k&#305;rda&#287;&#305;n normal fonksiyonu i&#231;in gerekli normal kolajen olu&#351;umuna katk&#305;da bulunur.</li><li>&#199;inko normal sa&#231;&#305;n, t&#305;rnaklar&#305;n ve cildin korunmas&#305;na katk&#305;da bulunur.</li><li>Biotin normal sa&#231;&#305;n ve cildin korunmas&#305;na katk&#305;da bulunur.</li><li>&#350;eker, gluten, laktoz, koruyucu ve tatland&#305;r&#305;c&#305; i&#231;ermez.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in g&#252;nde 1 tablettir. Bir kutuda 30 tablet bulunur.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;k ya da ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n. 25&#176;C alt&#305;nda, serin ve kuru yerde, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p><p>Day2Day The Collagen Beauty Core 30 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84806,6 +84808,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-pet-sise-400-ml-45035.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-pet-sise-400-ml-45036.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-pet-sise-400-ml-45037.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-pet-sise-400-ml-45119.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/eyup-sabri-tuncer-klasik-limon-kolonyasi-pet-sise-400-ml-45120.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Ey&#252;p Sabri Tuncer Klasik Limon Kolonyas&#305; Pet &#350;i&#351;e 400 ml</strong>, limon a&#287;a&#231;lar&#305;n&#305;n olgun meyvelerinden ilham alan, ferahlat&#305;c&#305; ve canland&#305;r&#305;c&#305; kokusuyla g&#252;n boyu tazelik hissi veren 80 derecelik klasik bir kolonyad&#305;r. Ellerini ve cildini pratik bi&#231;imde ferahlatmak isteyen, geleneksel limon kolonyas&#305; kokusunu sevenler i&#231;in uygundur.</p><h2>Klasik Limon Kolonyas&#305; &#214;zellikleri</h2><ul><li>80 derece alkol i&#231;erir.</li><li>400 ml hacimli, kapakl&#305; pet &#351;i&#351;e ambalajdad&#305;r; kutusuyla birlikte sunulur.</li><li>Narenciye bah&#231;elerinin taze ve i&#231; a&#231;&#305;c&#305; kokular&#305;ndan &#246;zenle haz&#305;rlanm&#305;&#351; klasik limon kokusuna sahiptir.</li><li>&#304;&#231;eri&#287;inde portakal kabu&#287;u ya&#287;&#305; (Citrus Aurantium Peel Oil), limon kabu&#287;u ya&#287;&#305; (Citrus Limon Peel Oil) ve lavanta ya&#287;&#305; bulunur.</li><li>Di&#287;er bile&#351;enler: alkol, su, parf&#252;m, sitral, geraniol, limonen, linalool, linalil asetat, pinen ve terpineol.</li><li>Kapak a&#231;&#305;ld&#305;ktan sonra kullan&#305;m &#246;mr&#252; 12 ayd&#305;r.</li><li>Kutusu kitap ayrac&#305; olarak da kullan&#305;labilecek &#351;ekilde tasarlanm&#305;&#351;t&#305;r.</li><li>Ev, i&#351; yeri ve misafir a&#287;&#305;rlama gibi g&#252;nl&#252;k kullan&#305;mlar i&#231;in uygun boyuttad&#305;r.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Kolonyay&#305; avucunuza nazik&#231;e d&#246;k&#252;n, ellerinizi ovu&#351;turarak da&#287;&#305;t&#305;n ve kurumas&#305;n&#305; bekleyin. Ferahlamak istedi&#287;iniz her an haricen kullan&#305;labilir.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;zca haricen kullan&#305;l&#305;r, i&#231;ilmez. G&#246;z ile temas&#305;ndan ka&#231;&#305;n&#305;n. Yan&#305;c&#305;d&#305;r; ate&#351; ve &#305;s&#305; kaynaklar&#305;ndan uzak tutun. G&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan koruyun, serin yerde ve &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p><p>Ey&#252;p Sabri Tuncer Klasik Limon Kolonyas&#305; Pet &#350;i&#351;e 400 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84834,6 +84838,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-30-kapsul-45038.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-30-kapsul-45039.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-30-kapsul-45040.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-30-kapsul-45122.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-30-kapsul-45123.webp</Image5>
 <Description><![CDATA[<section><p><strong>Ocean Cogniven 30 Kaps&#252;l</strong>, sitikolin (Cognizin&#174;), fosfatidilserin ve &#252;ridin monofosfat&#305; B1, B2, B6 ve B12 vitaminleriyle bir araya getiren, bitkisel kaps&#252;l formunda bir takviye edici g&#305;dad&#305;r. Yo&#287;un zihinsel tempoda g&#252;nl&#252;k beslenmesini desteklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Ocean Cogniven &#214;zellikleri</h2><ul><li>Her kaps&#252;lde 250 mg sitikolin (Cognizin&#174;) bulunur.</li><li>Kaps&#252;l ba&#351;&#305;na 100 mg fosfatidilserin ve 50 mg &#252;ridin monofosfat i&#231;erir.</li><li>B6 vitamini piridoksal 5 fosfat (1,4 mg), B2 vitamini riboflavin 5 fosfat (1,4 mg) formundad&#305;r.</li><li>Kaps&#252;l ba&#351;&#305;na 1,1 mg B1 vitamini ve metilkobalamin (MecobalActive&#174;) formunda 25 &#181;g B12 vitamini i&#231;erir.</li><li>B1, B6 ve B12 vitaminleri sinir sisteminin normal i&#351;leyi&#351;ine katk&#305;da bulunur.</li><li>B6 ve B12 vitaminleri yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>&#350;eker, gl&#252;ten, laktoz, tatland&#305;r&#305;c&#305; ve koruyucu i&#231;ermez.</li><li>Kutuda 30 bitkisel kaps&#252;l bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri bireyler ile yeti&#351;kinler i&#231;in g&#252;nde 1 veya 2 kaps&#252;l&#252;n su ile al&#305;nmas&#305; &#246;nerilir.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. Hamilelik, emzirme d&#246;nemi, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Ocean Cogniven 30 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84861,6 +84867,8 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-likit-mango-aromali-150-ml-45041.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-likit-mango-aromali-150-ml-45042.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-likit-mango-aromali-150-ml-45125.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-cogniven-likit-mango-aromali-150-ml-45126.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Ocean Cogniven Likit Mango Aromal&#305; 150 ml</strong>, sitikolin, fosfatidilserin ve &#252;ridin monofosfat&#305; B1, B2, B6 ve B12 vitaminleriyle bir araya getiren, mango aromal&#305; s&#305;v&#305; formda bir takviye edici g&#305;dad&#305;r. 11 ya&#351; ve &#252;zeri &#231;ocuklar ile yeti&#351;kinlerin g&#252;nl&#252;k beslenmesini desteklemek amac&#305;yla haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Ocean Cogniven Likit &#214;zellikleri</h2><ul><li>Her 5 ml'de patentli Cognizin sitikolinden 150 mg sitikolin bulunur.</li><li>Her 5 ml'de 75 mg fosfatidilserin ve 50 mg &#252;ridin monofosfat i&#231;erir.</li><li>B6 vitamini aktif P5P, B2 vitamini R5P formundad&#305;r; her 5 ml'de 1,4 mg B6 ve 1,4 mg B2 bulunur.</li><li>Her 5 ml'de 1,1 mg B1 vitamini ve aktif formda (metilkobalamin, MecobalActive) 25 &#181;g B12 vitamini bulunur.</li><li>B6 ve B12 vitaminleri sinir sisteminin normal i&#351;leyi&#351;ine, yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>Tiamin (B1 vitamini) ve riboflavin (B2 vitamini) normal enerji olu&#351;um metabolizmas&#305;na katk&#305;da bulunur.</li><li>Mango aromal&#305;d&#305;r; bile&#351;iminde bal ve zeytinya&#287;&#305; bulunur.</li><li>Fosfatidilserin soya kaynakl&#305;d&#305;r.</li><li>150 ml &#351;i&#351;ede, s&#305;v&#305; formda sunulur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri &#231;ocuklar ile yeti&#351;kinler i&#231;in 5 ml veya 10 ml'dir.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n. Soya alerjisi olanlar i&#231;eri&#287;i kontrol etmelidir. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25 &#176;C alt&#305;nda, kuru ve serin yerde saklay&#305;n.</p><p>Ocean Cogniven Likit Mango Aromal&#305; 150 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84888,6 +84896,8 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-tablet-45043.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-tablet-45044.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-tablet-45127.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-tablet-45128.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Ocean Daily One Energy 30 Tablet</strong>, 13 vitamin ve 10 minerali Kore ginsengi (Panax ginseng) ve koenzim Q10 ile bir araya getiren, g&#252;nde tek tablet kullan&#305;lan multivitamin-multimineral takviye edici g&#305;dad&#305;r. 11 ya&#351; ve &#252;zeri bireylerin g&#252;nl&#252;k beslenmesini desteklemek amac&#305;yla haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Ocean Daily One Energy &#214;zellikleri</h2><ul><li>Her tablette 50 mg Kore ginsengi ve 10 mg koenzim Q10 bulunur.</li><li>Her tablette 200 mg kalsiyum, 80 mg C vitamini, 60 mg magnezyum, 14 mg demir ve 10 mg &#231;inko yer al&#305;r.</li><li>A, D3, E, K2, B1, B2, B3, B5, B6, B12, folik asit ve biotin vitaminlerini i&#231;erir; B12 vitamini aktif form metilkobalamin olarak bulunur.</li><li>Bak&#305;r, manganez, iyot, selenyum, molibden ve krom mineralleriyle desteklenmi&#351;tir.</li><li>B1, B2, B6, B12 ve C vitamini ile kalsiyum, magnezyum, demir, bak&#305;r, iyot ve biotin normal enerji olu&#351;um metabolizmas&#305;na katk&#305;da bulunur.</li><li>B2, B6, B12 ve C vitaminleri ile magnezyum ve demir yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>D ve K vitaminleri kemiklerin korunmas&#305;na, D vitamini normal kas fonksiyonunun korunmas&#305;na katk&#305;da bulunur.</li><li>Ambalaj beyan&#305;na g&#246;re gluten, tatland&#305;r&#305;c&#305; ve koruyucu i&#231;ermez.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in tok karn&#305;na 1 tablettir.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda saklay&#305;n.</p><p>Ocean Daily One Energy 30 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84917,6 +84927,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-malat-60-tablet-45045.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-malat-60-tablet-45046.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-malat-60-tablet-45047.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-malat-60-tablet-45129.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-malat-60-tablet-45130.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Ocean Extramag Magnezyum Malat 60 Tablet</strong>, magnezyum malat ile aktif B6 vitamini formu olan piridoksal 5 fosfat&#305; (P5P) bir arada sunan, tablet formunda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k magnezyum al&#305;m&#305;n&#305; desteklemek isteyen yeti&#351;kinler ve 11 ya&#351; &#252;zeri bireyler i&#231;in uygundur.</p><h2>Ocean ExtraMag Magnezyum Malat &#214;zellikleri</h2><ul><li>&#304;ki tablette 240 mg magnezyum (magnezyum malat formunda) bulunur.</li><li>&#304;ki tablette 10 mg B6 vitamini (piridoksal 5 fosfat) bulunur.</li><li>Magnezyum enerji olu&#351;um metabolizmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum kas ve sinir sisteminin normal i&#351;leyi&#351;ine katk&#305;da bulunur.</li><li>B6 vitamini normal enerji olu&#351;um metabolizmas&#305;na katk&#305;da bulunur.</li><li>Gl&#252;ten, koruyucu ve tatland&#305;r&#305;c&#305; i&#231;ermez.</li><li>&#350;i&#351;ede 60 tablet bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri bireyler ile yeti&#351;kinler i&#231;in g&#252;nde 2 tabletin su ile al&#305;nmas&#305; &#246;nerilir.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. Hamilelik, emzirme d&#246;nemi, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Ocean Extramag Magnezyum Malat 60 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84945,6 +84957,8 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-sitrat-250-mg-p5p-30-efervesan-sase-45048.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-sitrat-250-mg-p5p-30-efervesan-sase-45049.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-sitrat-250-mg-p5p-30-efervesan-sase-45132.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-magnezyum-sitrat-250-mg-p5p-30-efervesan-sase-45133.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Ocean Extramag Magnezyum Sitrat 250 mg + P5P 30 Efervesan Sa&#351;e</strong>, her sa&#351;esinde magnezyum sitrat kaynakl&#305; 250 mg elementel magnezyum ve B6 vitamininin aktif formu P-5-P'den 10 mg i&#231;eren, suda &#231;&#246;z&#252;nen sa&#351;e formunda bir takviye edici g&#305;dad&#305;r. 11 ya&#351; ve &#252;zeri bireylerin g&#252;nl&#252;k beslenmesini desteklemek amac&#305;yla haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Ocean Extramag Magnezyum Sitrat &#214;zellikleri</h2><ul><li>Her sa&#351;ede 250 mg magnezyum (BRD'nin %67'si) ve 10 mg B6 vitamini (P5P) bulunur.</li><li>Magnezyum kayna&#287;&#305; trimagnezyum sitratt&#305;r; hammadde Almanya'daki Dr. Paul Lohmann firmas&#305;ndan ithal edilmi&#351;tir.</li><li>H&#305;zl&#305; &#231;&#246;z&#252;nen efervesan sa&#351;e formu sayesinde kolay kullan&#305;m sunar.</li><li>&#199;ilek aromal&#305;d&#305;r; ilave &#351;eker i&#231;ermez, stevia glikozitleri ile tatland&#305;r&#305;lm&#305;&#351;t&#305;r.</li><li>Magnezyum yorgunluk ve bitkinli&#287;in azalmas&#305;na, normal kas fonksiyonuna ve normal protein sentezine katk&#305;da bulunur.</li><li>Magnezyum normal kemiklerin ve di&#351;lerin korunmas&#305;na ve elektrolit dengesine katk&#305;da bulunur.</li><li>B6 vitamini normal enerji olu&#351;um metabolizmas&#305;na katk&#305;da bulunur.</li><li>Kutuda 30 sa&#351;e bulunur; g&#252;nde 1 sa&#351;e ile 30 g&#252;nl&#252;k kullan&#305;m sunar.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in 1 sa&#351;edir. Bir sa&#351;e, bir bardak suya (200 ml) ilave edilip kar&#305;&#351;t&#305;r&#305;larak t&#252;ketilir.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25 &#176;C alt&#305;ndaki oda s&#305;cakl&#305;&#287;&#305;nda, kuru ortamda saklay&#305;n.</p><p>Ocean Extramag Magnezyum Sitrat 250 mg + P5P 30 Efervesan Sa&#351;e &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84972,6 +84986,8 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-formera-l-karnitin-30-tup-glukomannan-60-kapsul-45050.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-formera-l-karnitin-30-tup-glukomannan-60-kapsul-45051.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-formera-l-karnitin-30-tup-glukomannan-60-kapsul-45134.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-formera-l-karnitin-30-tup-glukomannan-60-kapsul-45135.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Ocean Formera L-Karnitin 30 T&#252;p + Glukomannan 60 Kaps&#252;l</strong>, shot ve kaps&#252;l olmak &#252;zere iki farkl&#305; formu tek kutuda sunan bir takviye edici g&#305;dad&#305;r. Shot formda CLA, L-karnitin, ye&#351;il &#231;ay ekstresi ve kafein; kaps&#252;l formda glukomannan ve kitosan bulunur. 11 ya&#351; ve &#252;zeri bireyler i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Ocean Formera &#214;zellikleri</h2><ul><li>Her t&#252;pte (40 ml) 1240 mg konjuge linoleik asit (CLA), 800 mg L-karnitin, 100 mg ye&#351;il &#231;ay ekstresi ve 100 mg kafein bulunur.</li><li>Her 2 kaps&#252;lde 850 mg glukomannan ve 350 mg kitosan bulunur.</li><li>Glukomannan, konjak (Amorphophallus konjac) bitkisinin k&#246;k&#252;nden elde edilir.</li><li>Ye&#351;il &#231;ay, Camellia sinensis bitkisinin okside edilmeden kurutulmu&#351; yapraklar&#305;ndan elde edilir.</li><li>Shot formdaki &#252;r&#252;n &#231;ilek aromal&#305;d&#305;r.</li><li>Gluten ve &#351;eker i&#231;ermez; shot formda tatland&#305;r&#305;c&#305; bulunur.</li><li>Kaps&#252;ller bitkisel (hidroksipropil metil sel&#252;loz) kaps&#252;ld&#252;r.</li><li>Kutuda 30 t&#252;p (40 ml) ve 60 kaps&#252;l bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Kaps&#252;l: 11 ya&#351; ve &#252;zeri bireyler i&#231;in yemeklerden &#246;nce 1'er kaps&#252;l olmak &#252;zere g&#252;nde 2 kaps&#252;l t&#252;ketilir. Shot: 11 ya&#351; ve &#252;zeri bireyler i&#231;in g&#252;nde 1 t&#252;p t&#252;ketilir; kullanmadan &#246;nce &#231;alkalay&#305;n.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Shot formda kafein bulunur (t&#252;p ba&#351;&#305;na 100 mg); &#231;ocuklar veya hamile kad&#305;nlar i&#231;in tavsiye edilmez. Shot formda s&#252;t proteini, kaps&#252;lde deniz kabuklusu kaynakl&#305; kitosan bulunur. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25 &#176;C alt&#305;nda kuru ve serin yerde saklay&#305;n.</p><p>Ocean Formera L-Karnitin 30 T&#252;p + Glukomannan 60 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84983,7 +84999,7 @@
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
 <Stock>25</Stock>
-<Miad>2029-07-01</Miad>
+<Miad>2029-04-01</Miad>
 <Price>566.10</Price>
 <Price2>685.51</Price2>
 <Price3>685.51</Price3>
@@ -85000,6 +85016,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-kreatin-powder-3000-mg-175-g-45052.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-kreatin-powder-3000-mg-175-g-45053.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-kreatin-powder-3000-mg-175-g-45054.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-kreatin-powder-3000-mg-175-g-45136.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-kreatin-powder-3000-mg-175-g-45137.webp</Image5>
 <Description><![CDATA[<section><p><strong>Ocean Kreatin Powder 3000 mg 175 g</strong>, patentli CreHytine teknolojisiyle geli&#351;tirilmi&#351; mikroenkaps&#252;le kreatin monohidrat i&#231;eren, suyla kar&#305;&#351;t&#305;r&#305;larak t&#252;ketilen toz formda bir takviye edici g&#305;dad&#305;r. K&#305;sa s&#252;reli ve y&#252;ksek yo&#287;unluklu egzersizleri ard&#305; ard&#305;na yapan 11 ya&#351; ve &#252;zeri bireyler i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Ocean Kreatin Powder &#214;zellikleri</h2><ul><li>Her &#246;l&#231;ekte (3,5 g) 3000 mg kreatin monohidrat (CreHytine) bulunur.</li><li>Kreatin, hidrojel i&#231;erisinde hapsedilmi&#351; mikronize partik&#252;l yap&#305;s&#305;ndad&#305;r.</li><li>Bile&#351;imi: mikroenkaps&#252;le kreatin monohidrat (kreatin monohidrat, hacim artt&#305;r&#305;c&#305;: akasya gam&#305;, magnezyum glisinat).</li><li>Suda tamamen &#231;&#246;z&#252;nen yap&#305;dad&#305;r.</li><li>Kreatin, k&#305;sa s&#252;reli, y&#252;ksek yo&#287;unluklu egzersizlerin ard&#305; ard&#305;na yap&#305;lmas&#305;nda fiziksel performans&#305; artt&#305;r&#305;r; faydal&#305; etki g&#252;nde 3 g kreatin al&#305;nd&#305;&#287;&#305;nda sa&#287;lan&#305;r.</li><li>Gluten, &#351;eker, koruyucu, tatland&#305;r&#305;c&#305; ve renklendirici i&#231;ermez.</li><li>Ambalaj 175 g olup 50 doz (50 x 3,5 g) i&#231;erir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in 1 &#246;l&#231;ektir (3,5 g). Bir &#246;l&#231;ek &#252;r&#252;n, bir bardak su (200 ml) ile kar&#305;&#351;t&#305;r&#305;larak t&#252;ketilir.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25 &#176;C alt&#305;nda kuru ve serin yerde saklay&#305;n.</p><p>Ocean Kreatin Powder 3000 mg 175 g &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85010,8 +85028,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
-<Miad>2027-08-01</Miad>
+<Stock>3</Stock>
+<Miad>2029-01-01</Miad>
 <Price>472.51</Price>
 <Price2>577.52</Price2>
 <Price3>577.52</Price3>
@@ -85028,6 +85046,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-krill-yagi-500-mg-30-kapsul-45055.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-krill-yagi-500-mg-30-kapsul-45056.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-krill-yagi-500-mg-30-kapsul-45057.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-krill-yagi-500-mg-30-kapsul-45139.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-krill-yagi-500-mg-30-kapsul-45140.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Ocean Krill Ya&#287;&#305; 500 mg 30 Kaps&#252;l</strong>, s&#252;rd&#252;r&#252;lebilir kaynaklardan elde edilen Antarktika krill ya&#287;&#305;n&#305; yumu&#351;ak kaps&#252;l formunda sunan, fosfolipit yap&#305;da omega-3 i&#231;eren bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k beslenmesini EPA ve DHA ile desteklemek isteyen yeti&#351;kinler ve 11 ya&#351; &#252;zeri bireyler i&#231;in uygundur.</p><h2>Ocean Krill Oil &#214;zellikleri</h2><ul><li>Her kaps&#252;lde 500 mg krill ya&#287;&#305; bulunur.</li><li>Her kaps&#252;lde 200 mg fosfolipit ve toplam 110 mg omega-3 ya&#287; asidi bulunur.</li><li>Her kaps&#252;lde 60 mg EPA, 32,5 mg DHA ve 0,1 mg astaksantin bulunur.</li><li>Krill, CCAMLR denetimindeki s&#252;rd&#252;r&#252;lebilir Antarktika kaynaklar&#305;ndan elde edilir.</li><li>EPA ve DHA kalbin normal fonksiyonuna katk&#305;da bulunur; olumlu etki g&#252;nl&#252;k 250 mg EPA ve DHA al&#305;m&#305;yla elde edilir.</li><li>DHA normal beyin fonksiyonunun ve normal g&#246;rmenin s&#252;rd&#252;r&#252;lmesine katk&#305;da bulunur; olumlu etki g&#252;nl&#252;k 250 mg DHA al&#305;m&#305;yla elde edilir.</li><li>&#350;eker, gl&#252;ten, renklendirici, tatland&#305;r&#305;c&#305; ve koruyucu i&#231;ermez.</li><li>&#304;&#231;indekiler: krill ya&#287;&#305; (deniz kabuklusu); kaps&#252;l: s&#305;&#287;&#305;r jelatini, deiyonize su, gliserol. Kutuda 30 kaps&#252;l bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri bireyler ile yeti&#351;kinler i&#231;in g&#252;nde 1 kaps&#252;l&#252;n tok karn&#305;na bir bardak su ile al&#305;nmas&#305; &#246;nerilir.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir. Deniz kabuklusu i&#231;erir; kabuklu deniz &#252;r&#252;nlerine alerjisi olanlar kullanmamal&#305;d&#305;r.</p><p>Ocean Krill Ya&#287;&#305; 500 mg 30 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85056,6 +85076,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-l-arjinin-1000-mg-60-sase-45058.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-l-arjinin-1000-mg-60-sase-45059.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-l-arjinin-1000-mg-60-sase-45060.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-l-arjinin-1000-mg-60-sase-45142.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-l-arjinin-1000-mg-60-sase-45143.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Ocean L-Arjinin 1000 mg 60 Sa&#351;e</strong>, her sa&#351;esinde 1000 mg L-arjinin i&#231;eren, suda &#231;&#246;z&#252;lerek t&#252;ketilen portakal aromal&#305; toz formda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k beslenmesine L-arjinin eklemek isteyen yeti&#351;kinler ve 11 ya&#351; &#252;zeri bireyler i&#231;in uygundur.</p><h2>Ocean L-Arjinin &#214;zellikleri</h2><ul><li>Her sa&#351;ede 1000 mg L-arjinin bulunur.</li><li>Suda &#231;&#246;z&#252;lerek haz&#305;rlanan pratik sa&#351;e formundad&#305;r.</li><li>Portakal aromal&#305;d&#305;r; tatland&#305;r&#305;c&#305; olarak steviol glikozitler kullan&#305;lm&#305;&#351;t&#305;r.</li><li>&#350;ekersizdir; gl&#252;ten, laktoz ve koruyucu i&#231;ermez.</li><li>&#304;&#231;indekiler: maltodekstrin, L-arjinin, sitrik asit, malik asit, portakal aroma, steviol glikozitler, silikon dioksit, beta karoten.</li><li>Tek kullan&#305;ml&#305;k sa&#351;eler kolay ta&#351;&#305;n&#305;r ve dozu &#246;l&#231;meye gerek b&#305;rakmaz.</li><li>Kutuda 60 sa&#351;e bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri bireyler ile yeti&#351;kinler i&#231;in g&#252;nde 1, 2 veya 3 sa&#351;enin her biri ayr&#305; ayr&#305; 200 ml suya eklenip kar&#305;&#351;t&#305;r&#305;larak t&#252;ketilmesi &#246;nerilir. Haz&#305;rlanan kar&#305;&#351;&#305;m bekletilmeden i&#231;ilmelidir.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Ocean L-Arjinin 1000 mg 60 Sa&#351;e &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85084,6 +85106,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-quercetin-100-mg-60-kapsul-45061.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-quercetin-100-mg-60-kapsul-45062.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-quercetin-100-mg-60-kapsul-45063.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-quercetin-100-mg-60-kapsul-45145.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-quercetin-100-mg-60-kapsul-45146.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Ocean Quercetin 100 mg 60 Kaps&#252;l</strong>, her kaps&#252;lde 100 mg kuersetin i&#231;eren, bitkisel kaps&#252;l formunda bir takviye edici g&#305;dad&#305;r. Kuersetin, fosfolipit kompleksi (Phytosome) yap&#305;s&#305;ndaki Quercefit&#174; hammaddesinden sa&#287;lan&#305;r. G&#252;nl&#252;k beslenmesine kuersetin eklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Ocean Quercetin &#214;zellikleri</h2><ul><li>Her kaps&#252;lde 250 mg Quercefit&#174; kuersetin kompleksinden sa&#287;lanan 100 mg kuersetin bulunur.</li><li>Kuersetin, Sophora japonica &#231;i&#231;ek tomurcuklar&#305;ndan elde edilir.</li><li>Kuersetin, ay&#231;i&#231;ek lesitini ile olu&#351;turulan fosfolipit kompleksi (Phytosome) formundad&#305;r.</li><li>Vcaps&#174; bitkisel kaps&#252;l kullan&#305;lm&#305;&#351;t&#305;r; vegan ve vejetaryen beslenmeye uygundur.</li><li>&#304;&#231;indekiler: kuersetin kompleksi (kuersetin, ay&#231;i&#231;ek lesitini, maltodekstrin, silikon dioksit), maltodekstrin, HPMC kaps&#252;l, ya&#287; asitlerinin magnezyum tuzlar&#305;.</li><li>G&#252;nde tek kaps&#252;l kullan&#305;m&#305;na uygun pratik bir formdur.</li><li>Kutuda 60 kaps&#252;l bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nde 1 kaps&#252;l&#252;n bir bardak su ile al&#305;nmas&#305; &#246;nerilir. Kaps&#252;l &#231;i&#287;nenmeden b&#252;t&#252;n olarak yutulmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Ocean Quercetin 100 mg 60 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85112,6 +85136,8 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-mineral-vm-surup-portakal-aromali-150-ml-45064.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-mineral-vm-surup-portakal-aromali-150-ml-45065.jpg</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-mineral-vm-surup-portakal-aromali-150-ml-45148.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-vitamin-mineral-vm-surup-portakal-aromali-150-ml-45149.jpg</Image4>
 <Description><![CDATA[<section><p><strong>Ocean Vitamin Mineral VM &#350;urup Portakal Aromal&#305; 150 ml</strong>, 12 vitamin ve 5 mineral i&#231;eren, do&#287;al portakal aromal&#305; s&#305;v&#305; formda bir takviye edici g&#305;dad&#305;r. 4-10 ya&#351; grubu &#231;ocuklar ile 11 ya&#351; ve &#252;zeri ki&#351;ilerin g&#252;nl&#252;k beslenmesini desteklemek amac&#305;yla haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Ocean VM &#350;urup &#214;zellikleri</h2><ul><li>A, D3, E, C, B1, B2, B3, B5, B6, B12 vitaminleri ile folik asit ve biotin olmak &#252;zere 12 vitamin i&#231;erir.</li><li>&#199;inko, manganez, iyot, selenyum ve molibden olmak &#252;zere 5 mineral i&#231;erir.</li><li>Her 10 ml'de 80 mg C vitamini, 12 mg E vitamini, 7,5 mg &#231;inko ve 10 &#181;g D3 vitamini bulunur.</li><li>C vitamini yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>&#199;inko ve D vitamini ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal fonksiyonuna katk&#305;da bulunur.</li><li>D vitamini normal kemik ve di&#351;lerin korunmas&#305;na katk&#305;da bulunur.</li><li>B vitaminleri normal enerji olu&#351;um metabolizmas&#305;na katk&#305;da bulunur.</li><li>Do&#287;al portakal aromal&#305;d&#305;r; tatland&#305;r&#305;c&#305;, renklendirici ve yapay aroma verici i&#231;ermez.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>4-10 ya&#351; grubu &#231;ocuklar ile 11 ya&#351; ve &#252;zeri ki&#351;iler i&#231;in tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, tok karn&#305;na 10 ml'dir. Kullanmadan &#246;nce &#351;i&#351;eyi iyice &#231;alkalay&#305;n.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;emez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25 &#176;C alt&#305;nda saklay&#305;n.</p><p>Ocean Vitamin Mineral VM &#350;urup Portakal Aromal&#305; 150 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85139,6 +85165,8 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/osteocare-90-tablet-3-lu-paket-45066.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/osteocare-90-tablet-3-lu-paket-45067.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/osteocare-90-tablet-3-lu-paket-45150.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/osteocare-90-tablet-3-lu-paket-45151.webp</Image4>
 <Description><![CDATA[<section><p><strong>Osteocare 90 Tablet 3'l&#252; Paket</strong>, 3 kutu Vitabiotics Osteocare Original 90 tableti bir arada sunar; pakette 3 &#215; 90 = toplam 270 tablet bulunur. Kalsiyumu magnezyum, D3 vitamini, &#231;inko, bak&#305;r, bor ve selenyum ile birle&#351;tiren takviye edici g&#305;da, 11 ya&#351; ve &#252;zeri bireyler i&#231;in uygundur.</p><h2>Osteocare 90 Tablet 3'l&#252; Paket &#214;zellikleri</h2><ul><li>Paket i&#231;eri&#287;i: 3 kutu, her kutuda 90 tablet, toplam 270 tablet.</li><li>G&#252;nde 2 tablet kullan&#305;mda toplam 135 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li><li>2 tablette 800 mg kalsiyum ve 250 mg magnezyum i&#231;erir.</li><li>2 tablette 10 &#181;g D3 vitamini, 10 mg &#231;inko, 1000 &#181;g bak&#305;r, 0,6 mg bor ve 50 &#181;g selenyum bulunur.</li><li>Kalsiyum normal kemiklerin ve di&#351;lerin korunmas&#305; i&#231;in gereklidir.</li><li>Magnezyum, D vitamini ve &#231;inko normal kemiklerin korunmas&#305;na katk&#305;da bulunur.</li><li>Kalsiyum ve magnezyum normal kas fonksiyonuna katk&#305;da bulunur.</li><li>Gluten, laktoz, tuz, maya ve koruyucu i&#231;ermez; vejetaryenler i&#231;in uygundur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri bireylerde g&#252;nde 2 tablet al&#305;nmas&#305; tavsiye edilir. Tabletleri yemekle birlikte ya da yemekten sonra su veya so&#287;uk bir i&#231;ecekle, yeterli s&#305;v&#305; ile &#231;i&#287;nemeden yutun. Kutular&#305; s&#305;rayla kullan&#305;n.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. Hamilelik, emzirme d&#246;nemi, hastal&#305;k ya da ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n. Serin ve kuru yerde, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta ve &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p><p>Osteocare 90 Tablet 3'l&#252; Paket &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85168,6 +85196,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sinomarin-e-n-t-hipertonik-deniz-suyu-burun-spreyi-200-ml-45068.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sinomarin-e-n-t-hipertonik-deniz-suyu-burun-spreyi-200-ml-45069.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sinomarin-e-n-t-hipertonik-deniz-suyu-burun-spreyi-200-ml-45070.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sinomarin-e-n-t-hipertonik-deniz-suyu-burun-spreyi-200-ml-45152.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sinomarin-e-n-t-hipertonik-deniz-suyu-burun-spreyi-200-ml-45153.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Sinomarin E.N.T. Hipertonik Deniz Suyu Burun Spreyi 200 ml</strong>, %2,3 NaCl oran&#305;ndaki hipertonik deniz suyu sol&#252;syonunu g&#252;&#231;l&#252; bir jet sprey ba&#351;l&#305;&#287;&#305;yla birle&#351;tiren do&#287;al nazal dekonjestand&#305;r. Kal&#305;c&#305; burun t&#305;kan&#305;kl&#305;&#287;&#305; ve koyu mukus salg&#305;s&#305;n&#305;n e&#351;lik etti&#287;i burun ve sin&#252;s durumlar&#305;nda, burun bo&#351;luklar&#305;n&#305;n kapsaml&#305; bi&#231;imde temizlenmesi i&#231;in tasarlanm&#305;&#351;t&#305;r.</p><h2>Sinomarin E.N.T. &#214;zellikleri</h2><ul><li>Nazal konjesyonu giderir; burun ve sin&#252;s dokular&#305;ndaki &#351;i&#351;li&#287;in azalmas&#305;na yard&#305;mc&#305; olur.</li><li>Koyu mukus salg&#305;lar&#305;n&#305; incelterek uzakla&#351;t&#305;r&#305;lmalar&#305;n&#305; kolayla&#351;t&#305;r&#305;r.</li><li>Burun bo&#351;luklar&#305;n&#305; y&#305;kayarak mukus, kabuklanma, kir ve alerjenlerin temizlenmesine yard&#305;mc&#305; olur.</li><li>Burnu nemlendirir ve burun kurulu&#287;unu rahatlatmaya yard&#305;mc&#305; olur.</li><li>Endonazal cerrahi sonras&#305;nda iyile&#351;me s&#252;recini destekler.</li><li>%100 do&#287;ald&#305;r; ila&#231; etken maddesi, katk&#305; maddesi ve koruyucu i&#231;ermez.</li><li>Uyu&#351;ukluk, al&#305;&#351;kanl&#305;k veya geri tepme (rebound) etkisi yapmaz.</li><li>Dinamik jet sprey, ba&#351;l&#305;&#287;a bas&#305;ld&#305;&#287;&#305; s&#252;rece kesintisiz ve bol sol&#252;syon verir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler ve 12 ya&#351; &#252;zeri &#231;ocuklar i&#231;in her burun deli&#287;ine 1-3 sprey, g&#252;nde 2-3 kez veya doktorun &#246;nerdi&#287;i &#351;ekilde uygulan&#305;r. &#214;nce burnunuzu s&#252;mk&#252;r&#252;n, ba&#351;&#305;n&#305;z&#305; lavabo &#252;zerinde &#246;ne ve yana e&#287;in, ba&#351;l&#305;&#287;&#305; &#252;stte kalan burun deli&#287;ine yerle&#351;tirip bas&#305;n; ard&#305;ndan di&#287;er tarafa uygulay&#305;n. Her kullan&#305;mdan sonra ba&#351;l&#305;&#287;&#305; &#305;l&#305;k suyla y&#305;kay&#305;p kurulay&#305;n.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;zca burun i&#231;i kullan&#305;m i&#231;indir. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n. Hamilelik, emzirme, kalp rahats&#305;zl&#305;&#287;&#305; veya y&#252;ksek tansiyon gibi ila&#231;l&#305; dekonjestanlar&#305;n uygun olmad&#305;&#287;&#305; durumlarda da kullan&#305;labilir; &#351;ik&#226;yetleriniz s&#252;rerse doktorunuza dan&#305;&#351;&#305;n.</p><p>Sinomarin E.N.T. Hipertonik Deniz Suyu Burun Spreyi 200 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85196,6 +85226,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-alpha-lipoic-acid-600-mg-50-tablet-45071.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-alpha-lipoic-acid-600-mg-50-tablet-45072.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-alpha-lipoic-acid-600-mg-50-tablet-45073.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-alpha-lipoic-acid-600-mg-50-tablet-45155.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-alpha-lipoic-acid-600-mg-50-tablet-45156.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Solgar Alpha Lipoic Acid 600 mg 50 Tablet</strong>, her tablette 600 mg alfa lipoik asit i&#231;eren bir takviye edici g&#305;dad&#305;r. Antioksidan deste&#287;ini g&#252;nl&#252;k beslenme d&#252;zenine eklemek isteyen yeti&#351;kinler i&#231;in tablet formunda haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Solgar Alpha Lipoic Acid &#214;zellikleri</h2><ul><li>Bir tablette 600 mg alfa lipoik asit bulunur.</li><li>Alfa lipoik asit hem suda hem ya&#287;da &#231;&#246;z&#252;nebilen, antioksidan &#246;zelli&#287;i bilinen bir bile&#351;endir.</li><li>Ambalajda 50 tablet yer al&#305;r; g&#252;nde 1 tablet kullan&#305;mda yakla&#351;&#305;k 50 g&#252;nl&#252;k kullan&#305;m sunar.</li><li>Vegan ve vejetaryen beslenmeye uygundur.</li><li>Etiket bilgisine g&#246;re glutensiz form&#252;ld&#252;r.</li><li>Yapay renklendirici, aroma verici, tatland&#305;r&#305;c&#305; ve koruyucu i&#231;ermez.</li><li>Maya, bu&#287;day ve s&#252;t &#252;r&#252;n&#252; i&#231;ermeyen form&#252;l&#252;yle farkl&#305; beslenme tercihlerine uyum sa&#287;lar.</li><li>Men&#351;ei Amerika Birle&#351;ik Devletleri'dir; Tar&#305;m ve Orman Bakanl&#305;&#287;&#305; takviye edici g&#305;da onayl&#305;d&#305;r.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nde 1 tablet, tercihen yemek zaman&#305;nda, bol su ile al&#305;nmas&#305; &#246;nerilir. &#214;nerilen g&#252;nl&#252;k al&#305;m miktar&#305; a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;neminde, d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z ya da kan &#351;ekeri ile ilgili bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n&#305;z. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25&#176;C'nin alt&#305;nda, serin ve kuru bir ortamda saklay&#305;n&#305;z.</p><p>Solgar Alpha Lipoic Acid 600 mg 50 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85225,6 +85257,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-ester-c-plus-500-mg-50-kapsul-45074.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-ester-c-plus-500-mg-50-kapsul-45075.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-ester-c-plus-500-mg-50-kapsul-45076.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-ester-c-plus-500-mg-50-kapsul-45158.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-ester-c-plus-500-mg-50-kapsul-45159.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Solgar Ester-C Plus 500 mg 50 Kaps&#252;l</strong>, her bitkisel kaps&#252;lde 500 mg C vitamini ile turun&#231;gil bioflavonoid kompleksi, ku&#351;burnu tozu, aserola meyve tozu ekstresi ve rutin i&#231;eren bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k C vitamini al&#305;m&#305;n&#305; desteklemek isteyen yeti&#351;kinler i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Solgar Ester-C Plus &#214;zellikleri</h2><ul><li>Bir kaps&#252;lde 500 mg C vitamini bulunur; bu miktar beslenme referans de&#287;erinin y&#252;zde 625'ine kar&#351;&#305;l&#305;k gelir.</li><li>C vitamini, Ester-C ad&#305;yla bilinen kalsiyum L-askorbat formundad&#305;r.</li><li>Etikette asidik olmayan (non-acidic) C vitamini ve bioflavonoid kompleksi olarak tan&#305;mlan&#305;r.</li><li>Kaps&#252;l ba&#351;&#305;na 25 mg turun&#231;gil bioflavonoid kompleksi i&#231;erir.</li><li>Kaps&#252;l ba&#351;&#305;na 10 mg ku&#351;burnu tozu (Rosa canina) ve 10 mg aserola meyve tozu ekstresi (4:1) i&#231;erir.</li><li>Kaps&#252;l ba&#351;&#305;na 5 mg rutin i&#231;erir.</li><li>Bitkisel kaps&#252;l formundad&#305;r ve vegan beslenmeye uygundur.</li><li>Ambalajda 50 bitkisel kaps&#252;l yer al&#305;r; men&#351;ei Amerika Birle&#351;ik Devletleri'dir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in tercihen yemek zaman&#305;nda, g&#252;nde 1-2 kaps&#252;l bol su ile al&#305;nmas&#305; &#246;nerilir. Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n&#305;z. Oda s&#305;cakl&#305;&#287;&#305;nda ve &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p><p>Solgar Ester-C Plus 500 mg 50 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85254,6 +85288,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-magnesium-citrate-200-mg-60-tablet-45077.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-magnesium-citrate-200-mg-60-tablet-45078.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-magnesium-citrate-200-mg-60-tablet-45079.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-magnesium-citrate-200-mg-60-tablet-45161.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/solgar-magnesium-citrate-200-mg-60-tablet-45162.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Solgar Magnesium Citrate 200 mg 60 Tablet</strong>, y&#252;ksek emilim oran&#305;na sahip sitrat formunda elementel magnezyum i&#231;eren bir takviyedir; g&#252;nl&#252;k magnezyum ihtiyac&#305;n&#305; d&#252;zenli bi&#231;imde kar&#351;&#305;lamak isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Magnesium Citrate &#214;zellikleri</h2><ul><li>Her tablette 200 mg elementel magnezyum (magnezyum sitrat formunda) i&#231;erir.</li><li>Magnezyum normal kas fonksiyonuna ve elektrolit dengesine katk&#305;da bulunur.</li><li>Normal enerji olu&#351;um metabolizmas&#305;n&#305; destekler, yorgunluk ve bitkinli&#287;in azalmas&#305;na yard&#305;mc&#305; olur.</li><li>Normal kemik ve di&#351; yap&#305;s&#305;n&#305;n korunmas&#305;na destek sa&#287;lar.</li><li>&#350;eker, tuz ve ni&#351;asta i&#231;ermez.</li><li>Gluten, bu&#287;day, soya ve s&#252;t &#252;r&#252;n&#252; i&#231;ermez.</li><li>Yapay tatland&#305;r&#305;c&#305;, aroma ve koruyucu i&#231;ermez.</li><li>Vegan ve vejetaryen bireylerin kullan&#305;m&#305;na uygundur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in, tercihen yemek zaman&#305;, g&#252;nde bir (1) tablet bol su ile al&#305;nmas&#305; &#246;nerilir; farkl&#305; kullan&#305;m i&#231;in bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;labilir.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar ila&#231; yerine ge&#231;mez; &#246;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n&#305;z. Hamileler, emziren anneler ve d&#252;zenli ila&#231; kullananlar kullanmadan &#246;nce hekime dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru bir ortamda saklay&#305;n&#305;z. Solgar Magnesium Citrate 200 mg 60 Tablet'i Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85265,7 +85301,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad>2028-06-01</Miad>
 <Price>240.46</Price>
 <Price2>309.78</Price2>
@@ -85283,6 +85319,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-d3k2-30-tablet-45080.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-d3k2-30-tablet-45081.png</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-d3k2-30-tablet-45082.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-d3k2-30-tablet-45164.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-d3k2-30-tablet-45165.png</Image5>
 <Description><![CDATA[<section><p><strong>Supradyn Expert D3K2 30 Tablet</strong>, D3 vitamini, K2 vitamini ve kalsiyumu tek tablette bir araya getiren bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k D vitamini ve kalsiyum al&#305;m&#305;n&#305; desteklemek isteyen 18 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Supradyn Expert D3K2 &#214;zellikleri</h2><ul><li>Bir tablette 1000 IU (25 &#181;g) D3 vitamini bulunur; bu miktar beslenme referans de&#287;erinin y&#252;zde 500'&#252;ne kar&#351;&#305;l&#305;k gelir.</li><li>Bir tablette 44 &#181;g K2 vitamini bulunur (BRD'nin yakla&#351;&#305;k y&#252;zde 58,6's&#305;).</li><li>Bir tablette 500 mg kalsiyum bulunur (BRD'nin y&#252;zde 62,5'i).</li><li>&#220;&#231; katmanl&#305; tablet teknolojisi ile haz&#305;rlanm&#305;&#351;t&#305;r.</li><li>Gluten ve laktoz i&#231;ermez, &#351;eker i&#231;ermez.</li><li>Vejetaryen beslenmeye uygundur.</li><li>Tabletler oksidasyona kar&#351;&#305; koruyucu blister ambalaj i&#231;inde sunulur.</li><li>Kutuda 30 tablet (64,5 g) yer al&#305;r; g&#252;nde 1 tablet kullan&#305;mda 30 g&#252;nl&#252;k kullan&#305;m sa&#287;lar. Men&#351;ei &#304;talya'd&#305;r.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>18 ya&#351; ve &#252;zeri ki&#351;iler i&#231;in g&#252;nde 1 tablet, bir bardak su ile, tercihen yemekle birlikte al&#305;nmas&#305; &#246;nerilir. Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;neminde kullan&#305;m i&#231;in doktor tavsiyesi gereklidir. Kan suland&#305;r&#305;c&#305; ila&#231; kullananlar&#305;n, K vitamini i&#231;erdi&#287;i i&#231;in kullanmadan &#246;nce hekime dan&#305;&#351;mas&#305; &#246;nerilir. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda saklay&#305;n&#305;z.</p><p>Supradyn Expert D3K2 30 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85312,6 +85350,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-magnezyum-60-kapsul-45083.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-magnezyum-60-kapsul-45084.png</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-magnezyum-60-kapsul-45085.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-magnezyum-60-kapsul-45167.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/supradyn-expert-magnezyum-60-kapsul-45168.png</Image5>
 <Description><![CDATA[<section><p><strong>Supradyn Expert Magnezyum 60 Kaps&#252;l</strong>, be&#351; farkl&#305; magnezyum tuzunu bir arada sunan, magnezyum i&#231;eren bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k magnezyum al&#305;m&#305;n&#305; desteklemek isteyen 18 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Supradyn Expert Magnezyum &#214;zellikleri</h2><ul><li>G&#252;nl&#252;k porsiyon olan 2 kaps&#252;lde 250 mg elemental magnezyum bulunur; bu miktar beslenme referans de&#287;erinin y&#252;zde 67'sine kar&#351;&#305;l&#305;k gelir.</li><li>Form&#252;lde 5 farkl&#305; magnezyum tuzu yer al&#305;r: magnezyum sitrat, magnezyum bisglisinat, magnezyum glukonat, magnezyum gliserofosfat ve magnezyum oksit.</li><li>Kaps&#252;ller bitkisel k&#246;kenlidir.</li><li>Gluten ve &#351;eker i&#231;ermez.</li><li>Kaps&#252;l boyutlar&#305; yutma kolayl&#305;&#287;&#305; sa&#287;layacak &#351;ekilde tasarlanm&#305;&#351;t&#305;r.</li><li>Kaps&#252;ller oksidasyona kar&#351;&#305; koruyucu blister ambalaj i&#231;inde sunulur.</li><li>Kutuda 60 kaps&#252;l (38,1 g) bulunur; g&#252;nde 2 kaps&#252;l kullan&#305;mda 30 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li><li>Bayer g&#252;vencesiyle sunulan &#252;r&#252;n&#252;n men&#351;ei Fransa'd&#305;r.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>18 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in g&#252;nde 2 kaps&#252;l al&#305;nmas&#305; &#246;nerilir. Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;neminde kullan&#305;m i&#231;in doktor tavsiyesi gereklidir. B&#246;brek rahats&#305;zl&#305;&#287;&#305; olanlar ve d&#252;zenli ila&#231; kullananlar kullanmadan &#246;nce hekime dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z; a&#231;&#305;lm&#305;&#351; ambalaj&#305; talimatlara uygun ko&#351;ullarda muhafaza ediniz.</p><p>Supradyn Expert Magnezyum 60 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85325,15 +85365,15 @@
 <Tax>1</Tax>
 <Stock>12</Stock>
 <Miad>2028-01-01</Miad>
-<Price>578.76</Price>
-<Price2>700.12</Price2>
-<Price3>700.12</Price3>
-<Price4>733.45</Price4>
-<Price5>724.90</Price5>
-<Price6>711.77</Price6>
-<Price7>991.97</Price7>
-<Price8>939.63</Price8>
-<Price9>711.77</Price9>
+<Price>567.71</Price>
+<Price2>687.37</Price2>
+<Price3>687.37</Price3>
+<Price4>719.57</Price4>
+<Price5>711.06</Price5>
+<Price6>698.30</Price6>
+<Price7>976.12</Price7>
+<Price8>924.22</Price8>
+<Price9>698.30</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699680092225</HepsiburadaSku>
 <SaticiStokKodu>8699680092225</SaticiStokKodu>
@@ -85341,6 +85381,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-bromelain-trio-60-tablet-45086.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-bromelain-trio-60-tablet-45087.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-bromelain-trio-60-tablet-45088.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-bromelain-trio-60-tablet-45170.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-bromelain-trio-60-tablet-45171.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Bromelain Trio 60 Tablet</strong>, bromelain, kuersetin ve krom i&#231;eren, film tablet formunda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k beslenmesini bu bile&#351;enlerle desteklemek isteyen yeti&#351;kinler ve 11 ya&#351; &#252;zeri bireyler i&#231;in uygundur.</p><h2>Bromelain Trio &#214;zellikleri</h2><ul><li>Her tablette 750 mg bromelain (2500 GDU/g) bulunur.</li><li>Her tablette 250 mg kuersetin bulunur.</li><li>Her tablette krom pikolinattan sa&#287;lanan 12,43 mcg krom bulunur.</li><li>2 tablette 1500 mg bromelain, 500 mg kuersetin ve 24,86 mcg krom bulunur.</li><li>Krom, makro besin &#246;&#287;elerinin normal metabolizmas&#305;na ve normal kan glukoz seviyesinin korunmas&#305;na katk&#305;da bulunur.</li><li>&#350;eker, tatland&#305;r&#305;c&#305;, gl&#252;ten ve koruyucu i&#231;ermez; vegan beslenmeye uygundur.</li><li>Kolay yutulan film tablet formundad&#305;r. Kutuda 60 tablet bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri bireyler ile yeti&#351;kinler i&#231;in g&#252;nde 1 veya 2 tabletin bir bardak su ile al&#305;nmas&#305; &#246;nerilir. Tabletler &#231;i&#287;nenmeden b&#252;t&#252;n olarak yutulmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25&#176;C alt&#305;ndaki oda s&#305;cakl&#305;&#287;&#305;nda ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Wellcare Bromelain Trio 60 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85369,6 +85411,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-beauty-boost-plus-10000-mg-frenk-uzumu-portakal-30-tup-30-kapsul-45089.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-beauty-boost-plus-10000-mg-frenk-uzumu-portakal-30-tup-30-kapsul-45090.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-beauty-boost-plus-10000-mg-frenk-uzumu-portakal-30-tup-30-kapsul-45091.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-beauty-boost-plus-10000-mg-frenk-uzumu-portakal-30-tup-30-kapsul-45173.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-beauty-boost-plus-10000-mg-frenk-uzumu-portakal-30-tup-30-kapsul-45174.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Collagen Beauty Boost Plus 10000 mg Frenk &#220;z&#252;m&#252; &amp; Portakal 30 T&#252;p + 30 Kaps&#252;l</strong>, her t&#252;p&#252;nde 10.000 mg hidrolize kolajen peptitleri bulunan likit t&#252;p ile silisyum i&#231;eren kaps&#252;l&#252; bir arada sunan bir takviye edici g&#305;dad&#305;r. Frenk &#252;z&#252;m&#252; ve portakal aromal&#305; t&#252;pler 40 ml'lik i&#231;ime haz&#305;r formdad&#305;r.</p><h2>Wellcare Collagen Beauty Boost Plus &#214;zellikleri</h2><ul><li>Bir t&#252;pte 10.000 mg Tip I ve Tip III hidrolize kolajen peptitleri (Verisol) bulunur.</li><li>Bir t&#252;pte 300 mg C vitamini (BRD'nin y&#252;zde 375'i) ve 2500 &#181;g biotin (BRD'nin y&#252;zde 5000'i) yer al&#305;r.</li><li>Bir t&#252;pte 100 mg hyaluronik asit, 10 mg glutatyon ve 10 mg koenzim Q10 bulunur.</li><li>Bir t&#252;pte 6 mg B5 vitamini, 1,4 mg B6 vitamini ve 3 mg &#945;-TE E vitamini yer al&#305;r.</li><li>Bir t&#252;pte 10 mg &#231;inko (BRD'nin y&#252;zde 100'&#252;), 300 &#181;g bak&#305;r ve 27,5 &#181;g selenyum bulunur.</li><li>Ayr&#305; kaps&#252;lde 5 mg silisyum yer al&#305;r.</li><li>T&#252;pler frenk &#252;z&#252;m&#252; ve portakal aromal&#305;d&#305;r.</li><li>Kutuda 30 adet 40 ml t&#252;p ve 30 kaps&#252;l bulunur; 30 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nde 1 t&#252;p ve 1 kaps&#252;l&#252;n birlikte t&#252;ketilmesi &#246;nerilir. T&#252;p kullanmadan &#246;nce &#231;alkalanmal&#305;, a&#231;&#305;ld&#305;ktan sonra hemen t&#252;ketilmelidir. Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya d&#252;zenli ila&#231; kullan&#305;m&#305; durumunda kullanmadan &#246;nce hekime dan&#305;&#351;&#305;n&#305;z. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda saklay&#305;n&#305;z.</p><p>Wellcare Collagen Beauty Boost Plus 10000 mg &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85397,6 +85441,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-multi-boost-plus-tip-i-ii-iii-10000-mg-nar-aromali-toz-345-gr-45092.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-multi-boost-plus-tip-i-ii-iii-10000-mg-nar-aromali-toz-345-gr-45093.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-multi-boost-plus-tip-i-ii-iii-10000-mg-nar-aromali-toz-345-gr-45094.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-multi-boost-plus-tip-i-ii-iii-10000-mg-nar-aromali-toz-345-gr-45176.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-collagen-multi-boost-plus-tip-i-ii-iii-10000-mg-nar-aromali-toz-345-gr-45177.webp</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Collagen Multi Boost Plus Tip I-II-III 10000 mg Nar Aromal&#305; Toz 345 gr</strong>, hidrolize kolajen peptitlerini vitamin, mineral ve di&#287;er bile&#351;enlerle bir araya getiren, suda kar&#305;&#351;t&#305;r&#305;larak t&#252;ketilen toz formda bir takviye edici g&#305;dad&#305;r. Nar aromal&#305;d&#305;r ve kutu i&#231;inde 345 g &#252;r&#252;n bulunur.</p><h2>Wellcare Collagen Multi Boost Plus &#214;zellikleri</h2><ul><li>Bir &#246;l&#231;ekte (11,47 g) 9900 mg Tip I ve Tip III hidrolize kolajen peptitleri ile 100 mg Tip II hidrolize kolajen peptitleri bulunur.</li><li>Bir &#246;l&#231;ekte 300 mg C vitamini yer al&#305;r; bu miktar beslenme referans de&#287;erinin y&#252;zde 375'ine kar&#351;&#305;l&#305;k gelir.</li><li>Bir &#246;l&#231;ekte 200 mg taurin ve 100 mg hyaluronik asit bulunur.</li><li>Bir &#246;l&#231;ekte 10 mg &#231;inko (BRD'nin y&#252;zde 100'&#252;) ve 5 mg silisyum yer al&#305;r.</li><li>Bir &#246;l&#231;ekte 2500 &#181;g biotin (BRD'nin y&#252;zde 5000'i) bulunur.</li><li>Bir &#246;l&#231;ekte 25 &#181;g (1000 IU) D3 vitamini ve 10 &#181;g K2 vitamini (menakuinon-7) yer al&#305;r.</li><li>Etiket bilgisine g&#246;re &#351;eker, gluten, koruyucu, soya ve laktoz i&#231;ermez.</li><li>345 g net miktar, g&#252;nde 1 &#246;l&#231;ek kullan&#305;mda yakla&#351;&#305;k 30 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nde 1 &#246;l&#231;ek (11,47 g) &#246;nerilir. Bir &#246;l&#231;e&#287;in 1 bardak (200 ml) suda iyice kar&#305;&#351;t&#305;r&#305;larak i&#231;ilmesi tavsiye edilir. Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya d&#252;zenli ila&#231; kullan&#305;m&#305; durumunda, &#246;zellikle kan suland&#305;r&#305;c&#305; kullananlar K vitamini i&#231;eri&#287;i nedeniyle kullanmadan &#246;nce hekime dan&#305;&#351;mal&#305;d&#305;r. Ambalaj&#305; kapal&#305; olarak, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; serin ve kuru bir yerde saklay&#305;n&#305;z.</p><p>Wellcare Collagen Multi Boost Plus 345 gr &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85425,6 +85471,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-flexible-60-tablet-45095.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-flexible-60-tablet-45096.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-flexible-60-tablet-45097.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-flexible-60-tablet-45179.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-flexible-60-tablet-45180.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Flexible 60 Tablet</strong>, glukozamin, kondroitin s&#252;lfat, MSM, tip II kolajen, hyal&#252;ronik asit, bitkisel ekstreler ve C vitamini i&#231;eren tablet formunda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k beslenmesini bu bile&#351;enlerle desteklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Wellcare Flexible &#214;zellikleri</h2><ul><li>2 tablette 1500 mg glukozamin HCl ve 1000 mg kondroitin s&#252;lfat bulunur.</li><li>2 tablette 250 mg MSM bulunur.</li><li>2 tablette 150 mg akg&#252;nl&#252;k (Boswellia serrata) re&#231;ine ekstresi ve 60 mg &#351;eytan pen&#231;esi ekstresi bulunur.</li><li>2 tablette 40 mg do&#287;as&#305; de&#287;i&#351;tirilmemi&#351; tip II kolajen (UC-II&#174;) ve 20 mg hyal&#252;ronik asit bulunur.</li><li>2 tablette 50 mg zerde&#231;al ekstresi (47,7 mg kurkumin) ve 10 mg karabiber ekstresi (9,5 mg piperin) bulunur.</li><li>2 tablette 60 mg C vitamini bulunur; C vitamini k&#305;k&#305;rdaklar&#305;n normal fonksiyonu i&#231;in normal kolajen olu&#351;umuna katk&#305;da bulunur.</li><li>Kutuda 60 tablet bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nde 2 tabletin bir bardak su ile al&#305;nmas&#305; &#246;nerilir. Tabletler &#231;i&#287;nenmeden b&#252;t&#252;n olarak yutulmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Kan suland&#305;r&#305;c&#305; ila&#231; kullananlar, hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Wellcare Flexible 60 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85453,6 +85501,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-gaspass-plus-20-tablet-45098.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-gaspass-plus-20-tablet-45099.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-gaspass-plus-20-tablet-45100.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-gaspass-plus-20-tablet-45182.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-gaspass-plus-20-tablet-45183.webp</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Gaspass Plus 20 Tablet</strong>, simetikon ve aktif k&#246;m&#252;r&#252; iki katmanl&#305; tek tablette bir araya getiren, CE i&#351;aretli bir t&#305;bbi cihazd&#305;r. Gaza ba&#287;l&#305; &#351;i&#351;kinlik ve dolgunluk hissinin giderilmesine yard&#305;mc&#305; olur; 14 ya&#351; &#252;zeri bireyler i&#231;in uygundur.</p><h2>Gaspass Plus &#214;zellikleri</h2><ul><li>Her tablette 50 mg simetikon ve 300 mg aktif k&#246;m&#252;r bulunur.</li><li>&#304;ki katmanl&#305; (bilayer) tablet teknolojisiyle &#252;retilmi&#351;tir.</li><li>Tabletin yakla&#351;&#305;k yar&#305;s&#305; 15 dakika i&#231;inde midede &#231;&#246;z&#252;n&#252;r.</li><li>Tabletin tamam&#305; 1 saat i&#231;inde ba&#287;&#305;rsakta da&#287;&#305;l&#305;r.</li><li>Simetikon gaz kabarc&#305;klar&#305;n&#305;n y&#252;zey gerilimini azaltarak da&#287;&#305;lmas&#305;na yard&#305;mc&#305; olur.</li><li>Aktif k&#246;m&#252;r ba&#287;&#305;rsaktaki gaz&#305;n tutulmas&#305;na yard&#305;mc&#305; olur.</li><li>CE 0426 i&#351;aretli t&#305;bbi cihazd&#305;r. Kutuda 20 tablet bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>14 ya&#351; &#252;zeri bireyler i&#231;in tercihen ana &#246;&#287;&#252;nlerden sonra al&#305;nmas&#305; &#246;nerilir. G&#252;nde en fazla 4 tablet kullan&#305;labilir. Tabletler bir bardak su ile yutulmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Mide veya ba&#287;&#305;rsakta lezyon, ba&#287;&#305;rsak t&#305;kan&#305;kl&#305;&#287;&#305; ya da bile&#351;enlerden herhangi birine kar&#351;&#305; a&#351;&#305;r&#305; duyarl&#305;l&#305;k durumunda kullanmay&#305;n. Aktif k&#246;m&#252;r di&#287;er ila&#231;lar&#305;n emilimini etkileyebilece&#287;inden d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z, hamilelik ve emzirme d&#246;neminde kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#350;ikayetleriniz devam ederse hekime ba&#351;vurun. G&#252;nl&#252;k en fazla doz a&#351;&#305;lmamal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda saklay&#305;n.</p><p>Wellcare Gaspass Plus 20 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85481,6 +85531,8 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-magnezyum-vitamin-b6-120-tablet-45101.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-magnezyum-vitamin-b6-120-tablet-45102.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-magnezyum-vitamin-b6-120-tablet-45185.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-magnezyum-vitamin-b6-120-tablet-45186.webp</Image4>
 <Description><![CDATA[<section><p><strong>Wellcare Magnezyum + Vitamin B6 120 Tablet</strong>, magnezyum sitrat, magnezyum malat ve magnezyum bisglisinat olmak &#252;zere &#252;&#231; farkl&#305; magnezyum tuzunu B6 vitamini ile bir araya getiren, tablet formunda bir takviye edici g&#305;dad&#305;r. 11 ya&#351; ve &#252;zeri ki&#351;ilerin g&#252;nl&#252;k magnezyum ve B6 vitamini al&#305;m&#305;n&#305; desteklemek amac&#305;yla haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Wellcare Magnezyum + Vitamin B6 &#214;zellikleri</h2><ul><li>Bir tablette 200 mg elementel magnezyum bulunur; bu miktar beslenme referans de&#287;erinin y&#252;zde 53,33'&#252;ne kar&#351;&#305;l&#305;k gelir.</li><li>Magnezyumun 100 mg'&#305; magnezyum sitrattan, 50 mg'&#305; magnezyum malattan, 50 mg'&#305; magnezyum bisglisinattan gelir.</li><li>Bir tablette 10 mg B6 vitamini (piridoksin) bulunur (BRD'nin y&#252;zde 714,3'&#252;).</li><li>Magnezyum yorgunlu&#287;un ve bitkinli&#287;in azalmas&#305;na, normal kas fonksiyonuna ve normal kemiklerin korunmas&#305;na katk&#305;da bulunur.</li><li>B6 vitamini yorgunlu&#287;un ve bitkinli&#287;in azalmas&#305;na ve ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal fonksiyonuna katk&#305;da bulunur.</li><li>Renklendirici, koruyucu ve gluten i&#231;ermez.</li><li>Ambalaj bilgisine g&#246;re veganlar i&#231;in uygundur.</li><li>Ambalajda 120 tablet bulunur; g&#252;nde 1 tablet kullan&#305;mda 120 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri ki&#351;ilerde g&#252;nde 1 tablet al&#305;nmas&#305; &#246;nerilir. Tavsiye edilen g&#252;nl&#252;k al&#305;m dozu a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n&#305;z. Kesilmi&#351; veya a&#231;&#305;lm&#305;&#351; ambalajlar&#305; sat&#305;n almay&#305;n&#305;z. 25&#176;C'nin alt&#305;ndaki oda s&#305;cakl&#305;&#287;&#305;nda, serin ve kuru ortamda, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p><p>Wellcare Magnezyum + Vitamin B6 120 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85509,6 +85561,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-omega-3-balik-yagi-1200-mg-30-kapsul-45103.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-omega-3-balik-yagi-1200-mg-30-kapsul-45104.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-omega-3-balik-yagi-1200-mg-30-kapsul-45105.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-omega-3-balik-yagi-1200-mg-30-kapsul-45187.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-omega-3-balik-yagi-1200-mg-30-kapsul-45188.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Omega 3 Bal&#305;k Ya&#287;&#305; 1200 mg 30 Kaps&#252;l</strong>, her yumu&#351;ak kaps&#252;l&#252;nde trigliserid formda toplam 1200 mg omega-3 ya&#287; asidi sunan, bal&#305;k ya&#287;&#305; i&#231;eren bir takviye edici g&#305;dad&#305;r. 11 ya&#351; ve &#252;zeri ki&#351;ilerin g&#252;nl&#252;k omega-3 al&#305;m&#305;n&#305; desteklemek amac&#305;yla haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Wellcare Omega 3 Bal&#305;k Ya&#287;&#305; &#214;zellikleri</h2><ul><li>Bir kaps&#252;lde 1500 mg bal&#305;k ya&#287;&#305; ve bu ya&#287;dan gelen toplam 1200 mg omega-3 bulunur.</li><li>Bir kaps&#252;lde 600 mg EPA ve 450 mg DHA yer al&#305;r.</li><li>Omega-3 ya&#287; asitleri trigliserid formdad&#305;r.</li><li>Antioksidan olarak biberiye ekstrakt&#305; ve tokoferolce zengin ekstrakt, aroma verici olarak do&#287;al tatl&#305; portakal ya&#287;&#305; i&#231;erir.</li><li>EPA ve DHA kalbin normal fonksiyonuna katk&#305;da bulunur; faydal&#305; etki g&#252;nde 250 mg EPA ve DHA al&#305;m&#305;yla sa&#287;lan&#305;r.</li><li>DHA normal beyin fonksiyonlar&#305;n&#305;n ve normal g&#246;rme yetisinin korunmas&#305;na katk&#305;da bulunur.</li><li>Renklendirici, &#351;eker, tatland&#305;r&#305;c&#305;, gluten ve koruyucu i&#231;ermez.</li><li>Kullan&#305;lan bal&#305;k ya&#287;&#305; IFOS, Friend of the Sea ve Helal sertifikalar&#305;na sahiptir; kaps&#252;l kabu&#287;unda s&#305;&#287;&#305;r jelatini kullan&#305;l&#305;r.</li><li>Kutuda 30 yumu&#351;ak kaps&#252;l bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri ki&#351;ilerde g&#252;nde 1 kaps&#252;l al&#305;nmas&#305; &#246;nerilir. Tavsiye edilen g&#252;nl&#252;k al&#305;m dozu a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n&#305;z. 25&#176;C'nin alt&#305;nda, kuru ve serin yerde, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; &#351;ekilde saklay&#305;n&#305;z.</p><p>Wellcare Omega 3 Bal&#305;k Ya&#287;&#305; 1200 mg 30 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85537,6 +85591,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-provim-daily-30-kapsul-45106.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-provim-daily-30-kapsul-45107.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-provim-daily-30-kapsul-45108.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-provim-daily-30-kapsul-45190.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-provim-daily-30-kapsul-45191.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Provim Daily 30 Kaps&#252;l</strong>, probiyotik bakteri su&#351;lar&#305;n&#305; B grubu vitaminleri, C vitamini ve &#231;inko ile bir arada sunan, kaps&#252;l formunda bir takviye edici g&#305;dad&#305;r. G&#252;nl&#252;k beslenmesini probiyotik ve vitaminlerle desteklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Provim Daily &#214;zellikleri</h2><ul><li>Her kaps&#252;lde B. lactis Bl-04, L. acidophilus La-14, L. plantarum Lp-115 ve L. paracasei Lpc-37 su&#351;lar&#305;ndan toplam 3,5 milyar kob bulunur.</li><li>Her kaps&#252;lde 1,5 milyar kob Lactobacillus rhamnosus GG bulunur.</li><li>Her kaps&#252;lde 24 mg C vitamini, 16 mg niasin (B3), 7,5 mg &#231;inko ve 6 mg pantotenik asit (B5) bulunur.</li><li>B6, B2, B1 vitaminleri ve 2,5 mcg B12 vitamini i&#231;erir.</li><li>C vitamini ve &#231;inko ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal fonksiyonuna katk&#305;da bulunur.</li><li>B1, B2, B5, B6 ve B12 vitaminleri normal enerji olu&#351;um metabolizmas&#305;na katk&#305;da bulunur.</li><li>Prebiyotik lif olarak FOS i&#231;erir; DRcaps&#174; kaps&#252;l kullan&#305;lm&#305;&#351;t&#305;r.</li><li>Gl&#252;ten i&#231;ermez. Kutuda 30 kaps&#252;l bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nde 1 kaps&#252;l&#252;n bir bardak su ile al&#305;nmas&#305; &#246;nerilir. Kaps&#252;l &#231;i&#287;nenmeden b&#252;t&#252;n olarak yutulmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Wellcare Provim Daily 30 Kaps&#252;l &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85565,6 +85621,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-seramid-kompleks-60-tablet-45109.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-seramid-kompleks-60-tablet-45110.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-seramid-kompleks-60-tablet-45111.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-seramid-kompleks-60-tablet-45193.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-seramid-kompleks-60-tablet-45194.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Seramid Kompleks 60 Tablet</strong>, bitkisel kaynakl&#305; seramid, resveratrol, silisyum, biotin ve mineraller i&#231;eren tablet formunda bir takviye edici g&#305;dad&#305;r. Cilt, sa&#231; ve t&#305;rnak i&#231;in g&#252;nl&#252;k beslenmesini desteklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Seramid Kompleks &#214;zellikleri</h2><ul><li>2 tablette 30 mg seramid (Ceramosides&#8482;) ve 250 mg resveratrol bulunur.</li><li>2 tablette 20 mg silisyum ve 5 mg biotin bulunur.</li><li>2 tablette 15 mg &#231;inko, 2 mg bak&#305;r ve 55 &#181;g selenyum bulunur.</li><li>&#199;inko normal cildin, t&#305;rnaklar&#305;n ve kemiklerin korunmas&#305;na katk&#305;da bulunur.</li><li>Biotin normal sa&#231;&#305;n ve cildin korunmas&#305;na katk&#305;da bulunur.</li><li>Bak&#305;r normal sa&#231; ve cilt pigmentasyonuna, selenyum normal sa&#231; ve t&#305;rnaklar&#305;n korunmas&#305;na katk&#305;da bulunur.</li><li>&#350;ekersizdir; gl&#252;ten, koruyucu ve tatland&#305;r&#305;c&#305; i&#231;ermez, vegan beslenmeye uygundur.</li><li>Kutuda 60 tablet bulunur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler i&#231;in g&#252;nde 2 tabletin bir bardak su ile al&#305;nmas&#305; &#246;nerilir. Tabletler &#231;i&#287;nenmeden b&#252;t&#252;n olarak yutulmal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25&#176;C alt&#305;ndaki oda s&#305;cakl&#305;&#287;&#305;nda ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Wellcare Seramid Kompleks 60 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85594,6 +85652,8 @@
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-vitamin-b12-1000-mcg-sprey-5-ml-45112.jpg</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-vitamin-b12-1000-mcg-sprey-5-ml-45113.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-vitamin-b12-1000-mcg-sprey-5-ml-45114.jpg</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-vitamin-b12-1000-mcg-sprey-5-ml-45196.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-vitamin-b12-1000-mcg-sprey-5-ml-45197.webp</Image5>
 <Description><![CDATA[<section><p><strong>Wellcare Vitamin B12 1000 mcg Sprey 5 ml</strong>, her f&#305;s&#305;nda 1000 mcg metilkobalamin formunda B12 vitamini i&#231;eren, dil alt&#305;na uygulanan sprey formunda bir takviye edici g&#305;dad&#305;r. Yeti&#351;kinler ile 4-10 ya&#351; aras&#305; &#231;ocuklar i&#231;in uygundur.</p><h2>Vitamin B12 Sprey &#214;zellikleri</h2><ul><li>1 f&#305;s (p&#252;sk&#252;rtme) 1000 mcg B12 vitamini sa&#287;lar.</li><li>B12 vitamini aktif metilkobalamin (MecobalActive&#174;) formundad&#305;r.</li><li>Dil alt&#305;na uygulanan pratik sprey formundad&#305;r; su gerektirmez.</li><li>B12 vitamini normal enerji olu&#351;um metabolizmas&#305;na ve yorgunluk ile bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>B12 vitamini normal k&#305;rm&#305;z&#305; kan h&#252;cresi olu&#351;umuna ve normal homosistein metabolizmas&#305;na katk&#305;da bulunur.</li><li>B12 vitamini ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal fonksiyonuna ve h&#252;cre b&#246;l&#252;nmesi s&#252;recine katk&#305;da bulunur.</li><li>&#350;eker, tatland&#305;r&#305;c&#305;, gl&#252;ten ve renklendirici i&#231;ermez.</li><li>&#350;i&#351;e 5 ml'dir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler ve 4-10 ya&#351; aras&#305; &#231;ocuklar i&#231;in g&#252;nde 1 f&#305;s&#305;n dil alt&#305;na p&#252;sk&#252;rt&#252;lmesi &#246;nerilir. Kullanmadan &#246;nce &#351;i&#351;eyi hafif&#231;e &#231;alkalay&#305;n.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir hastal&#305;&#287;&#305;n&#305;z varsa veya d&#252;zenli ila&#231; kullan&#305;yorsan&#305;z kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru ortamda, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. Ambalaj&#305; hasarl&#305; &#252;r&#252;n&#252; kullanmay&#305;n. &#304;la&#231; de&#287;ildir.</p><p>Wellcare Vitamin B12 1000 mcg Sprey 5 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 </Products>
