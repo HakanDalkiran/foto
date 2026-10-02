@@ -12440,7 +12440,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
 <Tax>20</Tax>
-<Stock>25</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>637.41</Price>
 <Price2>796.93</Price2>
@@ -54570,7 +54570,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2028-03-01</Miad>
 <Price>457.21</Price>
 <Price2>570.57</Price2>
@@ -67549,15 +67549,15 @@
 <Tax>20</Tax>
 <Stock>97</Stock>
 <Miad>2028-01-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>444.37</Price>
+<Price2>567.56</Price2>
+<Price3>567.56</Price3>
+<Price4>594.47</Price4>
+<Price5>584.33</Price5>
+<Price6>572.70</Price6>
+<Price7>903.45</Price7>
+<Price8>839.47</Price8>
+<Price9>572.70</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -77327,7 +77327,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>8</Stock>
 <Miad>2029-06-01</Miad>
 <Price>467.41</Price>
 <Price2>571.64</Price2>
