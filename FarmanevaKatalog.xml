@@ -42297,7 +42297,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>2</Stock>
 <Miad>2028-12-01</Miad>
 <Price>695.21</Price>
 <Price2>834.48</Price2>
@@ -65981,7 +65981,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>25</Stock>
 <Miad>2028-08-01</Miad>
 <Price>241.40</Price>
 <Price2>326.39</Price2>
@@ -67458,15 +67458,15 @@
 <Tax>20</Tax>
 <Stock>106</Stock>
 <Miad>2028-01-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>444.63</Price>
+<Price2>567.87</Price2>
+<Price3>567.87</Price3>
+<Price4>594.81</Price4>
+<Price5>584.67</Price5>
+<Price6>573.03</Price6>
+<Price7>903.85</Price7>
+<Price8>839.86</Price8>
+<Price9>573.03</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
