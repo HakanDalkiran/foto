@@ -48534,7 +48534,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>89.17</Price>
 <Price2>135.21</Price2>
@@ -77372,7 +77372,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-04-01</Miad>
 <Price>637.41</Price>
 <Price2>767.79</Price2>
@@ -77840,7 +77840,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>22</Stock>
 <Miad>2028-02-01</Miad>
 <Price>181.05</Price>
 <Price2>254.68</Price2>
