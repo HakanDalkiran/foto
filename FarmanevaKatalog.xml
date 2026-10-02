@@ -30041,8 +30041,8 @@
 <Price4>619.30</Price4>
 <Price5>611.09</Price5>
 <Price6>601.00</Price6>
-<Price7>861.62</Price7>
-<Price8>812.95</Price8>
+<Price7>861.61</Price7>
+<Price8>812.94</Price8>
 <Price9>574.99</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL10L</HepsiburadaSku>
@@ -50804,7 +50804,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>7</Stock>
 <Miad>2027-07-01</Miad>
 <Price>747.06</Price>
 <Price2>894.31</Price2>
@@ -50984,7 +50984,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>0</Stock>
 <Miad>2027-07-01</Miad>
 <Price>250.00</Price>
 <Price2>320.78</Price2>
