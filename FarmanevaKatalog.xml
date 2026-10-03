@@ -2939,8 +2939,8 @@
 <Price4>513.95</Price4>
 <Price5>505.16</Price5>
 <Price6>497.08</Price6>
-<Price7>771.55</Price7>
-<Price8>719.48</Price8>
+<Price7>771.54</Price7>
+<Price8>719.47</Price8>
 <Price9>529.98</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699856710083</HepsiburadaSku>
@@ -38780,17 +38780,17 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>908.18</Price>
-<Price2>1000.83</Price2>
-<Price3>1000.83</Price3>
-<Price4>1017.16</Price4>
-<Price5>1017.16</Price5>
-<Price6>1017.16</Price6>
-<Price7>1352.09</Price7>
-<Price8>1352.09</Price8>
-<Price9>1113.40</Price9>
+<Stock>1</Stock>
+<Miad>2029-03-01</Miad>
+<Price>892.50</Price>
+<Price2>1062.12</Price2>
+<Price3>1062.12</Price3>
+<Price4>1127.60</Price4>
+<Price5>1117.86</Price5>
+<Price6>1094.28</Price6>
+<Price7>1442.10</Price7>
+<Price8>1377.08</Price8>
+<Price9>1094.28</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL4PG</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00873</SaticiStokKodu>
@@ -42388,7 +42388,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>3</Stock>
 <Miad>2028-12-01</Miad>
 <Price>695.21</Price>
 <Price2>834.48</Price2>
@@ -42581,7 +42581,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>75</Stock>
+<Stock>74</Stock>
 <Miad>2027-03-01</Miad>
 <Price>140.16</Price>
 <Price2>194.05</Price2>
@@ -47027,6 +47027,59 @@
 <h2>Uyar&#305;lar</h2>
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>G&#252;nl&#252;k ba&#287;&#305;&#351;&#305;kl&#305;k deste&#287;ini pratik bir i&#231;ecekle almak isteyenler Redoxon 3'l&#252; Etki'yi Farmaneva'da bulabilir.</p></section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01065]]></Product_code>
+<Barcode>8699546020454</Barcode>
+<Name><![CDATA[Redoxon 3'lü Etki 30 Efervesan Tablet]]></Name>
+<Brand><![CDATA[Redoxon]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>500</Stock>
+<Miad>2028-04-01</Miad>
+<Price>342.17</Price>
+<Price2>427.13</Price2>
+<Price3>427.13</Price3>
+<Price4>436.22</Price4>
+<Price5>428.57</Price5>
+<Price6>423.33</Price6>
+<Price7>652.53</Price7>
+<Price8>609.75</Price8>
+<Price9>493.58</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>8699546020454</HepsiburadaSku>
+<SaticiStokKodu>8699546020454</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/redoxon-3-lu-etki-30-efervesan-tablet-10240.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/redoxon-3-lu-etki-30-efervesan-tablet-10241.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/redoxon-3-lu-etki-30-efervesan-tablet-10242.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Redoxon 3'lü Etki 30 Efervesan Tablet</strong>, C vitamini, D vitamini ve çinkoyu tek tablette bir araya getiren, suda eriyen efervesan formda bir takviye edici gıdadır. Günlük bağışıklık desteğini pratik ve lezzetli bir içecekle almak isteyenler için tasarlanmıştır.</p>
+<h2>Redoxon 3'lü Etki Özellikleri</h2>
+<ul>
+<li>Her tablette 1000 mg C vitamini, D vitamini ve çinko içerir.</li>
+<li>C, D vitaminleri ve çinko bağışıklık sisteminin normal işleyişine katkıda bulunur.</li>
+<li>Suda hızlıca eriyen efervesan formdadır.</li>
+<li>Portakal aromasıyla keyifli bir kullanım sunar.</li>
+<li>30 tabletlik ambalajı ile yaklaşık bir aylık kullanım sağlar.</li></ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>11 yaş ve üzeri için günde 1 efervesan tableti 1 bardak (200 ml) suda eritip, tercihen tok karnına için.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir. Hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik, emzirme döneminde veya bir rahatsızlığınız varsa kullanmadan önce doktorunuza danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Redoxon 3'lü Etki ne işe yarar?</h3>
+<p>Redoxon 3'lü Etki 30 Efervesan Tablet (barkod 8699546020454), C vitamini, D vitamini ve çinkoyu tek tablette sunan bir takviye edici gıdadır; ilaç değildir.</p>
+<h3>Redoxon 3'lü Etki nasıl kullanılır?</h3>
+<p>11 yaş ve üzeri için günde 1 tablet, 1 bardak (200 ml) suda eritilip tercihen tok karnına içilir.</p>
+<h3>Redoxon 3'lü Etki içeriğinde neler var?</h3>
+<p>C vitamini, D vitamini ve çinko içerir. Miktarlar ambalajdaki besin öğesi tablosunda yazar.</p>
+<h3>Redoxon 3'lü Etki'yi kimler kullanmamalı?</h3>
+<p>11 yaş altı çocuklar ve bileşenlere hassasiyeti olanlar kullanmamalıdır. Efervesan tablet sodyum içerir; tuz kısıtlaması olanlar, hamileler ve emzirenler hekime danışmalıdır.</p>
+<h3>Redoxon 3'lü Etki 15 ve 30 tablet farkı nedir?</h3>
+<p>Formül aynıdır, yalnız kutudaki tablet sayısı farklıdır. Çocuklar için ayrıca çiğnenebilir Redoxon Kids vardır.</p>
+<p>Günlük bağışıklık desteğini pratik bir içecekle almak isteyenler Redoxon 3'lü Etki'yi Farmaneva güvencesiyle edinebilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01066]]></Product_code>
