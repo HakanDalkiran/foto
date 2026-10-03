@@ -9589,7 +9589,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>17</Stock>
 <Miad>2029-01-01</Miad>
 <Price>695.30</Price>
 <Price2>834.58</Price2>
@@ -46993,7 +46993,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>218</Stock>
+<Stock>213</Stock>
 <Miad>2028-07-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -47037,16 +47037,16 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>497</Stock>
 <Miad>2028-04-01</Miad>
-<Price>342.17</Price>
-<Price2>427.13</Price2>
-<Price3>427.13</Price3>
-<Price4>436.22</Price4>
-<Price5>428.57</Price5>
-<Price6>423.33</Price6>
-<Price7>652.53</Price7>
-<Price8>609.75</Price8>
+<Price>455.18</Price>
+<Price2>557.53</Price2>
+<Price3>557.53</Price3>
+<Price4>578.19</Price4>
+<Price5>570.11</Price5>
+<Price6>561.11</Price6>
+<Price7>814.67</Price7>
+<Price8>767.32</Price8>
 <Price9>493.58</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699546020454</HepsiburadaSku>
@@ -52430,7 +52430,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>552.41</Price>
 <Price2>669.71</Price2>
@@ -78077,9 +78077,9 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
-<Price>199.65</Price>
+<Price>199.66</Price>
 <Price2>276.79</Price2>
 <Price3>276.79</Price3>
 <Price4>271.46</Price4>
@@ -78087,7 +78087,7 @@
 <Price6>261.52</Price6>
 <Price7>521.09</Price7>
 <Price8>470.93</Price8>
-<Price9>261.51</Price9>
+<Price9>261.52</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IRBYHD</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01766</SaticiStokKodu>
@@ -84086,7 +84086,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Boyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>373.91</Price>
 <Price2>483.84</Price2>
