@@ -47047,7 +47047,7 @@
 <Price6>561.11</Price6>
 <Price7>814.67</Price7>
 <Price8>767.32</Price8>
-<Price9>493.58</Price9>
+<Price9>561.11</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699546020454</HepsiburadaSku>
 <SaticiStokKodu>8699546020454</SaticiStokKodu>
@@ -58683,7 +58683,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Renkli Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1141.55</Price>
 <Price2>1395.96</Price2>
@@ -58691,8 +58691,8 @@
 <Price4>1514.72</Price4>
 <Price5>1501.09</Price5>
 <Price6>1459.24</Price6>
-<Price7>1992.79</Price7>
-<Price8>1889.44</Price8>
+<Price7>1992.80</Price7>
+<Price8>1889.45</Price8>
 <Price9>1459.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3282770075724</HepsiburadaSku>
@@ -68518,15 +68518,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>501.47</Price4>
-<Price5>491.68</Price5>
-<Price6>483.10</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
-<Price9>483.10</Price9>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>546.46</Price4>
+<Price5>536.50</Price5>
+<Price6>526.45</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
+<Price9>526.45</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -85406,7 +85406,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>25</Stock>
+<Stock>24</Stock>
 <Miad>2028-06-01</Miad>
 <Price>240.46</Price>
 <Price2>309.78</Price2>
@@ -85709,7 +85709,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2028-03-01</Miad>
 <Price>1147.41</Price>
 <Price2>1356.24</Price2>
