@@ -39313,7 +39313,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2027-11-01</Miad>
 <Price>491.30</Price>
 <Price2>599.20</Price2>
@@ -42435,7 +42435,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2028-12-01</Miad>
 <Price>695.21</Price>
 <Price2>834.48</Price2>
@@ -47714,7 +47714,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2028-06-01</Miad>
 <Price>44.96</Price>
 <Price2>88.29</Price2>
@@ -52567,7 +52567,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>73</Stock>
+<Stock>74</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
@@ -60000,7 +60000,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
-<Stock>39</Stock>
+<Stock>40</Stock>
 <Miad>2029-03-01</Miad>
 <Price>2532.91</Price>
 <Price2>2998.86</Price2>
@@ -60636,7 +60636,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>100.30</Price>
 <Price2>158.73</Price2>
@@ -63616,7 +63616,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>72</Stock>
+<Stock>74</Stock>
 <Miad></Miad>
 <Price>1274.07</Price>
 <Price2>1526.19</Price2>
@@ -66264,7 +66264,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>19</Stock>
 <Miad>2029-04-01</Miad>
 <Price>242.16</Price>
 <Price2>327.29</Price2>
@@ -77428,7 +77428,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>6</Stock>
 <Miad>2029-06-01</Miad>
 <Price>467.41</Price>
 <Price2>571.64</Price2>
@@ -77564,7 +77564,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Çinko]]></subCategory>
 <Tax>1</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad>2028-04-01</Miad>
 <Price>225.16</Price>
 <Price2>292.12</Price2>
