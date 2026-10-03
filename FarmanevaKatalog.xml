@@ -29214,17 +29214,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>634.80</Price>
-<Price2>705.58</Price2>
-<Price3>705.58</Price3>
-<Price4>710.98</Price4>
-<Price5>710.98</Price5>
-<Price6>710.98</Price6>
-<Price7>977.97</Price7>
-<Price8>977.97</Price8>
-<Price9>780.10</Price9>
+<Stock>1</Stock>
+<Miad>2029-07-01</Miad>
+<Price>454.66</Price>
+<Price2>556.93</Price2>
+<Price3>556.93</Price3>
+<Price4>577.54</Price4>
+<Price5>569.46</Price5>
+<Price6>560.47</Price6>
+<Price7>813.92</Price7>
+<Price8>766.60</Price8>
+<Price9>560.47</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLBEN</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00665</SaticiStokKodu>
@@ -39639,7 +39639,7 @@
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
 <Stock>294</Stock>
-<Miad>2026-11-01</Miad>
+<Miad>2028-05-01</Miad>
 <Price>269.36</Price>
 <Price2>343.12</Price2>
 <Price3>343.12</Price3>
@@ -58691,8 +58691,8 @@
 <Price4>1514.72</Price4>
 <Price5>1501.09</Price5>
 <Price6>1459.24</Price6>
-<Price7>1992.80</Price7>
-<Price8>1889.45</Price8>
+<Price7>1992.79</Price7>
+<Price8>1889.44</Price8>
 <Price9>1459.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3282770075724</HepsiburadaSku>
