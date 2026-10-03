@@ -19316,7 +19316,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>105</Stock>
+<Stock>104</Stock>
 <Miad></Miad>
 <Price>365.41</Price>
 <Price2>463.18</Price2>
@@ -39683,7 +39683,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>50</Stock>
 <Miad>2028-04-01</Miad>
 <Price>208.16</Price>
 <Price2>272.51</Price2>
@@ -67648,15 +67648,15 @@
 <Tax>20</Tax>
 <Stock>95</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>597.97</Price2>
-<Price3>597.97</Price3>
-<Price4>628.25</Price4>
-<Price5>617.98</Price5>
-<Price6>605.24</Price6>
-<Price7>943.43</Price7>
-<Price8>878.01</Price8>
-<Price9>605.24</Price9>
+<Price>442.00</Price>
+<Price2>564.74</Price2>
+<Price3>564.74</Price3>
+<Price4>591.34</Price4>
+<Price5>581.21</Price5>
+<Price6>569.68</Price6>
+<Price7>899.74</Price7>
+<Price8>835.90</Price8>
+<Price9>569.68</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -83662,7 +83662,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>128</Stock>
+<Stock>104</Stock>
 <Miad>2029-04-01</Miad>
 <Price>199.66</Price>
 <Price2>276.79</Price2>
