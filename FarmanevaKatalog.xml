@@ -7678,7 +7678,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>4</Stock>
 <Miad>2031-04-01</Miad>
 <Price>760.66</Price>
 <Price2>943.38</Price2>
@@ -10851,7 +10851,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>3</Stock>
 <Miad>2029-04-01</Miad>
 <Price>637.41</Price>
 <Price2>767.79</Price2>
@@ -12392,7 +12392,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>142</Stock>
+<Stock>144</Stock>
 <Miad></Miad>
 <Price>360.40</Price>
 <Price2>467.79</Price2>
@@ -76425,7 +76425,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
 <Price>467.41</Price>
 <Price2>594.94</Price2>
