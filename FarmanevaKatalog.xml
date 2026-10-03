@@ -9591,15 +9591,15 @@
 <Tax>1</Tax>
 <Stock>1</Stock>
 <Miad>2029-01-01</Miad>
-<Price>636.56</Price>
-<Price2>766.81</Price2>
-<Price3>766.81</Price3>
-<Price4>806.06</Price4>
-<Price5>797.29</Price5>
-<Price6>782.24</Price6>
-<Price7>1074.90</Price7>
-<Price8>1020.22</Price8>
-<Price9>782.24</Price9>
+<Price>695.30</Price>
+<Price2>834.58</Price2>
+<Price3>834.58</Price3>
+<Price4>879.86</Price4>
+<Price5>870.86</Price5>
+<Price6>853.86</Price6>
+<Price7>1159.18</Price7>
+<Price8>1102.12</Price8>
+<Price9>853.86</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLBST</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00220</SaticiStokKodu>
@@ -21106,7 +21106,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>9</Stock>
 <Miad>2028-09-01</Miad>
 <Price>1540.12</Price>
 <Price2>1809.36</Price2>
@@ -77285,7 +77285,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>36</Stock>
 <Miad>2029-01-01</Miad>
 <Price>391.85</Price>
 <Price2>484.45</Price2>
@@ -78077,9 +78077,9 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>199.66</Price>
+<Price>199.65</Price>
 <Price2>276.79</Price2>
 <Price3>276.79</Price3>
 <Price4>271.46</Price4>
@@ -78087,7 +78087,7 @@
 <Price6>261.52</Price6>
 <Price7>521.09</Price7>
 <Price8>470.93</Price8>
-<Price9>261.52</Price9>
+<Price9>261.51</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IRBYHD</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01766</SaticiStokKodu>
