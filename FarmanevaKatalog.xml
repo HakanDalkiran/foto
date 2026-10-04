@@ -4080,7 +4080,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Lens Solüsyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>164</Stock>
+<Stock>163</Stock>
 <Miad>2027-03-01</Miad>
 <Price>433.41</Price>
 <Price2>554.54</Price2>
@@ -52832,7 +52832,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>359</Stock>
+<Stock>357</Stock>
 <Miad>2029-01-01</Miad>
 <Price>314.41</Price>
 <Price2>403.51</Price2>
@@ -66218,7 +66218,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2028-08-01</Miad>
 <Price>241.40</Price>
 <Price2>326.39</Price2>
@@ -67695,15 +67695,15 @@
 <Tax>20</Tax>
 <Stock>95</Stock>
 <Miad>2028-01-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>444.37</Price>
+<Price2>567.56</Price2>
+<Price3>567.56</Price3>
+<Price4>594.47</Price4>
+<Price5>584.33</Price5>
+<Price6>572.70</Price6>
+<Price7>903.45</Price7>
+<Price8>839.47</Price8>
+<Price9>572.70</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -68565,15 +68565,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>501.47</Price4>
-<Price5>491.68</Price5>
-<Price6>483.10</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
-<Price9>483.10</Price9>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>546.46</Price4>
+<Price5>536.50</Price5>
+<Price6>526.45</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
+<Price9>526.45</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -83897,7 +83897,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Gazlı Bez & Kompres]]></subCategory>
 <Tax>10</Tax>
-<Stock>30</Stock>
+<Stock>29</Stock>
 <Miad></Miad>
 <Price>110.42</Price>
 <Price2>164.87</Price2>
@@ -84793,7 +84793,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>339</Stock>
+<Stock>335</Stock>
 <Miad>2028-03-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
