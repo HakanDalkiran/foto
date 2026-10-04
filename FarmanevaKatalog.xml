@@ -7160,7 +7160,7 @@
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
-<Price>288.39</Price>
+<Price>288.38</Price>
 <Price2>382.22</Price2>
 <Price3>382.22</Price3>
 <Price4>388.58</Price4>
@@ -7168,7 +7168,7 @@
 <Price6>374.35</Price6>
 <Price7>659.73</Price7>
 <Price8>604.56</Price8>
-<Price9>374.35</Price9>
+<Price9>374.34</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLAAA</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00164</SaticiStokKodu>
@@ -29309,7 +29309,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-07-01</Miad>
 <Price>454.66</Price>
 <Price2>556.93</Price2>
@@ -84969,7 +84969,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>4</Stock>
 <Miad>2029-06-01</Miad>
 <Price>606.90</Price>
 <Price2>732.59</Price2>
