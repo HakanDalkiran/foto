@@ -7951,7 +7951,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>196</Stock>
+<Stock>192</Stock>
 <Miad></Miad>
 <Price>764.91</Price>
 <Price2>948.43</Price2>
@@ -12203,7 +12203,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Vücut Losyonu]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>212.41</Price>
 <Price2>291.94</Price2>
@@ -47082,7 +47082,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01064]]></Product_code>
 <Barcode>8699546020447</Barcode>
-<Name><![CDATA[Redoxon 3'lü Etki 15 Efervesan Tablet]]></Name>
+<Name><![CDATA[Redoxon 3’lü Etki 15 Efervesan Tablet]]></Name>
 <Brand><![CDATA[Redoxon]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
@@ -48374,7 +48374,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2028-05-01</Miad>
 <Price>157.16</Price>
 <Price2>219.55</Price2>
@@ -51454,7 +51454,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Vücut İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2030-02-01</Miad>
 <Price>926.42</Price>
 <Price2>1140.34</Price2>
@@ -67690,15 +67690,15 @@
 <Tax>20</Tax>
 <Stock>95</Stock>
 <Miad>2028-01-01</Miad>
-<Price>444.12</Price>
-<Price2>567.26</Price2>
-<Price3>567.26</Price3>
-<Price4>594.14</Price4>
-<Price5>584.00</Price5>
-<Price6>572.38</Price6>
-<Price7>903.06</Price7>
-<Price8>839.10</Price8>
-<Price9>572.38</Price9>
+<Price>444.37</Price>
+<Price2>567.56</Price2>
+<Price3>567.56</Price3>
+<Price4>594.47</Price4>
+<Price5>584.33</Price5>
+<Price6>572.70</Price6>
+<Price7>903.45</Price7>
+<Price8>839.47</Price8>
+<Price9>572.70</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
