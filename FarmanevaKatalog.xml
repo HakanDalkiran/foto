@@ -14128,7 +14128,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>110</Stock>
+<Stock>109</Stock>
 <Miad></Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -40102,7 +40102,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>290</Stock>
+<Stock>287</Stock>
 <Miad>2028-05-01</Miad>
 <Price>269.36</Price>
 <Price2>343.12</Price2>
@@ -68118,15 +68118,15 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad>2028-09-01</Miad>
-<Price>594.06</Price>
-<Price2>745.42</Price2>
-<Price3>745.42</Price3>
-<Price4>792.05</Price4>
-<Price5>781.16</Price5>
-<Price6>763.05</Price6>
-<Price7>1137.34</Price7>
-<Price8>1064.91</Price8>
-<Price9>763.05</Price9>
+<Price>573.75</Price>
+<Price2>721.29</Price2>
+<Price3>721.29</Price3>
+<Price4>765.25</Price4>
+<Price5>754.46</Price5>
+<Price6>737.22</Price6>
+<Price7>1105.60</Price7>
+<Price8>1034.32</Price8>
+<Price9>737.22</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0DXK5</HepsiburadaSku>
 <SaticiStokKodu>850069595807</SaticiStokKodu>
