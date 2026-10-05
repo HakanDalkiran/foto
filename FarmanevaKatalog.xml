@@ -559,7 +559,8 @@
 <Name><![CDATA[Allergo Vitagil Magni4 Magnezyum Vitamin D3 P5P 30 Saşe]]></Name>
 <Brand><![CDATA[Allergo]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -605,8 +606,8 @@
 <Name><![CDATA[Vitagil Magni4 Magnezyum Vitamin D3 P5P 30 Tablet]]></Name>
 <Brand><![CDATA[Allergo]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[D Vitamini]]></subCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2028-01-01</Miad>
@@ -1030,8 +1031,8 @@
 <Price8>848.10</Price8>
 <Price9>678.19</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>5055382306306</HepsiburadaSku>
-<SaticiStokKodu>5055382306306</SaticiStokKodu>
+<HepsiburadaSku>HBCV0000GQLBYZ</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00025</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/alvita-koldan-olcer-tansiyon-aleti-7775.webp</Image1>
 <Description><![CDATA[<section>
@@ -6885,8 +6886,8 @@
 <Price8>354.43</Price8>
 <Price9>175.05</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8680512631606</HepsiburadaSku>
-<SaticiStokKodu>8680512631606</SaticiStokKodu>
+<HepsiburadaSku>HBCV00002HLKDK</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00156</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/bioxcin-collagen-biotin-hacim-sampuani-300-ml-8159.webp</Image1>
 <Image2>https://www.farmaneva.com/uploads/urunler/bioxcin-collagen-biotin-hacim-sampuani-300-ml-8161.webp</Image2>
@@ -12656,8 +12657,8 @@
 <Price8>700.36</Price8>
 <Price9>465.92</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8697796000929</HepsiburadaSku>
-<SaticiStokKodu>8697796000929</SaticiStokKodu>
+<HepsiburadaSku>HBV00000GQLTY</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00280</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/dermoskin-be-bright-aha-bha-krem-33-ml-8482.webp</Image1>
 <Image2>https://www.farmaneva.com/uploads/urunler/dermoskin-be-bright-aha-bha-krem-33-ml-8483.webp</Image2>
@@ -12892,8 +12893,8 @@
 <Price8>1065.05</Price8>
 <Price9>763.16</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8697796002954</HepsiburadaSku>
-<SaticiStokKodu>8697796002954</SaticiStokKodu>
+<HepsiburadaSku>HBCV00003VF4CR</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00286</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/dermoskin-be-bright-liposomal-collagen-peptit-complex-serum-30-ml-8498.webp</Image1>
 <Image2>https://www.farmaneva.com/uploads/urunler/dermoskin-be-bright-liposomal-collagen-peptit-complex-serum-30-ml-8499.webp</Image2>
@@ -15474,24 +15475,23 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/duobalance-kids-10-sase-8660.webp</Image1>
 <Description><![CDATA[<section>
-<p><strong>Duobalance Kids 10 Sa&#351;e</strong>, &#231;ocuklar i&#231;in probiyotik mikroorganizmalar&#305; in&#252;lin ve fruktooligosakkarit gibi prebiyotiklerle birle&#351;tiren, toz sa&#351;e formunda bir takviyedir. 4-10 ya&#351; &#231;ocuklar&#305;n ba&#287;&#305;rsak floras&#305;n&#305; desteklemek isteyen ebeveynler i&#231;in 10 sa&#351;elik ambalajda sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Duobalance Kids 10 Saşe</strong>, çocuklar için probiyotik mikroorganizmaları inülin ve fruktooligosakkarit gibi prebiyotiklerle birleştiren, toz saşe formunda bir takviyedir. 4-10 yaş çocukların bağırsak florasını desteklemek isteyen ebeveynler için 10 saşelik ambalajda sunulur.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>Lactobacillus rhamnosus GG d&#226;hil probiyotik su&#351;lar i&#231;erir.</li>
-<li>&#304;n&#252;lin ve fruktooligosakkarit (prebiyotik) ile desteklenmi&#351;tir.</li>
-<li>4-10 ya&#351; &#231;ocuklar&#305;n ba&#287;&#305;rsak floras&#305;na y&#246;neliktir.</li>
-<li>Suya, yo&#287;urda eklenebilen ya da do&#287;rudan al&#305;nabilen toz formdad&#305;r.</li>
-<li>G&#252;nde 1 sa&#351;e pratik kullan&#305;m sunar.</li>
-<li>&#199;ocuklar&#305;n kolayca t&#252;ketebilece&#287;i bir yap&#305;dad&#305;r.</li>
-<li>Yatmadan &#246;nce al&#305;nabilir.</li>
-<li>10 sa&#351;elik ambalajda sunulur.</li>
-<li>Yeti&#351;kinlerin g&#252;nl&#252;k deste&#287;ine y&#246;nelik geli&#351;tirilmi&#351;tir.</li>
+<li>Lactobacillus rhamnosus GG dâhil probiyotik suşlar içerir.</li>
+<li>İnülin ve fruktooligosakkarit (prebiyotik) ile desteklenmiştir.</li>
+<li>4-10 yaş çocukların bağırsak florasına yöneliktir.</li>
+<li>Suya, yoğurda eklenebilen ya da doğrudan alınabilen toz formdadır.</li>
+<li>Günde 1 saşe pratik kullanım sunar.</li>
+<li>Çocukların kolayca tüketebileceği bir yapıdadır.</li>
+<li>Yatmadan önce alınabilir.</li>
+<li>10 saşelik ambalajda sunulur.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;nde 1 sa&#351;e; oda s&#305;cakl&#305;&#287;&#305;ndaki bir bardak suya, yo&#287;urda eklenebilir ya da do&#287;rudan al&#305;nabilir. Tercihen yatmadan &#246;nce kullan&#305;labilir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir sa&#287;l&#305;k sorununuz varsa veya ila&#231; kullan&#305;yorsan&#305;z hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>&#199;ocu&#287;unun ba&#287;&#305;rsak floras&#305;n&#305; desteklemek isteyen ebeveynler Duobalance Kids'i Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde 1 saşe; oda sıcaklığındaki bir bardak suya, yoğurda eklenebilir ya da doğrudan alınabilir. Tercihen yatmadan önce kullanılabilir.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Önerilen günlük dozu aşmayın. Hamilelik ve emzirme döneminde, bir sağlık sorununuz varsa veya ilaç kullanıyorsanız hekiminize danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Çocuğunun bağırsak florasını desteklemek isteyen ebeveynler Duobalance Kids'i Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -16618,24 +16618,24 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/eyup-sabri-tuncer-dogal-hindistan-cevizi-ozlu-dis-macunu-90-ml-8731.webp</Image1>
 <Description><![CDATA[<section>
-<p><strong>Ey&#252;p Sabri Tuncer Do&#287;al Hindistan Cevizi &#214;zl&#252; Di&#351; Macunu 90 ml</strong>, hindistan cevizi &#246;z&#252; i&#231;erir &#246;ne &#231;&#305;kan, do&#287;al i&#231;erikli ve flor&#252;rs&#252;z bir di&#351; macunudur. G&#252;nl&#252;k a&#287;&#305;z bak&#305;m&#305;nda do&#287;al i&#231;erikli, flor&#252;rs&#252;z bir form&#252;l arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Eyüp Sabri Tuncer Doğal Hindistan Cevizi Özlü Diş Macunu 90 ml</strong>, hindistan cevizi özü içerir öne çıkan, doğal içerikli ve florürsüz bir diş macunudur. Günlük ağız bakımında doğal içerikli, florürsüz bir formül arayanlar için tasarlanmıştır.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>Hindistan cevizi &#246;z&#252; i&#231;eren do&#287;al bir form&#252;le sahiptir</li>
-<li>Nane ferahl&#305;&#287;&#305;yla nazik bir a&#287;&#305;z bak&#305;m&#305; sunar.</li>
-<li>Hidrate silika ile di&#351;lerin temizlenmesine yard&#305;mc&#305; olur.</li>
-<li>Plak ve &#231;&#252;r&#252;k olu&#351;umuna kar&#351;&#305; desteklemeye y&#246;neliktir.</li>
-<li>SLS, paraben, triklosan ve flor&#252;r i&#231;ermez.</li>
-<li>Stevia ile tatland&#305;r&#305;lm&#305;&#351; do&#287;al bir form&#252;le sahiptir.</li>
-<li>G&#252;nl&#252;k kullan&#305;ma uygundur.</li>
+<li>Hindistan cevizi özü içeren doğal bir formüle sahiptir</li>
+<li>Nane ferahlığıyla nazik bir ağız bakımı sunar.</li>
+<li>Hidrate silika ile dişlerin temizlenmesine yardımcı olur.</li>
+<li>Dişlerin ve ağız içinin temizlenmesine yardımcı olur.</li>
+<li>SLS, paraben, triklosan ve florür içermez.</li>
+<li>Stevia ile tatlandırılmış doğal bir formüle sahiptir.</li>
+<li>Günlük kullanıma uygundur.</li>
 <li>90 ml ambalajda sunulur.</li>
-<li>Kolay kullan&#305;m&#305;yla g&#252;nl&#252;k t&#252;ketime uygundur.</li>
+<li>Kolay kullanımıyla günlük tüketime uygundur.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;nde iki kez, bezelye b&#252;y&#252;kl&#252;&#287;&#252;nde macunla di&#351;lerinizi nazik&#231;e f&#305;r&#231;alay&#305;n. D&#252;zenli kullan&#305;mda di&#351; ve di&#351; eti bak&#305;m&#305;na katk&#305; sa&#287;lar.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca harici (a&#287;&#305;z bak&#305;m&#305;) kullan&#305;m i&#231;indir. F&#305;r&#231;alama sonras&#305; a&#287;z&#305;n&#305;z&#305; durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Hindistan cevizi &#246;zl&#252; do&#287;al bir di&#351; macunu arayanlar Ey&#252;p Sabri Tuncer Hindistan Cevizi &#214;zl&#252; Di&#351; Macunu'nu Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde iki kez, bezelye büyüklüğünde macunla dişlerinizi nazikçe fırçalayın. Düzenli kullanımda diş ve diş eti bakımına katkı sağlar.</p>
+<h2>Uyarılar</h2>
+<p>Yalnızca harici (ağız bakımı) kullanım içindir. Fırçalama sonrası ağzınızı durulayın. Tahriş oluşması durumunda kullanımı bırakın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Hindistan cevizi özlü doğal bir diş macunu arayanlar Eyüp Sabri Tuncer Hindistan Cevizi Özlü Diş Macunu'nu Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -16664,24 +16664,24 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/eyup-sabri-tuncer-dogal-karabas-otu-lavanta-ve-kekik-ozlu-dis-macunu-90-ml-8732.webp</Image1>
 <Description><![CDATA[<section>
-<p><strong>Ey&#252;p Sabri Tuncer Do&#287;al Karaba&#351; Otu, Lavanta ve Kekik &#214;zl&#252; Di&#351; Macunu 90 ml</strong>, karaba&#351; otu, lavanta ve kekik &#246;zleri i&#231;erir &#246;ne &#231;&#305;kan, do&#287;al i&#231;erikli ve flor&#252;rs&#252;z bir di&#351; macunudur. G&#252;nl&#252;k a&#287;&#305;z bak&#305;m&#305;nda do&#287;al i&#231;erikli, flor&#252;rs&#252;z bir form&#252;l arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Eyüp Sabri Tuncer Doğal Karabaş Otu, Lavanta ve Kekik Özlü Diş Macunu 90 ml</strong>, karabaş otu, lavanta ve kekik özleri içerir öne çıkan, doğal içerikli ve florürsüz bir diş macunudur. Günlük ağız bakımında doğal içerikli, florürsüz bir formül arayanlar için tasarlanmıştır.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>Karaba&#351; otu, lavanta ve kekik &#246;zleri i&#231;erir</li>
-<li>Nane ya&#287;&#305; ve mentol ile g&#252;n boyu ferahl&#305;k sunar.</li>
-<li>Hidrate silika ile di&#351;lerin temizlenmesine yard&#305;mc&#305; olur.</li>
-<li>Plak ve &#231;&#252;r&#252;k olu&#351;umuna kar&#351;&#305; desteklemeye y&#246;neliktir.</li>
-<li>SLS, paraben, triklosan ve flor&#252;r i&#231;ermez.</li>
-<li>Stevia ile tatland&#305;r&#305;lm&#305;&#351; do&#287;al bir form&#252;le sahiptir.</li>
-<li>G&#252;nl&#252;k kullan&#305;ma uygundur.</li>
+<li>Karabaş otu, lavanta ve kekik özleri içerir</li>
+<li>Nane yağı ve mentol ile gün boyu ferahlık sunar.</li>
+<li>Hidrate silika ile dişlerin temizlenmesine yardımcı olur.</li>
+<li>Dişlerin ve ağız içinin temizlenmesine yardımcı olur.</li>
+<li>SLS, paraben, triklosan ve florür içermez.</li>
+<li>Stevia ile tatlandırılmış doğal bir formüle sahiptir.</li>
+<li>Günlük kullanıma uygundur.</li>
 <li>90 ml ambalajda sunulur.</li>
-<li>Sa&#287;l&#305;kl&#305; bir ya&#351;am tarz&#305;n&#305;n destekleyicisi olarak d&#252;&#351;&#252;n&#252;lebilir.</li>
+<li>Sağlıklı bir yaşam tarzının destekleyicisi olarak düşünülebilir.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;nde iki kez, bezelye b&#252;y&#252;kl&#252;&#287;&#252;nde macunla di&#351;lerinizi nazik&#231;e f&#305;r&#231;alay&#305;n. D&#252;zenli kullan&#305;m &#246;nerilir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca harici (a&#287;&#305;z bak&#305;m&#305;) kullan&#305;m i&#231;indir. F&#305;r&#231;alama sonras&#305; a&#287;z&#305;n&#305;z&#305; durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Bitkisel &#246;zl&#252;, ferah bir di&#351; macunu arayanlar Ey&#252;p Sabri Tuncer Karaba&#351; Otu Lavanta Kekik Di&#351; Macunu'nu Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde iki kez, bezelye büyüklüğünde macunla dişlerinizi nazikçe fırçalayın. Düzenli kullanım önerilir.</p>
+<h2>Uyarılar</h2>
+<p>Yalnızca harici (ağız bakımı) kullanım içindir. Fırçalama sonrası ağzınızı durulayın. Tahriş oluşması durumunda kullanımı bırakın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Bitkisel özlü, ferah bir diş macunu arayanlar Eyüp Sabri Tuncer Karabaş Otu Lavanta Kekik Diş Macunu'nu Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -16850,25 +16850,25 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/eyup-sabri-tuncer-dogal-nane-ozlu-dis-macunu-90-ml-8736.webp</Image1>
 <Description><![CDATA[<section>
-<p><strong>Ey&#252;p Sabri Tuncer Do&#287;al Nane &#214;zl&#252; Di&#351; Macunu 90 ml</strong>, nane ya&#287;&#305; ve mentol ile uzun s&#252;reli ferahl&#305;k sa&#287;lar &#246;ne &#231;&#305;kan, do&#287;al i&#231;erikli ve flor&#252;rs&#252;z bir di&#351; macunudur. G&#252;nl&#252;k a&#287;&#305;z bak&#305;m&#305;nda do&#287;al i&#231;erikli, flor&#252;rs&#252;z bir form&#252;l arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Eyüp Sabri Tuncer Doğal Nane Özlü Diş Macunu 90 ml</strong>, nane yağı ve mentol ile uzun süreli ferahlık sağlar öne çıkan, doğal içerikli ve florürsüz bir diş macunudur. Günlük ağız bakımında doğal içerikli, florürsüz bir formül arayanlar için tasarlanmıştır.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>Nane ya&#287;&#305; ve mentol ile uzun s&#252;reli ferahl&#305;k sa&#287;lar</li>
-<li>Okalipt&#252;s &#246;z&#252;yle ferah bir a&#287;&#305;z bak&#305;m&#305; sunar.</li>
-<li>Hidrate silika ile di&#351;lerin temizlenmesine yard&#305;mc&#305; olur.</li>
-<li>Plak ve &#231;&#252;r&#252;k olu&#351;umuna kar&#351;&#305; desteklemeye y&#246;neliktir.</li>
-<li>SLS, paraben, triklosan ve flor&#252;r i&#231;ermez.</li>
-<li>Stevia ile tatland&#305;r&#305;lm&#305;&#351; do&#287;al bir form&#252;le sahiptir.</li>
-<li>G&#252;nl&#252;k kullan&#305;ma uygundur.</li>
+<li>Nane yağı ve mentol ile uzun süreli ferahlık sağlar</li>
+<li>Okaliptüs özüyle ferah bir ağız bakımı sunar.</li>
+<li>Hidrate silika ile dişlerin temizlenmesine yardımcı olur.</li>
+<li>Dişlerin ve ağız içinin temizlenmesine yardımcı olur.</li>
+<li>SLS, paraben, triklosan ve florür içermez.</li>
+<li>Stevia ile tatlandırılmış doğal bir formüle sahiptir.</li>
+<li>Günlük kullanıma uygundur.</li>
 <li>90 ml ambalajda sunulur.</li>
-<li>Yeti&#351;kinlerin g&#252;nl&#252;k deste&#287;ine y&#246;nelik geli&#351;tirilmi&#351;tir.</li>
-<li>Dengeli beslenmeyi tamamlay&#305;c&#305; olarak de&#287;erlendirilebilir.</li>
+<li>Yetişkinlerin günlük desteğine yönelik geliştirilmiştir.</li>
+<li>Dengeli beslenmeyi tamamlayıcı olarak değerlendirilebilir.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;nde iki kez, bezelye b&#252;y&#252;kl&#252;&#287;&#252;nde macunla di&#351;lerinizi nazik&#231;e f&#305;r&#231;alay&#305;n. D&#252;zenli kullan&#305;m &#246;nerilir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca harici (a&#287;&#305;z bak&#305;m&#305;) kullan&#305;m i&#231;indir. F&#305;r&#231;alama sonras&#305; a&#287;z&#305;n&#305;z&#305; durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Do&#287;al, ferahlat&#305;c&#305; bir nane di&#351; macunu arayanlar Ey&#252;p Sabri Tuncer Nane &#214;zl&#252; Di&#351; Macunu'nu Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde iki kez, bezelye büyüklüğünde macunla dişlerinizi nazikçe fırçalayın. Düzenli kullanım önerilir.</p>
+<h2>Uyarılar</h2>
+<p>Yalnızca harici (ağız bakımı) kullanım içindir. Fırçalama sonrası ağzınızı durulayın. Tahriş oluşması durumunda kullanımı bırakın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Doğal, ferahlatıcı bir nane diş macunu arayanlar Eyüp Sabri Tuncer Nane Özlü Diş Macunu'nu Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -22433,8 +22433,9 @@
 <Barcode>3600524167202</Barcode>
 <Name><![CDATA[L’Oreal Paris Infaillible Göz Kalemi 14 Bordeaux]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Göz Bakımı]]></category>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Göz Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -24837,25 +24838,22 @@
 <Image2>https://www.farmaneva.com/uploads/urunler/lierac-paris-sunissime-after-sun-soothing-rescue-mask-18-ml-9092.webp</Image2>
 <Image3>https://www.farmaneva.com/uploads/urunler/lierac-paris-sunissime-after-sun-soothing-rescue-mask-18-ml-9093.webp</Image3>
 <Description><![CDATA[<section>
-<p><strong>Lierac Paris Sunissime After Sun Soothing Rescue Milk</strong>, g&#252;ne&#351; sonras&#305; cildi yat&#305;&#351;t&#305;rmaya ve fotoya&#351;lanmaya kar&#351;&#305; onarmaya y&#246;nelik, ferahlat&#305;c&#305; bir g&#252;ne&#351; sonras&#305; bak&#305;m s&#252;t&#252;d&#252;r. G&#252;ne&#351;ten sonra cildine yo&#287;un rahatlama ve nem arayanlar i&#231;in sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Lierac Paris Sunissime After Sun Soothing Rescue Mask 18 ml</strong>, güneş sonrası cildi yatıştırmaya ve nemlendirmeye yönelik, yoğun etkili bir güneş sonrası bakım maskesidir. Güneşte kalmış, ısınmış ve gerginlik hisseden cildine hızlı bir rahatlama ve nem desteği arayanlar için 18 ml ambalajda sunulur.</p>
+<h2>Lierac Paris Sunissime After Sun Soothing Rescue Mask 18 ml Özellikleri</h2>
 <ul>
-<li>G&#252;ne&#351; sonras&#305; cildi yat&#305;&#351;t&#305;rmaya y&#246;neliktir.</li>
-<li>Hamamelis ekstresiyle cildi onarmaya destek olur.</li>
-<li>Omega 3-9 ve hyal&#252;ronik asit i&#231;eren yat&#305;&#351;t&#305;r&#305;c&#305; kompleks sunar.</li>
-<li>Serinletici (cryo) doku hissiyle &#305;s&#305;nma hissini azalt&#305;r.</li>
-<li>Cildi yo&#287;un bi&#231;imde nemlendirir ve an&#305;nda ferahlat&#305;r.</li>
-<li>Bronzlu&#287;un daha e&#351;it g&#246;r&#252;nmesine destek olur.</li>
-<li>Yaz aylar&#305;nda g&#252;ne&#351; sonras&#305; bak&#305;m rutinine kolayca eklenir.</li>
-<li>G&#252;ne&#351; g&#246;ren y&#252;z ve v&#252;cut b&#246;lgelerinde rahat&#231;a kullan&#305;labilir.</li>
-<li>G&#252;ne&#351;e &#231;&#305;kmadan &#246;nce uygulanmas&#305; &#246;nerilir.</li>
-<li>A&#231;&#305;k hava, plaj ve havuz kullan&#305;m&#305; i&#231;in uygundur.</li>
+<li>Güneş sonrası cildi yatıştırmaya yöneliktir.</li>
+<li>Güneşte kalmış cildi yoğun biçimde nemlendirir.</li>
+<li>Isınma ve gerginlik hissini azaltmaya yardımcı olur.</li>
+<li>Maske formuyla yoğun bir bakım adımı sunar.</li>
+<li>Lierac Sunissime güneş sonrası bakım serisinin parçasıdır.</li>
+<li>Yaz aylarında güneş sonrası bakım rutinine kolayca eklenir.</li>
+<li>18 ml pratik ambalajı tatil çantasında az yer kaplar.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;ne&#351;lenme sonras&#305; temizlenmi&#351; cilde nazik&#231;e uygulay&#305;p yedirin. &#304;htiya&#231; h&#226;linde g&#252;n i&#231;inde tekrarlayabilirsiniz.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>G&#252;ne&#351; sonras&#305; yat&#305;&#351;t&#305;r&#305;c&#305; bir bak&#305;m arayanlar Lierac Sunissime After Sun'&#305; Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Güneşlenme sonrası temizlenmiş cilde yeterli miktarda uygulayın. Ambalajda belirtilen süre boyunca bekletin, ardından fazlasını nazikçe yedirin ya da silin. İhtiyaç hâlinde güneş sonrası rutininizde tekrarlayabilirsiniz.</p>
+<h2>Uyarılar</h2>
+<p>Yalnızca harici kullanım içindir. Güneş koruyucu değildir; güneşe çıkmadan önce güneş koruyucu kullanın. Gözle temasından kaçının; temas hâlinde bol suyla durulayın. Tahriş oluşması durumunda kullanımı bırakın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Güneş sonrası yoğun yatıştırıcı bir bakım maskesi arayanlar Lierac Sunissime After Sun Soothing Rescue Mask'i Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -27974,7 +27972,7 @@
 <Brand><![CDATA[Mustela]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2027-03-01</Miad>
@@ -28073,7 +28071,7 @@
 <Brand><![CDATA[Mustela]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -28512,7 +28510,7 @@
 <Brand><![CDATA[Mustela]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -28759,7 +28757,7 @@
 <Brand><![CDATA[Mustela]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -28806,9 +28804,9 @@
 <Barcode>3504105037567</Barcode>
 <Name><![CDATA[Mustela Very High Protection Spf 50 Güneş Losyonu 200 ml]]></Name>
 <Brand><![CDATA[Mustela]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -28854,9 +28852,9 @@
 <Barcode>3504105037772</Barcode>
 <Name><![CDATA[Mustela Very High Protection Stick SPF50+ 9 ml]]></Name>
 <Brand><![CDATA[Mustela]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -28954,7 +28952,7 @@
 <Brand><![CDATA[Mustela]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2026-11-01</Miad>
@@ -29001,9 +28999,9 @@
 <Barcode>3504105037550</Barcode>
 <Name><![CDATA[Mustela Yüksek Koruma Faktörlü SPF50+ Bebek Güneş Kremi 100 ml]]></Name>
 <Brand><![CDATA[Mustela]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
+<subCategory><![CDATA[Güneş Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -29101,7 +29099,7 @@
 <Brand><![CDATA[Mustela]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -32472,7 +32470,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad></Miad>
@@ -32517,7 +32515,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -32565,7 +32563,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
@@ -32609,7 +32607,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>12</Stock>
 <Miad></Miad>
@@ -32698,7 +32696,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -32837,7 +32835,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -32978,7 +32976,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
@@ -33026,7 +33024,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>12</Stock>
 <Miad></Miad>
@@ -33613,7 +33611,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -33708,7 +33706,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -33845,7 +33843,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -34074,7 +34072,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -34715,8 +34713,8 @@
 <Price8>559.19</Price8>
 <Price9>379.12</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8680512628392</HepsiburadaSku>
-<SaticiStokKodu>8680512628392</SaticiStokKodu>
+<HepsiburadaSku>HBV00000WGL2O</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00772</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-men-s-multi-vitamin-complex-60-tablet-36683.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nutraxin-men-s-multi-vitamin-complex-60-tablet-36684.webp</Image2>
@@ -35714,7 +35712,7 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Vücut Bakımı]]></category>
-<subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -35762,7 +35760,7 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Vücut Bakımı]]></category>
-<subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -35810,7 +35808,7 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Vücut Bakımı]]></category>
-<subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -35997,8 +35995,8 @@
 <Name><![CDATA[Nuxe Huile Prodigieuse Or Set - Kuru Yağ 50 ml + Reve De Miel Dudak Balı + Huile Prodigieuse 10 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Dudak Bakımı]]></category>
-<subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -36044,8 +36042,8 @@
 <Name><![CDATA[Nuxe Huile Prodigieuse Set - Kuru Yağ 50 ml + Hair Prodigieux Şampuan 50 ml + Reve De Miel Dudak Balmı 15 gr]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Dudak Bakımı]]></category>
-<subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -36229,7 +36227,7 @@
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Vücut Bakımı]]></category>
-<subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
 <Stock>16</Stock>
 <Miad></Miad>
@@ -37947,9 +37945,9 @@
 <Barcode>3264680008726</Barcode>
 <Name><![CDATA[Nuxe Sun Güneş Sonrası Şampuan 200 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Güneş Bakımı]]></category>
-<subCategory><![CDATA[Güneş Sonrası Bakım]]></subCategory>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
+<subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -39829,25 +39827,24 @@
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-glucosamine-complex-60-tablet-1-alana-1-hediye-36974.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-glucosamine-complex-60-tablet-45629.webp</Image5>
 <Description><![CDATA[<section>
-<p><strong>Ocean Glucosamine Complex 60 Tablet</strong>, glukozamin s&#252;lfat, kondroitin s&#252;lfat ve MSM'yi bir arada sunan takviye edici g&#305;dad&#305;r. Bu bile&#351;enlere Harpagophytum procumbens &#246;z&#252;, magnezyum ve Tip II kolajen eklenen form&#252;l&#252;, eklem ve kemik sa&#287;l&#305;&#287;&#305;na y&#246;nelik g&#252;nl&#252;k deste&#287;ini bu i&#231;eriklerle tamamlamak isteyen yeti&#351;kinlere y&#246;neliktir. &#220;r&#252;n 1 Alana 1 Hediye kampanyas&#305; kapsam&#305;nda sunulmaktad&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Ocean Glucosamine Complex 60 Tablet</strong>, glukozamin sülfat, kondroitin sülfat ve MSM'yi bir arada sunan takviye edici gıdadır. Bu bileşenlere Harpagophytum procumbens özü, magnezyum ve Tip II kolajen eklenen formülü, eklem ve kemik sağlığına yönelik günlük desteğini bu içeriklerle tamamlamak isteyen yetişkinlere yöneliktir.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>1500 mg glukozamin s&#252;lfat i&#231;erir</li>
-<li>400 mg kondroitin s&#252;lfat i&#231;erir</li>
-<li>250 mg MSM (metils&#252;lfonilmetan) i&#231;erir</li>
-<li>Harpagophytum procumbens (&#351;eytan pen&#231;esi) &#246;z&#252; ile desteklenmi&#351;</li>
-<li>Tip II kolajen ilaveli bile&#351;im</li>
-<li>60 mg magnezyum i&#231;erir</li>
-<li>Magnezyum normal kas fonksiyonuna katk&#305;da bulunur</li>
-<li>Normal kemiklerin korunmas&#305;na katk&#305; sa&#287;lar</li>
+<li>1500 mg glukozamin sülfat içerir</li>
+<li>400 mg kondroitin sülfat içerir</li>
+<li>250 mg MSM (metilsülfonilmetan) içerir</li>
+<li>Harpagophytum procumbens (şeytan pençesi) özü ile desteklenmiş</li>
+<li>Tip II kolajen ilaveli bileşim</li>
+<li>60 mg magnezyum içerir</li>
+<li>Magnezyum normal kas fonksiyonuna katkıda bulunur</li>
+<li>Normal kemiklerin korunmasına katkı sağlar</li>
 <li>60 tabletlik kutu</li>
-<li>1 Alana 1 Hediye avantajl&#305; sunum</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Yeti&#351;kinler i&#231;in &#246;nerilen g&#252;nl&#252;k kullan&#305;m genellikle 2 tablettir ve bir bardak su ile al&#305;n&#305;r. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Kesin kullan&#305;m &#351;ekli i&#231;in ambalaj &#252;zerindeki bilgileri ve k&#305;lavuzu dikkate al&#305;n.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerini tutmaz. Hamilelik, emzirme, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n&#252; g&#252;nl&#252;k eklem deste&#287;inize ekleyebilirsiniz.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Yetişkinler için önerilen günlük kullanım genellikle 2 tablettir ve bir bardak su ile alınır. Önerilen günlük dozu aşmayın. Kesin kullanım şekli için ambalaj üzerindeki bilgileri ve kılavuzu dikkate alın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir. Hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin yerini tutmaz. Hamilelik, emzirme, hastalık veya ilaç kullanımı durumunda doktorunuza danışın. Çocukların ulaşamayacağı yerde saklayın.</p>
+<p>Farmaneva güvencesiyle sunulan bu ürünü günlük eklem desteğinize ekleyebilirsiniz.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -43722,24 +43719,23 @@
 <Image2>https://www.farmaneva.com/uploads/urunler/otaci-pastisin-cocuk-c-vitaminli-karisik-meyveli-24-pastil-10022.webp</Image2>
 <Image3>https://www.farmaneva.com/uploads/urunler/otaci-pastisin-cocuk-c-vitaminli-karisik-meyveli-24-pastil-10023.webp</Image3>
 <Description><![CDATA[<section>
-<p><strong>Otac&#305; Pastisin &#199;ocuk C Vitaminli Kar&#305;&#351;&#305;k Meyveli 24 Pastil</strong>, C vitamini i&#231;eren, kar&#305;&#351;&#305;k meyve aromal&#305; bitkisel &#231;ocuk pastilleridir. Bo&#287;az konforuna ve ba&#287;&#305;&#351;&#305;kl&#305;&#287;a destek olmak isteyen &#231;ocuklar (ve aileleri) i&#231;in 24'l&#252; ambalajda sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Otacı Pastisin Çocuk C Vitaminli Karışık Meyveli 24 Pastil</strong>, C vitamini içeren, karışık meyve aromalı bitkisel çocuk pastilleridir. Boğaz konforuna ve bağışıklığa destek olmak isteyen çocuklar (ve aileleri) için 24'lü ambalajda sunulur.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>C vitamini i&#231;eren bir form&#252;le sahiptir.</li>
-<li>Kar&#305;&#351;&#305;k meyve (tutti frutti) aromas&#305;yla keyifli kullan&#305;m sunar.</li>
-<li>Nane ya&#287;&#305; ve mentol ile ferahl&#305;k verir.</li>
-<li>C vitamini ba&#287;&#305;&#351;&#305;kl&#305;k sistemine katk&#305; sa&#287;lar.</li>
-<li>Bo&#287;az konforuna destek olmaya y&#246;neliktir.</li>
-<li>A&#287;&#305;zda emilen pratik pastil formundad&#305;r.</li>
-<li>Su gerektirmeden her an kullan&#305;l&#305;r.</li>
-<li>24'l&#252; ambalajda sunulur.</li>
-<li>Yeti&#351;kinlerin g&#252;nl&#252;k deste&#287;ine y&#246;nelik geli&#351;tirilmi&#351;tir.</li>
+<li>C vitamini içeren bir formüle sahiptir.</li>
+<li>Karışık meyve (tutti frutti) aromasıyla keyifli kullanım sunar.</li>
+<li>Nane yağı ve mentol ile ferahlık verir.</li>
+<li>C vitamini bağışıklık sistemine katkı sağlar.</li>
+<li>Boğaz konforuna destek olmaya yöneliktir.</li>
+<li>Ağızda emilen pratik pastil formundadır.</li>
+<li>Su gerektirmeden her an kullanılır.</li>
+<li>24'lü ambalajda sunulur.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Pastilleri a&#287;&#305;zda yava&#351;&#231;a emerek t&#252;ketin; &#231;i&#287;nemeyin. Kesin kullan&#305;m i&#231;in &#252;r&#252;n ambalaj&#305;ndaki talimat&#305; izleyin; &#246;nerilen g&#252;nl&#252;k miktar&#305; a&#351;may&#305;n.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir sa&#287;l&#305;k sorununuz varsa veya ila&#231; kullan&#305;yorsan&#305;z hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>&#199;ocu&#287;una C vitaminli, ferahlat&#305;c&#305; bir pastil arayan aileler Otac&#305; Pastisin'i Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Pastilleri ağızda yavaşça emerek tüketin; çiğnemeyin. Kesin kullanım için ürün ambalajındaki talimatı izleyin; önerilen günlük miktarı aşmayın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Önerilen günlük dozu aşmayın. Hamilelik ve emzirme döneminde, bir sağlık sorununuz varsa veya ilaç kullanıyorsanız hekiminize danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Çocuğuna C vitaminli, ferahlatıcı bir pastil arayan aileler Otacı Pastisin'i Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -43813,8 +43809,8 @@
 <Price8>332.89</Price8>
 <Price9>170.55</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>5051562010407</HepsiburadaSku>
-<SaticiStokKodu>5051562010407</SaticiStokKodu>
+<HepsiburadaSku>HBCV00004T3SRY</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00968</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/otribebe-nazal-aspirator-yedek-ucu-10-lu-37171.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/otribebe-nazal-aspirator-yedek-ucu-10lu-46216.webp</Image2>
@@ -43865,26 +43861,24 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/otribebe-yumusak-uclu-nazal-aspirator-10026.webp</Image1>
 <Description><![CDATA[<section>
-<p><strong>Otribebe Yumu&#351;ak U&#231;lu Nazal Aspirat&#246;r</strong>, bebeklerin burnundaki birikintiyi yumu&#351;ak u&#231;la nazik&#231;e temizlemeye yarayan bir nazal aspirat&#246;rd&#252;r. Bebe&#287;inin rahat nefes almas&#305;na yard&#305;mc&#305; olmak isteyen ebeveynler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Otribebe Yumuşak Uçlu Nazal Aspiratör</strong>, bebeklerin burnundaki birikintiyi yumuşak uçla nazikçe temizlemeye yarayan bir nazal aspiratördür. Bebeğinin rahat nefes almasına yardımcı olmak isteyen ebeveynler için tasarlanmıştır.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>Bebe&#287;in burnundaki birikintiyi temizlemeye yarar.</li>
-<li>Buruna nazik, yumu&#351;ak uca sahiptir.</li>
-<li>Bebe&#287;in rahat nefes almas&#305;na yard&#305;mc&#305; olur.</li>
-<li>Kontroll&#252; emi&#351; sa&#287;layan bir tasar&#305;ma sahiptir.</li>
-<li>Kolayca temizlenebilen par&#231;alara sahiptir.</li>
-<li>Serum fizyolojik ile birlikte kullan&#305;labilir.</li>
-<li>Evde pratik, sessiz ve kolay kullan&#305;m i&#231;in uygundur.</li>
-<li>Bebeklerin hassasiyeti d&#252;&#351;&#252;n&#252;lerek haz&#305;rlanm&#305;&#351;t&#305;r.</li>
-<li>Bebe&#287;in burnunu pratik bi&#231;imde rahatlatmak isteyen ebeveynler i&#231;in uygundur.</li>
-<li>G&#252;nl&#252;k rutine kolayca eklenen pratik bir takviyedir.</li>
-<li>Yeti&#351;kinlerin g&#252;nl&#252;k deste&#287;ine y&#246;nelik geli&#351;tirilmi&#351;tir.</li>
+<li>Bebeğin burnundaki birikintiyi temizlemeye yarar.</li>
+<li>Buruna nazik, yumuşak uca sahiptir.</li>
+<li>Bebeğin rahat nefes almasına yardımcı olur.</li>
+<li>Kontrollü emiş sağlayan bir tasarıma sahiptir.</li>
+<li>Kolayca temizlenebilen parçalara sahiptir.</li>
+<li>Serum fizyolojik ile birlikte kullanılabilir.</li>
+<li>Evde pratik, sessiz ve kolay kullanım için uygundur.</li>
+<li>Bebeklerin hassasiyeti düşünülerek hazırlanmıştır.</li>
+<li>Bebeğin burnunu pratik biçimde rahatlatmak isteyen ebeveynler için uygundur.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>&#214;nce buruna birka&#231; damla serum fizyolojik damlat&#305;n, ard&#305;ndan aspirat&#246;r&#252;n yumu&#351;ak ucuyla burnu nazik&#231;e temizleyin. Her kullan&#305;m sonras&#305; par&#231;alar&#305; temizleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>T&#305;bbi/bak&#305;m ama&#231;l&#305; bir &#252;r&#252;nd&#252;r; kullanmadan &#246;nce kullan&#305;m k&#305;lavuzunu okuyun. Hijyen kurallar&#305;na uyun ve par&#231;alar&#305; talimata g&#246;re temizleyin. Teredd&#252;t durumunda bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Bebe&#287;inin burnunu nazik&#231;e temizlemek isteyen ebeveynler Otribebe Nazal Aspirat&#246;r'&#252; Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Önce buruna birkaç damla serum fizyolojik damlatın, ardından aspiratörün yumuşak ucuyla burnu nazikçe temizleyin. Her kullanım sonrası parçaları temizleyin.</p>
+<h2>Uyarılar</h2>
+<p>Tıbbi/bakım amaçlı bir üründür; kullanmadan önce kullanım kılavuzunu okuyun. Hijyen kurallarına uyun ve parçaları talimata göre temizleyin. Tereddüt durumunda bir sağlık uzmanına danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Bebeğinin burnunu nazikçe temizlemek isteyen ebeveynler Otribebe Nazal Aspiratör'ü Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -44787,22 +44781,21 @@
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/philips-avent-scf85-60-ultra-air-6-18-erkek-emzik-40410.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/philips-avent-scf85-60-ultra-air-6-18-erkek-emzik-40646.webp</Image5>
 <Description><![CDATA[<section>
-<p><strong>Philips Avent SCF85/60 Ultra Air 6-18 Ay Erkek Emzik</strong>, 6-18 ay bebekler i&#231;in geli&#351;tirilmi&#351;, geni&#351; hava delikleri sayesinde emzik &#231;evresindeki cildi kuru tutmaya yard&#305;mc&#305; olan ortodontik bir emziktir. Bebe&#287;inin konforunu ve sa&#287;l&#305;kl&#305; a&#287;&#305;z geli&#351;imini &#246;nemseyen ebeveynler i&#231;in erkek bebeklere y&#246;nelik renk se&#231;ene&#287;iyle sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Philips Avent SCF85/60 Ultra Air 6-18 Ay Erkek Emzik</strong>, 6-18 ay bebekler için geliştirilmiş, geniş hava delikleri sayesinde emzik çevresindeki cildi kuru tutmaya yardımcı olan ortodontik bir emziktir. Bebeğinin konforunu ve sağlıklı ağız gelişimini önemseyen ebeveynler için erkek bebeklere yönelik renk seçeneğiyle sunulur.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>Geni&#351; hava delikleri, emzik &#231;evresindeki cildin kuru kalmas&#305;na yard&#305;mc&#305; olur.</li>
-<li>Ortodontik ve simetrik tasar&#305;m&#305; do&#287;al a&#287;&#305;z geli&#351;imini destekler.</li>
-<li>Yumu&#351;ak silikon yap&#305;ya sahiptir.</li>
-<li>BPA i&#231;ermez.</li>
-<li>Mikrodalgada sterilize edilebilen ta&#351;&#305;ma kutusuyla gelir.</li>
-<li>6-18 ay d&#246;nemine uygun &#246;l&#231;&#252;de tasarlanm&#305;&#351;t&#305;r.</li>
-<li>Yeti&#351;kinlerin g&#252;nl&#252;k deste&#287;ine y&#246;nelik geli&#351;tirilmi&#351;tir.</li>
+<li>Geniş hava delikleri, emzik çevresindeki cildin kuru kalmasına yardımcı olur.</li>
+<li>Ortodontik ve simetrik tasarımı doğal ağız gelişimini destekler.</li>
+<li>Yumuşak silikon yapıya sahiptir.</li>
+<li>BPA içermez.</li>
+<li>Mikrodalgada sterilize edilebilen taşıma kutusuyla gelir.</li>
+<li>6-18 ay dönemine uygun ölçüde tasarlanmıştır.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>&#304;lk kullan&#305;mdan &#246;nce ve d&#252;zenli aral&#305;klarla emzi&#287;i sterilize edin. Her kullan&#305;mdan &#246;nce emzi&#287;i kontrol edin; y&#305;prand&#305;&#287;&#305;nda veya zarar g&#246;rd&#252;&#287;&#252;nde yenisiyle de&#287;i&#351;tirin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Emzi&#287;i bebe&#287;in boynuna ip veya ba&#287; ile takmay&#305;n. Her kullan&#305;m &#246;ncesi y&#305;pranma kontrol&#252; yap&#305;n; ilk y&#305;rt&#305;k veya zay&#305;fl&#305;k belirtisinde de&#287;i&#351;tirin. Bebe&#287;inizi g&#246;zetimsiz b&#305;rakmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Bebe&#287;inin konforunu &#246;nemseyen ebeveynler Philips Avent Ultra Air 6-18 ay emzi&#287;ini Farmaneva g&#252;vencesiyle edinebilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>İlk kullanımdan önce ve düzenli aralıklarla emziği sterilize edin. Her kullanımdan önce emziği kontrol edin; yıprandığında veya zarar gördüğünde yenisiyle değiştirin.</p>
+<h2>Uyarılar</h2>
+<p>Emziği bebeğin boynuna ip veya bağ ile takmayın. Her kullanım öncesi yıpranma kontrolü yapın; ilk yırtık veya zayıflık belirtisinde değiştirin. Bebeğinizi gözetimsiz bırakmayın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Bebeğinin konforunu önemseyen ebeveynler Philips Avent Ultra Air 6-18 ay emziğini Farmaneva güvencesiyle edinebilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -45625,7 +45618,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Oda Kokusu]]></subCategory>
 <Tax>20</Tax>
 <Stock>15</Stock>
 <Miad></Miad>
@@ -45670,7 +45663,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Oda Kokusu]]></subCategory>
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad></Miad>
@@ -46050,7 +46043,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Oda Kokusu]]></subCategory>
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad></Miad>
@@ -46092,8 +46085,8 @@
 <Name><![CDATA[Rebul Green Tea Kolonya 250 ml]]></Name>
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
+<subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
 <Stock>42</Stock>
 <Miad></Miad>
@@ -47393,7 +47386,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Oda Kokusu]]></subCategory>
 <Tax>20</Tax>
 <Stock>9</Stock>
 <Miad></Miad>
@@ -48078,21 +48071,20 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/redoxon-kids-60-cignenebilir-tablet-10243.webp</Image1>
 <Description><![CDATA[<section>
-<p><strong>Redoxon Kids 60 &#199;i&#287;nenebilir Tablet</strong>, &#231;ocuklar i&#231;in &#246;zel olarak geli&#351;tirilmi&#351;, C vitamini, D vitamini ve &#231;inko i&#231;eren &#231;i&#287;nenebilir formda bir takviye edici g&#305;dad&#305;r. &#199;ocu&#287;unun g&#252;nl&#252;k vitamin deste&#287;ini keyifle almas&#305;n&#305; isteyen ebeveynler i&#231;in meyve aromalar&#305;yla sunulur.</p>
-<h2>Redoxon Kids &#214;zellikleri</h2>
+<p><strong>Redoxon Kids 60 Çiğnenebilir Tablet</strong>, çocuklar için özel olarak geliştirilmiş, C vitamini, D vitamini ve çinko içeren çiğnenebilir formda bir takviye edici gıdadır. Çocuğunun günlük vitamin desteğini keyifle almasını isteyen ebeveynler için meyve aromalarıyla sunulur.</p>
+<h2>Redoxon Kids Özellikleri</h2>
 <ul>
-<li>Her tablette 30 mg C vitamini, D vitamini ve &#231;inko i&#231;erir.</li>
-<li>C, D vitaminleri ve &#231;inko ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal i&#351;leyi&#351;ine katk&#305;da bulunur.</li>
-<li>&#199;ilek, papaya ve portakal aromal&#305;, &#231;i&#287;nenebilir formdad&#305;r.</li>
-<li>&#199;ocuklar&#305;n kolayca t&#252;ketebilece&#287;i &#351;ekilde tasarlanm&#305;&#351;t&#305;r.</li>
-<li>60 tabletlik ambalaj&#305; ile uzun s&#252;reli kullan&#305;m sunar.</li>
-<li>Yeti&#351;kinlerin g&#252;nl&#252;k deste&#287;ine y&#246;nelik geli&#351;tirilmi&#351;tir.</li>
+<li>Her tablette 30 mg C vitamini, D vitamini ve çinko içerir.</li>
+<li>C, D vitaminleri ve çinko bağışıklık sisteminin normal işleyişine katkıda bulunur.</li>
+<li>Çilek, papaya ve portakal aromalı, çiğnenebilir formdadır.</li>
+<li>Çocukların kolayca tüketebileceği şekilde tasarlanmıştır.</li>
+<li>60 tabletlik ambalajı ile uzun süreli kullanım sunar.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>4-10 ya&#351; aras&#305; &#231;ocuklar i&#231;in g&#252;nde en fazla 2, 11 ya&#351; ve &#252;zeri i&#231;in g&#252;nde en fazla 3 &#231;i&#287;nenebilir tablet &#246;nerilir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Hamilelik, emzirme d&#246;neminde veya bir rahats&#305;zl&#305;&#287;&#305;n&#305;z varsa kullanmadan &#246;nce doktorunuza dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>&#199;ocu&#287;unun g&#252;nl&#252;k vitamin deste&#287;ini keyifle almas&#305;n&#305; isteyen ebeveynler Redoxon Kids'i Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>4-10 yaş arası çocuklar için günde en fazla 2, 11 yaş ve üzeri için günde en fazla 3 çiğnenebilir tablet önerilir.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir. Hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik, emzirme döneminde veya bir rahatsızlığınız varsa kullanmadan önce doktorunuza danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Çocuğunun günlük vitamin desteğini keyifle almasını isteyen ebeveynler Redoxon Kids'i Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -51412,8 +51404,6 @@
 <li>Bir kutuda 30 adet çiğnenebilir jel bulunur.</li>
 <li>Şekersizdir.</li>
 <li>Çiğnenebilir formu sayesinde su kullanmadan tüketilebilir.</li>
-<li>Yetişkinlerin günlük omega-3 desteğine uygundur.</li>
-<li>Omega-3 yağ asitleri günlük beslenmeyi desteklemeye yöneliktir.</li>
 <li>Ambalajdaki kullanım önerisine uyunuz.</li>
 <li>Günlük rutine kolayca eklenen pratik bir takviyedir.</li>
 <li>Kapsül ya da klasik tablet yutmakta zorlananlar için pratik bir alternatif sunar.</li>
@@ -52078,23 +52068,23 @@
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-1-devam-sutu-450-gr-2-li-44221.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-optipro-1-devam-sutu-450-gr-2-li-44222.webp</Image5>
 <Description><![CDATA[<section>
-<p><strong>Sma Optipro 1 Devam S&#252;t&#252; 450 gr 2'li</strong>, 0-6 ayl&#305;k bebeklerin beslenmesi i&#231;in geli&#351;tirilmi&#351;, Nestl&#233;'nin OPTIPRO protein teknolojisini temel alan toz bebek s&#252;t&#252;d&#252;r. Anne s&#252;t&#252;yle beslenemeyen bebeklerde, ba&#287;&#305;ms&#305;z bir sa&#287;l&#305;k &#231;al&#305;&#351;an&#305;n&#305;n &#246;nerisiyle kullan&#305;lmak &#252;zere tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Sma Optipro 1 Bebek Sütü 450 gr 2'li</strong>, 0-6 aylık bebeklerin beslenmesi için geliştirilmiş, Nestlé'nin OPTIPRO protein teknolojisini temel alan toz bebek sütüdür. Anne sütüyle beslenemeyen bebeklerde, bağımsız bir sağlık çalışanının önerisiyle kullanılmak üzere tasarlanmıştır.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>0-6 ay d&#246;nemine uygun ba&#351;lang&#305;&#231; form&#252;l&#252;</li>
-<li>OPTIPRO protein teknolojisiyle dengeli protein miktar&#305; ve kalitesi</li>
-<li>A, D, E, K ve B grubu vitaminlerini i&#231;erir</li>
-<li>C vitamini, folik asit, biotin ve niasin kayna&#287;&#305;</li>
-<li>Demir, &#231;inko, kalsiyum, fosfor ve iyot gibi mineraller</li>
-<li>Bebe&#287;in geli&#351;im d&#246;nemine y&#246;nelik besleyici i&#231;erik</li>
-<li>Suda kolayca &#231;&#246;z&#252;nen pratik toz form</li>
-<li>&#214;l&#231;ekli, &#246;l&#231;mesi kolay kullan&#305;m (yakla&#351;&#305;k 4,3 g/&#246;l&#231;ek)</li>
-<li>2 adet 450 graml&#305;k kutudan olu&#351;an avantajl&#305; paket</li></ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Genellikle kaynat&#305;l&#305;p &#305;l&#305;t&#305;lm&#305;&#351; 30 ml suya bir &#246;l&#231;ek toz eklenerek haz&#305;rlan&#305;r. Bebe&#287;inizin ya&#351;&#305;na ve ihtiyac&#305;na g&#246;re kesin haz&#305;rlama oran&#305; ve g&#252;nl&#252;k miktar i&#231;in ambalaj &#252;zerindeki kullan&#305;m talimat&#305;na uyun. A&#231;&#305;lan kutuyu belirtilen s&#252;re i&#231;inde t&#252;ketin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Anne s&#252;t&#252; bebekler i&#231;in en iyi besindir; bu &#252;r&#252;n yaln&#305;zca anne s&#252;t&#252;yle beslenemeyen bebeklerde sa&#287;l&#305;k &#231;al&#305;&#351;an&#305; &#246;nerisiyle kullan&#305;lmal&#305;d&#305;r. Haz&#305;rlama ve saklama ko&#351;ullar&#305;na &#246;zenle uyun.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;nle bebe&#287;inizin beslenme rutinini destekleyebilirsiniz.</p></section>]]></Description>
+<li>0-6 ay dönemine uygun başlangıç formülü</li>
+<li>OPTIPRO protein teknolojisiyle dengeli protein miktarı ve kalitesi</li>
+<li>A, D, E, K ve B grubu vitaminlerini içerir</li>
+<li>C vitamini, folik asit, biotin ve niasin kaynağı</li>
+<li>Demir, çinko, kalsiyum, fosfor ve iyot gibi mineraller</li>
+<li>Bebeğin gelişim dönemine yönelik besleyici içerik</li>
+<li>Suda kolayca çözünen pratik toz form</li>
+<li>Ölçekli, ölçmesi kolay kullanım (yaklaşık 4,3 g/ölçek)</li>
+<li>2 adet 450 gramlık kutudan oluşan avantajlı paket</li></ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Genellikle kaynatılıp ılıtılmış 30 ml suya bir ölçek toz eklenerek hazırlanır. Bebeğinizin yaşına ve ihtiyacına göre kesin hazırlama oranı ve günlük miktar için ambalaj üzerindeki kullanım talimatına uyun. Açılan kutuyu belirtilen süre içinde tüketin.</p>
+<h2>Uyarılar</h2>
+<p>Anne sütü bebekler için en iyi besindir; bu ürün yalnızca anne sütüyle beslenemeyen bebeklerde sağlık çalışanı önerisiyle kullanılmalıdır. Hazırlama ve saklama koşullarına özenle uyun.</p>
+<p>Farmaneva güvencesiyle sunulan bu ürünle bebeğinizin beslenme rutinini destekleyebilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01154]]></Product_code>
@@ -54904,7 +54894,6 @@
 <li>Günlük rutine kolayca eklenen pratik bir takviyedir.</li>
 <li>Düzenli kullanıma uygun bir formdadır.</li>
 <li>Yetişkinlerin günlük desteğine yöneliktir.</li>
-<li>DHA, normal beyin fonksiyonunun korunmasına katkıda bulunur.</li>
 </ul>
 <h2>Kullanım Önerisi</h2>
 <p>Yetişkinler için günde 1 tabletin tok karnına bir bardak su ile alınması önerilir. Ürün ambalajındaki günlük porsiyon ve kullanım talimatlarını esas alın.</p>
@@ -54946,7 +54935,6 @@
 <li>Çilek, limon ve portakal aromalıdır.</li>
 <li>Doğal sebze ve meyve kaynaklı renklendiriciler kullanılmıştır.</li>
 <li>60 çiğnenebilir draje içerir.</li>
-<li>Omega-3 yağ asitleri günlük beslenmeyi desteklemeye yöneliktir.</li>
 <li>Ambalajdaki kullanım önerisine uyunuz.</li>
 <li>Günlük rutine kolayca eklenen pratik bir takviyedir.</li>
 </ul>
@@ -57672,24 +57660,24 @@
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-beauty-plus-1-alana-1-hediye-kolajen-ananas-ve-yesil-elma-aromali-30-30-sase-41078.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-beauty-plus-1-alana-1-hediye-kolajen-ananas-ve-yesil-elma-aromali-30-30-sase-41079.webp</Image5>
 <Description><![CDATA[<section>
-<p><strong>Voonka Collagen Beauty Plus 1 Alana 1 Hediye Kolajen Ananas Ve Ye&#351;il Elma Aromal&#305; 30 30 Sa&#351;e</strong>, hidrolize kolajenin yan&#305; s&#305;ra C vitamini, hyaluronik asit, &#231;inko ve biotin gibi bile&#351;enleri bir arada sunan takviye edici g&#305;dad&#305;r. Ananas ve ye&#351;il elma aromal&#305; sa&#351;eler halinde haz&#305;rlanm&#305;&#351;t&#305;r; kampanya kapsam&#305;nda 30 sa&#351;elik iki paket (toplam 60 sa&#351;e) bir arada sunulur.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<p><strong>Voonka Collagen Beauty Plus Ananas ve Yeşil Elma Aromalı Kolajen 30+30 Saşe</strong>, hidrolize kolajenin yanı sıra C vitamini, hyaluronik asit, çinko ve biotin gibi bileşenleri bir arada sunan takviye edici gıdadır. Ananas ve yeşil elma aromalı saşeler halinde hazırlanmıştır; 30 saşelik iki paket (toplam 60 saşe) bir arada sunulur.</p>
+<h2>Öne Çıkan Özellikler</h2>
 <ul>
-<li>Her sa&#351;ede y&#252;ksek miktarda hidrolize kolajen i&#231;erir</li>
-<li>C vitamini, hyaluronik asit ve &#231;inko ile form&#252;le edilmi&#351;tir</li>
-<li>Biotin, E ve B vitaminleri ile zenginle&#351;tirilmi&#351;tir</li>
-<li>Ananas ve ye&#351;il elma aroma se&#231;enekleri sunar</li>
-<li>Suda kar&#305;&#351;t&#305;r&#305;larak kolayca t&#252;ketilir</li>
-<li>Tekil kullan&#305;ml&#305;k pratik sa&#351;e ambalaj&#305; vard&#305;r</li>
-<li>1 alana 1 hediye ile toplam 60 sa&#351;e i&#231;erir</li>
-<li>G&#252;nde tek sa&#351;e ile kolay kullan&#305;m sa&#287;lar</li>
-<li>Voonka kalite anlay&#305;&#351;&#305;yla &#252;retilmi&#351;tir</li>
+<li>Her saşede yüksek miktarda hidrolize kolajen içerir</li>
+<li>C vitamini, hyaluronik asit ve çinko ile formüle edilmiştir</li>
+<li>Biotin, E ve B vitaminleri ile zenginleştirilmiştir</li>
+<li>Ananas ve yeşil elma aroma seçenekleri sunar</li>
+<li>Suda karıştırılarak kolayca tüketilir</li>
+<li>Tekil kullanımlık pratik saşe ambalajı vardır</li>
+<li>Toplam 60 saşe (30+30) içerir</li>
+<li>Günde tek saşe ile kolay kullanım sağlar</li>
+<li>Voonka kalite anlayışıyla üretilmiştir</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Yeti&#351;kinler i&#231;in g&#252;nde 1 sa&#351;e, yakla&#351;&#305;k 250 ml su i&#231;inde kar&#305;&#351;t&#305;r&#305;larak, tercihen yemek sonras&#305; t&#252;ketilmesi &#246;nerilir. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Kesin kullan&#305;m bilgisi i&#231;in &#252;r&#252;n ambalaj&#305;ndaki talimatlar&#305; izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Hamilelik, emzirme, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda hekiminize dan&#305;&#351;&#305;n ve &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n, g&#252;nl&#252;k bak&#305;m rutininizi tamamlamak isteyenler i&#231;in pratik bir tercihtir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Yetişkinler için günde 1 saşe, yaklaşık 250 ml su içinde karıştırılarak, tercihen yemek sonrası tüketilmesi önerilir. Önerilen günlük dozu aşmayın. Kesin kullanım bilgisi için ürün ambalajındaki talimatları izleyin.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Hamilelik, emzirme, hastalık veya ilaç kullanımı durumunda hekiminize danışın ve çocukların ulaşamayacağı yerde saklayın.</p>
+<p>Farmaneva güvencesiyle sunulan bu ürün, günlük bakım rutininizi tamamlamak isteyenler için pratik bir tercihtir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -58240,22 +58228,21 @@
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-sinomarin-adults-yetiskinler-icin-deniz-suyu-125-ml-43559.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/wellcare-sinomarin-adults-yetiskinler-icin-deniz-suyu-125-ml-43878.webp</Image5>
 <Description><![CDATA[<section>
-<p><strong>Sinomarin Adults Yeti&#351;kinler &#304;&#231;in Deniz Suyu 125 ml</strong>, y&#252;zde 100 do&#287;al hipertonik deniz suyu i&#231;eren, yeti&#351;kinler i&#231;in geli&#351;tirilmi&#351; bir burun spreyidir. So&#287;uk alg&#305;nl&#305;&#287;&#305;, sin&#252;zit veya alerjiye ba&#287;l&#305; burun t&#305;kan&#305;kl&#305;&#287;&#305;nda, ila&#231; i&#231;ermeyen do&#287;al bir rahatlama arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
-<h2>Sinomarin Adults &#214;zellikleri</h2>
+<p><strong>Sinomarin Adults Yetişkinler İçin Deniz Suyu 125 ml</strong>, yüzde 100 doğal hipertonik deniz suyu içeren, yetişkinler için geliştirilmiş bir burun spreyidir. Soğuk algınlığı, sinüzit veya alerjiye bağlı burun tıkanıklığında, ilaç içermeyen doğal bir rahatlama arayanlar için tasarlanmıştır.</p>
+<h2>Sinomarin Adults Özellikleri</h2>
 <ul>
-<li>%100 do&#287;al hipertonik deniz suyu i&#231;erir.</li>
-<li>Burun t&#305;kan&#305;kl&#305;&#287;&#305;n&#305;n a&#231;&#305;lmas&#305;na yard&#305;mc&#305; olur.</li>
-<li>Burun i&#231;inin nazik&#231;e temizlenmesine destek olur.</li>
-<li>So&#287;uk alg&#305;nl&#305;&#287;&#305;, sin&#252;zit ve alerji durumlar&#305;nda kullan&#305;ma uygundur.</li>
-<li>Koruyucu i&#231;ermeyen do&#287;al bir form&#252;le sahiptir.</li>
-<li>Yeti&#351;kinler ve 6 ya&#351; &#252;zeri i&#231;in uygundur; 125 ml uzun &#246;m&#252;rl&#252; kullan&#305;m sunar.</li>
-<li>Bebek bak&#305;m&#305;nda pratik bir &#231;&#246;z&#252;m olarak de&#287;erlendirilebilir.</li>
+<li>%100 doğal hipertonik deniz suyu içerir.</li>
+<li>Burun tıkanıklığının açılmasına yardımcı olur.</li>
+<li>Burun içinin nazikçe temizlenmesine destek olur.</li>
+<li>Soğuk algınlığı, sinüzit ve alerji durumlarında kullanıma uygundur.</li>
+<li>Koruyucu içermeyen doğal bir formüle sahiptir.</li>
+<li>Yetişkinler ve 6 yaş üzeri için uygundur; 125 ml uzun ömürlü kullanım sunar.</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;nde 2-3 kez, her burun deli&#287;ine 1-2 p&#252;sk&#252;rtme uygulay&#305;n. Kullan&#305;m &#246;ncesi burnunuzu temizleyin ve ba&#351;&#305;n&#305;z&#305; hafif&#231;e e&#287;in; cerrahi sonras&#305; kullan&#305;mda hekiminizin &#246;nerisine uyun.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Burun bak&#305;m&#305; i&#231;in harici kullan&#305;m i&#231;indir. Ki&#351;iye &#246;zeldir; ba&#351;kalar&#305;yla payla&#351;may&#305;n. Kullan&#305;mdan sonra spreyin ucunu temizleyin. Rahats&#305;zl&#305;k s&#252;rerse hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Burun t&#305;kan&#305;kl&#305;&#287;&#305;nda do&#287;al deniz suyu deste&#287;i arayan yeti&#351;kinler Sinomarin Adults'u Farmaneva'da bulabilir.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde 2-3 kez, her burun deliğine 1-2 püskürtme uygulayın. Kullanım öncesi burnunuzu temizleyin ve başınızı hafifçe eğin; cerrahi sonrası kullanımda hekiminizin önerisine uyun.</p>
+<h2>Uyarılar</h2>
+<p>Burun bakımı için harici kullanım içindir. Kişiye özeldir; başkalarıyla paylaşmayın. Kullanımdan sonra spreyin ucunu temizleyin. Rahatsızlık sürerse hekiminize danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Burun tıkanıklığında doğal deniz suyu desteği arayan yetişkinler Sinomarin Adults'u Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -61863,7 +61850,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -61908,7 +61895,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad></Miad>
@@ -62194,7 +62181,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Parfüm]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -62239,7 +62226,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Parfüm]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>10</Stock>
 <Miad></Miad>
@@ -62610,7 +62597,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Parfüm]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>9</Stock>
 <Miad></Miad>
@@ -62655,7 +62642,7 @@
 <Brand><![CDATA[Eyüp Sabri Tuncer]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Parfüm]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>9</Stock>
 <Miad></Miad>
@@ -65773,7 +65760,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -66557,7 +66544,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad>2029-04-01</Miad>
@@ -66603,7 +66590,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-04-01</Miad>
@@ -66649,7 +66636,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-04-01</Miad>
@@ -66695,7 +66682,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2029-04-01</Miad>
@@ -66741,7 +66728,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-04-01</Miad>
@@ -66787,7 +66774,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2029-04-01</Miad>
@@ -66835,7 +66822,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>4</Stock>
 <Miad>2029-04-01</Miad>
@@ -66882,7 +66869,7 @@
 <Brand><![CDATA[Rebul]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad>2029-04-01</Miad>
@@ -76754,8 +76741,8 @@
 <Name><![CDATA[Loreal Paris Infaillible 36H Grip Micro Fine Eyeliner - 03 Ancient Rose]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Göz Çevresi Bakımı]]></category>
-<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Göz Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -77097,8 +77084,8 @@
 <Name><![CDATA[L’Oreal Paris Telescopic Extensionist Maskara Siyah]]></Name>
 <Brand><![CDATA[L'oreal Paris]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Göz Çevresi Bakımı]]></category>
-<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Göz Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -77914,8 +77901,8 @@
 <Name><![CDATA[Maybelline New York Falsies Surreal Maskara]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Göz Çevresi Bakımı]]></category>
-<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
+<subCategory><![CDATA[Göz Makyajı]]></subCategory>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -78538,7 +78525,7 @@
 <Brand><![CDATA[Nivea]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<subCategory><![CDATA[Deodorant]]></subCategory>
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad></Miad>
@@ -81003,8 +80990,8 @@
 <Price8>423.87</Price8>
 <Price9>299.97</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>3600524251468</HepsiburadaSku>
-<SaticiStokKodu>3600524251468</SaticiStokKodu>
+<HepsiburadaSku>HBCV0000HZPJ2B</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01795</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-38758.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/elseve-collagen-lifter-sampuan-300-ml-38759.webp</Image2>
@@ -81469,7 +81456,7 @@
 <Product_code><![CDATA[FRMNV01807]]></Product_code>
 <Barcode>8680176001081</Barcode>
 <Name><![CDATA[İmuneks Probiomax Probiyotik 10 Kapsül]]></Name>
-<Brand><![CDATA[İmuneks]]></Brand>
+<Brand><![CDATA[Probiomax]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
@@ -83758,8 +83745,8 @@
 <Price8>655.14</Price8>
 <Price9>492.49</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>8697595870617</HepsiburadaSku>
-<SaticiStokKodu>8697595870617</SaticiStokKodu>
+<HepsiburadaSku>HBCV000077BSQS</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01854</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/imunol-surup-150-ml-39019.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/imunol-surup-150-ml-39020.webp</Image2>
@@ -84328,7 +84315,7 @@
 <Image3>https://www.farmaneva.com/uploads/urunler/8699546190386-2_sdv3y.jpg</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/8699546190386-3_9o18a.jpg</Image4>
 <Image5>https://www.farmaneva.com/uploads/urunler/8699546190386-4_cl7k4.jpg</Image5>
-<Description><![CDATA[<section><p><strong>Elenatal 2 30 Kapsül</strong>, gebelik ve laktasyon dönemindeki annelerin günlük vitamin ve minerale ihtiyaçlarını karşılamak için özel olarak geliştirilmiş bir prenatal multivitamin takviyesidir. Folik asit, demir, kalsiyum ve D vitamini gibi kritik besinleri dengeli oranlarda içerir; folik asit gebelikte anne dokularının büyümesine, demir normal kırmızı kan hücresi oluşumuna, kalsiyum ve D vitamini normal kemiklerin korunmasına katkıda bulunur. Laktasyon döneminde ise annenin sütü üzerinden bebeğe aktarılacak besinlerin yeterliliğini sağlayarak, hem annenin hem de bebeğin beslenme dengesi için kapsayıcı bir destek sunar.</p>
+<Description><![CDATA[<section><p><strong>Elenatal 2 30 Kapsül</strong>, gebelik ve laktasyon dönemindeki annelerin günlük vitamin ve mineral ihtiyaçlarını karşılamak için özel olarak geliştirilmiş bir prenatal multivitamin takviyesidir. Folik asit, demir, kalsiyum ve D vitamini gibi kritik besinleri dengeli oranlarda içerir; folik asit gebelikte anne dokularının büyümesine, demir normal kırmızı kan hücresi oluşumuna, kalsiyum ve D vitamini normal kemiklerin korunmasına katkıda bulunur. Laktasyon döneminde ise annenin sütü üzerinden bebeğe aktarılacak besinlerin yeterliliğini sağlayarak, hem annenin hem de bebeğin beslenme dengesi için kapsayıcı bir destek sunar.</p>
 <h2>Elenatal 2 30 Kapsül Özellikleri</h2>
 <ul>
 <li>Gebelik ve laktasyon döneminde kullanım için özel olarak formüle edilmiştir.</li>
@@ -84338,7 +84325,6 @@
 <li>10 µg D3 vitamini içerir; D vitamini kalsiyumun normal emilimine ve bağışıklık sisteminin normal işleyişine katkıda bulunur.</li>
 <li>B12 ve B6 vitamini içerir; enerji üretimi, nöron fonksiyonu ve homosistein metabolizması için gerekli.</li>
 <li>Çinko ve selenyum gibi antioksidan mineraller içerir; hücrelerin oksidatif strese karşı korunmasına katkıda bulunur.</li>
-<li>Gluten, laktoz ve jeyen içermez; hassas sistemli anneler için uygundur.</li>
 <li>Yumuşak kapsül formundadır.</li>
 <li>Her gün 1 kapsül önerilen doz ile kullanım kolaylığı sağlar.</li>
 <li>30 günlük kullanım için uygun ambalajda sunulur.</li>
@@ -84346,9 +84332,9 @@
 <li>Farmaneva'da güvenilir ve orijinal olarak temin edilebilir.</li>
 </ul>
 <h2>Nasıl Kullanılır?</h2>
-<p>Elenatal 2 30 Kapsül, gebelik planlamasından başlayarak gebelik tüm süresi ve laktasyon döneminde günlük 1 kapsül olarak alınmalıdır. Kapsülü, öğle veya akşam yemeği ile birlikte, bir bardak suyla yutulması önerilir. Boş cona alınmamalıdır; mide rahatsızlığı riskini azaltmak için yemek sonrası tercih edilmelidir. Günlük önerilen doz aşılmamalıdır; daha fazla alım ekstra fayda sağlamaz ve bazı minerallerin birikmesiyle ilgili riskleri artırabilir. Kullanım süresi hakkında emin değilseniz, kullanmaya başlamadan önce hekabiniz veya eczacınızla danışınız.</p>
+<p>Elenatal 2 30 Kapsül, gebelik planlamasından başlayarak gebelik tüm süresi ve laktasyon döneminde günlük 1 kapsül olarak alınmalıdır. Kapsülü, öğle veya akşam yemeği ile birlikte, bir bardak suyla yutulması önerilir. Aç karnına alınmamalıdır; mide rahatsızlığı riskini azaltmak için yemek sonrası tercih edilmelidir. Günlük önerilen doz aşılmamalıdır; daha fazla alım ekstra fayda sağlamaz ve bazı minerallerin birikmesiyle ilgili riskleri artırabilir. Kullanım süresi hakkında emin değilseniz, kullanmaya başlamadan önce hekiminize veya eczacınıza danışınız.</p>
 <h2>Uyarılar</h2>
-<p>Bu ürün bir ilaç değildir; besin takviyesi kategorisindedir ve herhangi bir hastalığı tedavi, önleme veya iyileştirme iddiasında bulunmaz. Gebelikte veya emzirirken kullanmadan önce mutlaka hekabiniz veya eczacınızla danışınız. Özellikle kan dilüayıcı ilaçlar (örneğin varfarin), antibiyotikler veya diğer takviyeler kullanıyorsanız, etkileşim riski için profesyonel danışmanlık alın. Ürünü sıcaklık 25°C'yi geçirmeyen, nemli olmayan ve doğrudan güneş ışığından korunan vişneli, serbest havalandırılan bir ortamda saklayın. Çocukların ulaşamayacağı yerde tutun. Şiddetli mide bulantısı, kusma, éştiyağsızlık veya алерjik reaksiyon (örneğin cilt çıkıntısı, ödem, nefes darlığı) gözlemlenirse kullanımı durdurun ve hemen sağlık profesyoneline başvurun. Aşırı demir alımı özellikle çocuklar için tehlikelidir; dolayısıyla ürünü çocukların elinden uzak tutun. Etiketindeki tüm bilgileri okuduktan sonra kullanmaya başlayın.</p>
+<p>Bu ürün bir ilaç değildir; besin takviyesi kategorisindedir ve herhangi bir hastalığı tedavi, önleme veya iyileştirme iddiasında bulunmaz. Gebelikte veya emzirirken kullanmadan önce mutlaka hekiminize veya eczacınıza danışınız. Özellikle kan sulandırıcı ilaçlar (örneğin varfarin), antibiyotikler veya diğer takviyeler kullanıyorsanız, etkileşim riski için profesyonel danışmanlık alın. Ürünü sıcaklık 25°C'yi geçirmeyen, nemli olmayan ve doğrudan güneş ışığından korunan, iyi havalandırılan bir ortamda saklayın. Çocukların ulaşamayacağı yerde tutun. Şiddetli mide bulantısı, kusma, iştahsızlık veya alerjik reaksiyon (örneğin cilt döküntüsü, ödem, nefes darlığı) gözlemlenirse kullanımı durdurun ve hemen sağlık profesyoneline başvurun. Aşırı demir alımı özellikle çocuklar için tehlikelidir; dolayısıyla ürünü çocukların elinden uzak tutun. Etiketindeki tüm bilgileri okuduktan sonra kullanmaya başlayın.</p>
 <p>Elenatal 2 30 Kapsül, Farmaneva'da orijinal ve güvenilir olarak bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -84379,7 +84365,7 @@
 <Image3>https://www.farmaneva.com/uploads/urunler/8699546190362-2_ahrx8.jpg</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/8699546190362-3_z54vj.jpg</Image4>
 <Image5>https://www.farmaneva.com/uploads/urunler/8699546190362-4_nfdte.jpg</Image5>
-<Description><![CDATA[<section><p><strong>Elenatal 3 30 Kapsül</strong>, 3. trimester gebelik döneminde kullanımına özel olarak geliştirilmiş gebelik vitamini takviyesidir. Gebelik son döneminde anne ve bebek ihtiyaçlarını karşılamak için folik asit, demir, kalsiyum, DHA ve diğer temel vitamin ve minerallerden oluşan kapsül formülasyonu sunar.</p><h2>Elenatal 3 30 Kapsül Özellikleri</h2><ul><li>30 günlük kullanım için 30 kapsül içerir</li><li>Gebelik 3. trimestresi için özel formülasyon</li><li>Folik asit içerir ve nöral tüplerin gelişimini destekler</li><li>Demir içerir ve normal kırmızı kan hücresi ve hemoglobin oluşumuna katkıda bulunur</li><li>Kalsiyum ve D vitamini içerir ve bebek kemik gelişimini destekler</li><li>DHA (omega-3) içerir ve bebek beyn ve göz gelişimine katkı sağlar</li><li>C vitamini içerir ve demir emilimini artırır</li><li>B12 vitamini içerir ve nöron fonksiyonunu destekler</li><li>Gluten içermez ve laktoz intoleransı olanlar için uygundur</li><li>Boşta alınması önerilen kapsül formudur</li></ul><h2>Nasıl Kullanılır?</h2><p>Elenatal 3, gebelik 3. trimestresi başından doğuma kadar günlük 1 kapsül olarak alınır. Kapsülü öğle veya akşam yemeği ile birlikte, bir bardak suyla yutulması önerir. Boşta alınması absorpsiyonu artırabilir ancak mide bulantısı yaşayanlar öğle yemeği ile birlikte alabilir. Günlük önerilen doz aşılmamalıdır. Kullanım süresi hakkında eczacınız veya hekiminizle danışmanız gerekir.</p><h2>Uyarılar</h2><p>Bu ürün bir ilaç değildir ve gebelikteki besin ihtiyaçlarını tamamlamak için bir takviyedir. Hekiminizin önerdiği gebelik kontrollerini ihmal etmeyin. Aşırı demir alımı mide bulantısı, kabızlık veya mide ağrısı veroorabilir. Böyle bir durum yaşarsanız kullanımı geçici olarak durdurun ve eczacınıza danışın. Vitamin A içeriği yüksek olan diğer takviyelerle birlikte kullanılmamalıdır. 18 yaş altındaki bireyler için uygundur. Şişirme, gaz veya hafif mide rahatsızlığı gibi yan etkiler gözlemlenirse kullanımı bırakın ve sağlık uzmanına başvurun. Saklama: 25°C’yi aşmayan, nemli ve ısıya karşı koruyucu bir yerde, çocukların ulaşamayacağı şekilde kapalı tutulur.</p><p>Elenatal 3 30 Kapsül, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Description><![CDATA[<section><p><strong>Elenatal 3 30 Kapsül</strong>, 3. trimester gebelik döneminde kullanımına özel olarak geliştirilmiş gebelik vitamini takviyesidir. Gebelik son döneminde anne ve bebek ihtiyaçlarını karşılamak için folik asit, demir, kalsiyum, DHA ve diğer temel vitamin ve minerallerden oluşan kapsül formülasyonu sunar.</p><h2>Elenatal 3 30 Kapsül Özellikleri</h2><ul><li>30 günlük kullanım için 30 kapsül içerir</li><li>Gebelik 3. trimestresi için özel formülasyon</li><li>Folik asit içerir ve nöral tüplerin gelişimini destekler</li><li>Demir içerir ve normal kırmızı kan hücresi ve hemoglobin oluşumuna katkıda bulunur</li><li>Kalsiyum ve D vitamini içerir ve bebek kemik gelişimini destekler</li><li>DHA (omega-3) içerir ve bebek beyn ve göz gelişimine katkı sağlar</li><li>C vitamini içerir ve demir emilimini artırır</li><li>B12 vitamini içerir ve nöron fonksiyonunu destekler</li><li>Gluten içermez ve laktoz intoleransı olanlar için uygundur</li><li>Boşta alınması önerilen kapsül formudur</li></ul><h2>Nasıl Kullanılır?</h2><p>Elenatal 3, gebelik 3. trimestresi başından doğuma kadar günlük 1 kapsül olarak alınır. Kapsülü öğle veya akşam yemeği ile birlikte, bir bardak suyla yutulması önerir. Boşta alınması absorpsiyonu artırabilir ancak mide bulantısı yaşayanlar öğle yemeği ile birlikte alabilir. Günlük önerilen doz aşılmamalıdır. Kullanım süresi hakkında eczacınız veya hekiminizle danışmanız gerekir.</p><h2>Uyarılar</h2><p>Bu ürün bir ilaç değildir ve gebelikteki besin ihtiyaçlarını tamamlamak için bir takviyedir. Hekiminizin önerdiği gebelik kontrollerini ihmal etmeyin. Aşırı demir alımı mide bulantısı, kabızlık veya mide ağrısı veroorabilir. Böyle bir durum yaşarsanız kullanımı geçici olarak durdurun ve eczacınıza danışın. Vitamin A içeriği yüksek olan diğer takviyelerle birlikte kullanılmamalıdır. Şişirme, gaz veya hafif mide rahatsızlığı gibi yan etkiler gözlemlenirse kullanımı bırakın ve sağlık uzmanına başvurun. Saklama: 25°C’yi aşmayan, nemli ve ısıya karşı koruyucu bir yerde, çocukların ulaşamayacağı şekilde kapalı tutulur.</p><p>Elenatal 3 30 Kapsül, Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01868]]></Product_code>
@@ -84951,26 +84937,26 @@
 <Image3>https://www.farmaneva.com/uploads/urunler/850071952148-2_l92v7.jpg</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/850071952148-3_d3g0o.jpg</Image4>
 <Image5>https://www.farmaneva.com/uploads/urunler/850071952148-4_hrlaj.jpg</Image5>
-<Description><![CDATA[<section><p><strong>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml</strong>, hafif ve non-komedojenik form&#252;lasyonu ile g&#252;nl&#252;k kullan&#305;m i&#231;in tasarlanm&#305;&#351; bir mineral g&#252;ne&#351; kremidir. &#199;inko oksit ve titanyum dioksit tabanl&#305; koruyucu filtreler sayesinde UVA ve UVB que&#351;etlerine kar&#351;&#305; etkili bir bariyer sa&#287;lar. Hassas cilt tipleri, k&#305;zar&#305;kl&#305;k e&#287;ilimi olan ve kozmetik &#252;r&#252;nlere a&#351;&#305;r&#305; tepki g&#246;steren ki&#351;iler i&#231;in uygundur. Ya&#287;l&#305; ve kar&#305;&#351;&#305;k ciltlerde de rahat&#231;a kullan&#305;labilir, beyaz b&#305;rakmayan ince tekst&#252;r&#252; sayesinde makyaz&#305;n alt&#305;na da rahatl&#305;kla uygulanabilir.</p>
-<h2>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml &#214;zellikleri</h2>
+<Description><![CDATA[<section><p><strong>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml</strong>, hafif ve non-komedojenik formülasyonu ile günlük kullanım için tasarlanmış bir mineral güneş kremidir. Çinko oksit ve titanyum dioksit tabanlı koruyucu filtreler sayesinde UVA ve UVB ışınlarına karşı etkili bir bariyer sağlar. Hassas cilt tipleri, kızarıklık eğilimi olan ve kozmetik ürünlere aşırı tepki gösteren kişiler için uygundur. Yağlı ve karışık ciltlerde de rahatça kullanılabilir, beyaz bırakmayan ince tekstürü sayesinde makyajın altına da rahatlıkla uygulanabilir.</p>
+<h2>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml Özellikleri</h2>
 <ul>
-<li>SPF 30+ y&#252;ksek spektrumlu UVA ve UVB korumas&#305; sa&#287;lar</li>
-<li>Mineral filtre (&#231;inko oksit + titanyum dioksit) ile kimyasal filtre i&#231;ermez</li>
-<li>Hassas ciltler i&#231;in uygun, parf&#252;m ve alkol i&#231;ermez</li>
-<li>Non-komedojenik form&#252;l, porlar&#305; t&#305;kamaz ve akne riskini art&#305;rmaz</li>
-<li>Hafif s&#305;v&#305; tekst&#252;r&#252;, h&#305;zl&#305; emilir ve beyaz b&#305;rakmaz</li>
-<li>Su ve ter direnci ile d&#305;&#351; mekan aktiviteleri i&#231;in uygundur</li>
-<li>Antioksidan destekli form&#252;lasyonla serbest radikallerle m&#252;cadele eder</li>
-<li>G&#252;ne&#351; 15-30 dakika &#246;nce uygulanmal&#305;, 2 saatte bir yenilenmelidir</li>
-<li>Y&#252;z, boyun ve dekolt&#233; gibi hassas alanlar i&#231;in &#246;zel olarak geli&#351;tirilmi&#351;tir</li>
-<li>&#199;ocuklar ve yeti&#351;kinler taraf&#305;ndan g&#252;venle kullan&#305;labilir</li>
-<li>&#199;evreye duyarl&#305; &#252;retim, mikroplastik i&#231;ermez</li>
-<li>Dermatolog olarak test edilmi&#351;tir</li>
+<li>SPF 30+ ile geniş spektrumlu UVA ve UVB koruması sağlar</li>
+<li>Mineral filtre (çinko oksit + titanyum dioksit) ile kimyasal filtre içermez</li>
+<li>Hassas ciltler için uygun, parfüm ve alkol içermez</li>
+<li>Non-komedojenik formül, porları tıkamaz ve akne riskini artırmaz</li>
+<li>Hafif sıvı tekstürü, hızlı emilir ve beyaz bırakmaz</li>
+<li>Su ve ter direnci ile dış mekan aktiviteleri için uygundur</li>
+<li>Antioksidan destekli formülasyonla serbest radikallerle mücadele eder</li>
+<li>Güneşe çıkmadan 15-30 dakika önce uygulanmalı, 2 saatte bir yenilenmelidir</li>
+<li>Yüz, boyun ve dekolté gibi hassas alanlar için özel olarak geliştirilmiştir</li>
+<li>Çevreye duyarlı üretim, mikroplastik içermez</li>
+<li>Dermatolojik olarak test edilmiştir</li>
 </ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>G&#252;ne&#351;e &#231;&#305;kmadan en az 15-30 dakika &#246;nce, temiz ve nemli y&#252;z, boyun ve dekolt&#233; alan&#305;na yeterli miktarda (&#231;ay ka&#351;&#305;&#287;&#305; ba&#351;&#305;na yakla&#351;&#305;k 1/4 &#231;ay ka&#351;&#305;&#287;&#305;) uygulay&#305;n. Hafif masaj movementsiyle da&#287;&#305;t&#305;n ve tamamen emilmesini bekleyen ard&#305;ndan makyaj uygulayabilirsiniz. G&#252;n i&#231;inde terleme, y&#252;z y&#305;kama veya havlu ile nemlendirme sonras&#305; 2 saatte bir yeniden uygulay&#305;n. &#214;zellikle &#246;&#287;le saatlerinde ve uzun s&#252;re d&#305;&#351;ar&#305;da kalacaksa uygulama s&#305;kl&#305;&#287;&#305;n&#305; art&#305;r&#305;n. Bebekler ve 3 ya&#351; alt&#305; &#231;ocuklar i&#231;in kullan&#305;mda &#246;nce bir cilt testi yap&#305;lmas&#305; &#246;nerilir.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas edilirse, hemen bol miktarda suyla y&#305;kay&#305;n. &#304;ntihal etmeyin. K&#305;zar&#305;kl&#305;k, ka&#351;&#305;nt&#305;, &#351;i&#351;lik veya herhangi bir tahri&#351; belirtileri g&#246;zlemlenirse kullan&#305;m&#305; durdurun ve hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. &#220;r&#252;n&#252; s&#305;cakl&#305;k 30&#176;C'yi a&#351;mayan, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;na ve nemden korunan serin ve kuru bir ortamda saklay&#305;n. &#199;ocuklar&#305;n elinin ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde tutun. 3 ya&#351; alt&#305; &#231;ocuklarda kullan&#305;mda &#246;nceden bir cilt testi yap&#305;lmas&#305; &#246;nerilir. H&#252;cresel hasar riskini azaltmak i&#231;in g&#252;ne&#351; kremi sadece bir koruma y&#246;ntemidir; g&#246;lge, koruyucu k&#305;yafet ve &#351;apka gibi ek &#246;nlemler al&#305;nmal&#305;d&#305;r. T&#252;m &#252;r&#252;nlerimizi Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<h2>Nasıl Kullanılır?</h2>
+<p>Güneşe çıkmadan en az 15-30 dakika önce, temiz ve nemli yüz, boyun ve dekolté alanına yeterli miktarda (yüz ve boyun için yaklaşık 1/4 çay kaşığı) uygulayın. Hafif masaj hareketleriyle dağıtın; tamamen emildikten sonra makyaj uygulayabilirsiniz. Terleme, yüz yıkama ya da havluyla kurulanma sonrasında ve her durumda 2 saatte bir yeniden uygulayın. Özellikle öğle saatlerinde ve uzun süre dışarıda kalacaksanız uygulama sıklığını artırın. 3 yaş altı çocuklarda kullanmadan önce bir cilt testi yapılması önerilir.</p>
+<h2>Uyarılar</h2>
+<p>Sadece dış kullanım içindir. Gözle temas edilirse, hemen bol miktarda suyla yıkayın. Yutmayın. Kızarıklık, kaşıntı, şişlik veya herhangi bir tahriş belirtileri gözlemlenirse kullanımı durdurun ve hekime veya eczacıya danışın. Ürünü sıcaklık 30°C'yi aşmayan, doğrudan güneş ışığına ve nemden korunan serin ve kuru bir ortamda saklayın. Çocukların elinin ulaşamayacağı güvenli bir yerde tutun. Güneş kremi tek başına yeterli koruma sağlamaz; gölge, koruyucu kıyafet ve şapka gibi ek önlemler alınmalıdır.</p>
+<p>Shiniq UV Defense Mineral Fluid SPF30+ 100 ml'yi Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01884]]></Product_code>
@@ -84999,7 +84985,7 @@
 <Image1>https://www.farmaneva.com/uploads/urunler/3282770392401-0_8jpgm.jpg</Image1>
 <Image2>https://www.farmaneva.com/uploads/urunler/3282770392401-1_q39mq.jpg</Image2>
 <Image3>https://www.farmaneva.com/uploads/urunler/3282770392401-2_dkdjr.jpg</Image3>
-<Description><![CDATA[<section><p><strong>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 ml</strong>, yumu&#351;ak ve etkili bir temizleme jelidir. Seboreik dermatit, yass&#305; ve k&#305;rm&#305;z&#305; lekeler, ka&#351;&#305;nt&#305; ve descamasyon gibi belirtileri yat&#305;&#351;t&#305;ran form&#252;lasyonla, hassas ve tendencia g&#246;steren cilt tipleri i&#231;in &#246;zel olarak geli&#351;tirilmi&#351;tir. G&#252;nl&#252;k kullan&#305;m i&#231;in uygun olup, y&#252;z ve v&#252;cut gibi etkilenebilecek alanlarda kullan&#305;labilir.</p><h2>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 m &#214;zellikleri</h2><ul><li>Seboreik dermatit ve yass&#305; lekeler i&#231;in klinik olarak test edilmi&#351; form&#252;lasyon</li><li>Pirocton olamin ve s&#305;klopiroksamin gibi aktif bile&#351;enler i&#231;erir</li><li>Cilt barrieresini bozmadan temizler, nemini korur</li><li>Ka&#351;&#305;nt&#305;, k&#305;zar&#305;kl&#305;k ve descamasyonu azaltmaya yard&#305;mc&#305; olur</li><li>Yumu&#351;ak jel tekst&#252;r&#252;, hafif k&#246;p&#252;kleyerek temizler</li><li>Parf&#252;m ve renk maddesi i&#231;ermez, allergen riskini d&#252;&#351;&#252;r&#252;r</li><li>Hassas ciltler i&#231;in uygun, g&#246;zle temas&#305; durumunda hemen y&#305;kay&#305;n</li><li>200 ml praktik pompal&#305; flakon ile kontroll&#252; kullan&#305;m sa&#287;lar</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Gelini &#305;slak cilt &#252;zerine yeterli miktarda al&#305;n ve yuvarlak hareketlerle hafif&#231;e masaj edin. &#214;zellikle etkilenmi&#351; b&#246;lgelere odaklanarak 30-60 saniye boyunca masaj yap&#305;n. Ard&#305;ndan, s&#305;cak olmayan suyla thoroughly y&#305;kay&#305;n. G&#252;nl&#252;k kullan&#305;m i&#231;in sabah ve/veya ak&#351;am kullan&#305;labilir. Kozmetik &#252;r&#252;nler &#252;zerinden kullan&#305;lacaksa, &#246;nce temizleme yap&#305;p ard&#305;ndan di&#287;er &#252;r&#252;nleri uygulay&#305;n. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas durumunda hemen bol miktarda suyla y&#305;kay&#305;n ve gerekirse bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p><h2>Uyar&#305;lar</h2><p>Sadece d&#305;&#351; kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas durumunda hemen bol miktarda suyla y&#305;kay&#305;n ve tahri&#351; devam ederse bir hekime veya eczac&#305;ya dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n elinden ula&#351;amayaca&#287;&#305; g&#252;venli bir yerde, 25&#176;C&#8217;yi a&#351;mayan s&#305;cakl&#305;kta ve do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan korundu&#287;u ortamda saklay&#305;n. &#304;la&#231; etkile&#351;imi riski d&#252;&#351;&#252;k olsa da, di&#287;er topical (cilt &#252;zeri) &#252;r&#252;nler kullan&#305;yorsan&#305;z, bir arada kullanmadan &#246;nce eczac&#305;n&#305;za veya dermatolo&#287;&#305;n&#305;za dan&#305;&#351;&#305;n. H&#252;cre d&#246;d&#252;r&#252;c&#252; veya a&#351;&#305;r&#305; azot i&#231;eren &#252;r&#252;nlerle ayn&#305; anda kullanmay&#305;n. 3 ya&#351;&#305;ndan k&#252;&#231;&#252;k &#231;ocuklarda kullan&#305;m &#246;ncesi bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;lmas&#305; &#246;nerilir. &#304;stenmeyen bir reaksiyon g&#246;zlemlenirse, kullan&#305;m&#305; durdurun ve bir sa&#287;l&#305;k profesyoneline ba&#351;vurun. Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+<Description><![CDATA[<section><p><strong>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 ml</strong>, pullanma ve kepeklenme eğilimi gösteren ciltler için geliştirilmiş, yumuşak dokulu bir temizleme jelidir. Cildi nazikçe temizler ve pullanmanın görünümünü azaltmaya yardımcı olur. Günlük kullanım için uygun olup, yüz ve vücutta pullanma görülen alanlarda kullanılabilir.</p><h2>Ducray Kelual Ds Anti-Scales Cleansing Gel 200 ml Özellikleri</h2><ul><li>Pullanma eğilimli ciltler için geliştirilmiş formül</li><li>Cilt bariyerini bozmadan temizler, nemini korur</li><li>Pullanmanın görünümünü azaltmaya yardımcı olur</li><li>Yumuşak jel tekstürü, hafif köpükleyerek temizler</li><li>Parfüm ve renk maddesi içermez, alerjen riskini düşürür</li><li>Hassas ciltler için uygundur</li><li>200 ml pratik pompalı flakon ile kontrollü kullanım sağlar</li></ul><h2>Nasıl Kullanılır?</h2><p>Jeli ıslak cilt üzerine yeterli miktarda alın ve yuvarlak hareketlerle hafifçe masaj edin. Özellikle pullanma görülen bölgelere odaklanarak 30-60 saniye boyunca masaj yapın. Ardından, sıcak olmayan suyla iyice durulayın. Günlük kullanım için sabah ve/veya akşam kullanılabilir. Kozmetik ürünler üzerinden kullanılacaksa, önce temizleme yapıp ardından diğer ürünleri uygulayın. Gözle temasından kaçının; temas durumunda hemen bol miktarda suyla yıkayın ve gerekirse bir sağlık uzmanına danışın.</p><h2>Uyarılar</h2><p>Sadece dış kullanım içindir. Gözle temasından kaçının; temas durumunda hemen bol miktarda suyla yıkayın ve tahriş devam ederse bir hekime veya eczacıya danışın. Çocukların ulaşamayacağı güvenli bir yerde, 25°C’yi aşmayan sıcaklıkta ve doğrudan güneş ışığından korunan bir ortamda saklayın. İlaç etkileşimi riski düşük olsa da, diğer topikal (cilt üzeri) ürünler kullanıyorsanız, bir arada kullanmadan önce eczacınıza veya dermatoloğunuza danışın. 3 yaşından küçük çocuklarda kullanım öncesi bir sağlık uzmanına danışılması önerilir. İstenmeyen bir reaksiyon gözlemlenirse, kullanımı durdurun ve bir sağlık profesyoneline başvurun.</p><p>Ducray Kelual DS Anti-Scales Cleansing Gel 200 ml'yi Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01885]]></Product_code>
@@ -85753,8 +85739,8 @@
 <Barcode>8699809655072</Barcode>
 <Name><![CDATA[Dulcosoft Oral Solüsyon Makrogol 4000 250 ml]]></Name>
 <Brand><![CDATA[Dulcosoft]]></Brand>
-<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>10</Tax>
 <Stock>12</Stock>
 <Miad>2028-06-01</Miad>
@@ -86566,8 +86552,8 @@
 <Price8>1316.52</Price8>
 <Price9>1010.83</Price9>
 <CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>6978312971001</HepsiburadaSku>
-<SaticiStokKodu>6978312971001</SaticiStokKodu>
+<HepsiburadaSku>HBCV0000KCZVN0</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01937</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/6978312971001-0_ojwhf.jpg</Image1>
 <Description><![CDATA[<section>
