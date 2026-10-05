@@ -57720,17 +57720,17 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Medikal Krem & Sprey]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>100</Stock>
 <Miad>2028-01-01</Miad>
-<Price>2142.86</Price>
+<Price>1100.00</Price>
 <Price2>2334.29</Price2>
 <Price3>2334.29</Price3>
 <Price4>2400.00</Price4>
 <Price5>2400.00</Price5>
 <Price6>2400.00</Price6>
-<Price7>3041.75</Price7>
-<Price8>3041.75</Price8>
-<Price9>2671.43</Price9>
+<Price7>3041.74</Price7>
+<Price8>3041.74</Price8>
+<Price9>2400.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL5QK</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01292</SaticiStokKodu>
