@@ -30130,7 +30130,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>498</Stock>
 <Miad>2028-01-01</Miad>
 <Price>487.90</Price>
 <Price2>595.28</Price2>
@@ -46375,7 +46375,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Roll On]]></subCategory>
 <Tax>20</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>271.06</Price>
 <Price2>361.63</Price2>
@@ -48292,7 +48292,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>7</Stock>
+<Stock>0</Stock>
 <Miad>2028-05-01</Miad>
 <Price>137.62</Price>
 <Price2>196.69</Price2>
@@ -66225,8 +66225,8 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2028-08-01</Miad>
+<Stock>6</Stock>
+<Miad>2026-11-01</Miad>
 <Price>241.40</Price>
 <Price2>326.39</Price2>
 <Price3>326.39</Price3>
@@ -83687,7 +83687,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>114</Stock>
+<Stock>115</Stock>
 <Miad>2027-06-01</Miad>
 <Price>391.85</Price>
 <Price2>505.15</Price2>
