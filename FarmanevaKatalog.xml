@@ -48686,7 +48686,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>27</Stock>
 <Miad></Miad>
 <Price>89.17</Price>
 <Price2>135.21</Price2>
@@ -77339,7 +77339,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>32</Stock>
+<Stock>29</Stock>
 <Miad>2029-01-01</Miad>
 <Price>391.85</Price>
 <Price2>484.45</Price2>
@@ -77480,8 +77480,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-06-01</Miad>
+<Stock>2</Stock>
+<Miad>2027-07-01</Miad>
 <Price>467.41</Price>
 <Price2>571.64</Price2>
 <Price3>571.64</Price3>
@@ -84140,7 +84140,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Boyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>373.91</Price>
 <Price2>483.84</Price2>
