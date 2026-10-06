@@ -7548,7 +7548,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Şurup]]></subCategory>
 <Tax>1</Tax>
-<Stock>24</Stock>
+<Stock>23</Stock>
 <Miad>2026-11-01</Miad>
 <Price>278.20</Price>
 <Price2>353.32</Price2>
@@ -53891,15 +53891,15 @@
 <Tax>1</Tax>
 <Stock>64</Stock>
 <Miad>2028-05-01</Miad>
-<Price>329.51</Price>
-<Price2>412.53</Price2>
-<Price3>412.53</Price3>
-<Price4>420.31</Price4>
-<Price5>412.71</Price5>
-<Price6>407.89</Price6>
-<Price7>634.37</Price7>
-<Price8>592.10</Price8>
-<Price9>407.89</Price9>
+<Price>375.61</Price>
+<Price2>465.72</Price2>
+<Price3>465.72</Price3>
+<Price4>478.23</Price4>
+<Price5>470.45</Price5>
+<Price6>464.09</Price6>
+<Price7>700.51</Price7>
+<Price8>656.37</Price8>
+<Price9>464.09</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699546020560</HepsiburadaSku>
 <SaticiStokKodu>8699546020560</SaticiStokKodu>
