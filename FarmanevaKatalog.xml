@@ -31032,7 +31032,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>98</Stock>
+<Stock>97</Stock>
 <Miad>2029-08-01</Miad>
 <Price>590.66</Price>
 <Price2>713.85</Price2>
@@ -78457,7 +78457,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>0</Stock>
 <Miad>2028-02-01</Miad>
 <Price>181.05</Price>
 <Price2>254.68</Price2>
@@ -82961,7 +82961,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>9</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>1019.07</Price>
 <Price2>1227.87</Price2>
@@ -86052,7 +86052,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2028-06-01</Miad>
 <Price>379.95</Price>
 <Price2>470.72</Price2>
