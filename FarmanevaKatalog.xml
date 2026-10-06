@@ -6787,17 +6787,17 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad></Miad>
-<Price>353.90</Price>
-<Price2>402.21</Price2>
-<Price3>402.21</Price3>
-<Price4>396.37</Price4>
-<Price5>396.37</Price5>
-<Price6>396.37</Price6>
-<Price7>593.56</Price7>
-<Price8>593.56</Price8>
-<Price9>457.66</Price9>
+<Price>322.91</Price>
+<Price2>423.24</Price2>
+<Price3>423.24</Price3>
+<Price4>434.15</Price4>
+<Price5>424.61</Price5>
+<Price6>418.25</Price6>
+<Price7>713.67</Price7>
+<Price8>656.55</Price8>
+<Price9>418.25</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKXI7</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00155</SaticiStokKodu>
@@ -9432,7 +9432,7 @@
 <category><![CDATA[Hasta Bezi]]></category>
 <subCategory><![CDATA[Hasta Altı Bezi]]></subCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>148.66</Price>
 <Price2>209.61</Price2>
@@ -27878,7 +27878,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>2028-11-01</Miad>
 <Price>906.87</Price>
 <Price2>1117.11</Price2>
@@ -31774,7 +31774,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>191</Stock>
+<Stock>207</Stock>
 <Miad>2027-11-01</Miad>
 <Price>90.95</Price>
 <Price2>147.62</Price2>
@@ -39503,7 +39503,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>40</Stock>
+<Stock>39</Stock>
 <Miad>2027-08-01</Miad>
 <Price>403.75</Price>
 <Price2>498.19</Price2>
@@ -43592,6 +43592,65 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca haricen kullan&#305;l&#305;r; g&#246;z ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas h&#226;linde bol suyla durulay&#305;n. Ciltte k&#305;zar&#305;kl&#305;k, tahri&#351; veya hassasiyet g&#246;zlenirse kullan&#305;m&#305; b&#305;rak&#305;n; hassas ciltlerde &#246;nce k&#252;&#231;&#252;k bir alanda denenmesi &#246;nerilir.</p>
 <p>Farmaneva g&#252;vencesiyle cilt temizli&#287;i rutininize y&#246;nelik &#231;&#246;z&#252;m&#252; evinize ta&#351;&#305;r.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00976]]></Product_code>
+<Barcode>8683060150018</Barcode>
+<Name><![CDATA[Pharmaton 50 Plus 30 Kapsül]]></Name>
+<Brand><![CDATA[Pharmaton]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>12</Stock>
+<Miad>2028-07-01</Miad>
+<Price>475.06</Price>
+<Price2>580.46</Price2>
+<Price3>580.46</Price3>
+<Price4>603.17</Price4>
+<Price5>595.01</Price5>
+<Price6>585.34</Price6>
+<Price7>843.19</Price7>
+<Price8>795.04</Price8>
+<Price9>585.34</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKUA9</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00976</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10039.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10040.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10041.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/pharmaton-50-plus-30-kapsul-10042.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Pharmaton 50 Plus 30 Kapsül</strong>, 50 yaş üzerindeki yetişkinlerin günlük vitamin ve mineral ihtiyacı düşünülerek hazırlanmış bir takviye edici gıdadır. Ginseng ekstresi ile vitamin ve mineralleri bir arada içerir. 30 kapsüllük ambalajıyla bir aylık düzenli kullanıma uygundur</p>
+<h2>Pharmaton 50 Plus 30 Kapsül Özellikleri</h2>
+<ul>
+<li>30 kapsüllük ambalajda sunulur.</li>
+<li>50 yaş ve üzeri yetişkinler için hazırlanmıştır.</li>
+<li>Ginseng ekstresi içerir.</li>
+<li>Vitamin ve mineralleri bir arada sunar.</li>
+<li>Günlük beslenmenin desteklenmesine katkıda bulunur.</li>
+<li>Günde tek kapsül kullanım kolaylığı sağlar.</li>
+<li>Bir aylık kullanıma yetecek miktardadır.</li>
+<li>Günlük rutine kolayca eklenir.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde 1 kapsül, tercihen kahvaltıyla birlikte bir bardak su ile alınır. Ambalaj üzerindeki kullanım talimatına uyun; farklı bir kullanım için hekiminize ya da eczacınıza danışın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin ve sağlıklı yaşam biçiminin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Sürekli ilaç kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır. Çocukların erişemeyeceği yerde saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Pharmaton 50 Plus ne işe yarar?</h3>
+<p>Pharmaton 50 Plus 30 Kapsül (barkod 8683060150018), 50 yaş üzeri yetişkinlerin günlük vitamin ve mineral alımını tamamlamak için hazırlanmış bir takviye edici gıdadır; ilaç değildir.</p>
+<h3>Pharmaton 50 Plus nasıl kullanılır?</h3>
+<p>Günde 1 kapsül, tercihen kahvaltıyla birlikte bir bardak su ile alınır. 30 kapsül bir aylık kullanıma yeter.</p>
+<h3>Pharmaton 50 Plus içeriğinde neler var?</h3>
+<p>Ginseng ekstresi ile vitamin ve mineralleri bir arada içerir. Miktarlar ambalajdaki besin öğesi tablosunda yazar.</p>
+<h3>Pharmaton 50 Plus'ı kimler kullanmamalı?</h3>
+<p>Bileşenlerden birine hassasiyeti olanlar kullanmamalıdır. Sürekli ilaç kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır.</p>
+<h3>Pharmaton 50 Plus ile Pharmaton Vitality farkı nedir?</h3>
+<p>İkisi de ginseng, vitamin ve mineral içerir. 50 Plus 50 yaş ve üzeri için, Vitality ise yoğun tempolu genel yetişkinler için hazırlanmıştır.</p>
+<p>50 yaş üstü günlük desteğini arayanlar Pharmaton 50 Plus'ı Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -55041,17 +55100,17 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>20</Tax>
-<Stock>34</Stock>
+<Stock>6</Stock>
 <Miad>2027-06-01</Miad>
-<Price>747.91</Price>
-<Price2>928.23</Price2>
-<Price3>928.23</Price3>
-<Price4>995.13</Price4>
-<Price5>983.47</Price5>
-<Price6>958.69</Price6>
-<Price7>1377.73</Price7>
-<Price8>1296.61</Price8>
-<Price9>958.69</Price9>
+<Price>746.21</Price>
+<Price2>926.21</Price2>
+<Price3>926.21</Price3>
+<Price4>992.89</Price4>
+<Price5>981.24</Price5>
+<Price6>956.52</Price6>
+<Price7>1375.07</Price7>
+<Price8>1294.05</Price8>
+<Price9>956.52</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL1IO</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01238</SaticiStokKodu>
@@ -68235,15 +68294,15 @@
 <Tax>20</Tax>
 <Stock>86</Stock>
 <Miad>2028-01-01</Miad>
-<Price>444.19</Price>
-<Price2>567.35</Price2>
-<Price3>567.35</Price3>
-<Price4>594.23</Price4>
-<Price5>584.09</Price5>
-<Price6>572.47</Price6>
-<Price7>903.17</Price7>
-<Price8>839.20</Price8>
-<Price9>572.47</Price9>
+<Price>443.94</Price>
+<Price2>567.05</Price2>
+<Price3>567.05</Price3>
+<Price4>593.90</Price4>
+<Price5>583.76</Price5>
+<Price6>572.15</Price6>
+<Price7>902.78</Price7>
+<Price8>838.83</Price8>
+<Price9>572.15</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -69682,7 +69741,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>154</Stock>
+<Stock>151</Stock>
 <Miad>2027-02-01</Miad>
 <Price>850.00</Price>
 <Price2>1030.08</Price2>
