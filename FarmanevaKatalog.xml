@@ -31316,7 +31316,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2027-08-01</Miad>
 <Price>733.46</Price>
 <Price2>878.61</Price2>
@@ -53889,7 +53889,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>74</Stock>
+<Stock>64</Stock>
 <Miad>2028-05-01</Miad>
 <Price>329.51</Price>
 <Price2>412.53</Price2>
@@ -77825,7 +77825,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2027-07-01</Miad>
 <Price>380.80</Price>
 <Price2>471.71</Price2>
