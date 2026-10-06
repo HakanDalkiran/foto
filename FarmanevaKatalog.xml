@@ -834,7 +834,7 @@
 <Name><![CDATA[Vitagil Puff 1000 IU D3 Sprey 20 ml]]></Name>
 <Brand><![CDATA[Allergo]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
+<category><![CDATA[Vitaminler]]></category>
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2027-03-01</Miad>
@@ -2927,8 +2927,7 @@
 <Name><![CDATA[Armin Resverol Şurup 150 ml]]></Name>
 <Brand><![CDATA[Armin]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Şurup]]></subCategory>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -5500,9 +5499,8 @@
 <Barcode>3401397163618</Barcode>
 <Name><![CDATA[Bioderma Abcderm Foaming Cleanser 1 lt]]></Name>
 <Brand><![CDATA[Bioderma]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Yüz Temizleme]]></subCategory>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -5832,9 +5830,8 @@
 <Barcode>3401528520037</Barcode>
 <Name><![CDATA[Bioderma Atoderm Shower Oil Kuru Cilt Nemlendirici Besleyici Duş Yağı Niasinamid 100 ml]]></Name>
 <Brand><![CDATA[Bioderma]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -5971,8 +5968,7 @@
 <Name><![CDATA[Bioderma Photoderm Aquafluid SPF50+ 40 ml]]></Name>
 <Brand><![CDATA[Bioderma]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Nemlendirici]]></subCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -6390,9 +6386,8 @@
 <Barcode>3701129800096</Barcode>
 <Name><![CDATA[Bioderma Pigmentbio Sensitive Areas Genital Bölge, Eklem Bölgeleri Kararma Karşıtı Aydınlatıcı Krem 75 ml]]></Name>
 <Brand><![CDATA[Bioderma]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Genital Bölge Temizliği]]></subCategory>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -8536,7 +8531,7 @@
 <Name><![CDATA[Cebrolux NF 30 Saşe]]></Name>
 <Brand><![CDATA[Cebrolux]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
+<category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>5</Stock>
 <Miad>2027-06-01</Miad>
@@ -10450,8 +10445,7 @@
 <Name><![CDATA[Dalin Care Atocure Nemlendirici Vücut Losyonu 200 ml]]></Name>
 <Brand><![CDATA[Dalin]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Nemlendirici]]></subCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -10841,9 +10835,8 @@
 <Barcode>8699037120069</Barcode>
 <Name><![CDATA[Day’s Comfort Erken Gebelik Testi 12’li Stant]]></Name>
 <Brand><![CDATA[Day's Comfort]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Gebelik Testi]]></subCategory>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -10885,7 +10878,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Bu &#252;r&#252;n evde &#246;n bilgi ama&#231;l&#305; kullan&#305;lan bir testtir ve kesin t&#305;bbi te&#351;his arac&#305; de&#287;ildir; sonucu de&#287;erlendirmek ve kesin tan&#305; i&#231;in hekiminize ba&#351;vurun. Tek kullan&#305;ml&#305;kt&#305;r, kullan&#305;m k&#305;lavuzundaki ad&#305;mlara uyun ve &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p>
 <p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n, evde pratik bir &#246;n de&#287;erlendirme imkan&#305; sa&#287;lar.</p>
-</section>]]></Description>
+</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00243]]></Product_code>
@@ -11487,8 +11480,7 @@
 <Name><![CDATA[Dermastudio Lavanta Yağı Saç Bakım Spreyi 100 ml]]></Name>
 <Brand><![CDATA[Dermastudio]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
+<category><![CDATA[Saç Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2028-10-01</Miad>
@@ -12320,9 +12312,8 @@
 <Barcode>8697796001155</Barcode>
 <Name><![CDATA[Dermoskin Babycare Prebiyotik & Postbiyotik Yüz Kremi 50 ml]]></Name>
 <Brand><![CDATA[Dermoskin]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Nemlendirici]]></subCategory>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -12922,8 +12913,7 @@
 <Name><![CDATA[Dermoskin Be Bright Likit Fondöten Light SPF50+ 33 ml]]></Name>
 <Brand><![CDATA[Dermoskin]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -18647,9 +18637,8 @@
 <Barcode>8699241770869</Barcode>
 <Name><![CDATA[Fresh Bebe Nazal Aspiratör]]></Name>
 <Brand><![CDATA[Fresh Bebe]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Nazal Aspiratör]]></category>
 <Tax>20</Tax>
 <Stock>20</Stock>
 <Miad>2027-03-01</Miad>
@@ -18891,8 +18880,7 @@
 <Name><![CDATA[Fw Nutrition Raw Material Lugol Çözeltisi %2 30 ml 2’li]]></Name>
 <Brand><![CDATA[Fw Nutrition]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
+<category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -20652,9 +20640,8 @@
 <Barcode>8681234047607</Barcode>
 <Name><![CDATA[İlhan Sarı Organik Zeytin Yaprağı Çayı 20li]]></Name>
 <Brand><![CDATA[İlhan Sarı]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Bitkisel Ürünler]]></category>
 <Tax>20</Tax>
 <Stock>103</Stock>
 <Miad>2027-03-01</Miad>
@@ -20694,7 +20681,7 @@
 <h2>Uyarılar</h2>
 <p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Aşırı tüketimden kaçının. Hamilelik ve emzirme döneminde, bir sağlık sorununuz varsa veya ilaç kullanıyorsanız hekiminize danışın. Çocukların erişemeyeceği yerde saklayın.</p>
 <p>Organik zeytin yaprağının ferahlığını arayanlar İlhan Sarı Zeytin Yaprağı Çayı'nı Farmaneva'da bulabilir.</p>
-</section>]]></Description>
+</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00470]]></Product_code>
@@ -20793,7 +20780,7 @@
 <Name><![CDATA[İmuneks Farma Emetium Plus 20 Tablet]]></Name>
 <Brand><![CDATA[İmuneks Farma]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
+<category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -20836,9 +20823,8 @@
 <Barcode>8680176000091</Barcode>
 <Name><![CDATA[İmuneks Farma Imumax 16+ 30 ml Boğaz Spreyi]]></Name>
 <Brand><![CDATA[İmuneks Farma]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Pastiller]]></subCategory>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Solunum Destek Ürünleri]]></category>
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -20874,7 +20860,7 @@
 <h2>Uyarılar</h2>
 <p>Bu ürün tıbbi teşhis veya tedavinin yerini tutmaz; kullanım öncesi kılavuzu okuyun. Şikayetler devam eder veya artarsa hekiminize başvurun. Ürün etiketindeki yaş ve kullanım uyarılarına uyun.</p>
 <p>İmuneks Farma Imumax 16+ Boğaz Spreyi, Farmaneva güvencesiyle sunulur.</p>
-</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
+</section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00474]]></Product_code>
@@ -21286,8 +21272,7 @@
 <Name><![CDATA[Jenoset Kollajen Peptit Vitamin D3 Kurkumin Boswellia 30 Kapsül]]></Name>
 <Brand><![CDATA[Jenoset]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[D Vitamini]]></subCategory>
+<category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
 <Stock>12</Stock>
 <Miad>2028-09-01</Miad>
@@ -22153,8 +22138,7 @@
 <Name><![CDATA[L’Oreal Paris Lumi Glass Islak Bitişli Stick Aydınlatıcı 610 Glassy Pearl Eclat]]></Name>
 <Brand><![CDATA[L'Oréal Paris]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -23671,8 +23655,7 @@
 <Name><![CDATA[La Roche Posay Pigmentclar Yeux Göz Altı Halkaları İçin Aydınlatıcı Kapatıcı 15 ml]]></Name>
 <Brand><![CDATA[La Roche Posay]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -25016,8 +24999,7 @@
 <Name><![CDATA[Lierac Paris Teint Perfect Skin SPF20 30 ml - 04 Bronze Beige]]></Name>
 <Brand><![CDATA[Lierac]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Renkli Nemlendirici]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -25118,8 +25100,7 @@
 <Name><![CDATA[Lifextra Bromelain 60 Kapsül]]></Name>
 <Brand><![CDATA[Lifextra]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
+<category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
 <Stock>10</Stock>
 <Miad>2027-05-01</Miad>
@@ -28994,8 +28975,7 @@
 <Name><![CDATA[Mustela Çok Amaçlı Temel Bakım Losyonu 200 ml]]></Name>
 <Brand><![CDATA[Mustela]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Kremi]]></subCategory>
+<category><![CDATA[Anne Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -30086,7 +30066,7 @@
 <Name><![CDATA[NBT Life Betula 30 Kapsül]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Bitkisel Ürünler]]></category>
 <Tax>1</Tax>
 <Stock>11</Stock>
 <Miad>2027-04-01</Miad>
@@ -30584,7 +30564,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>498</Stock>
 <Miad>2028-01-01</Miad>
 <Price>487.90</Price>
 <Price2>595.28</Price2>
@@ -30776,7 +30756,7 @@
 <Name><![CDATA[Nbt Life Lactolife 30 Kapsül]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Probiyotik]]></category>
+<category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -30919,7 +30899,7 @@
 <Name><![CDATA[Nbt Life Longlife NADH 30 Tablet]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
+<category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
 <Stock>4</Stock>
 <Miad>2028-05-01</Miad>
@@ -31385,7 +31365,7 @@
 <Name><![CDATA[Nbt Life Saflife 30 Kapsül]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Karaciğer & Antioksidan]]></category>
+<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
 <Stock>97</Stock>
 <Miad>2029-08-01</Miad>
@@ -31485,8 +31465,7 @@
 <Name><![CDATA[NBT Life Superb 60 Kapsül]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[Multivitamin]]></subCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2027-05-01</Miad>
@@ -31532,9 +31511,8 @@
 <Barcode>8680645530739</Barcode>
 <Name><![CDATA[Nbt Life Teamct 30 Saşe]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -31574,7 +31552,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. &#214;nerilen g&#252;nl&#252;k dozu a&#351;may&#305;n. Hamilelik ve emzirme d&#246;neminde, bir sa&#287;l&#305;k sorununuz varsa veya ila&#231; kullan&#305;yorsan&#305;z hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Ye&#351;il &#231;ay ve MCT deste&#287;ini bir arada isteyenler NBT Life Teamct'yi Farmaneva'da bulabilir.</p>
-</section>]]></Description>
+</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00705]]></Product_code>
@@ -31826,8 +31804,7 @@
 <Name><![CDATA[Nemolix C 30 Tablet]]></Name>
 <Brand><![CDATA[Nemolix]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[C Vitamini]]></subCategory>
+<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-11-01</Miad>
@@ -31926,7 +31903,7 @@
 <Name><![CDATA[New Life 4 Hepa 90 Kapsül]]></Name>
 <Brand><![CDATA[New Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Omega 3 / Balık Yağı]]></category>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>16</Stock>
 <Miad>2028-11-01</Miad>
@@ -35082,9 +35059,8 @@
 <Barcode>3264680021985</Barcode>
 <Name><![CDATA[Nuxe Body Reve De The Exalting Fragrant Water 100 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Vücut Bakımı]]></category>
-<subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -35340,7 +35316,7 @@
 <Name><![CDATA[Nuxe Creme Prodigieuse Boost Gel Baume Yeux 15 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
+<category><![CDATA[Göz Çevresi Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -37357,8 +37333,7 @@
 <Name><![CDATA[Nuxe Nuxuriance Ultra Yaşlanma Karşıtı Bakım Seti - Serum 30 ml + Göz ve Dudak Kremi 15 ml + Yüz Kremi 50 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Göz Çevresi Bakımı]]></category>
-<subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>17</Stock>
 <Miad></Miad>
@@ -37409,8 +37384,7 @@
 <Name><![CDATA[Nuxe Pembenin Işıltısı Set Huile Or Florale 50 ml + Plumping Lip + Huile Florale 10 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Dudak Bakımı]]></category>
-<subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -37607,9 +37581,8 @@
 <Barcode>3264680029165</Barcode>
 <Name><![CDATA[Nuxe Reve de Miel Seyahat Seti Jel 30 ml + Balsam 15 gr + Krem 30 ml + El Kremi 15 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[El & Ayak Bakımı]]></category>
-<subCategory><![CDATA[Ayak Bakımı]]></subCategory>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Yüz Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -37707,9 +37680,8 @@
 <Barcode>3264680026263</Barcode>
 <Name><![CDATA[Nuxe Reve de Miel Vücut Spreyi 100 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Roll On]]></subCategory>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
@@ -38679,8 +38651,8 @@
 <Barcode>3264680038846</Barcode>
 <Name><![CDATA[Nuxe Very Rose Fragrance 100 ml]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Deodorant & Parfüm]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -39583,11 +39555,7 @@
 <HepsiburadaSku>HBCV0000GQKNHI</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00871</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-damla-20-20-ml-ikincisi-50-indirimli-eski-ambalaj-36954.webp</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-damla-20-20-ml-ikincisi-50-indirimli-eski-ambalaj-39625.webp</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-damla-20-20-ml-ikincisi-50-indirimli-eski-ambalaj-40113.webp</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-damla-20-20-ml-ikincisi-50-indirimli-eski-ambalaj-40378.webp</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-damla-20-20-ml-ikincisi-50-indirimli-eski-ambalaj-40623.webp</Image5>
+<Image1>https://www.farmaneva.com/uploads/urunler/ocean-d3k2-damla-20-20-ml-ikincisi-50-indirimli-eski-ambalaj-9794.webp</Image1>
 <Description><![CDATA[<section>
 <p><strong>Ocean D3K2 Damla 20+20 ml</strong>, D3 ve K2 vitaminini birleştiren damla formundaki takviyeyi iki şişe hâlinde sunan ikili bir pakettir. D3K2'yi uzun süre kullanmak isteyenler için 20+20 ml hâlinde sunulur.</p>
 <h2>Öne Çıkan Özellikler</h2>
@@ -40202,17 +40170,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2027-07-01</Miad>
-<Price>382.50</Price>
-<Price2>473.67</Price2>
-<Price3>473.67</Price3>
-<Price4>486.88</Price4>
-<Price5>479.08</Price5>
-<Price6>472.50</Price6>
-<Price7>710.39</Price7>
-<Price8>665.98</Price8>
-<Price9>472.50</Price9>
+<Stock>32</Stock>
+<Miad>2026-12-01</Miad>
+<Price>403.66</Price>
+<Price2>498.08</Price2>
+<Price3>498.08</Price3>
+<Price4>513.47</Price4>
+<Price5>505.58</Price5>
+<Price6>498.29</Price6>
+<Price7>740.75</Price7>
+<Price8>695.49</Price8>
+<Price9>498.29</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKQOC</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00887</SaticiStokKodu>
@@ -40251,7 +40219,7 @@
 <Name><![CDATA[Ocean Hepalex 60 Softjel Kapsül]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Omega 3 / Balık Yağı]]></category>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-01-01</Miad>
@@ -40405,7 +40373,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>280</Stock>
+<Stock>279</Stock>
 <Miad>2028-05-01</Miad>
 <Price>269.36</Price>
 <Price2>343.12</Price2>
@@ -41075,7 +41043,7 @@
 <Name><![CDATA[Ocean Ultimate 30+9 Kapsül]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Omega 3 / Balık Yağı]]></category>
+<category><![CDATA[Vitaminler]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
@@ -41328,8 +41296,7 @@
 <Name><![CDATA[Ocean Şurup + Twod Damla Seti]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Şurup]]></subCategory>
+<category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -41432,7 +41399,7 @@
 <Name><![CDATA[Ocean Çörek Otu Yağı Soğuk Sıkım 150 ml]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Bitkisel Ürünler]]></category>
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2026-11-01</Miad>
@@ -41537,8 +41504,7 @@
 <Name><![CDATA[Ocuvite Complete 60 Kapsül 3lü Paket]]></Name>
 <Brand><![CDATA[Ocuvite]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[Multivitamin]]></subCategory>
+<category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -42547,8 +42513,7 @@
 <Name><![CDATA[Orzax İmunol Karamürver & Çilek 12 Pastil]]></Name>
 <Brand><![CDATA[Orzax]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Pastiller]]></subCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
 <Stock>60</Stock>
 <Miad>2027-04-01</Miad>
@@ -42598,8 +42563,7 @@
 <Name><![CDATA[Orzax İmunol Portakal Aromalı 12 Pastil]]></Name>
 <Brand><![CDATA[Orzax]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Pastiller]]></subCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -42649,8 +42613,7 @@
 <Name><![CDATA[Orzax İmunol Sambucus Şurup 150 ml]]></Name>
 <Brand><![CDATA[Orzax]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Şurup]]></subCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
 <Stock>49</Stock>
 <Miad>2028-07-01</Miad>
@@ -43815,9 +43778,8 @@
 <Barcode>5051562010407</Barcode>
 <Name><![CDATA[Otribebe Nazal Aspiratör Yedek Ucu 10lu]]></Name>
 <Brand><![CDATA[Otribebe]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Bebek Bakımı]]></category>
-<subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Nazal Aspiratör]]></category>
 <Tax>10</Tax>
 <Stock>15</Stock>
 <Miad>2028-09-01</Miad>
@@ -44943,9 +44905,8 @@
 <Barcode>3338221005601</Barcode>
 <Name><![CDATA[Phyto Apaisant Ultra Soothing Cleansing Care 125 ml]]></Name>
 <Brand><![CDATA[Phyto]]></Brand>
-<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Yüz Temizleme]]></subCategory>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Saç Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>13</Stock>
 <Miad></Miad>
@@ -45040,9 +45001,8 @@
 <Barcode>5400951991108-3</Barcode>
 <Name><![CDATA[Predictor Early Erken Gebelik Testi 3’lü]]></Name>
 <Brand><![CDATA[Predictor]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Gebelik Testi]]></subCategory>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>10</Tax>
 <Stock>0</Stock>
 <Miad>2027-10-01</Miad>
@@ -45084,7 +45044,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Bu test bir &#246;n bilgi arac&#305;d&#305;r ve kesin t&#305;bbi tan&#305;n&#305;n yerini tutmaz; sonucu do&#287;rulamak ve gebelik takibi i&#231;in bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. Her test tek kullan&#305;ml&#305;kt&#305;r, son kullanma tarihine dikkat edin ve k&#305;lavuzdaki ad&#305;mlar&#305; eksiksiz uygulay&#305;n.</p>
 <p>Farmaneva, g&#252;venle kullanabilece&#287;iniz &#252;r&#252;nleri sizin i&#231;in bir araya getirir.</p>
-</section>]]></Description>
+</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00998]]></Product_code>
@@ -48256,7 +48216,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2027-07-01</Miad>
 <Price>339.91</Price>
 <Price2>424.53</Price2>
@@ -49700,7 +49660,7 @@
 <Name><![CDATA[Santasya Bonax 30 Tablet]]></Name>
 <Brand><![CDATA[Santasya]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -49922,8 +49882,7 @@
 <Name><![CDATA[Santasya İyot Damla 25 ml]]></Name>
 <Brand><![CDATA[Santasya]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[Multivitamin]]></subCategory>
+<category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
 <Stock>20</Stock>
 <Miad>2027-02-01</Miad>
@@ -50901,9 +50860,8 @@
 <Barcode>8681511096892</Barcode>
 <Name><![CDATA[Siveno Doğal El ve Vücut Kremi Lavanta Cilt Yatıştırıcı Onarıcı Yoğun Nemlendirici Vegan 30 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -51478,8 +51436,7 @@
 <Name><![CDATA[Siveno Zeytinyağlı Doğal Sıvı Sabun 300 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Organik & Doğal]]></category>
-<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
+<category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad>2028-11-01</Miad>
@@ -51627,7 +51584,7 @@
 <Name><![CDATA[Sjomann’s Omega-3 High Çiğnenebilir Jel 30 Adet]]></Name>
 <Brand><![CDATA[Sjomann's]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Kalp & Damar Sağlığı]]></category>
+<category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>86</Stock>
 <Miad>2027-02-01</Miad>
@@ -51956,6 +51913,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46739.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46740.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46832.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46833.webp</Image5>
 <Description><![CDATA[<section>
 <p><strong>Sma Comfort 3 Numara 400 gr</strong>, tamamlay&#305;c&#305; beslenmeye ge&#231;mi&#351; 1-3 ya&#351; &#231;ocuklar i&#231;in geli&#351;tirilmi&#351; bir devam s&#252;t&#252;d&#252;r. L. reuteri, FOS ve GOS prebiyotikleri ile OPTIPRO protein teknolojisini i&#231;eren form&#252;l&#252;, 12'li koli paket halinde sunulur ve her kutu 400 gr toz i&#231;erir.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
@@ -53099,8 +53057,7 @@
 <Name><![CDATA[Solgar Alpha Lipoic Acid 60 mg 30 Kapsül]]></Name>
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>7</Stock>
 <Miad>2027-07-01</Miad>
@@ -53126,8 +53083,7 @@
 <Name><![CDATA[Solgar Alpha Lipoic Acid 60 mg 60 Kapsül]]></Name>
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>2</Stock>
 <Miad>2027-07-01</Miad>
@@ -53501,8 +53457,7 @@
 <Name><![CDATA[Solgar L-Arginine 1000 mg 90 Tablet]]></Name>
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2027-01-01</Miad>
@@ -53551,8 +53506,7 @@
 <Name><![CDATA[Solgar L-Glutamine 1000 mg 60 Tablet]]></Name>
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2028-01-01</Miad>
@@ -55092,7 +55046,7 @@
 <Name><![CDATA[Lifextra Bella 30 Kapsül]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Kadın Sağlığı]]></category>
+<category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
 <Stock>39</Stock>
 <Miad>2028-03-01</Miad>
@@ -55474,8 +55428,7 @@
 <Name><![CDATA[TabVitamins 5-HTP 30 Kapsül]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[B Vitamini]]></subCategory>
+<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
 <Stock>42</Stock>
 <Miad>2028-03-01</Miad>
@@ -55612,8 +55565,7 @@
 <Name><![CDATA[TabVitamins Longawin 30 Kapsül]]></Name>
 <Brand><![CDATA[Tab İlaç]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
+<category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
 <Stock>26</Stock>
 <Miad>2029-02-01</Miad>
@@ -57552,8 +57504,7 @@
 <Name><![CDATA[Voonka 5-HTP Complex 62 Kapsül - Eski Ambalaj]]></Name>
 <Brand><![CDATA[Voonka]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[Multivitamin]]></subCategory>
+<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2026-12-01</Miad>
@@ -58014,9 +57965,8 @@
 <Barcode>8683930619249</Barcode>
 <Name><![CDATA[Vula Life Erken Gebelik Testi]]></Name>
 <Brand><![CDATA[Vulalife]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Gebelik Testi]]></subCategory>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>10</Tax>
 <Stock>50</Stock>
 <Miad>2027-04-01</Miad>
@@ -58038,16 +57988,15 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-erken-gebelik-testi-42775.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-erken-gebelik-testi-43555.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-erken-gebelik-testi-43874.webp</Image5>
-<Description><![CDATA[<section><p><strong>Vula Life Erken Gebelik Testi</strong>, evde uygulanabilen, idrarda hCG hormonunu algılamaya yönelik pratik bir gebelik testidir. Adet gecikmesini beklemeden erken dönemde ön bilgi almak isteyenler için tasarlanmıştır.</p><h2>Vula Life Erken Gebelik Testi Özellikleri</h2><ul><li>İdrardaki hCG hormonunu algılamaya yöneliktir.</li><li>Erken dönemde kullanıma yöneliktir.</li><li>Sonuç birkaç dakika içinde okunabilir.</li><li>Evde pratik ve kolay uygulama sunar.</li><li>Tek kullanımlık hijyenik ambalajda sunulur.</li></ul><h2>İçerik</h2><p>Test, idrardaki hCG (gebelik hormonu) hormonunu algılamaya yöneliktir. Ayrıntılı bilgi için ambalaj içindeki kullanım kılavuzuna bakın.</p><h2>Nasıl Kullanılır?</h2><p>En güvenilir sonuç için tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen süre içinde okunur. Kullanım kılavuzuna uygun biçimde kullanın.</p><h2>Uyarılar</h2><p>Hijyen kurallarına uyarak kullanın. Tek kullanımlıktır; ambalajı açıldıktan sonra hemen kullanın. Son kullanma tarihi geçmiş ürünü kullanmayın. Test sonucu ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurun. Pozitif ya da şüpheli sonuçta hekime başvurun. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Vula Life Erken Gebelik Testi ne işe yarar?</strong><br>İdrardaki gebelik hormonu hCG'yi erken dönemde algılamak için evde kullanılan bir gebelik testidir.</p><p><strong>Gebelik testi nasıl yapılır?</strong><br>Tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen sürede okunur.</p><p><strong>Test sonucu tanı yerine geçer mi?</strong><br>Hayır. Test ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurulmalıdır.</p></section>]]></Description>
+<Description><![CDATA[<section><p><strong>Vula Life Erken Gebelik Testi</strong>, evde uygulanabilen, idrarda hCG hormonunu algılamaya yönelik pratik bir gebelik testidir. Adet gecikmesini beklemeden erken dönemde ön bilgi almak isteyenler için tasarlanmıştır.</p><h2>Vula Life Erken Gebelik Testi Özellikleri</h2><ul><li>İdrardaki hCG hormonunu algılamaya yöneliktir.</li><li>Erken dönemde kullanıma yöneliktir.</li><li>Sonuç birkaç dakika içinde okunabilir.</li><li>Evde pratik ve kolay uygulama sunar.</li><li>Tek kullanımlık hijyenik ambalajda sunulur.</li></ul><h2>İçerik</h2><p>Test, idrardaki hCG (gebelik hormonu) hormonunu algılamaya yöneliktir. Ayrıntılı bilgi için ambalaj içindeki kullanım kılavuzuna bakın.</p><h2>Nasıl Kullanılır?</h2><p>En güvenilir sonuç için tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen süre içinde okunur. Kullanım kılavuzuna uygun biçimde kullanın.</p><h2>Uyarılar</h2><p>Hijyen kurallarına uyarak kullanın. Tek kullanımlıktır; ambalajı açıldıktan sonra hemen kullanın. Son kullanma tarihi geçmiş ürünü kullanmayın. Test sonucu ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurun. Pozitif ya da şüpheli sonuçta hekime başvurun. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Vula Life Erken Gebelik Testi ne işe yarar?</strong><br>İdrardaki gebelik hormonu hCG'yi erken dönemde algılamak için evde kullanılan bir gebelik testidir.</p><p><strong>Gebelik testi nasıl yapılır?</strong><br>Tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen sürede okunur.</p><p><strong>Test sonucu tanı yerine geçer mi?</strong><br>Hayır. Test ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurulmalıdır.</p></section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01284]]></Product_code>
 <Barcode>8682328782220</Barcode>
 <Name><![CDATA[Vula Life Gebelik Testi Erken Ultra]]></Name>
 <Brand><![CDATA[Vulalife]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Gebelik Testi]]></subCategory>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>10</Tax>
 <Stock>50</Stock>
 <Miad>2027-04-01</Miad>
@@ -58097,7 +58046,7 @@
 <h3>Vulalife Erken Ultra ile Vulalife Erken Gebelik Testi farkı nedir?</h3>
 <p>Erken Ultra daha düşük hormon seviyesini algılayacak hassasiyettedir. Bu yüzden adet gecikmesinden önce de denenebilir. Hassasiyet değeri ambalajda yazar.</p>
 <p>Gönül rahatlığıyla kullanmak isteyenler Farmaneva'dan güvenle edinebilir.</p>
-</section>]]></Description>
+</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01285]]></Product_code>
@@ -59095,9 +59044,8 @@
 <Barcode>8682328782220-12</Barcode>
 <Name><![CDATA[Vula Life Gebelik Testi Erken Ultra - 12 Adet]]></Name>
 <Brand><![CDATA[Vulalife]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
-<subCategory><![CDATA[Gebelik Testi]]></subCategory>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>10</Tax>
 <Stock>20</Stock>
 <Miad>2027-04-01</Miad>
@@ -59119,7 +59067,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-erken-ultra-gebelik-testi-12-adet-42793.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-erken-ultra-gebelik-testi-12-adet-43569.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-erken-ultra-gebelik-testi-12-adet-43888.webp</Image5>
-<Description><![CDATA[<section><p><strong>Vula Life Gebelik Testi Erken Ultra - 12 Adet</strong>, yüksek hassasiyetli yapısıyla erken dönemde sonuç vermeye yönelik, evde uygulanabilen gebelik testlerinden oluşan 12 adetlik pakettir. Adet gecikmesini beklemek istemeyenler için uygundur.</p><h2>Vula Life Gebelik Testi Erken Ultra - 12 Adet Özellikleri</h2><ul><li>12 adetlik paket olarak sunulur.</li><li>İdrardaki hCG hormonunu yüksek hassasiyetle algılamaya yöneliktir.</li><li>Erken dönemde kullanıma yöneliktir.</li><li>Sonuç kısa süre içinde okunabilir.</li><li>Her test tek kullanımlıktır ve hijyenik ambalajda sunulur.</li></ul><h2>İçerik</h2><p>Test, idrardaki hCG (gebelik hormonu) hormonunu algılamaya yöneliktir. Ayrıntılı bilgi için ambalaj içindeki kullanım kılavuzuna bakın.</p><h2>Nasıl Kullanılır?</h2><p>En güvenilir sonuç için tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen süre içinde okunur. Kullanım kılavuzuna uygun biçimde kullanın.</p><h2>Uyarılar</h2><p>Hijyen kurallarına uyarak kullanın. Tek kullanımlıktır; ambalajı açıldıktan sonra hemen kullanın. Son kullanma tarihi geçmiş ürünü kullanmayın. Test sonucu ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurun. Pozitif ya da şüpheli sonuçta hekime başvurun. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Vula Life Gebelik Testi Erken Ultra ne işe yarar?</strong><br>İdrardaki gebelik hormonu hCG'yi erken dönemde algılamak için evde kullanılan bir gebelik testidir.</p><p><strong>Gebelik testi nasıl yapılır?</strong><br>Tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen sürede okunur.</p><p><strong>Test sonucu tanı yerine geçer mi?</strong><br>Hayır. Test ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurulmalıdır.</p><p><strong>Pakette kaç test bulunur?</strong><br>Pakette 12 adet test bulunur; her test tek kullanımlıktır.</p></section>]]></Description>
+<Description><![CDATA[<section><p><strong>Vula Life Gebelik Testi Erken Ultra - 12 Adet</strong>, yüksek hassasiyetli yapısıyla erken dönemde sonuç vermeye yönelik, evde uygulanabilen gebelik testlerinden oluşan 12 adetlik pakettir. Adet gecikmesini beklemek istemeyenler için uygundur.</p><h2>Vula Life Gebelik Testi Erken Ultra - 12 Adet Özellikleri</h2><ul><li>12 adetlik paket olarak sunulur.</li><li>İdrardaki hCG hormonunu yüksek hassasiyetle algılamaya yöneliktir.</li><li>Erken dönemde kullanıma yöneliktir.</li><li>Sonuç kısa süre içinde okunabilir.</li><li>Her test tek kullanımlıktır ve hijyenik ambalajda sunulur.</li></ul><h2>İçerik</h2><p>Test, idrardaki hCG (gebelik hormonu) hormonunu algılamaya yöneliktir. Ayrıntılı bilgi için ambalaj içindeki kullanım kılavuzuna bakın.</p><h2>Nasıl Kullanılır?</h2><p>En güvenilir sonuç için tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen süre içinde okunur. Kullanım kılavuzuna uygun biçimde kullanın.</p><h2>Uyarılar</h2><p>Hijyen kurallarına uyarak kullanın. Tek kullanımlıktır; ambalajı açıldıktan sonra hemen kullanın. Son kullanma tarihi geçmiş ürünü kullanmayın. Test sonucu ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurun. Pozitif ya da şüpheli sonuçta hekime başvurun. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Vula Life Gebelik Testi Erken Ultra ne işe yarar?</strong><br>İdrardaki gebelik hormonu hCG'yi erken dönemde algılamak için evde kullanılan bir gebelik testidir.</p><p><strong>Gebelik testi nasıl yapılır?</strong><br>Tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen sürede okunur.</p><p><strong>Test sonucu tanı yerine geçer mi?</strong><br>Hayır. Test ön bilgi niteliğindedir; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurulmalıdır.</p><p><strong>Pakette kaç test bulunur?</strong><br>Pakette 12 adet test bulunur; her test tek kullanımlıktır.</p></section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01314]]></Product_code>
@@ -59176,7 +59124,7 @@
 <Name><![CDATA[Alvita Kan Şeker Ölçüm Cihazı]]></Name>
 <Brand><![CDATA[Alvita]]></Brand>
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
-<category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
+<category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <Tax>10</Tax>
 <Stock>25</Stock>
 <Miad></Miad>
@@ -63333,7 +63281,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-01-01</Miad>
 <Price>480.16</Price>
 <Price2>597.42</Price2>
@@ -64295,7 +64243,7 @@
 <Name><![CDATA[Lectus PS 60 Kapsül]]></Name>
 <Brand><![CDATA[Lectus]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
+<category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
 <Stock>5</Stock>
 <Miad>2028-12-01</Miad>
@@ -64391,8 +64339,7 @@
 <Name><![CDATA[Lifextra Bromelain 500 mg 60 Kapsül]]></Name>
 <Brand><![CDATA[Lifextra]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
+<category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>10</Tax>
 <Stock>13</Stock>
 <Miad>2028-04-01</Miad>
@@ -64439,8 +64386,7 @@
 <Name><![CDATA[Lifextra Bromelain 750 mg 30 Kapsül]]></Name>
 <Brand><![CDATA[Lifextra]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
+<category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>10</Tax>
 <Stock>11</Stock>
 <Miad>2027-08-01</Miad>
@@ -64530,7 +64476,7 @@
 <Name><![CDATA[Lifextra Onhepa 30 Yumuşak Kapsül]]></Name>
 <Brand><![CDATA[Lifextra]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>10</Tax>
 <Stock>2</Stock>
 <Miad>2028-02-01</Miad>
@@ -70023,8 +69969,7 @@
 <Name><![CDATA[Siveno Emzik ve Biberon Temizleyicisi 500 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Beslenme]]></category>
-<subCategory><![CDATA[Biberon]]></subCategory>
+<category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>0</Stock>
 <Miad>2029-04-01</Miad>
@@ -70340,8 +70285,7 @@
 <Name><![CDATA[Siveno Mineral Filtreli Leke Karşıtı Yüz Güneş Kremi SPF50+ 30 ml]]></Name>
 <Brand><![CDATA[Siveno]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Leke Karşıtı Bakım]]></subCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>85</Stock>
 <Miad>2029-03-01</Miad>
@@ -73615,7 +73559,7 @@
 <Name><![CDATA[Voonka Omega 3 Daily 60 Yumuşak Kapsül]]></Name>
 <Brand><![CDATA[Voonka]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Kalp & Damar Sağlığı]]></category>
+<category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>10</Tax>
 <Stock>4</Stock>
 <Miad>2027-12-01</Miad>
@@ -73665,8 +73609,7 @@
 <Name><![CDATA[Voonka One & Only HSN 30 Tablet]]></Name>
 <Brand><![CDATA[Voonka]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Vitaminler]]></category>
-<subCategory><![CDATA[Multivitamin]]></subCategory>
+<category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>10</Tax>
 <Stock>4</Stock>
 <Miad>2028-08-01</Miad>
@@ -74513,8 +74456,7 @@
 <Name><![CDATA[Shiniq RP Onar ve Koru Krem SPF50+ 40 ml]]></Name>
 <Brand><![CDATA[Shiniq]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Onarıcı & Yenileyici Nemlendirici]]></subCategory>
+<category><![CDATA[Güneş Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad>2028-05-01</Miad>
@@ -76673,8 +76615,7 @@
 <Name><![CDATA[Loreal Paris Infaillible Faux Brow Ultra İnce Uçlu Kaş Kalemi Dark Brunette]]></Name>
 <Brand><![CDATA[L'Oréal Paris]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Göz Çevresi Bakımı]]></category>
-<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
@@ -76707,7 +76648,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>747.91</Price>
 <Price2>928.23</Price2>
@@ -77470,8 +77411,7 @@
 <Name><![CDATA[Lierac Paris Body Hydra Micropeeling Scrub 200 ml]]></Name>
 <Brand><![CDATA[Lierac]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Yüz Bakımı]]></category>
-<subCategory><![CDATA[Maske & Peeling]]></subCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
 <Tax>20</Tax>
 <Stock>5</Stock>
 <Miad></Miad>
@@ -77960,8 +77900,7 @@
 <Name><![CDATA[Maybelline New York Tattoo Liner Ink Pen - Black]]></Name>
 <Brand><![CDATA[Maybelline New York]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
-<category><![CDATA[Göz Çevresi Bakımı]]></category>
-<subCategory><![CDATA[Kaş & Kirpik Bakımı]]></subCategory>
+<category><![CDATA[Makyaj]]></category>
 <Tax>20</Tax>
 <Stock>1</Stock>
 <Miad></Miad>
@@ -78781,11 +78720,9 @@
 <HepsiburadaSku>HBCV0000IR9O2E</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01748</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-38647.webp</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-38648.webp</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-38649.webp</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-43316.webp</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-43317.webp</Image5>
+<Image1>https://www.farmaneva.com/uploads/urunler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-11966.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-11967.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/ocean-daily-one-energy-30-30-tablet-1-alana-1-hediye-11968.webp</Image3>
 <Description><![CDATA[<section>
 <p><strong>Ocean Daily One Energy 60 Tablet (30+30)</strong>, panax ginseng, koenzim Q10 ve K2 vitaminini 13 vitamin ve 10 mineralle bir arada sunan bir takviye edici gıdadır. Günlük beslenmesini tek üründe desteklemek isteyenler için hazırlanmıştır. 30+30 tabletlik ikili paket hâlinde sunulur.</p>
 <h2>Ocean Daily One Energy 60 Tablet (30+30) Özellikleri</h2>
@@ -78846,7 +78783,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>10</Stock>
 <Miad>2027-07-01</Miad>
 <Price>380.80</Price>
 <Price2>471.71</Price2>
@@ -80073,7 +80010,7 @@
 <Name><![CDATA[Tab Vitamins Vitamin K2 60 Kapsül]]></Name>
 <Brand><![CDATA[Tabvitamins]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Vitaminler]]></category>
 <Tax>10</Tax>
 <Stock>5</Stock>
 <Miad>2028-01-01</Miad>
@@ -80905,8 +80842,8 @@
 <Barcode>8697448351881</Barcode>
 <Name><![CDATA[Hardline Nutrition Vmax Çikolata 908 gr]]></Name>
 <Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Sporcu Ürünleri]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-07-01</Miad>
@@ -80953,8 +80890,8 @@
 <Barcode>8697448351553</Barcode>
 <Name><![CDATA[Hardline Nutrition Whey 3Matrix Protein Tozu Çikolata 210 gr]]></Name>
 <Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Sporcu Ürünleri]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2029-04-01</Miad>
@@ -81001,8 +80938,8 @@
 <Barcode>8697448351423</Barcode>
 <Name><![CDATA[Hardline Progainer Çikolata 3 kg]]></Name>
 <Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Sporcu Ürünleri]]></category>
 <Tax>1</Tax>
 <Stock>4</Stock>
 <Miad>2029-07-01</Miad>
@@ -81511,7 +81448,7 @@
 <Name><![CDATA[NBT Life Full Life 30 Kapsül]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>6</Stock>
 <Miad>2029-04-01</Miad>
@@ -82533,8 +82470,8 @@
 <Barcode>8697448351478</Barcode>
 <Name><![CDATA[Hardline Nutrition Progainer Çikolata 1406 gr]]></Name>
 <Brand><![CDATA[Hardline Nutrition]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Sporcu Ürünleri]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad></Miad>
@@ -83637,8 +83574,7 @@
 <Name><![CDATA[Orzax İmunol Şurup 150 ml]]></Name>
 <Brand><![CDATA[Orzax]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Şurup]]></subCategory>
+<category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2026-09-01</Miad>
@@ -84190,7 +84126,7 @@
 <Name><![CDATA[Elenatal 1 30 Tablet]]></Name>
 <Brand><![CDATA[Elenatal]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>106</Stock>
 <Miad>2028-02-01</Miad>
@@ -84220,7 +84156,7 @@
 <Name><![CDATA[Elenatal 2 30 Kapsül]]></Name>
 <Brand><![CDATA[Elenatal]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>8</Stock>
 <Miad>2027-10-01</Miad>
@@ -84520,7 +84456,7 @@
 <Name><![CDATA[New Life Mag 4 Day & Night 30+30 Tablet]]></Name>
 <Brand><![CDATA[New Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
 <Stock>7</Stock>
 <Miad>2028-03-01</Miad>
@@ -84572,7 +84508,7 @@
 <Name><![CDATA[New Life Mena K2+D3 30 Kapsül]]></Name>
 <Brand><![CDATA[New Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Mineraller]]></category>
+<category><![CDATA[Vitaminler]]></category>
 <Tax>1</Tax>
 <Stock>11</Stock>
 <Miad>2028-04-01</Miad>
@@ -85003,7 +84939,7 @@
 <Name><![CDATA[NBT Life DuoBalance Pre 60 Saşe]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
 <Stock>3</Stock>
 <Miad>2029-04-01</Miad>
@@ -85115,8 +85051,7 @@
 <Name><![CDATA[New Life 4 Hepa 30 Softgel Kapsül]]></Name>
 <Brand><![CDATA[New Life]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
 <Stock>7</Stock>
 <Miad>2028-11-01</Miad>
@@ -86130,9 +86065,8 @@
 <Barcode>8680645531286</Barcode>
 <Name><![CDATA[NBT Life Crealife 60 Stick]]></Name>
 <Brand><![CDATA[NBT Life]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Mineraller]]></category>
-<subCategory><![CDATA[Magnezyum]]></subCategory>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Sporcu Ürünleri]]></category>
 <Tax>1</Tax>
 <Stock>32</Stock>
 <Miad>2029-04-01</Miad>
@@ -86408,8 +86342,7 @@
 <Name><![CDATA[Solgar Bromelain 150 mg 60 Kapsül]]></Name>
 <Brand><![CDATA[Solgar]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Bitkisel Ürünler]]></category>
-<subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
+<category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
 <Stock>3</Stock>
 <Miad>2027-11-01</Miad>
@@ -87066,8 +86999,8 @@
 <Barcode>850084388156</Barcode>
 <Name><![CDATA[Ocean Kreatin Powder 3000 mg 175 gr]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Genel Takviye Edici Gıda]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Sporcu Ürünleri]]></category>
 <Tax>1</Tax>
 <Stock>25</Stock>
 <Miad>2029-04-01</Miad>
@@ -87110,7 +87043,7 @@
 <p><strong>Ocean Kreatin Powder kaç doz içerir?</strong><br>175 g'lık ambalaj 50 doz (50 x 3,5 g) içerir.</p>
 <p><strong>Nasıl hazırlanır?</strong><br>Bir ölçek (3,5 g) toz, bir bardak (200 ml) suyla karıştırılarak tüketilir.</p>
 <p><strong>Kaç yaşından itibaren kullanılır?</strong><br>11 yaş ve üzeri bireyler için hazırlanmıştır.</p>
-</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
+</section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01947]]></Product_code>
