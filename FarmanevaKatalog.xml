@@ -31523,7 +31523,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-08-01</Miad>
 <Price>733.46</Price>
 <Price2>878.61</Price2>
@@ -40298,17 +40298,17 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-01-01</Miad>
-<Price>418.81</Price>
-<Price2>472.31</Price2>
-<Price3>472.31</Price3>
-<Price4>469.07</Price4>
-<Price5>469.07</Price5>
-<Price6>469.07</Price6>
-<Price7>682.39</Price7>
-<Price8>682.39</Price8>
-<Price9>516.76</Price9>
+<Stock>7</Stock>
+<Miad>2026-11-01</Miad>
+<Price>533.71</Price>
+<Price2>648.14</Price2>
+<Price3>648.14</Price3>
+<Price4>676.85</Price4>
+<Price5>668.47</Price5>
+<Price6>656.85</Price6>
+<Price7>927.34</Price7>
+<Price8>876.82</Price8>
+<Price9>656.85</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLGQM</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00893</SaticiStokKodu>
@@ -79074,7 +79074,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>182.66</Price>
 <Price2>256.59</Price2>
@@ -86203,7 +86203,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>104</Stock>
+<Stock>103</Stock>
 <Miad>2028-05-01</Miad>
 <Price>241.40</Price>
 <Price2>310.86</Price2>
@@ -87950,7 +87950,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2029-02-01</Miad>
 <Price>416.41</Price>
 <Price2>512.79</Price2>
