@@ -40421,7 +40421,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>14</Stock>
 <Miad>2028-12-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -54497,7 +54497,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>64</Stock>
+<Stock>59</Stock>
 <Miad>2028-05-01</Miad>
 <Price>375.61</Price>
 <Price2>465.72</Price2>
@@ -55082,6 +55082,7 @@
 <SaticiStokKodu>FRMNV01225</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-plus-60-tablet-37609.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/magnimore-plus-60-tablet-46835.webp</Image2>
 <Description><![CDATA[<section>
 <p><strong>Magnimore Plus 60 Tablet</strong>, magnezyum asetil taurat, bisglisinat ve malat formlarını P5P (B6) ile bir araya getiren, günlük magnezyum desteği sağlayan bir takviye edici gıdadır. Tablet formunu tercih eden yetişkinler için 60 tabletlik ambalajda sunulur.</p>
 <h2>Magnimore Plus Tablet Özellikleri</h2>
@@ -80379,7 +80380,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad></Miad>
 <Price>369.66</Price>
 <Price2>478.79</Price2>
