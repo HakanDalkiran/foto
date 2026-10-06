@@ -2974,9 +2974,9 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>177</Stock>
 <Miad>2027-10-01</Miad>
-<Price>394.25</Price>
+<Price>465.71</Price>
 <Price2>496.92</Price2>
 <Price3>496.92</Price3>
 <Price4>513.95</Price4>
@@ -2984,7 +2984,7 @@
 <Price6>497.08</Price6>
 <Price7>771.54</Price7>
 <Price8>719.47</Price8>
-<Price9>497.08</Price9>
+<Price9>585.94</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699856710083</HepsiburadaSku>
 <SaticiStokKodu>8699856710083</SaticiStokKodu>
@@ -8733,7 +8733,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>25</Stock>
 <Miad></Miad>
 <Price>730.06</Price>
 <Price2>907.02</Price2>
@@ -16322,7 +16322,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>118.92</Price>
 <Price2>174.82</Price2>
@@ -30265,17 +30265,17 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>498</Stock>
 <Miad>2028-01-01</Miad>
-<Price>487.90</Price>
-<Price2>595.28</Price2>
-<Price3>595.28</Price3>
-<Price4>619.30</Price4>
-<Price5>611.09</Price5>
-<Price6>601.00</Price6>
-<Price7>861.61</Price7>
-<Price8>812.94</Price8>
-<Price9>601.00</Price9>
+<Price>560.06</Price>
+<Price2>678.54</Price2>
+<Price3>678.54</Price3>
+<Price4>709.96</Price4>
+<Price5>701.47</Price5>
+<Price6>688.97</Price6>
+<Price7>965.14</Price7>
+<Price8>913.56</Price8>
+<Price9>688.97</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL10L</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00684</SaticiStokKodu>
@@ -31439,7 +31439,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>46</Stock>
 <Miad>2028-11-01</Miad>
 <Price>370.60</Price>
 <Price2>459.94</Price2>
@@ -39532,7 +39532,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>3</Stock>
 <Miad>2027-11-01</Miad>
 <Price>491.30</Price>
 <Price2>599.20</Price2>
@@ -46502,7 +46502,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>194.65</Price>
 <Price2>270.84</Price2>
@@ -47377,7 +47377,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>215</Stock>
+<Stock>214</Stock>
 <Miad>2028-07-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
@@ -47526,7 +47526,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>4</Stock>
 <Miad>2027-07-01</Miad>
 <Price>339.91</Price>
 <Price2>424.53</Price2>
@@ -48495,7 +48495,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>422</Stock>
+<Stock>421</Stock>
 <Miad>2030-07-01</Miad>
 <Price>89.25</Price>
 <Price2>140.11</Price2>
@@ -50197,7 +50197,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>66</Stock>
 <Miad>2029-05-01</Miad>
 <Price>175.01</Price>
 <Price2>247.50</Price2>
@@ -51191,7 +51191,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>12</Stock>
 <Miad>2027-08-01</Miad>
 <Price>488.66</Price>
 <Price2>596.16</Price2>
@@ -53228,7 +53228,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>347</Stock>
+<Stock>348</Stock>
 <Miad>2029-01-01</Miad>
 <Price>314.41</Price>
 <Price2>403.51</Price2>
@@ -53836,7 +53836,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>500</Stock>
+<Stock>496</Stock>
 <Miad>2028-05-01</Miad>
 <Price>434.00</Price>
 <Price2>533.09</Price2>
@@ -53889,7 +53889,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>85</Stock>
+<Stock>74</Stock>
 <Miad>2028-05-01</Miad>
 <Price>329.51</Price>
 <Price2>412.53</Price2>
@@ -57108,8 +57108,9 @@
 <Barcode>8682328782220</Barcode>
 <Name><![CDATA[Vula Life Gebelik Testi Erken Ultra]]></Name>
 <Brand><![CDATA[Vulalife]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Kadın Sağlığı]]></category>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
+<subCategory><![CDATA[Gebelik Testi]]></subCategory>
 <Tax>10</Tax>
 <Stock>50</Stock>
 <Miad>2027-04-01</Miad>
@@ -57131,7 +57132,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-gebelik-testi-erken-ultra-44106.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-gebelik-testi-erken-ultra-44186.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/vulalife-gebelik-testi-erken-ultra-44215.webp</Image5>
-<Description><![CDATA[<section><p><strong>Vula Life Gebelik Testi Erken Ultra</strong>, yüksek hassasiyetli yapısıyla erken dönemde sonuç vermeye yönelik, evde uygulanabilen bir gebelik testidir. Tek kullanımlık hijyenik ambalajda sunulur.</p><h2>Özellikler</h2><ul><li>İdrardaki hCG hormonunu yüksek hassasiyetle algılamaya yöneliktir.</li><li>Erken dönemde kullanıma yöneliktir.</li><li>Sonuç kısa süre içinde okunabilir.</li><li>Evde pratik ve kolay uygulama sunar.</li><li>Tek kullanımlık hijyenik ambalajda sunulur.</li></ul><h2>İçerik</h2><p>Test, idrardaki hCG (gebelik hormonu) hormonunu algılamaya yöneliktir. Ayrıntılı bilgi için ambalaj içindeki kullanım kılavuzuna bakın.</p><h2>Nasıl Kullanılır?</h2><p>En güvenilir sonuç için tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen süre içinde okunur. Kullanım kılavuzuna uygun biçimde kullanın.</p><h2>Uyarılar</h2><p>Tek kullanımlıktır; ambalajı açıldıktan sonra hemen kullanın. Son kullanma tarihi geçmiş ürünü kullanmayın. Test tanı koymaz, sonuç ön bilgi niteliğindedir; kesin değerlendirme için bir sağlık kuruluşuna başvurun. Doğurganlık amacıyla hCG içeren ürün kullanan ya da yakın zamanda gebelik yaşamış kişilerde sonuç yanıltıcı olabilir. Pozitif ya da şüpheli sonuçta hekime başvurun. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Vula Life Gebelik Testi Erken Ultra ne işe yarar?</strong><br>İdrardaki gebelik hormonu hCG'yi erken dönemde algılamak için evde kullanılan bir gebelik testidir.</p><p><strong>Test nasıl yapılır?</strong><br>Tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen sürede okunur.</p><p><strong>Test sonucu tanı yerine geçer mi?</strong><br>Hayır. Test tanı koymaz; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurulmalıdır.</p><p><strong>Sonuç hangi durumlarda yanıltıcı olabilir?</strong><br>Doğurganlık amacıyla hCG içeren ürün kullanan ya da yakın zamanda gebelik yaşamış kişilerde sonuç yanıltıcı olabilir.</p></section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
+<Description><![CDATA[<section><p><strong>Vula Life Gebelik Testi Erken Ultra</strong>, yüksek hassasiyetli yapısıyla erken dönemde sonuç vermeye yönelik, evde uygulanabilen bir gebelik testidir. Tek kullanımlık hijyenik ambalajda sunulur.</p><h2>Özellikler</h2><ul><li>İdrardaki hCG hormonunu yüksek hassasiyetle algılamaya yöneliktir.</li><li>Erken dönemde kullanıma yöneliktir.</li><li>Sonuç kısa süre içinde okunabilir.</li><li>Evde pratik ve kolay uygulama sunar.</li><li>Tek kullanımlık hijyenik ambalajda sunulur.</li></ul><h2>İçerik</h2><p>Test, idrardaki hCG (gebelik hormonu) hormonunu algılamaya yöneliktir. Ayrıntılı bilgi için ambalaj içindeki kullanım kılavuzuna bakın.</p><h2>Nasıl Kullanılır?</h2><p>En güvenilir sonuç için tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen süre içinde okunur. Kullanım kılavuzuna uygun biçimde kullanın.</p><h2>Uyarılar</h2><p>Tek kullanımlıktır; ambalajı açıldıktan sonra hemen kullanın. Son kullanma tarihi geçmiş ürünü kullanmayın. Test tanı koymaz, sonuç ön bilgi niteliğindedir; kesin değerlendirme için bir sağlık kuruluşuna başvurun. Doğurganlık amacıyla hCG içeren ürün kullanan ya da yakın zamanda gebelik yaşamış kişilerde sonuç yanıltıcı olabilir. Pozitif ya da şüpheli sonuçta hekime başvurun. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Vula Life Gebelik Testi Erken Ultra ne işe yarar?</strong><br>İdrardaki gebelik hormonu hCG'yi erken dönemde algılamak için evde kullanılan bir gebelik testidir.</p><p><strong>Test nasıl yapılır?</strong><br>Tercihen sabah ilk idrar kullanılır. Emici uç birkaç saniye idrar akışına tutulur ya da temiz bir kaba alınan idrara daldırılır; sonuç belirtilen sürede okunur.</p><p><strong>Test sonucu tanı yerine geçer mi?</strong><br>Hayır. Test tanı koymaz; sonucun değerlendirilmesi için bir sağlık kuruluşuna başvurulmalıdır.</p><p><strong>Sonuç hangi durumlarda yanıltıcı olabilir?</strong><br>Doğurganlık amacıyla hCG içeren ürün kullanan ya da yakın zamanda gebelik yaşamış kişilerde sonuç yanıltıcı olabilir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01285]]></Product_code>
@@ -64672,7 +64673,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>31</Stock>
 <Miad>2029-03-01</Miad>
 <Price>509.06</Price>
 <Price2>631.23</Price2>
@@ -66946,7 +66947,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>32</Stock>
+<Stock>31</Stock>
 <Miad></Miad>
 <Price>127.42</Price>
 <Price2>190.96</Price2>
@@ -69628,7 +69629,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>154</Stock>
+<Stock>150</Stock>
 <Miad>2027-02-01</Miad>
 <Price>850.00</Price>
 <Price2>1030.08</Price2>
@@ -85717,7 +85718,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>329</Stock>
+<Stock>324</Stock>
 <Miad>2028-03-01</Miad>
 <Price>293.16</Price>
 <Price2>370.58</Price2>
