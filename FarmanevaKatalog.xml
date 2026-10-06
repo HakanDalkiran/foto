@@ -39532,7 +39532,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2027-11-01</Miad>
 <Price>491.30</Price>
 <Price2>599.20</Price2>
@@ -83695,16 +83695,16 @@
 <category><![CDATA[Erkek Sağlığı]]></category>
 <Tax>1</Tax>
 <Stock>0</Stock>
-<Miad>2028-03-01</Miad>
-<Price>2090.07</Price>
-<Price2>2443.91</Price2>
-<Price3>2443.91</Price3>
-<Price4>2632.13</Price4>
-<Price5>2617.81</Price5>
-<Price6>2554.34</Price6>
-<Price7>3160.28</Price7>
-<Price8>3046.87</Price8>
-<Price9>2554.34</Price9>
+<Miad>2027-05-01</Miad>
+<Price>2162.32</Price>
+<Price2>2527.27</Price2>
+<Price3>2527.27</Price3>
+<Price4>2722.90</Price4>
+<Price5>2708.30</Price5>
+<Price6>2642.43</Price6>
+<Price7>3263.94</Price7>
+<Price8>3147.60</Price8>
+<Price9>2642.43</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IW55Y8</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01880</SaticiStokKodu>
