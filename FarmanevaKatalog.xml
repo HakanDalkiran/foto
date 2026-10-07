@@ -31432,15 +31432,15 @@
 <Tax>20</Tax>
 <Stock>12</Stock>
 <Miad></Miad>
-<Price>88.23</Price>
-<Price2>144.39</Price2>
-<Price3>144.39</Price3>
-<Price4>124.38</Price4>
-<Price5>116.02</Price5>
-<Price6>119.82</Price6>
-<Price7>339.76</Price7>
-<Price8>289.02</Price8>
-<Price9>119.82</Price9>
+<Price>93.42</Price>
+<Price2>150.56</Price2>
+<Price3>150.56</Price3>
+<Price4>131.23</Price4>
+<Price5>122.84</Price5>
+<Price6>126.42</Price6>
+<Price7>347.87</Price7>
+<Price8>296.84</Price8>
+<Price9>126.42</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>42240600</HepsiburadaSku>
 <SaticiStokKodu>42240600</SaticiStokKodu>
@@ -39263,7 +39263,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>72</Stock>
+<Stock>71</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -52688,7 +52688,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>42</Stock>
+<Stock>41</Stock>
 <Miad>2028-03-01</Miad>
 <Price>377.31</Price>
 <Price2>467.68</Price2>
@@ -67110,15 +67110,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-02-01</Miad>
-<Price>373.91</Price>
-<Price2>483.84</Price2>
-<Price3>483.84</Price3>
-<Price4>501.47</Price4>
-<Price5>491.68</Price5>
-<Price6>483.10</Price6>
-<Price7>793.35</Price7>
-<Price8>733.36</Price8>
-<Price9>483.10</Price9>
+<Price>408.00</Price>
+<Price2>524.34</Price2>
+<Price3>524.34</Price3>
+<Price4>546.46</Price4>
+<Price5>536.50</Price5>
+<Price6>526.45</Price6>
+<Price7>846.62</Price7>
+<Price8>784.70</Price8>
+<Price9>526.45</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511099237</HepsiburadaSku>
 <SaticiStokKodu>8681511099237</SaticiStokKodu>
@@ -68799,7 +68799,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-07-01</Miad>
 <Price>305.91</Price>
 <Price2>393.57</Price2>
