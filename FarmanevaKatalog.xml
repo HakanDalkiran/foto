@@ -2007,7 +2007,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>23</Stock>
 <Miad>2027-06-01</Miad>
 <Price>467.41</Price>
 <Price2>571.64</Price2>
@@ -6804,7 +6804,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>271</Stock>
+<Stock>272</Stock>
 <Miad>2027-10-01</Miad>
 <Price>347.56</Price>
 <Price2>442.30</Price2>
@@ -14243,15 +14243,15 @@
 <Tax>1</Tax>
 <Stock>10</Stock>
 <Miad>2027-10-01</Miad>
-<Price>552.49</Price>
-<Price2>669.81</Price2>
-<Price3>669.81</Price3>
-<Price4>700.44</Price4>
-<Price5>691.99</Price5>
-<Price6>679.74</Price6>
-<Price7>954.28</Price7>
-<Price8>903.00</Price8>
-<Price9>679.74</Price9>
+<Price>568.56</Price>
+<Price2>688.35</Price2>
+<Price3>688.35</Price3>
+<Price4>720.63</Price4>
+<Price5>712.12</Price5>
+<Price6>699.34</Price6>
+<Price7>977.34</Price7>
+<Price8>925.41</Price8>
+<Price9>699.34</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKYFP</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00344</SaticiStokKodu>
@@ -31227,17 +31227,17 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>66</Stock>
 <Miad></Miad>
-<Price>92.56</Price>
-<Price2>149.53</Price2>
-<Price3>149.53</Price3>
-<Price4>130.10</Price4>
-<Price5>121.71</Price5>
-<Price6>125.33</Price6>
-<Price7>346.53</Price7>
-<Price8>295.54</Price8>
-<Price9>125.33</Price9>
+<Price>93.33</Price>
+<Price2>150.45</Price2>
+<Price3>150.45</Price3>
+<Price4>131.11</Price4>
+<Price5>122.73</Price5>
+<Price6>126.31</Price6>
+<Price7>347.73</Price7>
+<Price8>296.70</Price8>
+<Price9>126.31</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>4005900836151</HepsiburadaSku>
 <SaticiStokKodu>4005900836151</SaticiStokKodu>
@@ -32358,15 +32358,15 @@
 <Tax>20</Tax>
 <Stock>6</Stock>
 <Miad></Miad>
-<Price>54.31</Price>
-<Price2>104.09</Price2>
-<Price3>104.09</Price3>
-<Price4>79.61</Price4>
-<Price5>71.42</Price5>
-<Price6>76.69</Price6>
-<Price7>286.76</Price7>
-<Price8>172.88</Price8>
-<Price9>76.69</Price9>
+<Price>61.97</Price>
+<Price2>113.19</Price2>
+<Price3>113.19</Price3>
+<Price4>89.72</Price4>
+<Price5>81.49</Price5>
+<Price6>86.43</Price6>
+<Price7>298.73</Price7>
+<Price8>184.41</Price8>
+<Price9>86.43</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>4005808890576</HepsiburadaSku>
 <SaticiStokKodu>4005808890576</SaticiStokKodu>
@@ -39555,7 +39555,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2027-11-01</Miad>
 <Price>628.91</Price>
 <Price2>757.98</Price2>
@@ -40569,7 +40569,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad>2027-04-01</Miad>
 <Price>105.83</Price>
 <Price2>154.44</Price2>
@@ -41460,7 +41460,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>58</Stock>
+<Stock>56</Stock>
 <Miad>2027-03-01</Miad>
 <Price>140.16</Price>
 <Price2>194.05</Price2>
@@ -63057,7 +63057,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>474</Stock>
+<Stock>476</Stock>
 <Miad>2028-06-01</Miad>
 <Price>543.91</Price>
 <Price2>659.91</Price2>
@@ -84213,7 +84213,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>183</Stock>
+<Stock>181</Stock>
 <Miad>2029-03-01</Miad>
 <Price>436.81</Price>
 <Price2>546.71</Price2>
