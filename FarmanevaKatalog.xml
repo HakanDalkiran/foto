@@ -25965,7 +25965,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>33.83</Price>
 <Price2>79.75</Price2>
@@ -38876,9 +38876,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2028-10-01</Miad>
-<Price>208.25</Price>
+<Price>208.24</Price>
 <Price2>272.61</Price2>
 <Price3>272.61</Price3>
 <Price4>267.97</Price4>
@@ -38886,7 +38886,7 @@
 <Price6>260.05</Price6>
 <Price7>460.39</Price7>
 <Price8>423.02</Price8>
-<Price9>260.05</Price9>
+<Price9>260.04</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKYQ7</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00900</SaticiStokKodu>
@@ -39263,7 +39263,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>70</Stock>
+<Stock>69</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -56314,7 +56314,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <Tax>10</Tax>
-<Stock>25</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>339.06</Price>
 <Price2>432.35</Price2>
@@ -56362,7 +56362,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>108</Stock>
+<Stock>106</Stock>
 <Miad>2028-04-01</Miad>
 <Price>157.25</Price>
 <Price2>219.66</Price2>
@@ -62586,7 +62586,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2029-03-01</Miad>
 <Price>875.42</Price>
 <Price2>1042.41</Price2>
