@@ -1762,7 +1762,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>5</Stock>
 <Miad>2027-09-01</Miad>
 <Price>700.00</Price>
 <Price2>838.04</Price2>
@@ -6077,7 +6077,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00159]]></Product_code>
 <Barcode>8697432096095</Barcode>
-<Name><![CDATA[Bioxcin Forte Şampuan 300 ml]]></Name>
+<Name><![CDATA[Bioxcin Forte Şampuan 300 ml 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
@@ -6126,7 +6126,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00160]]></Product_code>
 <Barcode>8697432090000</Barcode>
-<Name><![CDATA[Bioxcin Genesis Kuru ve Normal Saçlar İçin Şampuan 300 ml]]></Name>
+<Name><![CDATA[Bioxcin Genesis Kuru ve Normal Saçlar İçin Şampuan 300 ml - 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
@@ -6176,7 +6176,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00161]]></Product_code>
 <Barcode>8697432090048</Barcode>
-<Name><![CDATA[Bioxcin Genesis Yağlı Saçlar İçin Şampuan 300 ml]]></Name>
+<Name><![CDATA[Bioxcin Genesis Yağlı Saçlar İçin Şampuan 300 ml - 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
@@ -6286,7 +6286,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00163]]></Product_code>
 <Barcode>8680512635703</Barcode>
-<Name><![CDATA[Bioxcin Keratin ve Argan Onarıcı Şampuan 300 ml]]></Name>
+<Name><![CDATA[Bioxcin Keratin ve Argan Onarıcı Şampuan 300 ml - 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
@@ -6534,7 +6534,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00168]]></Product_code>
 <Barcode>8680512625513</Barcode>
-<Name><![CDATA[Bioxcin Quantum Yağlı Saçlar İçin Şampuan 300 ml]]></Name>
+<Name><![CDATA[Bioxcin Quantum Yağlı Saçlar İçin Şampuan 300 ml 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
@@ -14590,7 +14590,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00352]]></Product_code>
 <Barcode>8697595871775</Barcode>
-<Name><![CDATA[Efervit Defence 20 Efervesan Tablet]]></Name>
+<Name><![CDATA[Efervit Defence 20 Efervesan Tablet - 2.’si %50 İndirimli]]></Name>
 <Brand><![CDATA[Efervit]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
@@ -20248,7 +20248,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00488]]></Product_code>
 <Barcode>8680133002083</Barcode>
-<Name><![CDATA[Krilom Omega-3 50 Yumuşak Kapsül]]></Name>
+<Name><![CDATA[Krilom Omega-3 50 Yumuşak Kapsül - 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Krilom]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
@@ -39296,7 +39296,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV00910]]></Product_code>
 <Barcode>850071952933</Barcode>
-<Name><![CDATA[Ocean Vitamin C 1000 mg 30 Tablet]]></Name>
+<Name><![CDATA[Ocean Vitamin C 1000 mg 30 Tablet - 1 Alana 1 Bedava]]></Name>
 <Brand><![CDATA[Ocean]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Vitaminler]]></category>
@@ -43818,55 +43818,6 @@
 <Image3>https://www.farmaneva.com/uploads/urunler/rebul-bouquet-kolonya-cam-sise-250-ml-10126.webp</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/rebul-bouquet-kolonya-cam-sise-250-ml-10127.webp</Image4>
 <Description><![CDATA[<section><p><strong>Rebul Bouquet Kolonya Cam Şişe 250 ml</strong>, çeşitli çiçeklerin birleşiminden oluşan zengin, çiçeksi bir buket kokusu sunan kolonyadır. Zengin ve feminen bir çiçek kokusu sevenler için 250 ml cam şişede sunulur. Elde, boyunda ve bileklerde kullanılan klasik şişe kolonya formundadır.</p><h2>Özellikler</h2><ul><li>Zengin, çiçeksi bir buket kokusu sunar.</li><li>Çeşitli çiçeklerin birleşiminden oluşur.</li><li>250 ml cam şişede gelir.</li><li>Geleneksel kolonya kültürüne uygun bir seçenektir.</li><li>El ve cilde uygulanabilir; ikram amacıyla da kullanılabilir.</li></ul><h2>Nasıl Kullanılır?</h2><p>Bilek ve boyun gibi nabız noktalarına ya da ellerinize uygulayın; gün içinde ferahlamak istediğinizde tekrar kullanabilirsiniz. Kullanımdan sonra kapağı sıkıca kapatın; şişeyi doğrudan güneş ışığından ve ısıdan uzakta, serin bir yerde muhafaza edin. Ürün kokusunu en iyi temiz ve kuru cilde uygulandığında yansıtır.</p><h2>Uyarılar</h2><p>Alkol içerir; ateş ve ısı kaynaklarından uzak tutun. Yalnızca harici kullanım içindir. Gözle ve tahriş olmuş ciltle temasından kaçının; temas hâlinde bol suyla durulayın. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Rebul Bouquet Kolonya kaç ml?</strong><br>250 ml cam şişede sunulur.</p><p><strong>Nasıl bir kokusu var?</strong><br>Çeşitli çiçeklerin birleşiminden oluşan zengin, çiçeksi bir buket kokusudur.</p><p><strong>Kimler için uygun?</strong><br>Zengin ve feminen bir çiçek kokusu sevenler için sunulur.</p></section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01013]]></Product_code>
-<Barcode>8691226631745</Barcode>
-<Name><![CDATA[Rebul Bouquet Sprey Kolonya 50 ml]]></Name>
-<Brand><![CDATA[Rebul]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Deodorant & Parfüm]]></category>
-<subCategory><![CDATA[Kolonya]]></subCategory>
-<Tax>20</Tax>
-<Stock>1</Stock>
-<Miad></Miad>
-<Price>80.36</Price>
-<Price2>110.00</Price2>
-<Price3>110.00</Price3>
-<Price4>100.00</Price4>
-<Price5>95.00</Price5>
-<Price6>98.00</Price6>
-<Price7>280.00</Price7>
-<Price8>250.00</Price8>
-<Price9>98.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQL37C</HepsiburadaSku>
-<SaticiStokKodu>FRMNV01013</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/rebul-bouquet-sprey-kolonya-50-ml-10128.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/rebul-bouquet-sprey-kolonya-50-ml-10129.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/rebul-bouquet-sprey-kolonya-50-ml-10130.webp</Image3>
-<Description><![CDATA[<section>
-<p><strong>Rebul Bouquet Sprey Kolonya 50 ml</strong>, taze &#231;i&#231;ek buketini &#231;a&#287;r&#305;&#351;t&#305;ran &#231;i&#231;eksi-turun&#231;gil karakterli bir kolonyad&#305;r. Turun&#231;gillerin canl&#305;l&#305;&#287;&#305;n&#305; zarif &#231;i&#231;ek notalar&#305;yla birle&#351;tiren yap&#305;s&#305;yla hafif ve romantik bir koku arayanlara y&#246;neliktir.</p>
-<h2>Koku Notalar&#305; ve &#214;zellikler</h2>
-<ul>
-<li>&#220;st notalar: ferahlat&#305;c&#305; turun&#231;giller</li>
-<li>Orta notalar: &#351;akay&#305;k, zambak ve m&#252;ge</li>
-<li>Alt notalar: misk, sedir ve sandal a&#287;ac&#305;</li>
-<li>&#199;i&#231;eksi ve turun&#231;gil a&#287;&#305;rl&#305;kl&#305; koku profili</li>
-<li>Zarif ve hafif karakter</li>
-<li>Pratik sprey ba&#351;l&#305;kl&#305; 50 ml &#351;i&#351;e</li>
-<li>&#199;antada kolayca ta&#351;&#305;nabilen boyut</li>
-<li>G&#252;n i&#231;inde tazelenmek i&#231;in ideal</li>
-<li>G&#252;nl&#252;k kullan&#305;ma uygun ferahl&#305;k</li>
-<li>Rebul'&#252;n kolonya gelene&#287;ini yans&#305;t&#305;r</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Bilek, boyun gibi nab&#305;z noktalar&#305;na veya avu&#231; i&#231;ine s&#305;k&#305;n. G&#252;n i&#231;inde ihtiya&#231; duyduk&#231;a tazelemek i&#231;in kullanabilirsiniz. Kullan&#305;m detaylar&#305; i&#231;in ambalaj &#252;zerindeki bilgileri inceleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;l&#305;r. G&#246;z ve mukoza ile temas&#305;ndan ka&#231;&#305;n&#305;n; tahri&#351; olmas&#305; h&#226;linde kullan&#305;m&#305; b&#305;rak&#305;n. Alevden ve &#305;s&#305; kaynaklar&#305;ndan uzak tutun, &#231;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Farmaneva, ferahlat&#305;c&#305; bak&#305;m &#252;r&#252;nlerini &#246;zenle bir araya getirir.</p>
-</section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01014]]></Product_code>
@@ -57608,7 +57559,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01345]]></Product_code>
 <Barcode>8680512634836</Barcode>
-<Name><![CDATA[Bioxcin Acnium Yüz Yıkama Jeli Sebium Dengeleyici 500 ml]]></Name>
+<Name><![CDATA[Bioxcin Acnium Yüz Yıkama Jeli Sebium Dengeleyici 500 ml - 1+1 Hediyeli]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Yüz Bakımı]]></category>
@@ -71349,17 +71300,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2029-04-01</Miad>
-<Price>515.90</Price>
-<Price2>577.17</Price2>
-<Price3>577.17</Price3>
-<Price4>577.81</Price4>
-<Price5>577.81</Price5>
-<Price6>577.81</Price6>
-<Price7>815.26</Price7>
-<Price8>815.26</Price8>
-<Price9>648.35</Price9>
+<Stock>90</Stock>
+<Miad>2029-03-01</Miad>
+<Price>458.06</Price>
+<Price2>571.57</Price2>
+<Price3>571.57</Price3>
+<Price4>595.99</Price4>
+<Price5>586.93</Price5>
+<Price6>576.42</Price6>
+<Price7>866.78</Price7>
+<Price8>811.68</Price8>
+<Price9>576.42</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0GR8D</HepsiburadaSku>
 <SaticiStokKodu>8680512634706</SaticiStokKodu>
@@ -72188,7 +72139,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01667]]></Product_code>
 <Barcode>8680512629191</Barcode>
-<Name><![CDATA[Bioxcin Siyah Sarımsak Şampuanı 300 ml]]></Name>
+<Name><![CDATA[Bioxcin Siyah Sarımsak Şampuanı 300 ml - 3 Al 2 Öde]]></Name>
 <Brand><![CDATA[Bioxcin]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Saç Bakımı]]></category>
@@ -75656,7 +75607,7 @@
 <Product>
 <Product_code><![CDATA[FRMNV01744]]></Product_code>
 <Barcode>3264680043697</Barcode>
-<Name><![CDATA[Nuxe Reve De Miel Cica Yoğun Bakım El Kremi 50 ml]]></Name>
+<Name><![CDATA[Nuxe Reve De Miel Cica Yoğun Bakım El Kremi 50 ml İkincisi %50 İndirimli Set]]></Name>
 <Brand><![CDATA[Nuxe]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Vücut Bakımı]]></category>
