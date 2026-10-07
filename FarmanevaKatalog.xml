@@ -11872,14 +11872,14 @@
 <Tax>1</Tax>
 <Stock>107</Stock>
 <Miad></Miad>
-<Price>840.00</Price>
-<Price2>950.00</Price2>
-<Price3>950.00</Price3>
+<Price>849.00</Price>
+<Price2>940.00</Price2>
+<Price3>940.00</Price3>
 <Price4>970.00</Price4>
 <Price5>970.00</Price5>
 <Price6>970.00</Price6>
-<Price7>1352.00</Price7>
-<Price8>1139.00</Price8>
+<Price7>1379.00</Price7>
+<Price8>1200.00</Price8>
 <Price9>845.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKUV0</HepsiburadaSku>
@@ -38992,7 +38992,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-07-01</Miad>
 <Price>369.66</Price>
 <Price2>458.85</Price2>
