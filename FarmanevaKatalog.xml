@@ -40480,17 +40480,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>225.90</Price>
-<Price2>263.97</Price2>
-<Price3>263.97</Price3>
-<Price4>253.01</Price4>
-<Price5>253.01</Price5>
-<Price6>253.01</Price6>
-<Price7>418.39</Price7>
-<Price8>418.39</Price8>
-<Price9>281.57</Price9>
+<Stock>16</Stock>
+<Miad>2027-10-01</Miad>
+<Price>232.90</Price>
+<Price2>301.05</Price2>
+<Price3>301.05</Price3>
+<Price4>298.94</Price4>
+<Price5>291.71</Price5>
+<Price6>290.11</Price6>
+<Price7>495.76</Price7>
+<Price8>457.39</Price8>
+<Price9>290.11</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKT3Q</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00940</SaticiStokKodu>
@@ -75702,7 +75702,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>11</Stock>
 <Miad>2029-01-01</Miad>
 <Price>458.91</Price>
 <Price2>561.83</Price2>
