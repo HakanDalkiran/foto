@@ -2451,7 +2451,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>177</Stock>
+<Stock>176</Stock>
 <Miad>2027-10-01</Miad>
 <Price>465.71</Price>
 <Price2>580.51</Price2>
@@ -19174,7 +19174,7 @@
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
-<Miad>2027-01-01</Miad>
+<Miad>2026-11-01</Miad>
 <Price>161.41</Price>
 <Price2>231.34</Price2>
 <Price3>231.34</Price3>
@@ -26044,8 +26044,8 @@
 <Price4>1900.00</Price4>
 <Price5>1900.00</Price5>
 <Price6>1900.00</Price6>
-<Price7>1103.27</Price7>
-<Price8>1103.27</Price8>
+<Price7>1103.28</Price7>
+<Price8>1103.28</Price8>
 <Price9>1900.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8680760510098</HepsiburadaSku>
@@ -49973,7 +49973,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2027-08-01</Miad>
 <Price>488.66</Price>
 <Price2>596.16</Price2>
