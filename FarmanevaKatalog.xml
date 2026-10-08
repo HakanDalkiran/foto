@@ -1809,11 +1809,11 @@
 <Stock>10</Stock>
 <Miad>2027-09-01</Miad>
 <Price>700.00</Price>
-<Price2>838.04</Price2>
-<Price3>838.04</Price3>
-<Price4>860.00</Price4>
-<Price5>860.00</Price5>
-<Price6>860.00</Price6>
+<Price2>840.01</Price2>
+<Price3>840.01</Price3>
+<Price4>885.76</Price4>
+<Price5>876.75</Price5>
+<Price6>859.59</Price6>
 <Price7>1165.92</Price7>
 <Price8>959.97</Price8>
 <Price9>859.59</Price9>
@@ -14639,6 +14639,53 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00351]]></Product_code>
+<Barcode>4712558769020</Barcode>
+<Name><![CDATA[Ebsensor Şeker Ölçüm Strip 50 Lik]]></Name>
+<Brand><![CDATA[Ebsensor]]></Brand>
+<mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
+<category><![CDATA[Şeker Ölçüm Cihazları]]></category>
+<subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
+<Tax>10</Tax>
+<Stock>5</Stock>
+<Miad>2027-07-01</Miad>
+<Price>140.00</Price>
+<Price2>245.00</Price2>
+<Price3>245.00</Price3>
+<Price4>400.00</Price4>
+<Price5>400.00</Price5>
+<Price6>400.00</Price6>
+<Price7>392.06</Price7>
+<Price8>339.65</Price8>
+<Price9>400.00</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKV7V</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00351</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/ebsensor-seker-olcum-strip-50-lik-8680.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Ebsensor &#350;eker &#214;l&#231;&#252;m Strip 50 Lik</strong>, Ebsensor kan &#351;ekeri &#246;l&#231;&#252;m cihazlar&#305;yla uyumlu &#231;al&#305;&#351;an tek kullan&#305;ml&#305;k &#246;l&#231;&#252;m &#231;ubuklar&#305;d&#305;r. Parmak ucundan al&#305;nan k&#252;&#231;&#252;k bir kan damlas&#305;yla kan &#351;ekeri seviyesini &#246;l&#231;meye yarayan bu stripler, d&#252;zenli kan &#351;ekeri takibi yapan diyabetli bireylere y&#246;neliktir.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Ebsensor glukometre modelleriyle uyumludur</li>
+<li>Kutuda 50 adet &#246;l&#231;&#252;m stripi bulunur</li>
+<li>K&#252;&#231;&#252;k kan damlas&#305;yla h&#305;zl&#305; &#246;l&#231;&#252;m sa&#287;lar</li>
+<li>Yakla&#351;&#305;k 10 saniyede sonu&#231; verir</li>
+<li>Geni&#351; &#246;l&#231;&#252;m aral&#305;&#287;&#305; (yakla&#351;&#305;k 20-600 mg/dL)</li>
+<li>G&#252;nl&#252;k kan &#351;ekeri takibi i&#231;in uygundur</li>
+<li>Tek kullan&#305;ml&#305;k ve hijyeniktir</li>
+<li>Kolay ve pratik kullan&#305;m</li>
+<li>Serin ve kuru ortamda saklanabilir</li>
+<li>Uzun s&#252;reli kullan&#305;m i&#231;in ekonomik paket</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Ellerinizi y&#305;kay&#305;p kurulad&#305;ktan sonra stribi cihaza tak&#305;n ve parmak ucundan al&#305;nan k&#252;&#231;&#252;k bir kan damlas&#305;n&#305; strip &#252;zerine uygulay&#305;n. Cihaz sonucu k&#305;sa s&#252;rede ekranda g&#246;sterir. Do&#287;ru kullan&#305;m i&#231;in cihaz ve strip k&#305;lavuzundaki talimatlar&#305; izleyin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu &#252;r&#252;n t&#305;bbi te&#351;his arac&#305; de&#287;ildir; sonu&#231;lar&#305;n yorumu ve tedavi i&#231;in hekiminize dan&#305;&#351;&#305;n. Stripleri serin, kuru ortamda ve son kullanma tarihine dikkat ederek saklay&#305;n; k&#305;lavuza uygun kullan&#305;n.</p>
+<p>Farmaneva g&#252;vencesiyle g&#252;nl&#252;k kan &#351;ekeri takibinizi kolayla&#351;t&#305;ran g&#252;venilir bir sarf malzemesidir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00352]]></Product_code>
 <Barcode>8697595871775</Barcode>
 <Name><![CDATA[Efervit Defence 20 Efervesan Tablet - 2.’si %50 İndirimli]]></Name>
@@ -19455,6 +19502,54 @@
 <p><strong>Incia Kids dudak besleyici hangi kokuda?</strong><br>Bu ürün limon kokuludur.</p>
 <p><strong>Kaç gramlık ambalajda sunulur?</strong><br>6 gr'lık ambalajda sunulur.</p>
 <p><strong>Gün içinde tekrar sürülebilir mi?</strong><br>Evet, dudaklarda kuruluk hissedildiğinde gün içinde tekrar uygulanabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00466]]></Product_code>
+<Barcode>8681511091200</Barcode>
+<Name><![CDATA[Incia Sos Stick Anlık Yatıştırıcı Organik Yalancı İğde Hızlı Koruma Bitkisel 6 gr]]></Name>
+<Brand><![CDATA[Incia]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Organik & Doğal]]></category>
+<subCategory><![CDATA[Doğal Ürünler]]></subCategory>
+<Tax>20</Tax>
+<Stock>6</Stock>
+<Miad>2029-01-01</Miad>
+<Price>150.00</Price>
+<Price2>281.90</Price2>
+<Price3>281.90</Price3>
+<Price4>244.14</Price4>
+<Price5>295.29</Price5>
+<Price6>313.86</Price6>
+<Price7>443.49</Price7>
+<Price8>382.05</Price8>
+<Price9>313.86</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>8681511091200</HepsiburadaSku>
+<SaticiStokKodu>8681511091200</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/incia-sos-stick-anlik-yatistirici-organik-yalanci-igde-hizli-koruma-bitkisel-6-gr-8872.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/incia-sos-stick-anlik-yatistirici-organik-yalanci-igde-hizli-koruma-bitkisel-6-gr-8873.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/incia-sos-stick-anlik-yatistirici-organik-yalanci-igde-hizli-koruma-bitkisel-6-gr-8874.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Incia Sos Stick Anl&#305;k Yat&#305;&#351;t&#305;r&#305;c&#305; Organik Yalanc&#305; &#304;&#287;de 6 g</strong>, organik yalanc&#305; i&#287;de, calendula ve papatya gibi bitkisel ya&#287;larla haz&#305;rlanm&#305;&#351;, hassas b&#246;lgeleri an&#305;nda yat&#305;&#351;t&#305;rmaya y&#246;nelik %100 do&#287;al bir bak&#305;m sti&#287;idir. Dudak, el, dirsek ve y&#252;z gibi b&#246;lgelerde yeni do&#287;andan itibaren t&#252;m aile i&#231;in kullan&#305;labilir bi&#231;imde sunulur.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Organik yalanc&#305; i&#287;de ya&#287;&#305; i&#231;eren bir form&#252;le sahiptir.</li>
+<li>Calendula, &#305;s&#305;rgan ve ada&#231;ay&#305; gibi bitkisel ya&#287;lar i&#231;erir.</li>
+<li>Hassas b&#246;lgeleri an&#305;nda yat&#305;&#351;t&#305;rmaya y&#246;neliktir.</li>
+<li>Dudak, el, dirsek ve y&#252;zde kullan&#305;labilir.</li>
+<li>ETKO Cosmos Natural sertifikal&#305;, %100 do&#287;ald&#305;r.</li>
+<li>Paraben, silikon, alkol ve sentetik koku i&#231;ermez.</li>
+<li>Yeni do&#287;andan itibaren t&#252;m aile i&#231;in uygundur.</li>
+<li>Pratik stick formuyla yan&#305;nda ta&#351;&#305;nabilir.</li>
+<li>Bak&#305;m rutinini tamamlayan bir ad&#305;m olarak kullan&#305;labilir.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>&#304;htiya&#231; duyulan b&#246;lgeye sti&#287;i do&#287;rudan nazik&#231;e s&#252;r&#252;n. G&#252;n i&#231;inde gerekti&#287;inde tekrarlayabilirsiniz.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>Hassas b&#246;lgeler i&#231;in do&#287;al bir yat&#305;&#351;t&#305;r&#305;c&#305; arayanlar Incia Sos Stick'i Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -25272,7 +25367,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Ateş Ölçer]]></category>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>33.91</Price>
 <Price2>75.37</Price2>
@@ -42779,6 +42874,54 @@
 </section><p>Takviye edici g&#305;dad&#305;r. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n&#305;z; &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00984]]></Product_code>
+<Barcode>8710103867708</Barcode>
+<Name><![CDATA[Philips Avent Avent SCF254/61 Göğüs Pedi 60’lı]]></Name>
+<Brand><![CDATA[Philips Avent]]></Brand>
+<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
+<category><![CDATA[Anne Bakımı]]></category>
+<subCategory><![CDATA[Göğüs Bakımı]]></subCategory>
+<Tax>10</Tax>
+<Stock>10</Stock>
+<Miad>2028-01-01</Miad>
+<Price>357.00</Price>
+<Price2>552.48</Price2>
+<Price3>552.48</Price3>
+<Price4>466.55</Price4>
+<Price5>466.00</Price5>
+<Price6>466.00</Price6>
+<Price7>715.94</Price7>
+<Price8>676.39</Price8>
+<Price9>466.00</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQL78M</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00984</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/philips-avent-avent-scf254-61-gogus-pedi-60-li-10071.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/philips-avent-avent-scf254-61-gogus-pedi-60-li-10072.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/philips-avent-avent-scf254-61-gogus-pedi-60-li-10073.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Philips Avent Avent SCF254/61 G&#246;&#287;&#252;s Pedi 60'l&#305;</strong>, emzirme d&#246;neminde kullan&#305;lan, ultra ince ve emici yap&#305;ya sahip tek kullan&#305;ml&#305;k g&#246;&#287;&#252;s pedidir. S&#252;t s&#305;z&#305;nt&#305;s&#305;na kar&#351;&#305; g&#252;n boyu kuruluk ve konfor arayan emziren anneler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Ultra ince ve k&#305;yafet alt&#305;nda g&#246;r&#252;nmeyen tasar&#305;m</li>
+<li>&#220;&#231; katl&#305; y&#252;ksek emici i&#231; yap&#305;</li>
+<li>S&#305;zd&#305;rmaz ve nefes alan d&#305;&#351; katman</li>
+<li>Yumu&#351;ak petek dokulu &#252;st y&#252;zey</li>
+<li>V&#252;cuda uyum sa&#287;layan kavisli form</li>
+<li>S&#252;tyende sabit durmas&#305;na yard&#305;mc&#305; yap&#305;&#351;kan bantlar</li>
+<li>Gece ve g&#252;nd&#252;z kullan&#305;ma uygun</li>
+<li>Tek tek hijyenik ambalajl&#305; pratik pedler</li>
+<li>60'l&#305; avantajl&#305; paket</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Ped, yap&#305;&#351;kan band&#305; sayesinde s&#252;tyenin i&#231; y&#252;zeyine yerle&#351;tirilir ve nemlendik&#231;e yenisiyle de&#287;i&#351;tirilir. Do&#287;ru yerle&#351;tirme ve de&#287;i&#351;tirme s&#305;kl&#305;&#287;&#305; i&#231;in &#252;r&#252;n ambalaj&#305;ndaki y&#246;nergeleri dikkate al&#305;n.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;zca tek kullan&#305;ml&#305;kt&#305;r; &#305;sland&#305;k&#231;a de&#287;i&#351;tirilmesi hijyen a&#231;&#305;s&#305;ndan &#246;nerilir. Ambalaj&#305; &#231;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n; ciltte k&#305;zar&#305;kl&#305;k veya tahri&#351; g&#246;zlenirse kullan&#305;m&#305; b&#305;rak&#305;n ve gerekirse bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n.</p>
+<p>Farmaneva g&#252;vencesiyle emzirme d&#246;neminde konforlu g&#246;&#287;&#252;s bak&#305;m&#305;n&#305; evinize ta&#351;&#305;r.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00985]]></Product_code>
 <Barcode>8710103781967</Barcode>
 <Name><![CDATA[Philips Avent SCF798/01 Desenli Pipetli Bardak 300 ml - Erkek Yeşil]]></Name>
@@ -43319,6 +43462,52 @@
 <p><strong>Ne zaman uygulanır?</strong><br>Şampuandan sonra, saçın uzunluklarına ve uçlarına uygulanır.</p>
 <p><strong>Kaç ml'dir?</strong><br>Ürün 200 ml ambalajdadır.</p>
 </section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00996]]></Product_code>
+<Barcode>5400951991108</Barcode>
+<Name><![CDATA[Predictor Early Erken Gebelik Testi]]></Name>
+<Brand><![CDATA[Predictor]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Kadın Hijyen Ürünleri]]></category>
+<subCategory><![CDATA[Gebelik Testi]]></subCategory>
+<Tax>10</Tax>
+<Stock>12</Stock>
+<Miad>2027-10-01</Miad>
+<Price>140.00</Price>
+<Price2>161.15</Price2>
+<Price3>161.15</Price3>
+<Price4>194.00</Price4>
+<Price5>174.52</Price5>
+<Price6>194.53</Price6>
+<Price7>392.06</Price7>
+<Price8>339.65</Price8>
+<Price9>194.53</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQLB11</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00996</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/predictor-early-erken-gebelik-testi-10094.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/predictor-early-erken-gebelik-testi-10095.webp</Image2>
+<Description><![CDATA[<section>
+<p><strong>Predictor Early Erken Gebelik Testi</strong>, idrardaki gebelik hormonu hCG'yi tespit ederek evde uygulanabilen bir erken gebelik testidir. Y&#252;ksek hassasiyeti sayesinde adet gecikmesinden &#246;nce dahi kullan&#305;labilecek &#351;ekilde tasarlanm&#305;&#351;t&#305;r ve gebelik olas&#305;l&#305;&#287;&#305;n&#305; erkenden &#246;&#287;renmek isteyenlere y&#246;neliktir.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>&#304;drardaki hCG hormonunu tespit eder</li>
+<li>Adet gecikmesinden 6 g&#252;n &#246;ncesine kadar kullan&#305;labilir</li>
+<li>D&#252;&#351;&#252;k hCG seviyelerine duyarl&#305; form&#252;l</li>
+<li>Evde kolayca uygulanabilen pratik tasar&#305;m</li>
+<li>Emici u&#231; idrar ak&#305;&#351;&#305;na yaln&#305;zca birka&#231; saniye tutulur</li>
+<li>Sonu&#231; birka&#231; dakika i&#231;inde okunur</li>
+<li>&#304;ki &#231;izgi gebelik, tek &#231;izgi gebelik yok anlam&#305;na gelir</li>
+<li>Sabah ilk idrarla daha net sonu&#231; verir</li>
+<li>Tek kullan&#305;ml&#305;k hijyenik test &#231;ubu&#287;u</li>
+<li>Anla&#351;&#305;l&#305;r g&#246;sterge penceresi</li></ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Test &#231;ubu&#287;unun emici ucunu idrar ak&#305;&#351;&#305;na birka&#231; saniye tutun veya temiz bir kaba al&#305;nan idrar &#246;rne&#287;ine dald&#305;r&#305;n, ard&#305;ndan &#231;ubu&#287;u d&#252;z bir y&#252;zeyde bekletin. Erken testlerde sabah&#305;n ilk idrar&#305;n&#305; kullanman&#305;z &#246;nerilir. Uygulama s&#252;resi ve sonu&#231; okuma i&#231;in ambalajdaki kullan&#305;m k&#305;lavuzunu izleyin.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Bu test bir &#246;n bilgi arac&#305;d&#305;r ve kesin t&#305;bbi tan&#305;n&#305;n yerini tutmaz; sonucu do&#287;rulamak ve gebelik takibi i&#231;in bir sa&#287;l&#305;k uzman&#305;na dan&#305;&#351;&#305;n. Tek kullan&#305;ml&#305;kt&#305;r, son kullanma tarihine dikkat edin ve k&#305;lavuzdaki ad&#305;mlar&#305; eksiksiz uygulay&#305;n.</p>
+<p>Farmaneva, g&#252;venle kullanabilece&#287;iniz &#252;r&#252;nleri sizin i&#231;in bir araya getirir.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00997]]></Product_code>
