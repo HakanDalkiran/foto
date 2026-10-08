@@ -7849,7 +7849,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>23</Stock>
 <Miad></Miad>
 <Price>730.06</Price>
 <Price2>907.02</Price2>
@@ -8059,7 +8059,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>70</Stock>
+<Stock>69</Stock>
 <Miad></Miad>
 <Price>720.71</Price>
 <Price2>895.91</Price2>
@@ -38651,7 +38651,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2026-11-01</Miad>
 <Price>533.71</Price>
 <Price2>648.14</Price2>
@@ -63057,7 +63057,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>475</Stock>
+<Stock>476</Stock>
 <Miad>2028-06-01</Miad>
 <Price>543.91</Price>
 <Price2>659.91</Price2>
@@ -67593,7 +67593,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>143</Stock>
+<Stock>141</Stock>
 <Miad>2027-02-01</Miad>
 <Price>850.00</Price>
 <Price2>1030.08</Price2>
