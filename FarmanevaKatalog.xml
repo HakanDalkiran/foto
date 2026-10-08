@@ -19173,8 +19173,8 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
-<Miad>2026-11-01</Miad>
+<Stock>0</Stock>
+<Miad>2027-01-01</Miad>
 <Price>161.41</Price>
 <Price2>231.34</Price2>
 <Price3>231.34</Price3>
@@ -38634,7 +38634,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>39</Stock>
+<Stock>38</Stock>
 <Miad>2029-06-01</Miad>
 <Price>501.41</Price>
 <Price2>610.87</Price2>
