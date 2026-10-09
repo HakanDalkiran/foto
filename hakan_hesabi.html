@@ -34,7 +34,7 @@ button{font:inherit;background:var(--kart);color:var(--yazi);border:1px solid va
 <div id="giris" hidden><h1>Hakan Hesabı</h1><input type="password" placeholder="Şifre" autocomplete="current-password" onkeydown="if(event.key=='Enter')ac(this.value)"><div id="hata" class="eks"></div></div>
 <main id="sayfa" hidden></main>
 <script>
-let V=null;const ENC={"s": "kOlehikgGXJxhi5jgsvwQQ==", "i": "x1F7RZDATs80gFm3", "z": 1, "c": "w4rUsjypyi/+WBW8LkGzYcdw5450SLoEp+SNUkt+Aq3ikN/oyUMB/cWQcx2OrLn8euRKKaGbU5jCeD5o5Q+gC/0npLXrNVq/vXm+/p/Cxm82yq95lJjO9NPaYQy/8rRBUIAKiLQ9EUdkpOuMJ3/uJPddeNPdEVSOQvTSIIALM2DXdcjPYN+xGPaK1OoJ6BYDjTuNc3hvhvN92zicR7zjdYEysR1hhefQe/WhD/ZMXvq+d27r2w2+JJFh9RYoh1P0xhgQkvhrcEueiYE4ocg9NUn6voTTlFloXSqaMLJDIa/Yui/FR/xc2xWnK5H60UOrZ4p0Q9LqPXlcJRWAsFccuYwlAtbxERJAIW0qpgeHvzp0PQJnZhSiHw/RqCJ128BDsgFvNzXW+OiirZkRSidxc8ck4QhwtwyXigRx7fqfsWmJK5eh4vwd2XjMXmXTI729sXtczGyZHvIFG3qwxPcz0dpzzB2Vye6M5iKvz3Fj2C0uoo5qAvYnOzBKAfjAzf7WE4m+Bk27jNIcdtP/WFqHmWz7xars/fv0wpJBfV2takjHRxmupQCKjF32x6laoeOHa6gab8GxhdVQFg0jcPsCg3whWXhZn5cTEbrHaklCWd0aY1Ob0uePUDYiR1OBkwOO3OOolz40pk+OC1KXnrN/1IcmVg1ieG1wBzLo+rk5phvXGGpeooZFIiPUfaDFNq+O04nUfSmg59HV0X83HCHMKFgu0xb/biLnf+arEbALiZtjvQ+5lPspsX7tsAUrVGCel/BKmchNM8wg8UeXuO5I0wXEZlylvsDSK6na0Zn5CbsU5KHfWpKpqBuwQY7IEWIZH/ENnIYEZlygCBPXvVgCcDw="};
+let V=null;const ENC={"s": "JKxx9ZmwIczGtbs2o8ACjA==", "i": "FkfC2++1aV/ulkWs", "z": 1, "c": "a8hjrIbB2pRG0oMMrE6K89inFD8ZjYU4OhCUpIcAoO6wiuaERa8Yzl4nJnShcCWuRB/aDr5IYqWfygmXjZP5etALW0ktNSilikCy9fNe6sCKfuFzrmqS1e2zfbcHqhqrrzSUYQDhaLiDrgAskbZhNSz3Hst+y5xjfn7tUAkj5aXyQtrWUk1UyzibobgpcfdMzDmq4j+JoZRvFLvxQyUir66/raYbqwjbzGi4y31g+ZMVIIJ2cOvZLZ/TGWvBFqvevqZT7rGKS4zaPDZY7yIngviNSHwqqcoIFQAxh9Z0oEFuc2lQjHRBbsp+EtvhvsMpPZHUa3dX1hvBPs1tbHMVW50TC+UKA+0gmKoDQ19I4ousGKUkS90wk2a5bebl8bcMwY7z5ctEdYVZxw+amQAspnhscZ2t0cMTcdq6mmAE/kVpegNLuh1BCW7G725PiyBLk7yc+wfE5izKFaWvx+9xp6M0eWhfJDNEYktyhIcPGwcRgPLiDBIFlwKgm0VzafoK1yhyc5wZLlWmzQXDDrTfMMD08wCAIVfhXzcsjk5NwX1xJp11vAM2uNStFR7rSRggFZlbJtPz7PA8mbYPSGwsK1tZFqIJygk6QiGiBr9lPXQ8O2A+I1wcNBTqRUzjIexJ3A658MWzokm9EysiK9mThRd2iw0qypJwWtBP2V4yUFPamaVkNYlK+muwAzMiC/BXscwN1m0av4HGP52zoA8imMPl2yE2SEASo39EwGSJPQWA25WwVeGxmGWzMmSRN4/pBh+u/GF6CS+zw2cxMHsqdeM9I4VdOc3MA4dcSt0BwVdpPE30hP0PoKYywjAii5PlBT49g5L+cECs6thvmuN7ChgcDNOUGLWYNWo52ROcL+0hzq2K5sDXQ7LXcdJ5e/MgVVMlp3nwD6DL+G02GNL3GBLowNPyn9dig6r9Usfk5KwhUVcOgLrgZ4c5yunFew=="};
 const TL=x=>x==null?'?':x.toLocaleString('tr-TR',{minimumFractionDigits:2,maximumFractionDigits:2})+' ₺';
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const gunEkle=(t,n)=>{const d=new Date(t+'T12:00:00');d.setDate(d.getDate()+n);return d.toISOString().slice(0,10)};
@@ -67,13 +67,14 @@ let H,ay,secili;
 function ciz(){
  const b=bugunS();H=hesap(V,b);const t=H.t;
  if(!ay)ay=b.slice(0,7);if(!secili)secili=b;
+ const vs=Object.entries(V.kaynak.varsayim||{}).map(([k,m])=>'varsayım: '+k+' — '+m);
  const bil=Object.entries(V.vade).filter(([k,g])=>g==null).map(([k])=>k);
  document.getElementById('sayfa').innerHTML=`
  ${V.demoMu?`<div class="uyari demo"><b>DEMO</b> — ${esc(V.urunler[0].ad)} ${esc(V.kaynak.baslangic)}'de Hakan adına alınmış varsayılıyor; alış ve satışlar gerçek kayıt, yatırım 400.000 ₺ demo. Gerçek hesap değildir. <a href="?">Gerçek hesaba dön</a></div>`:''}
  <h1>Hakan Hesabı${V.demoMu?' — DEMO':''}</h1>${V.demo?'<div class="alt"><a href="?demo=1">Demo görünümü</a></div>':''}<div class="alt">Üretim ${esc(V.uretim)} · sipariş defteri ${esc(V.kaynak.siparis||'yok')} (başlangıç ${esc(V.kaynak.baslangic||'?')}) · ürün listesi ${esc(V.kaynak.urun||'yok')}</div>
  ${!V.onizleme&&!V.urunler.length?'<div class="uyari"><b>Henüz 💼 Hakan Hesabı ürünü yok.</b> İlk ürünü Kontrol Paneli’nden “💼 Hakan Hesabı” korumasına al (stok + alış); hesap o gün başlar.</div>':''}
  ${V.onizleme?'<div class="uyari"><b>ÖNİZLEME:</b> `hakan` korumalı ürün henüz yok; düzeni görmek için TÜM siparişler gösteriliyor. Rakamlar Hakan hesabı değildir.</div>':''}
- ${!V.kaynak.vade_onay||bil.length?`<div class="uyari">${V.kaynak.vade_onay?'':'Tahsilat vadeleri doğrulanacak. '}${bil.length?'Vadesi bilinmeyen kanallar: '+esc(bil.join(', '))+' — bu paralar kasaya katılmaz.':''}</div>`:''}
+ ${!V.kaynak.vade_onay||bil.length||vs.length?`<div class="uyari">${V.kaynak.vade_onay?'':'Tahsilat vadeleri doğrulanacak. '}${bil.length?'Vadesi bilinmeyen kanallar: '+esc(bil.join(', '))+' — bu paralar kasaya katılmaz. ':''}${esc(vs.join(' · '))}</div>`:''}
  ${t.netsiz?`<div class="uyari">${t.netsiz} kalemde net kâr hesaplanamadı (HB komisyon oranı eksik); kâr ve kasaya katılmadı.</div>`:''}
  <div class="kpi">
   <div class="k"><span>Yatırım${V.demoMu?' (demo)':''}</span><b>${V.yatirim==null?'girilmedi':TL(V.yatirim)}</b></div>
