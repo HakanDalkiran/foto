@@ -34,7 +34,7 @@ button{font:inherit;background:var(--kart);color:var(--yazi);border:1px solid va
 <div id="giris" hidden><h1>Hakan Hesabı</h1><input type="password" placeholder="Şifre" autocomplete="current-password" onkeydown="if(event.key=='Enter')ac(this.value)"><div id="hata" class="eks"></div></div>
 <main id="sayfa" hidden></main>
 <script>
-let V=null;const ENC={"s": "XzdSSBhUQglDoFMrJBugsA==", "i": "GuABl9AdBG76OKNd", "z": 1, "c": "BVrKJXa2+67gjRn5o8/IB56Y8ZNC5fmmEVyOVXJz/S96NV6lV7Fgny1C+QqxPx3nMsK2eCIBhOSH4SdfuPIIK93s6gYPfsKOhzaEwebvGphbQCcbR+U1yu7aOWQvCgXjcg5+gTIotUXHf9179A2NSELyKWc4YFJM7jTDwVFDdiVQNxb3onKbCw+0Nq+oCGEKpHrbyzRABqjTkl3Q0mx5yfpOO2n2had16x99rSqMOroxH2S3IIOCMsviM2OyAopwxoLqcaFXK4vDUkpEkgAMyaXzHOQgafT28L8ZN/iOHBbmvRIV4g=="};
+let V=null;const ENC={"s": "C/jfqHdmF7T2HAREtejIsg==", "i": "sy1F7/Y1f4uZbK2E", "z": 1, "c": "MBgEy3lg4yhkSh1yQLq0y8/QyUbg8daIHzEQZf1uurYPI06rzQAVpW7vyiF53R5yecKZlINMzYfTAH2uG/XEIrTXEtXZ4l0WgThuKA283ogXfw/xT4eVeCUb6Kdhqg+HfGrRIXWqITODFiSPRytNHwgwm0do3ZZ1c+BJlqV4J5qFKE0QXh3VMzmpR7gJqmjtMESF9ZSg2ZHaZ1MPag0qG/hpbgvu+/mVhMP0gOMCBpESl5EwsAkHliHatfqLpUQaX31htJQxcIQAf3PDMu2MwwrWo1DGMIwt+XWDjZW8QfCuulku0sif"};
 const TL=x=>x==null?'?':x.toLocaleString('tr-TR',{minimumFractionDigits:2,maximumFractionDigits:2})+' ₺';
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const gunEkle=(t,n)=>{const d=new Date(t+'T12:00:00');d.setDate(d.getDate()+n);return d.toISOString().slice(0,10)};
