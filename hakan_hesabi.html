@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Hakan Hesabı</title>
+<style>
+:root{--bg:#f6f7f9;--kart:#fff;--yazi:#1d2330;--soluk:#677084;--cizgi:#e3e6ec;--yesil:#1f8a4c;--sari:#b7791f;--kirmizi:#c53030;--vurgu:#2b6cb0;--secili:#e8f0fb}
+@media (prefers-color-scheme:dark){:root{--bg:#12151b;--kart:#1b2029;--yazi:#e6e9ef;--soluk:#97a0b2;--cizgi:#2c3340;--yesil:#48bb78;--sari:#ecc94b;--kirmizi:#fc8181;--vurgu:#63b3ed;--secili:#22324a}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--yazi);font:14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:1160px;margin:0 auto;padding:16px}
+h1{font-size:20px;margin:0 0 2px}h2{font-size:16px;margin:0 0 10px}
+.alt{color:var(--soluk);font-size:12px}
+.uyari{background:var(--secili);border-left:4px solid var(--sari);padding:8px 10px;border-radius:6px;margin:10px 0;font-size:13px}
+.kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px;margin:14px 0}
+.k{background:var(--kart);border:1px solid var(--cizgi);border-radius:10px;padding:10px 12px}
+.k b{display:block;font-size:20px;font-variant-numeric:tabular-nums}.k span{color:var(--soluk);font-size:12px}
+.blok{background:var(--kart);border:1px solid var(--cizgi);border-radius:10px;padding:12px;margin:12px 0}
+.tablo{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums}
+th,td{padding:6px 8px;border-bottom:1px solid var(--cizgi);text-align:left;white-space:nowrap}
+th{font-size:12px;color:var(--soluk);font-weight:600}td.s,th.s{text-align:right}
+td.ad{white-space:normal;min-width:160px}
+.ust{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}
+button{font:inherit;background:var(--kart);color:var(--yazi);border:1px solid var(--cizgi);border-radius:8px;padding:6px 12px;cursor:pointer;min-height:36px}
+.takvim{display:grid;grid-template-columns:repeat(7,1fr);gap:4px}
+.gn{font-size:11px;color:var(--soluk);text-align:center}
+.gun{border:1px solid var(--cizgi);border-radius:8px;min-height:62px;padding:4px;font-size:11px;cursor:pointer;background:var(--kart);text-align:left;display:flex;flex-direction:column;gap:1px;color:var(--yazi)}
+.gun.bos{visibility:hidden}.gun.bugun{border-color:var(--vurgu)}.gun.sec{background:var(--secili)}
+.gun .no{font-weight:600;font-size:12px}.gun .ad{color:var(--soluk)}.gun .tah{color:var(--yesil)}
+.art{color:var(--yesil)}.eks{color:var(--kirmizi)}
+#giris{max-width:320px;margin:20vh auto;text-align:center}#giris input{font:inherit;padding:8px;width:100%;margin:8px 0;border:1px solid var(--cizgi);border-radius:8px;background:var(--kart);color:var(--yazi)}
+@media (max-width:600px){.gun{min-height:48px}.gun .ad,.gun .tah{display:none}.gun.var::after{content:"•";color:var(--vurgu)}}
+</style></head><body>
+<div id="giris" hidden><h1>Hakan Hesabı</h1><input type="password" placeholder="Şifre" autocomplete="current-password" onkeydown="if(event.key=='Enter')ac(this.value)"><div id="hata" class="eks"></div></div>
+<main id="sayfa" hidden></main>
+<script>
+let V=null;const ENC={"s": "yW5LZVGWK2lBtqjceg7Rhw==", "i": "G5YZKbkz4RcEKfKh", "z": 1, "c": "LejMnst+c6GgM47R4xd7rrtbu3Rsru/Mu1M+RoBQNlEXqWlGb0LCuYWcgSOeVPFxTT6NKgFzcVjGkAnpx10if7Ho49q6l6IpQKOsZXrGgE6KI95nlTLCDWzigMEtMpLHMvL9IjDHacBpiscIx4GbaePlk1YVyxuK6hv9+3kYeOpggfSUXKtsFcjhKKLeTBOclW7xcORaYC0S/nSKiDY3u6rxMUGjF1sHQzOvZO5XYQyAFF7ZKsHT/EDkQzc6g2JJrE+trVjq83bqDQ7MJjqUfl3IilBSl+NgjPXs5XhxOFPffxgJ3w=="};
+const TL=x=>x==null?'?':x.toLocaleString('tr-TR',{minimumFractionDigits:2,maximumFractionDigits:2})+' ₺';
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const gunEkle=(t,n)=>{const d=new Date(t+'T12:00:00');d.setDate(d.getDate()+n);return d.toISOString().slice(0,10)};
+const bugunS=()=>{const d=new Date();return new Date(d-d.getTimezoneOffset()*6e4).toISOString().slice(0,10)};
+
+/* HESAP (tek yer). Satir: siparis,tarih,kanal,barkod,ad,adet,ciro,alis,kesinti,kargo,net,kdv
+   kasaya = ciro - kesinti - kargo (platformun/kargonun aldigi cikinca kalan); vade[kanal] gun sonra.
+   gider = kesinti + kargo + kdv; kar = net (Otomasyon defteri: ciro-alis-kesinti-kargo-kdv), genel gider yok.
+   alimlar = sum(alis x adet) (hakan_alim); kasa = yatirim - alimlar + dusmus; bekleyen ayri (#505). */
+function hesap(V,bugun){
+ const s=V.siparis.map(r=>{const [sip,tarih,kanal,barkod,ad,adet,ciro,alis,kes,kargo,net,kdv]=r;
+  const g=V.vade[kanal];const kasa=kes==null?null:ciro-kes-kargo;
+  return {sip,tarih,kanal,barkod,ad,adet,ciro,alis,kes,kargo,net,kdv,kasa,
+   gider:kes==null?null:kes+kargo+kdv,dusus:g==null?null:gunEkle(tarih,g)}});
+ const t={dusmus:0,bekleyen:0,bilinmiyor:0,kar:0,ciro:0,alis:0,netsiz:0};
+ for(const x of s){t.ciro+=x.ciro;t.alis+=x.alis;
+  if(x.net==null){t.netsiz++;continue}t.kar+=x.net;
+  if(x.dusus==null)t.bilinmiyor+=x.kasa;else if(x.dusus<=bugun)t.dusmus+=x.kasa;else t.bekleyen+=x.kasa}
+ t.hakan=t.kar/2;t.ibrahim=t.kar/2;
+ t.alimlar=Object.values(V.alim||{}).reduce((a,x)=>a+(x.alis||0)*(x.adet||0),0);
+ t.kasa=V.yatirim==null?null:V.yatirim-t.alimlar+t.dusmus;
+ const u={};for(const x of s){const k=x.barkod;const o=u[k]||(u[k]={barkod:k,ad:x.ad,adet:0,ciro:0,net:0});
+  o.adet+=x.adet;o.ciro+=x.ciro;o.net+=x.net||0}
+ for(const p of V.urunler){const o=u[p.barkod]||(u[p.barkod]={barkod:p.barkod,ad:p.ad,adet:0,ciro:0,net:0});
+  o.alisB=p.alis;o.stok=p.stok}
+ return {s,t,u:Object.values(u).sort((a,b)=>b.ciro-a.ciro)};
+}
+
+let H,ay,secili;
+function ciz(){
+ const b=bugunS();H=hesap(V,b);const t=H.t;
+ if(!ay)ay=b.slice(0,7);if(!secili)secili=b;
+ const bil=Object.entries(V.vade).filter(([k,g])=>g==null).map(([k])=>k);
+ document.getElementById('sayfa').innerHTML=`
+ <h1>Hakan Hesabı</h1><div class="alt">Üretim ${esc(V.uretim)} · sipariş defteri ${esc(V.kaynak.siparis||'yok')} (başlangıç ${esc(V.kaynak.baslangic||'?')}) · ürün listesi ${esc(V.kaynak.urun||'yok')}</div>
+ ${!V.onizleme&&!V.urunler.length?'<div class="uyari"><b>Henüz 💼 Hakan Hesabı ürünü yok.</b> İlk ürünü Kontrol Paneli’nden “💼 Hakan Hesabı” korumasına al (stok + alış); hesap o gün başlar.</div>':''}
+ ${V.onizleme?'<div class="uyari"><b>ÖNİZLEME:</b> `hakan` korumalı ürün henüz yok; düzeni görmek için TÜM siparişler gösteriliyor. Rakamlar Hakan hesabı değildir.</div>':''}
+ ${!V.kaynak.vade_onay?`<div class="uyari">Tahsilat vadeleri doğrulanacak (pazaryeri ödeme raporundan).${bil.length?' Vadesi bilinmeyen kanallar: '+esc(bil.join(', '))+' — bu paralar kasaya katılmaz.':''}</div>`:''}
+ ${t.netsiz?`<div class="uyari">${t.netsiz} kalemde net kâr hesaplanamadı (HB komisyon oranı eksik); kâr ve kasaya katılmadı.</div>`:''}
+ <div class="kpi">
+  <div class="k"><span>Yatırım</span><b>${V.yatirim==null?'girilmedi':TL(V.yatirim)}</b></div>
+  <div class="k"><span>Ürün alımları</span><b class="eks">${TL(t.alimlar)}</b></div>
+  <div class="k"><span>Kasa (yatırım − alım + düşmüş)</span><b>${t.kasa==null?'girilmedi':TL(t.kasa)}</b></div>
+  <div class="k"><span>Kasaya düşmüş tahsilat</span><b class="art">${TL(t.dusmus)}</b></div>
+  <div class="k"><span>Bekleyen tahsilat (vadeli)</span><b>${TL(t.bekleyen)}</b></div>
+  <div class="k"><span>Vadesi bilinmeyen</span><b>${TL(t.bilinmiyor)}</b></div>
+  <div class="k"><span>Net kâr</span><b>${TL(t.kar)}</b></div>
+  <div class="k"><span>Hakan payı %50</span><b>${TL(t.hakan)}</b></div>
+  <div class="k"><span>İbrahim payı %50</span><b>${TL(t.ibrahim)}</b></div>
+ </div>
+ <section class="blok"><div class="ust"><h2 id="ayAd"></h2><span><button onclick="ayGit(-1)" aria-label="Önceki ay">‹</button> <button onclick="ayGit(1)" aria-label="Sonraki ay">›</button></span></div>
+  <div class="takvim" id="takvim"></div><div id="detay" style="margin-top:12px"></div></section>
+ <section class="blok"><h2>Ürünler (${H.u.length})</h2><div class="tablo"><table>
+  <tr><th>Ürün</th><th>Barkod</th><th class="s">Alış</th><th class="s">Stok</th><th class="s">Satılan</th><th class="s">Ciro</th><th class="s">Net kâr</th></tr>
+  ${H.u.map(o=>`<tr><td class="ad">${esc(o.ad)}</td><td>${esc(o.barkod)}</td><td class="s">${o.alisB==null?'':TL(o.alisB)}</td><td class="s">${o.stok??''}</td><td class="s">${o.adet}</td><td class="s">${TL(o.ciro)}</td><td class="s">${TL(o.net)}</td></tr>`).join('')||'<tr><td colspan="7" class="alt">Ürün yok</td></tr>'}
+ </table></div></section>`;
+ takvimCiz();
+}
+function ayGit(n){const [y,m]=ay.split('-').map(Number);const d=new Date(y,m-1+n,1);ay=d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0');takvimCiz()}
+function takvimCiz(){
+ const [y,m]=ay.split('-').map(Number),ilk=new Date(y,m-1,1),son=new Date(y,m,0).getDate(),b=bugunS();
+ document.getElementById('ayAd').textContent=ilk.toLocaleDateString('tr-TR',{month:'long',year:'numeric'});
+ let h=['Pzt','Sal','Çar','Per','Cum','Cmt','Paz'].map(g=>`<div class="gn">${g}</div>`).join('');
+ h+='<div class="gun bos"></div>'.repeat((ilk.getDay()+6)%7);
+ for(let d=1;d<=son;d++){const g=ay+'-'+String(d).padStart(2,'0');
+  const sp=H.s.filter(x=>x.tarih==g),tah=H.s.filter(x=>x.dusus==g&&x.kasa!=null);
+  const kar=sp.reduce((a,x)=>a+(x.net||0),0),tk=tah.reduce((a,x)=>a+x.kasa,0);
+  h+=`<button class="gun${g==b?' bugun':''}${g==secili?' sec':''}${sp.length||tah.length?' var':''}" onclick="gunSec('${g}')"><span class="no">${d}</span>${sp.length?`<span class="ad">${sp.length} kalem · ${Math.round(kar).toLocaleString('tr-TR')} ₺</span>`:''}${tah.length?`<span class="tah">+${Math.round(tk).toLocaleString('tr-TR')} ₺ kasa</span>`:''}</button>`}
+ document.getElementById('takvim').innerHTML=h;detayCiz();
+}
+function gunSec(g){secili=g;takvimCiz()}
+function detayCiz(){
+ const g=secili,sp=H.s.filter(x=>x.tarih==g),tah=H.s.filter(x=>x.dusus==g&&x.kasa!=null);
+ const top=(a,f)=>a.reduce((s,x)=>s+(x[f]||0),0);
+ const tarih=new Date(g+'T12:00:00').toLocaleDateString('tr-TR',{day:'numeric',month:'long',year:'numeric',weekday:'long'});
+ document.getElementById('detay').innerHTML=`<h2>${tarih}</h2>
+ <div class="kpi"><div class="k"><span>Sipariş kalemi</span><b>${sp.length}</b></div><div class="k"><span>Ciro</span><b>${TL(top(sp,'ciro'))}</b></div>
+ <div class="k"><span>Gider (kesinti+kargo+KDV)</span><b>${TL(top(sp,'gider'))}</b></div><div class="k"><span>Net kâr</span><b>${TL(top(sp,'net'))}</b></div>
+ <div class="k"><span>Bu gün kasaya düşen</span><b class="art">${TL(top(tah,'kasa'))}</b></div></div>
+ ${sp.length?`<div class="tablo"><table><tr><th>Kanal</th><th>Ürün</th><th class="s">Adet</th><th class="s">Ciro</th><th class="s">Alış</th><th class="s">Gider</th><th class="s">Net</th><th>Kasaya</th></tr>
+ ${sp.map(x=>`<tr><td>${esc(x.kanal)}</td><td class="ad">${esc(x.ad)}</td><td class="s">${x.adet}</td><td class="s">${TL(x.ciro)}</td><td class="s">${TL(x.alis)}</td><td class="s">${TL(x.gider)}</td><td class="s">${TL(x.net)}</td><td>${x.dusus?x.dusus.split('-').reverse().join('.'):'bilinmiyor'}</td></tr>`).join('')}</table></div>`:'<div class="alt">Bu gün sipariş yok.</div>'}`;
+}
+async function ac(p){
+ try{const B=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
+  const km=await crypto.subtle.importKey('raw',new TextEncoder().encode(p),'PBKDF2',false,['deriveKey']);
+  const key=await crypto.subtle.deriveKey({name:'PBKDF2',salt:B(ENC.s),iterations:150000,hash:'SHA-256'},km,{name:'AES-GCM',length:256},false,['decrypt']);
+  const pt=await crypto.subtle.decrypt({name:'AES-GCM',iv:B(ENC.i)},key,B(ENC.c));
+  V=JSON.parse(await new Response(new Blob([pt]).stream().pipeThrough(new DecompressionStream('gzip'))).text());
+  document.getElementById('giris').hidden=true;baslat();
+ }catch(e){document.getElementById('hata').textContent='Şifre yanlış'}
+}
+function baslat(){document.getElementById('sayfa').hidden=false;ciz()}
+if(V)baslat();else document.getElementById('giris').hidden=false;
+</script></body></html>
