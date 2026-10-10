@@ -3996,7 +3996,7 @@
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
 <Stock>2</Stock>
-<Miad>2026-11-01</Miad>
+<Miad>2027-10-01</Miad>
 <Price>518.41</Price>
 <Price2>630.48</Price2>
 <Price3>630.48</Price3>
@@ -4044,7 +4044,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad>2027-07-01</Miad>
 <Price>531.16</Price>
 <Price2>645.19</Price2>
@@ -4094,17 +4094,17 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>18</Stock>
 <Miad>2027-11-01</Miad>
-<Price>609.90</Price>
-<Price2>678.69</Price2>
-<Price3>678.69</Price3>
-<Price4>683.09</Price4>
-<Price5>683.09</Price5>
-<Price6>683.09</Price6>
-<Price7>943.90</Price7>
-<Price8>943.90</Price8>
-<Price9>749.74</Price9>
+<Price>518.41</Price>
+<Price2>630.48</Price2>
+<Price3>630.48</Price3>
+<Price4>657.63</Price4>
+<Price5>649.31</Price5>
+<Price6>638.19</Price6>
+<Price7>905.39</Price7>
+<Price8>740.74</Price8>
+<Price9>638.19</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKY2Y</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00107</SaticiStokKodu>
@@ -9232,7 +9232,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kolonyası]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>49</Stock>
 <Miad></Miad>
 <Price>56.02</Price>
 <Price2>106.12</Price2>
@@ -10321,7 +10321,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>12</Stock>
 <Miad>2028-10-01</Miad>
 <Price>756.41</Price>
 <Price2>905.09</Price2>
@@ -12734,7 +12734,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>9</Stock>
+<Stock>8</Stock>
 <Miad>2027-09-01</Miad>
 <Price>338.21</Price>
 <Price2>422.56</Price2>
@@ -19448,7 +19448,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <Tax>20</Tax>
-<Stock>100</Stock>
+<Stock>99</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>81.87</Price2>
@@ -20918,7 +20918,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-infaillible-goz-kalemi-14-bordeaux-46359.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-infaillible-goz-kalemi-14-bordeaux-46442.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-infaillible-goz-kalemi-14-bordeaux-46488.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>L'Oreal Paris Infaillible G&#246;z Kalemi - 14 Bordeaux</strong>, tek hamlede yo&#287;un renk veren, uzun s&#252;re kal&#305;c&#305; jel dokulu otomatik bir g&#246;z kalemidir. G&#252;n boyu da&#287;&#305;lmayan, belirgin ve &#351;&#305;k bir g&#246;z makyaj&#305; arayanlar i&#231;in zarif bordo (14 Bordeaux) tonunda sunulur.</p>
 <h2>L'Oreal Infaillible G&#246;z Kalemi &#214;zellikleri</h2>
 <ul>
@@ -20935,7 +20935,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Kal&#305;c&#305; ve belirgin bir g&#246;z makyaj&#305; sevenler bu kalemi Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00502]]></Product_code>
@@ -31087,7 +31087,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-sprey-derma-protect-clinical-women-150-ml-36605.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-sprey-derma-protect-clinical-women-150-ml-39397.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-sprey-derma-protect-clinical-women-150-ml-39398.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Deo Sprey Derma Protect Clinical Women 150 ml</strong>, hassas koltuk alt&#305; cildi i&#231;in geli&#351;tirilmi&#351;, uzun s&#252;reli ve g&#252;&#231;l&#252; ter-koku korumas&#305; sunan klinik etkili bir kad&#305;n sprey deodorand&#305;r. Yo&#287;un terlemeyle ilgilenen ve cildine nazik, bak&#305;m odakl&#305; bir form&#252;l arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -31104,7 +31104,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun, &#252;zerine g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; gelen yerlerde b&#305;rakmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>G&#252;&#231;l&#252; ve cilt dostu bir koruma arayan kad&#305;nlar Nivea Derma Protect Clinical'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00725]]></Product_code>
@@ -31276,7 +31276,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-dry-fresh-deodorant-bayan-150-ml-39402.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-dry-fresh-deodorant-bayan-150-ml-39403.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-dry-fresh-deodorant-bayan-150-ml-40001.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Dry Fresh Deodorant Bayan 150 ml</strong>, &#231;ift etkili form&#252;l&#252;yle g&#252;n boyu kuruluk hissi ve ferahl&#305;k sunan, ter ve kokuya kar&#351;&#305; koruyan bir kad&#305;n sprey deodorand&#305;r. Hem kuru kalmak hem de ferah bir koku isteyen, g&#252;nl&#252;k aktif ya&#351;am s&#252;ren kad&#305;nlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -31294,7 +31294,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun, &#252;zerine g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; gelen yerlerde b&#305;rakmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Kuruluk ve ferahl&#305;&#287;&#305; bir arada arayan kad&#305;nlar Nivea Dry Fresh'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00729]]></Product_code>
@@ -31422,7 +31422,7 @@
 <Image2>https://www.farmaneva.com/uploads/urunler/nivea-for-men-fresh-active-pompali-deodorant-sprey-75-ml-9434.webp</Image2>
 <Image3>https://www.farmaneva.com/uploads/urunler/nivea-for-men-fresh-active-pompali-deodorant-sprey-75-ml-9435.webp</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/nivea-for-men-fresh-active-pompali-deodorant-sprey-75-ml-9436.webp</Image4>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea For Men Fresh Active Pompal&#305; Deodorant Sprey</strong>, okyanus esintili kokusuyla g&#252;n boyu tazelik sunan, al&#252;minyum i&#231;ermeyen erkek pompal&#305; sprey deodorand&#305;r. Ferah bir koku ve cilde nazik bir form&#252;lle g&#252;n boyu ter ve kokuya kar&#351;&#305; koruma arayan, k&#305;yafetlerinde iz istemeyen erkekler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -31439,7 +31439,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Ferah ve al&#252;minyumsuz bir deodorant arayan erkekler Nivea Fresh Active'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00732]]></Product_code>
@@ -31568,7 +31568,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-invisible-black-white-fresh-deodorant-150-ml-40007.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-invisible-black-white-fresh-deodorant-150-ml-40329.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-invisible-black-white-fresh-deodorant-150-ml-40594.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Invisible Black &amp; White Fresh Deodorant 150 ml</strong>, ferah kokusuyla g&#252;n boyu tazelik veren, k&#305;yafetlerde iz b&#305;rakmaya kar&#351;&#305; geli&#351;tirilmi&#351; bir sprey deodorand&#305;r. Hem leke korumas&#305; hem de ferah bir his arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -31585,7 +31585,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Ferah ve leke kar&#351;&#305;t&#305; bir deodorant arayanlar Nivea Black &amp; White Fresh'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00735]]></Product_code>
@@ -32230,7 +32230,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-deodorant-dry-fresh-150-ml-40022.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-deodorant-dry-fresh-150-ml-40342.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-deodorant-dry-fresh-150-ml-40605.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Men Deodorant Dry Fresh 150 ml</strong>, &#231;ift etkili form&#252;l&#252;yle g&#252;n boyu kuruluk hissi ve ferahl&#305;k sunan, erkekler i&#231;in bir sprey deodorand&#305;r. Aktif bir g&#252;n boyunca ter ve kokuya kar&#351;&#305; koruma ararken kuru ve temiz bir his isteyen erkekler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32247,7 +32247,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Kuruluk ve ferahl&#305;&#287;&#305; bir arada arayan erkekler Nivea Men Dry Fresh'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00750]]></Product_code>
@@ -32325,7 +32325,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-fresh-sensation-erkek-sprey-deodorant-150-ml-40023.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-fresh-sensation-erkek-sprey-deodorant-150-ml-40343.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-fresh-sensation-erkek-sprey-deodorant-150-ml-40606.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Men Fresh Sensation Erkek Sprey Deodorant 150 ml</strong>, ferah kokusuyla uzun s&#252;reli tazelik veren, erkekler i&#231;in bir sprey deodorand&#305;r. G&#252;n boyu ter ve kokuya kar&#351;&#305; koruma ararken ferah bir his ve nazik bir form&#252;l isteyen erkekler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32342,7 +32342,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Ferah ve uzun s&#252;reli bir koruma arayan erkekler Nivea Men Fresh Sensation'&#305; Farmaneva g&#252;vencesiyle edinebilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00752]]></Product_code>
@@ -32469,7 +32469,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-invisible-for-black-white-clear-150-ml-40026.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-invisible-for-black-white-clear-150-ml-40345.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-invisible-for-black-white-clear-150-ml-40607.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Sprey Deodorant Invisible for Black &amp; White</strong>, koyu k&#305;yafetlerde beyaz, a&#231;&#305;k k&#305;yafetlerde sar&#305; iz b&#305;rakmaya kar&#351;&#305; geli&#351;tirilmi&#351;, uzun s&#252;reli ter ve koku korumas&#305; sa&#287;layan bir sprey deodorand&#305;r. K&#305;yafetlerini lekelerden korurken g&#252;n boyu ferah ve kuru kalmak isteyenler i&#231;in tasarlanm&#305;&#351; pratik bir &#252;r&#252;nd&#252;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32485,7 +32485,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun, &#252;zerine g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; gelen yerlerde b&#305;rakmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>K&#305;yafetlerinde leke istemeyenler Nivea Black &amp; White Invisible deodorant&#305; Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00755]]></Product_code>
@@ -32711,7 +32711,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-fresh-natural-women-150-ml-36657.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-fresh-natural-women-150-ml-39439.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-fresh-natural-women-150-ml-39440.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Sprey Deodorant Fresh Natural Women 150 ml</strong>, okyanus ferahl&#305;&#287;&#305; veren kokusuyla g&#252;n boyu tazelik sunan, kad&#305;nlar i&#231;in bir sprey deodorand&#305;r. Do&#287;al ve ferah bir his arayan, g&#252;nl&#252;k kullan&#305;ma uygun ve ciltte a&#287;&#305;rl&#305;k b&#305;rakmayan bir deodorant isteyen kad&#305;nlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32728,7 +32728,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Do&#287;al ve ferah bir tazelik sevenler Nivea Fresh Natural Women spreyini Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00760]]></Product_code>
@@ -42857,7 +42857,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>153</Stock>
+<Stock>152</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1147.41</Price>
 <Price2>1356.24</Price2>
@@ -49388,7 +49388,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>47</Stock>
+<Stock>45</Stock>
 <Miad>2028-03-01</Miad>
 <Price>218.36</Price>
 <Price2>299.01</Price2>
@@ -50380,56 +50380,6 @@
 <p><strong>SMA Comfort 2 hangi aylar için?</strong><br>6-12 aylık bebekler için hazırlanmış bir devam sütüdür.</p>
 <p><strong>Hazırlanan mama bekletilir mi?</strong><br>Her öğün taze hazırlanmalı, kalan ürün tekrar kullanılmamalıdır.</p>
 <p><strong>Kullanmadan önce kime danışılmalı?</strong><br>Kullanım kararı sağlık profesyonelinin önerisi doğrultusunda verilmelidir.</p>
-</section>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV01146]]></Product_code>
-<Barcode>7613287407788</Barcode>
-<Name><![CDATA[SMA Comfort 3 Devam Sütü 400 gr]]></Name>
-<Brand><![CDATA[Sma]]></Brand>
-<mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
-<category><![CDATA[Beslenme]]></category>
-<subCategory><![CDATA[Bebek Maması]]></subCategory>
-<Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2027-08-01</Miad>
-<Price>488.66</Price>
-<Price2>596.16</Price2>
-<Price3>596.16</Price3>
-<Price4>620.25</Price4>
-<Price5>612.05</Price5>
-<Price6>601.92</Price6>
-<Price7>862.70</Price7>
-<Price8>704.82</Price8>
-<Price9>601.92</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQKYEE</HepsiburadaSku>
-<SaticiStokKodu>FRMNV01146</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-37495.webp</Image1>
-<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46739.webp</Image2>
-<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46740.webp</Image3>
-<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46832.webp</Image4>
-<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/sma-comfort-3-devam-sutu-400-gr-46833.webp</Image5>
-<Description><![CDATA[<section>
-<p><strong>Sma Comfort 3 Numara 400 gr</strong>, tamamlay&#305;c&#305; beslenmeye ge&#231;mi&#351; 1-3 ya&#351; &#231;ocuklar i&#231;in geli&#351;tirilmi&#351; bir devam s&#252;t&#252;d&#252;r. L. reuteri, FOS ve GOS prebiyotikleri ile OPTIPRO protein teknolojisini i&#231;eren form&#252;l&#252;, 12'li koli paket halinde sunulur ve her kutu 400 gr toz i&#231;erir.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>1-3 ya&#351; d&#246;nemine y&#246;nelik devam s&#252;t&#252;</li>
-<li>L. reuteri k&#252;lt&#252;r&#252; i&#231;erir</li>
-<li>FOS ve GOS prebiyotik lifleri</li>
-<li>OPTIPRO protein teknolojisiyle haz&#305;rlanm&#305;&#351;t&#305;r</li>
-<li>Sindirim konforu d&#252;&#351;&#252;n&#252;lerek geli&#351;tirilmi&#351;tir</li>
-<li>Temel vitamin ve mineralleri i&#231;erir</li>
-<li>Her kutuda 400 gr toz bebek s&#252;t&#252;</li>
-<li>12'li avantajl&#305; koli paket</li>
-<li>Haz&#305;rlamas&#305; pratik toz form</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Kaynat&#305;l&#305;p uygun s&#305;cakl&#305;&#287;a getirilmi&#351; su ile, ambalajda belirtilen &#246;l&#231;&#252; ve oranlara g&#246;re haz&#305;rlan&#305;r. Dengeli ve &#231;e&#351;itli beslenmenin bir par&#231;as&#305; olarak verilir; kesin haz&#305;rlama miktar&#305; ve g&#252;nl&#252;k &#246;&#287;&#252;n say&#305;s&#305; i&#231;in kutu &#252;zerindeki kullan&#305;m talimat&#305;n&#305; izleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Anne s&#252;t&#252; bebekler i&#231;in en iyi besindir; bu &#252;r&#252;n&#252; kullanmadan &#246;nce doktor, ebe veya sa&#287;l&#305;k dan&#305;&#351;man&#305;n&#305;za ba&#351;vurun. S&#252;t, soya ve bal&#305;k ya&#287;&#305; i&#231;erir; yanl&#305;&#351; haz&#305;rlama ve saklama &#231;ocu&#287;un sa&#287;l&#305;&#287;&#305;n&#305; olumsuz etkileyebilece&#287;inden haz&#305;rlama talimat&#305;na titizlikle uyun.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan SMA Comfort 3 devam s&#252;t&#252;, g&#252;venilir al&#305;&#351;veri&#351;in adresidir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -63417,7 +63367,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>2029-03-01</Miad>
 <Price>873.80</Price>
 <Price2>1040.54</Price2>
@@ -64032,7 +63982,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>411</Stock>
+<Stock>409</Stock>
 <Miad>2029-03-01</Miad>
 <Price>254.91</Price>
 <Price2>326.45</Price2>
@@ -73187,7 +73137,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>56</Stock>
+<Stock>55</Stock>
 <Miad>2028-08-01</Miad>
 <Price>1086.30</Price>
 <Price2>1285.73</Price2>
@@ -78473,7 +78423,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>369.66</Price>
 <Price2>478.79</Price2>
@@ -82905,7 +82855,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>76</Stock>
+<Stock>75</Stock>
 <Miad>2030-12-01</Miad>
 <Price>97.33</Price>
 <Price2>149.56</Price2>
@@ -83294,7 +83244,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>45</Stock>
+<Stock>55</Stock>
 <Miad></Miad>
 <Price>616.16</Price>
 <Price2>756.52</Price2>
