@@ -11623,7 +11623,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>124</Stock>
+<Stock>125</Stock>
 <Miad></Miad>
 <Price>360.40</Price>
 <Price2>467.79</Price2>
@@ -12771,52 +12771,6 @@
 <p>Takviye edici g&#305;dad&#305;r, ila&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Hamilelik, emzirme d&#246;nemi ve mevcut bir sa&#287;l&#305;k durumunda kullanmadan &#246;nce hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n; nemden ve g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan koruyarak 25&#176;C alt&#305;nda muhafaza edin.</p>
 <p>Farmaneva g&#252;vencesiyle sa&#231;, cilt ve t&#305;rnak bak&#305;m&#305;n&#305;za i&#231;eriden destek sunar.</p>
 </section><p>Takviye edici g&#305;dad&#305;r. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n&#305;z; &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p>]]></Description>
-</Product>
-<Product>
-<Product_code><![CDATA[FRMNV00308]]></Product_code>
-<Barcode>8697960000274</Barcode>
-<Name><![CDATA[Dermoskin Medobyocomplex-W Kadın Biotin 60 Kapsül]]></Name>
-<Brand><![CDATA[Dermoskin]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Kadın Sağlığı]]></category>
-<Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2027-09-01</Miad>
-<Price>338.21</Price>
-<Price2>422.56</Price2>
-<Price3>422.56</Price3>
-<Price4>431.24</Price4>
-<Price5>423.61</Price5>
-<Price6>418.50</Price6>
-<Price7>646.85</Price7>
-<Price8>604.23</Price8>
-<Price9>418.50</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQL0OO</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00308</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/8697960000274-0_h8dlu.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/dermoskin-medobyocomplex-w-kadin-biotin-60-kapsul-180-gr-takviye-edici-gida-icerigi-8566.webp</Image2>
-<Description><![CDATA[<section>
-<p><strong>Medobyocomplex-W Kadın Biotin 60 Kapsül</strong>, biotin başta olmak üzere kadınlara yönelik içeriklerle hazırlanmış, saç, cilt ve tırnak sağlığını desteklemeye yönelik bir takviyedir. Yetişkin kadınlar için 60 kapsüllük ambalajda sunulur.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Biotin başta olmak üzere kadınlara yönelik bileşenler içerir.</li>
-<li>Saç köklerini güçlendirmeye destek olur.</li>
-<li>Biotin, saçın ve cildin normal durumunun korunmasına katkıda bulunur.</li>
-<li>Tırnak ve cilt sağlığına da katkı sağlar.</li>
-<li>Yapay renklendirici, koruyucu ve gluten içermez.</li>
-<li>Pratik, günlük kapsül kullanımı sunar.</li>
-<li>Yetişkin kadınlar için uygundur.</li>
-<li>60 kapsüllük ambalajda sunulur.</li>
-<li>Günlük rutine kolayca eklenen pratik bir takviyedir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Günde 1 kapsül, bir bardak su ile tüketilebilir. Düzenli kullanım önerilir; önerilen günlük dozu aşmayın.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Önerilen günlük dozu aşmayın. Hamilelik ve emzirme döneminde, bir sağlık sorununuz varsa veya ilaç kullanıyorsanız hekiminize danışın. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Saç, cilt ve tırnaklarını desteklemek isteyen kadınlar Medobyocomplex-W Biotin'i Farmaneva'da bulabilir.</p>
-</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00309]]></Product_code>
@@ -16319,7 +16273,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>15</Stock>
 <Miad></Miad>
 <Price>77.95</Price>
 <Price2>132.17</Price2>
@@ -18209,7 +18163,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad>2029-04-01</Miad>
 <Price>662.06</Price>
 <Price2>796.23</Price2>
@@ -19434,7 +19388,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <Tax>20</Tax>
-<Stock>90</Stock>
+<Stock>92</Stock>
 <Miad>2027-03-01</Miad>
 <Price>35.61</Price>
 <Price2>81.87</Price2>
@@ -20679,7 +20633,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>38</Stock>
+<Stock>37</Stock>
 <Miad>2028-03-01</Miad>
 <Price>140.25</Price>
 <Price2>199.77</Price2>
@@ -20904,7 +20858,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-infaillible-goz-kalemi-14-bordeaux-46359.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-infaillible-goz-kalemi-14-bordeaux-46442.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/l-oreal-paris-infaillible-goz-kalemi-14-bordeaux-46488.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>L'Oreal Paris Infaillible G&#246;z Kalemi - 14 Bordeaux</strong>, tek hamlede yo&#287;un renk veren, uzun s&#252;re kal&#305;c&#305; jel dokulu otomatik bir g&#246;z kalemidir. G&#252;n boyu da&#287;&#305;lmayan, belirgin ve &#351;&#305;k bir g&#246;z makyaj&#305; arayanlar i&#231;in zarif bordo (14 Bordeaux) tonunda sunulur.</p>
 <h2>L'Oreal Infaillible G&#246;z Kalemi &#214;zellikleri</h2>
 <ul>
@@ -20921,7 +20875,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Kal&#305;c&#305; ve belirgin bir g&#246;z makyaj&#305; sevenler bu kalemi Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00502]]></Product_code>
@@ -25101,7 +25055,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Ateş Ölçer]]></category>
 <Tax>10</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>33.91</Price>
 <Price2>75.37</Price2>
@@ -29811,7 +29765,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>93</Stock>
+<Stock>91</Stock>
 <Miad>2029-08-01</Miad>
 <Price>590.66</Price>
 <Price2>713.85</Price2>
@@ -30869,7 +30823,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-sprey-derma-protect-clinical-women-150-ml-36605.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-sprey-derma-protect-clinical-women-150-ml-39397.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-deo-sprey-derma-protect-clinical-women-150-ml-39398.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Deo Sprey Derma Protect Clinical Women 150 ml</strong>, hassas koltuk alt&#305; cildi i&#231;in geli&#351;tirilmi&#351;, uzun s&#252;reli ve g&#252;&#231;l&#252; ter-koku korumas&#305; sunan klinik etkili bir kad&#305;n sprey deodorand&#305;r. Yo&#287;un terlemeyle ilgilenen ve cildine nazik, bak&#305;m odakl&#305; bir form&#252;l arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -30886,7 +30840,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun, &#252;zerine g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; gelen yerlerde b&#305;rakmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>G&#252;&#231;l&#252; ve cilt dostu bir koruma arayan kad&#305;nlar Nivea Derma Protect Clinical'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00725]]></Product_code>
@@ -31058,7 +31012,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-dry-fresh-deodorant-bayan-150-ml-39402.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-dry-fresh-deodorant-bayan-150-ml-39403.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-dry-fresh-deodorant-bayan-150-ml-40001.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Dry Fresh Deodorant Bayan 150 ml</strong>, &#231;ift etkili form&#252;l&#252;yle g&#252;n boyu kuruluk hissi ve ferahl&#305;k sunan, ter ve kokuya kar&#351;&#305; koruyan bir kad&#305;n sprey deodorand&#305;r. Hem kuru kalmak hem de ferah bir koku isteyen, g&#252;nl&#252;k aktif ya&#351;am s&#252;ren kad&#305;nlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -31076,7 +31030,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun, &#252;zerine g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; gelen yerlerde b&#305;rakmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Kuruluk ve ferahl&#305;&#287;&#305; bir arada arayan kad&#305;nlar Nivea Dry Fresh'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00729]]></Product_code>
@@ -31200,7 +31154,7 @@
 <Image2>https://www.farmaneva.com/uploads/urunler/nivea-for-men-fresh-active-pompali-deodorant-sprey-75-ml-9434.webp</Image2>
 <Image3>https://www.farmaneva.com/uploads/urunler/nivea-for-men-fresh-active-pompali-deodorant-sprey-75-ml-9435.webp</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/nivea-for-men-fresh-active-pompali-deodorant-sprey-75-ml-9436.webp</Image4>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea For Men Fresh Active Pompal&#305; Deodorant Sprey</strong>, okyanus esintili kokusuyla g&#252;n boyu tazelik sunan, al&#252;minyum i&#231;ermeyen erkek pompal&#305; sprey deodorand&#305;r. Ferah bir koku ve cilde nazik bir form&#252;lle g&#252;n boyu ter ve kokuya kar&#351;&#305; koruma arayan, k&#305;yafetlerinde iz istemeyen erkekler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -31217,7 +31171,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Ferah ve al&#252;minyumsuz bir deodorant arayan erkekler Nivea Fresh Active'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00732]]></Product_code>
@@ -31346,7 +31300,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-invisible-black-white-fresh-deodorant-150-ml-40007.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-invisible-black-white-fresh-deodorant-150-ml-40329.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-invisible-black-white-fresh-deodorant-150-ml-40594.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Invisible Black &amp; White Fresh Deodorant 150 ml</strong>, ferah kokusuyla g&#252;n boyu tazelik veren, k&#305;yafetlerde iz b&#305;rakmaya kar&#351;&#305; geli&#351;tirilmi&#351; bir sprey deodorand&#305;r. Hem leke korumas&#305; hem de ferah bir his arayanlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -31363,7 +31317,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Ferah ve leke kar&#351;&#305;t&#305; bir deodorant arayanlar Nivea Black &amp; White Fresh'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00735]]></Product_code>
@@ -32004,7 +31958,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-deodorant-dry-fresh-150-ml-40022.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-deodorant-dry-fresh-150-ml-40342.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-men-deodorant-dry-fresh-150-ml-40605.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Men Deodorant Dry Fresh 150 ml</strong>, &#231;ift etkili form&#252;l&#252;yle g&#252;n boyu kuruluk hissi ve ferahl&#305;k sunan, erkekler i&#231;in bir sprey deodorand&#305;r. Aktif bir g&#252;n boyunca ter ve kokuya kar&#351;&#305; koruma ararken kuru ve temiz bir his isteyen erkekler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32021,7 +31975,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Kuruluk ve ferahl&#305;&#287;&#305; bir arada arayan erkekler Nivea Men Dry Fresh'i Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00750]]></Product_code>
@@ -32095,7 +32049,7 @@
 <SaticiStokKodu>4006000016184</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/nivea-men-fresh-sensation-erkek-sprey-deodorant-150-ml-9460.webp</Image1>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Men Fresh Sensation Erkek Sprey Deodorant 150 ml</strong>, ferah kokusuyla uzun s&#252;reli tazelik veren, erkekler i&#231;in bir sprey deodorand&#305;r. G&#252;n boyu ter ve kokuya kar&#351;&#305; koruma ararken ferah bir his ve nazik bir form&#252;l isteyen erkekler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32112,7 +32066,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Ferah ve uzun s&#252;reli bir koruma arayan erkekler Nivea Men Fresh Sensation'&#305; Farmaneva g&#252;vencesiyle edinebilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00752]]></Product_code>
@@ -32232,7 +32186,7 @@
 <SaticiStokKodu>4005900034724</SaticiStokKodu>
 <Origin><![CDATA[TR]]></Origin>
 <Image1>https://www.farmaneva.com/uploads/urunler/nivea-nive-sprey-deodorant-invisible-for-black-white-clear-150-ml-9464.webp</Image1>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Sprey Deodorant Invisible for Black &amp; White</strong>, koyu k&#305;yafetlerde beyaz, a&#231;&#305;k k&#305;yafetlerde sar&#305; iz b&#305;rakmaya kar&#351;&#305; geli&#351;tirilmi&#351;, uzun s&#252;reli ter ve koku korumas&#305; sa&#287;layan bir sprey deodorand&#305;r. K&#305;yafetlerini lekelerden korurken g&#252;n boyu ferah ve kuru kalmak isteyenler i&#231;in tasarlanm&#305;&#351; pratik bir &#252;r&#252;nd&#252;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32248,7 +32202,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun, &#252;zerine g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305; gelen yerlerde b&#305;rakmay&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>K&#305;yafetlerinde leke istemeyenler Nivea Black &amp; White Invisible deodorant&#305; Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00755]]></Product_code>
@@ -32474,7 +32428,7 @@
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-fresh-natural-women-150-ml-36657.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-fresh-natural-women-150-ml-39439.webp</Image4>
 <Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/nivea-sprey-deodorant-fresh-natural-women-150-ml-39440.webp</Image5>
-<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
+<Description><![CDATA[<p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><section>
 <p><strong>Nivea Sprey Deodorant Fresh Natural Women 150 ml</strong>, okyanus ferahl&#305;&#287;&#305; veren kokusuyla g&#252;n boyu tazelik sunan, kad&#305;nlar i&#231;in bir sprey deodorand&#305;r. Do&#287;al ve ferah bir his arayan, g&#252;nl&#252;k kullan&#305;ma uygun ve ciltte a&#287;&#305;rl&#305;k b&#305;rakmayan bir deodorant isteyen kad&#305;nlar i&#231;in tasarlanm&#305;&#351;t&#305;r.</p>
 <h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
 <ul>
@@ -32491,7 +32445,7 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; veya yeni t&#305;ra&#351; olunmu&#351; cilde uygulamay&#305;n. G&#246;zle temas&#305;ndan ve solunmas&#305;ndan ka&#231;&#305;n&#305;n; alev kaynaklar&#305;ndan uzak tutun. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Do&#287;al ve ferah bir tazelik sevenler Nivea Fresh Natural Women spreyini Farmaneva'da bulabilir.</p>
-</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
+</section><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p></p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00760]]></Product_code>
@@ -37975,7 +37929,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2029-07-01</Miad>
 <Price>403.66</Price>
 <Price2>498.08</Price2>
@@ -38180,7 +38134,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2027-09-01</Miad>
 <Price>402.81</Price>
 <Price2>497.10</Price2>
@@ -39309,7 +39263,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>52</Stock>
+<Stock>51</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -39434,7 +39388,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>211</Stock>
+<Stock>210</Stock>
 <Miad>2029-05-01</Miad>
 <Price>171.70</Price>
 <Price2>230.44</Price2>
@@ -42503,7 +42457,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>151</Stock>
+<Stock>149</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1147.41</Price>
 <Price2>1356.24</Price2>
@@ -43621,7 +43575,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>39</Stock>
+<Stock>31</Stock>
 <Miad></Miad>
 <Price>195.41</Price>
 <Price2>271.74</Price2>
@@ -43893,7 +43847,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>59</Stock>
+<Stock>58</Stock>
 <Miad></Miad>
 <Price>203.15</Price>
 <Price2>280.94</Price2>
@@ -46511,7 +46465,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2029-04-01</Miad>
 <Price>259.16</Price>
 <Price2>338.88</Price2>
@@ -49735,7 +49689,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-03-01</Miad>
 <Price>499.71</Price>
 <Price2>608.91</Price2>
@@ -50424,7 +50378,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>33</Stock>
+<Stock>32</Stock>
 <Miad>2031-01-01</Miad>
 <Price>1019.07</Price>
 <Price2>1250.43</Price2>
@@ -51177,7 +51131,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad>2029-01-01</Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
@@ -63195,7 +63149,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>145</Stock>
+<Stock>139</Stock>
 <Miad>2028-01-01</Miad>
 <Price>476.00</Price>
 <Price2>581.55</Price2>
@@ -63340,7 +63294,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>404</Stock>
+<Stock>402</Stock>
 <Miad>2029-03-01</Miad>
 <Price>254.91</Price>
 <Price2>326.45</Price2>
@@ -66330,15 +66284,15 @@
 <Tax>20</Tax>
 <Stock>84</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>597.97</Price2>
-<Price3>597.97</Price3>
-<Price4>628.25</Price4>
-<Price5>617.98</Price5>
-<Price6>605.24</Price6>
-<Price7>943.43</Price7>
-<Price8>878.01</Price8>
-<Price9>605.24</Price9>
+<Price>442.00</Price>
+<Price2>564.74</Price2>
+<Price3>564.74</Price3>
+<Price4>591.34</Price4>
+<Price5>581.21</Price5>
+<Price6>569.68</Price6>
+<Price7>899.74</Price7>
+<Price8>835.90</Price8>
+<Price9>569.68</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -67728,7 +67682,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>3</Stock>
 <Miad>2028-02-01</Miad>
 <Price>984.22</Price>
 <Price2>1187.10</Price2>
@@ -71104,7 +71058,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Çinko]]></subCategory>
 <Tax>10</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-01-01</Miad>
 <Price>195.41</Price>
 <Price2>264.30</Price2>
@@ -76057,7 +76011,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-04-01</Miad>
 <Price>637.41</Price>
 <Price2>767.79</Price2>
@@ -84123,7 +84077,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2028-06-01</Miad>
 <Price>379.95</Price>
 <Price2>470.72</Price2>
@@ -84229,7 +84183,7 @@
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2029-01-01</Miad>
+<Miad>2027-08-01</Miad>
 <Price>472.51</Price>
 <Price2>577.52</Price2>
 <Price3>577.52</Price3>
@@ -85449,7 +85403,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>12</Stock>
 <Miad>2029-02-01</Miad>
 <Price>416.41</Price>
 <Price2>512.79</Price2>
@@ -85836,6 +85790,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/damla-saglik-ds-plus-fix-esnek-tibbi-flaster-5-m-x-10-cm-47707.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/damla-saglik-ds-plus-fix-esnek-tibbi-flaster-5-m-x-10-cm-47869.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/damla-saglik-ds-plus-fix-esnek-tibbi-flaster-5-m-x-10-cm-47870.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/damla-saglik-ds-plus-fix-esnek-tibbi-flaster-5-m-x-10-cm-48030.webp</Image5>
 <Description><![CDATA[<section><p><strong>Damla Sa&#287;l&#305;k DS Plus Fix Esnek T&#305;bbi Flaster 5 m x 10 cm</strong>, dokunmam&#305;&#351; (nonwoven) esnek kuma&#351;tan &#252;retilmi&#351;, gazl&#305; bez, ped ve pansuman malzemelerini cilde sabitlemek i&#231;in kullan&#305;lan rulo t&#305;bbi flasterdir. 10 cm geni&#351;li&#287;i ve 5 metre uzunlu&#287;u sayesinde geni&#351; y&#252;zeylerde ve hareketli b&#246;lgelerde ihtiyaca g&#246;re kesilerek kullan&#305;labilir; ev tipi ilk yard&#305;m dolab&#305;, bak&#305;m ve sa&#287;l&#305;k kurulu&#351;u kullan&#305;m&#305; i&#231;in uygundur.</p><h2>DS Plus Fix Esnek Flaster &#214;zellikleri</h2><ul><li>Esnek dokunmam&#305;&#351; kuma&#351; yap&#305;s&#305;yla v&#252;cut hatlar&#305;na ve eklem b&#246;lgelerine uyum sa&#287;lar.</li><li>5 m uzunlu&#287;unda, 10 cm geni&#351;li&#287;inde rulo formundad&#305;r.</li><li>Nefes alabilir yap&#305;dad&#305;r, hassas ciltler i&#231;in uygundur ve hipoalerjenik olarak tasarlanm&#305;&#351;t&#305;r.</li><li>Lateks i&#231;ermez.</li><li>&#199;inko oksit esasl&#305; yap&#305;&#351;t&#305;r&#305;c&#305;s&#305; ile pansuman malzemesini yerinde tutmaya yard&#305;mc&#305; olur.</li><li>Kolay ve d&#252;zg&#252;n y&#305;rt&#305;labilir; makas olmadan da istenen boyda ayr&#305;labilir.</li><li>K&#305;lavuz &#231;izgili koruyucu ka&#287;&#305;d&#305; &#246;l&#231;&#252;l&#252; kesim yapmay&#305; kolayla&#351;t&#305;r&#305;r.</li><li>Gazl&#305; bez, kompres, kan&#252;l ve benzeri malzemelerin sabitlenmesinde kullan&#305;labilir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Flasteri makaradan kullan&#305;lacak miktarda a&#231;&#305;n ve y&#305;rt&#305;n ya da kesin. Uygulanacak b&#246;lgenin temiz ve kuru oldu&#287;undan emin olun. Koruyucu ka&#287;&#305;d&#305; ay&#305;rarak flasteri germeden cilde yerle&#351;tirin ve kenarlar&#305;ndan hafif&#231;e bast&#305;rarak sabitleyin.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. Tahri&#351; olmu&#351; cilde ve a&#231;&#305;k yara &#252;zerine do&#287;rudan yap&#305;&#351;t&#305;rmay&#305;n. K&#305;zar&#305;kl&#305;k veya ka&#351;&#305;nt&#305; g&#246;r&#252;l&#252;rse kullan&#305;m&#305; b&#305;rak&#305;n. Serin, kuru ve tozsuz bir yerde, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde muhafaza edin.</p><p>Damla Sa&#287;l&#305;k DS Plus Fix Esnek T&#305;bbi Flaster 5 m x 10 cm &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -85865,6 +85820,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-intense-ananas-aromali-45-sase-47709.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-intense-ananas-aromali-45-sase-47871.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-intense-ananas-aromali-45-sase-47872.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/day2day-the-collagen-beauty-intense-ananas-aromali-45-sase-48032.jpg</Image5>
 <Description><![CDATA[&quot;<section><p><strong>Day2Day The Collagen Beauty Intense Ananas Aromal&#305; 45 Sa&#351;e</strong>, kollajen peptitleri, vitamin ve mineral kompleksi i&#231;eren, ananas aromal&#305; toz formda takviye edici g&#305;dad&#305;r; 30+15 sa&#351;elik &quot;&quot;ayn&#305; fiyata %50 daha fazla&quot;&quot; boyutuyla sunulur.</p><h2>Day2Day The Collagen Beauty Intense &#214;zellikleri</h2><ul><li>Bir sa&#351;ede 10000 mg kollajen peptitleri bulunur</li><li>Sa&#351;e ba&#351;&#305;na 100 mg hyaluronik asit, 50 mg alfa lipoik asit ve 30 mg glutatyon i&#231;erir</li><li>250 mg C vitamini, 10 mg &#231;inko, 2500 mcg biotin ve 55 mcg selenyum i&#231;erir</li><li>B3, B5, B6, B12 ve E vitaminleri ile mineral kompleksi i&#231;erir</li><li>Ananas aromal&#305;d&#305;r; tatland&#305;r&#305;c&#305; olarak steviol glikozitler kullan&#305;lm&#305;&#351;t&#305;r</li><li>Kutuda 45 adet 12 g'l&#305;k sa&#351;e bulunur (30+15)</li><li>Sa&#351;e formu sayesinde ta&#351;&#305;mas&#305; ve haz&#305;rlamas&#305; kolayd&#305;r</li><li>Yeti&#351;kinler i&#231;in g&#252;nl&#252;k 1 sa&#351;e kullan&#305;ma g&#246;re 45 g&#252;nl&#252;k kullan&#305;m sunar</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305; 18 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in 1 sa&#351;edir. Bir sa&#351;e, bir bardak suya (200 ml) ilave edilip kar&#305;&#351;t&#305;r&#305;larak t&#252;ketilir.</p><h2>Uyar&#305;lar</h2><p>&#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. Tavsiye edilen g&#252;nl&#252;k porsiyon limiti a&#351;&#305;lmamal&#305;d&#305;r. Hastal&#305;&#287;&#305; olanlar veya ila&#231; kullananlar doktora dan&#305;&#351;mal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25&#176;C'nin alt&#305;nda kuru ve serin ortamda saklanmal&#305;d&#305;r.</p><p>Day2Day The Collagen Beauty Intense Ananas Aromal&#305; 45 Sa&#351;e'yi Farmaneva'da bulabilirsiniz.</p></section>&quot;]]></Description>
 </Product>
 <Product>
@@ -85924,6 +85880,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-2-si-1-arada-masaj-jeli-ve-kayganlastirici-rahatlatici-aloe-vera-200-ml-47714.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-2si-1-arada-masaj-jeli-ve-kayganlastirici-rahatlatici-aloe-vera-200-ml-47876.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-2si-1-arada-masaj-jeli-ve-kayganlastirici-rahatlatici-aloe-vera-200-ml-47877.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-2si-1-arada-masaj-jeli-ve-kayganlastirici-rahatlatici-aloe-vera-200-ml-48036.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Durex 2'si 1 Arada Masaj Jeli ve Kayganla&#351;t&#305;r&#305;c&#305; Rahatlat&#305;c&#305; Aloe Vera 200 ml</strong>, masaj jeli ve kayganla&#351;t&#305;r&#305;c&#305;y&#305; tek &#252;r&#252;nde birle&#351;tiren su bazl&#305; jeldir. Aloe vera i&#231;eren form&#252;l&#252;, v&#252;cut masaj&#305;ndan yak&#305;n temasa ge&#231;i&#351;i kesintisiz hale getirir ve cilt &#252;zerinde yumu&#351;ak, rahatlat&#305;c&#305; bir his b&#305;rak&#305;r. Ya&#287; ve parf&#252;m i&#231;ermeyen yap&#305;s&#305; sayesinde cilde yap&#305;&#351;madan kayar; 200 ml'lik pompal&#305; &#351;i&#351;esi tek elle kolay kullan&#305;m sa&#287;lar.</p><h2>Durex Aloe Vera 2'si 1 Arada Jel &#214;zellikleri</h2><ul><li>Masaj jeli ve kayganla&#351;t&#305;r&#305;c&#305; olarak iki ama&#231;la kullan&#305;l&#305;r.</li><li>Aloe vera i&#231;erir; rahatlat&#305;c&#305; bir his sunar.</li><li>Su bazl&#305;d&#305;r; ya&#287; ve parf&#252;m i&#231;ermez.</li><li>pH dostu form&#252;ldedir.</li><li>Durex prezervatiflerle birlikte kullan&#305;ma uygundur.</li><li>Dermatolojik olarak test edilmi&#351;tir.</li><li>200 ml, kolay dozaj sa&#287;layan pompal&#305; &#351;i&#351;ededir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Masaj i&#231;in yeterli miktarda jeli avucunuza al&#305;n ve v&#252;cuda dairesel hareketlerle yayarak masaj yap&#305;n. Kayganla&#351;t&#305;r&#305;c&#305; olarak kullan&#305;rken ihtiyac&#305;n&#305;z kadar jeli uygulama b&#246;lgesine s&#252;r&#252;n; gerekti&#287;inde tekrar uygulay&#305;n. Prezervatifle birlikte kullan&#305;yorsan&#305;z prezervatif tak&#305;l&#305;yken &#252;zerine s&#252;r&#252;n. Su bazl&#305; oldu&#287;u i&#231;in suyla kolayca temizlenir.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;z ile temas&#305;ndan ka&#231;&#305;n&#305;n; temas ederse bol suyla durulay&#305;n. Kullan&#305;m s&#305;ras&#305;nda rahats&#305;zl&#305;k, k&#305;zar&#305;kl&#305;k veya yanma hissi olursa kullan&#305;m&#305; b&#305;rak&#305;n ve b&#246;lgeyi suyla y&#305;kay&#305;n. Ambalaj &#252;zerindeki kullan&#305;m talimatlar&#305;n&#305; okuyun. Kapa&#287;&#305; kapal&#305; olarak, serin ve kuru bir yerde, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde muhafaza edin.</p><p>Durex 2'si 1 Arada Masaj Jeli ve Kayganla&#351;t&#305;r&#305;c&#305; Rahatlat&#305;c&#305; Aloe Vera 200 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -86073,6 +86030,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-intense-uyarici-jel-10-ml-47728.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-intense-uyarici-jel-10-ml-47890.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-intense-uyarici-jel-10-ml-47891.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/durex-intense-uyarici-jel-10-ml-48046.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Durex Intense Uyar&#305;c&#305; Jel 10 ml</strong>, i&#231;erdi&#287;i Desirex jel ile &#246;n sevi&#351;me s&#305;ras&#305;nda yo&#287;un his sunmak &#252;zere geli&#351;tirilmi&#351; uyar&#305;c&#305; jeldir. Kutusunda 'Zevkin doruk noktas&#305;' ifadesiyle tan&#305;t&#305;lan jel, &#305;s&#305;t&#305;c&#305;, serinletici ve uyar&#305;c&#305; hislerin bir arada ya&#351;anmas&#305;n&#305; hedefler. Yaln&#305;zca birka&#231; damla yeterli oldu&#287;u i&#231;in 10 ml'lik ambalaj yakla&#351;&#305;k 20 kullan&#305;m sunar; k&#252;&#231;&#252;k boyutu sayesinde kolayca ta&#351;&#305;nabilir.</p><h2>Durex Intense Uyar&#305;c&#305; Jel &#214;zellikleri</h2><ul><li>Desirex jel form&#252;l&#252; ile yo&#287;un his sunmak &#252;zere tasarlanm&#305;&#351;t&#305;r.</li><li>Is&#305;t&#305;c&#305;, serinletici ve uyar&#305;c&#305; hisler uyand&#305;r&#305;r.</li><li>Birka&#231; damla yeterlidir; 10 ml ambalaj yakla&#351;&#305;k 20 kullan&#305;ml&#305;kt&#305;r.</li><li>Durex prezervatiflerle birlikte kullan&#305;ma uygundur.</li><li>Durex cinsel oyuncaklar&#305;yla uyumludur.</li><li>Dermatolojik olarak test edilmi&#351;tir.</li><li>Kutulu, kompakt &#351;i&#351;e ambalajdad&#305;r.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>&#214;n sevi&#351;me s&#305;ras&#305;nda birka&#231; damla jeli klitoris b&#246;lgesine uygulay&#305;n ve parmak u&#231;lar&#305;n&#305;zla nazik&#231;e yay&#305;n. Etkisi bireyden bireye de&#287;i&#351;ebilir; ilk kullan&#305;mda az miktarla ba&#351;laman&#305;z &#246;nerilir. Prezervatifle birlikte kullan&#305;yorsan&#305;z prezervatif tak&#305;l&#305;yken uygulay&#305;n. Kullan&#305;m sonras&#305; kapa&#287;&#305;n&#305; s&#305;k&#305;ca kapat&#305;n.</p><h2>Uyar&#305;lar</h2><p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;z ile temas&#305;ndan ka&#231;&#305;n&#305;n; temas ederse bol suyla durulay&#305;n. Kullan&#305;m s&#305;ras&#305;nda rahats&#305;zl&#305;k, k&#305;zar&#305;kl&#305;k veya yanma hissi olursa kullan&#305;m&#305; b&#305;rak&#305;n ve b&#246;lgeyi suyla y&#305;kay&#305;n. Ambalaj &#252;zerindeki kullan&#305;m talimatlar&#305;n&#305; okuyun. Kapa&#287;&#305; kapal&#305; olarak, serin ve kuru bir yerde, do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;ndan uzakta saklay&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde muhafaza edin.</p><p>Durex Intense Uyar&#305;c&#305; Jel 10 ml &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -86462,6 +86420,7 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-oral-sprey-20-ml-47765.png</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-oral-sprey-20-ml-47928.png</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-d3k2-oral-sprey-20-ml-48072.png</Image3>
 <Description><![CDATA[<section><p><strong>Ocean D3K2 Oral Sprey 20 ml</strong>, D3 vitamini ve K2 vitamini (menakuinon-7) i&#231;eren, a&#287;za p&#252;sk&#252;rt&#252;lerek kullan&#305;lan sprey formunda bir takviye edici g&#305;dad&#305;r. D vitamini ve K2 vitamini ihtiyac&#305;n&#305; g&#252;nl&#252;k beslenmesinde desteklemek isteyen 11 ya&#351; ve &#252;zeri bireyler i&#231;in uygundur.</p><h2>Ocean D3K2 &#214;zellikleri</h2><ul><li>Her pufta 25 &#181;g (1000 IU) D3 vitamini i&#231;erir.</li><li>Her pufta 11,25 &#181;g K2 vitamini (menakuinon-7) i&#231;erir.</li><li>Zeytinya&#287;&#305; bazl&#305; form&#252;lasyondur, D3 ve K2 gibi ya&#287;da &#231;&#246;z&#252;nen vitaminlerin al&#305;m&#305;na uygundur.</li><li>20 ml &#351;i&#351;ede 130 puf bulunur.</li><li>D vitamini normal kemiklerin korunmas&#305;na ve ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal fonksiyonuna katk&#305;da bulunur.</li><li>Gl&#252;ten, &#351;eker, laktoz, renklendirici, koruyucu ve tatland&#305;r&#305;c&#305; i&#231;ermez.</li><li>Sprey formu sayesinde pratik ve kolay kullan&#305;m sa&#287;lar.</li><li>Orzax Ocean markas&#305; ile T&#252;rkiye'de &#252;retilir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in 1 puf a&#287;za p&#252;sk&#252;rtme &#351;eklindedir. Ambalaj &#252;zerindeki kullan&#305;m talimatlar&#305;n&#305; izleyin.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k miktar a&#351;&#305;lmamal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, &#305;&#351;&#305;ktan uzak ve serin bir yerde saklay&#305;n. Hamileler, emziren anneler, bir hastal&#305;&#287;&#305; olanlar veya ila&#231; kullananlar kullanmadan &#246;nce doktora dan&#305;&#351;mal&#305;d&#305;r. Takviye edici g&#305;dalar dengeli ve &#231;e&#351;itli beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz.</p><p>D3K2 takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -86491,6 +86450,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-e-vitamini-30-softjel-kapsul-47767.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-e-vitamini-30-softjel-kapsul-47929.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-e-vitamini-30-softjel-kapsul-47930.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-e-vitamini-30-softjel-kapsul-48073.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Ocean E Vitamini 30 Softjel Kaps&#252;l</strong>, Orzax markas&#305;n&#305;n, zeytinya&#287;&#305; bazl&#305; softjel kaps&#252;l formunda sundu&#287;u E vitamini i&#231;erikli takviye edici g&#305;dad&#305;r; 11 ya&#351; ve &#252;zeri bireyler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p><h2>E Vitamini &#214;zellikleri</h2><ul><li>Her kaps&#252;lde 46 mg &#945;-TE (alfa tokoferol e&#351;de&#287;eri) E vitamini bulunur.</li><li>Etiket de&#287;erine g&#246;re bu miktar E vitamini beslenme referans de&#287;erinin %383'&#252;ne kar&#351;&#305;l&#305;k gelir.</li><li>Kutuda 30 adet softjel kaps&#252;l yer al&#305;r; g&#252;nde 1 kaps&#252;l ile yakla&#351;&#305;k 1 ayl&#305;k kullan&#305;m sa&#287;lar.</li><li>E vitamini ve zeytinya&#287;&#305; i&#231;eri&#287;iyle sunulan yumu&#351;ak, kolay yutulur softjel yap&#305;dad&#305;r.</li><li>Gluten i&#231;ermez, &#351;ekersizdir.</li><li>Koruyucu, tatland&#305;r&#305;c&#305; ve renklendirici i&#231;ermez.</li><li>&#220;r&#252;n T&#252;rkiye'de &#252;retilmi&#351;tir; kutu &#252;zerinde i&#351;letme kay&#305;t ve takviye edici g&#305;da onay numaras&#305; yer al&#305;r.</li><li>&#220;reticisi Orzaks &#304;la&#231; ve Kimya San. Tic. A.&#350;.'dir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in 1 kaps&#252;ld&#252;r. Kaps&#252;l&#252; bir miktar su ile b&#252;t&#252;n olarak yutun.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;n&#305; a&#351;may&#305;n. Takviye edici g&#305;dalar normal ve dengeli beslenmenin yerine ge&#231;mez. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305;, serin ve kuru bir yerde saklay&#305;n. &#304;la&#231; de&#287;ildir. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n.</p><p>Ocean E Vitamini'ni Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -86521,6 +86481,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-fibra-60-tablet-47769.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-fibra-60-tablet-47931.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-fibra-60-tablet-47932.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-fibra-60-tablet-48075.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Ocean ExtraMag Fibra 60 Tablet</strong>, Orzax Ocean ExtraMag serisinden; magnezyum malat ve sitrat ile L-triptofan, pirolokinolin kinon, B6 (P5P) ve B12 (metil B12) i&#231;eren takviye edici g&#305;dad&#305;r.</p><h2>ExtraMag Fibra &#214;zellikleri</h2><ul><li>G&#252;nl&#252;k 2 tablette 240 mg magnezyum bulunur; bu miktar beslenme referans de&#287;erinin %64'&#252;ne kar&#351;&#305;l&#305;k gelir.</li><li>Magnezyum; magnezyum malat (170 mg elementel) ve trimagnezyum sitrat (70 mg elementel) formlar&#305;ndan sa&#287;lan&#305;r.</li><li>G&#252;nl&#252;k 2 tablette 60 mg L-triptofan ve 12 mg pirolokinolin kinon yer al&#305;r.</li><li>B6 vitamini aktif formu P5P olarak 6,66 mg (%476), B12 vitamini metilkobalamin olarak 100 &#181;g (%4000) i&#231;erir.</li><li>B12 kayna&#287;&#305;, patentli MecobalActive formudur.</li><li>Kutuda 60 tablet bulunur; g&#252;nde 2 tabletle 30 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li><li>Gluten i&#231;ermez, &#351;ekersizdir; koruyucu ve tatland&#305;r&#305;c&#305; i&#231;ermez.</li><li>&#220;retici Orzax't&#305;r; &#252;r&#252;n T&#252;rkiye'de &#252;retilmi&#351;tir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in 2 tablettir. Tabletleri bir miktar su ile yutun.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;n&#305; a&#351;may&#305;n. Takviye edici g&#305;dalar normal ve dengeli beslenmenin yerine ge&#231;mez. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305;, serin ve kuru bir yerde saklay&#305;n. &#304;la&#231; de&#287;ildir. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n.</p><p>Ocean ExtraMag Fibra'y&#305; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -86613,6 +86574,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-threog-200-mg-60-tablet-47777.webp</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-threog-200-mg-60-tablet-47939.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-threog-200-mg-60-tablet-47940.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-extramag-threog-200-mg-60-tablet-48081.webp</Image5>
 <Description><![CDATA[<section><p><strong>Ocean ExtraMag ThreoG 200 mg 60 Tablet</strong>, Orzax Ocean ExtraMag serisinden; magnezyum L-treonat ve magnezyum bisglisinat ile B6, D3 ve C vitaminlerini i&#231;eren takviye edici g&#305;dad&#305;r.</p><h2>ExtraMag ThreoG &#214;zellikleri</h2><ul><li>Tablet ba&#351;&#305;na 100 mg magnezyum i&#231;erir; 2 tablet 200 mg magnezyuma kar&#351;&#305;l&#305;k gelir.</li><li>Magnezyum; 50 mg'&#305; magnezyum L-treonattan, 50 mg'&#305; magnezyum bisglisinattan gelen elementel magnezyumdur.</li><li>Tablet ba&#351;&#305;na 60 mg C vitamini, 5 mg B6 vitamini ve 10 &#181;g D3 vitamini bulunur.</li><li>Kutuda 60 tablet yer al&#305;r; g&#252;nde 1-2 tabletle 30 ila 60 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li><li>Kolay yutulabilen tablet formundad&#305;r.</li><li>Gluten, &#351;eker ve laktoz i&#231;ermez.</li><li>&#220;r&#252;n T&#252;rkiye'de &#252;retilmi&#351;tir; kutu &#252;zerinde i&#351;letme kay&#305;t ve takviye edici g&#305;da onay bilgileri bulunur.</li><li>&#220;retici Orzax't&#305;r (Orzaks &#304;la&#231; ve Kimya San. Tic. A.&#350;.).</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in yemeklerden 2 saat sonra 1 veya 2 tablettir. Tableti bir miktar su ile yutun.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;n&#305; a&#351;may&#305;n. Takviye edici g&#305;dalar normal ve dengeli beslenmenin yerine ge&#231;mez. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305;, serin ve kuru bir yerde saklay&#305;n. &#304;la&#231; de&#287;ildir. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n.</p><p>Ocean ExtraMag ThreoG 200 mg'&#305; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -86643,6 +86605,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-magnezyum-complex-60-tablet-2-li-paket-47779.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-magnezyum-complex-60-tablet-2li-paket-47941.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-magnezyum-complex-60-tablet-2li-paket-47942.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-magnezyum-complex-60-tablet-2li-paket-48083.webp</Image5>
 <Description><![CDATA[<section><p><strong>Ocean Magnezyum Complex 60 Tablet 2'li Paket</strong> (2 kutu &#215; 60 tablet), bisglisinat, malat, sitrat ve taurat formlar&#305;nda magnezyum ile B6 vitamini (P5P) i&#231;eren tablet formunda bir takviye edici g&#305;dad&#305;r. Magnezyum ve B6 vitamini ihtiyac&#305;n&#305; g&#252;nl&#252;k beslenmesinde desteklemek isteyen 11 ya&#351; ve &#252;zeri bireyler i&#231;in uygundur.</p><h2>Ocean Magnezyum Complex &#214;zellikleri</h2><ul><li>Her tablette 125 mg magnezyum bulunur.</li><li>Her tablette 5 mg B6 vitamini (P5P) bulunur.</li><li>Magnezyum bisglisinat, malat, sitrat ve taurat olmak &#252;zere d&#246;rt farkl&#305; magnezyum formunu bir arada sunar.</li><li>Magnezyum normal kas fonksiyonuna ve normal sinir sisteminin korunmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum ve B6 vitamini yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum normal enerji olu&#351;um metabolizmas&#305;na ve elektrolit dengesine katk&#305;da bulunur.</li><li>Magnezyum normal kemiklerin korunmas&#305;na katk&#305;da bulunur.</li><li>&#350;i&#351;ede 60 tablet bulunur; tatland&#305;r&#305;c&#305;, gl&#252;ten ve koruyucu i&#231;ermez.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in g&#252;nde 1 veya 2 tablettir. Tabletler bol su ile al&#305;nabilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k miktar a&#351;&#305;lmamal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru bir yerde saklay&#305;n. Hamileler, emziren anneler, bir hastal&#305;&#287;&#305; olanlar veya ila&#231; kullananlar kullanmadan &#246;nce doktora dan&#305;&#351;mal&#305;d&#305;r. Takviye edici g&#305;dalar dengeli ve &#231;e&#351;itli beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz.</p><p>Magnezyum takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -87098,6 +87061,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-alfa-pwr-demir-dikeni-l-arjinin-kore-ginsengi-90-kapsul-47823.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-alfa-pwr-demir-dikeni-l-arjinin-kore-ginsengi-90-kapsul-47985.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-alfa-pwr-demir-dikeni-l-arjinin-kore-ginsengi-90-kapsul-47986.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-alfa-pwr-demir-dikeni-l-arjinin-kore-ginsengi-90-kapsul-48113.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Voonka Alfa PWR Demir Dikeni L-Arjinin Kore Ginsengi 90 Kaps&#252;l</strong>, demir dikeni, L-sitrulin, L-arjinin, Kore ginsengi ve zencefil i&#231;eren, yeti&#351;kinlere y&#246;nelik bir takviye edici g&#305;dad&#305;r.</p><h2>Alfa PWR &#214;zellikleri</h2><ul><li>Her kaps&#252;lde 166,667 mg demir dikeni (Tribulus terrestris, meyve), 166,667 mg L-sitrulin ve 166,667 mg L-arjinin bulunur.</li><li>Kore ginsengi (Panax ginseng, k&#246;k) 40 mg, lepidyum (Lepidium meyenii, k&#246;k) 33,333 mg ve zencefil (Zingiber officinale, k&#246;k) 20 mg i&#231;erir.</li><li>Form&#252;le kaps&#252;l ba&#351;&#305;na 10 mg C vitamini, 5 mg &#231;inko ve 3,3 mg koenzim Q10 e&#351;lik eder.</li><li>&#214;nerilen g&#252;nl&#252;k 3 kaps&#252;ll&#252;k porsiyonda 500 mg demir dikeni, L-sitrulin ve L-arjinin ile 120 mg Kore ginsengi sa&#287;lan&#305;r.</li><li>&#199;inko, g&#252;nl&#252;k porsiyonda beslenme referans de&#287;erinin %150'sini, C vitamini %37,5'ini kar&#351;&#305;lar.</li><li>Kaps&#252;l kabu&#287;u s&#305;&#287;&#305;r jelatinindendir; kutuda 90 kaps&#252;l (net 79 g) bulunur.</li><li>&#220;r&#252;n T&#252;rkiye'de &#252;retilmi&#351;tir; kutu &#252;zerinde i&#351;letme kay&#305;t ve takviye edici g&#305;da onay bilgileri yer al&#305;r.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri yeti&#351;kinler taraf&#305;ndan takviye edici g&#305;da olarak g&#252;nde 3 defa 1 kaps&#252;l t&#252;ketilmesi tavsiye edilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25 &#176;C'nin alt&#305;nda serin ve kuru yerde saklay&#305;n. &#304;la&#231; de&#287;ildir. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n.</p><p>Voonka Alfa PWR'&#305; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -87126,6 +87090,7 @@
 <Origin><![CDATA[TR]]></Origin>
 <Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-biotin-chewable-5000-mcg-cigneme-tableti-cikolata-kahve-aromali-47824.webp</Image1>
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-biotin-chewable-5000-mcg-cigneme-tableti-cikolata-kahve-aromali-47987.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-biotin-chewable-5000-mcg-cigneme-tableti-cikolata-kahve-aromali-48115.webp</Image3>
 <Description><![CDATA[<section><p><strong>Voonka Biotin Chewable 5000 mcg &#199;i&#287;neme Tableti &#199;ikolata Kahve Aromal&#305;</strong>, her &#231;i&#287;neme tabletinde 5000 &#181;g biotin (B7 vitamini) i&#231;eren, &#231;ikolata ve kahve aromal&#305; bir takviye edici g&#305;dad&#305;r. Biotin ihtiyac&#305;n&#305; g&#252;nl&#252;k beslenmesinde desteklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Voonka Biotin Chewable &#214;zellikleri</h2><ul><li>Her &#231;i&#287;neme tabletinde 5000 &#181;g biotin (vitamin B7) bulunur.</li><li>Biotin normal sa&#231;&#305;n korunmas&#305;na katk&#305;da bulunur.</li><li>Biotin normal cildin korunmas&#305;na yard&#305;mc&#305; olur.</li><li>Biotin normal enerji olu&#351;um metabolizmas&#305;na destek verir.</li><li>&#199;ikolata ve kahve aromal&#305; &#231;i&#287;neme tableti formundad&#305;r; suya ihtiya&#231; duymadan t&#252;ketilebilir.</li><li>&#304;&#231;indekiler: ta&#351;&#305;y&#305;c&#305; mannitol, ya&#287; asitlerinin magnezyum tuzlar&#305;, silikon dioksit, d-biotin, &#231;ikolata ve kahve aromas&#305;.</li><li>Yeti&#351;kinler i&#231;in g&#252;nde 1 &#231;i&#287;neme tableti olarak kullan&#305;ma uygundur.</li><li>T&#252;rkiye'de Kampotu taraf&#305;ndan &#252;retilmi&#351;tir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinlerin tercihen yemeklerden sonra g&#252;nde 1 defa 1 &#231;i&#287;neme tableti &#231;i&#287;neyerek t&#252;ketmesi &#246;nerilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k miktar a&#351;&#305;lmamal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, 25&#176;C alt&#305;nda ve kuru bir yerde saklay&#305;n. Hamileler, emziren anneler, bir hastal&#305;&#287;&#305; olanlar veya ila&#231; kullananlar kullanmadan &#246;nce doktora dan&#305;&#351;mal&#305;d&#305;r. Takviye edici g&#305;dalar dengeli ve &#231;e&#351;itli beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz.</p><p>Biotin takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -87155,6 +87120,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-beauty-plus-karpuz-cilek-aromali-300-gr-47826.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-beauty-plus-karpuz-cilek-aromali-300-gr-47988.webp</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-beauty-plus-karpuz-cilek-aromali-300-gr-47989.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-beauty-plus-karpuz-cilek-aromali-300-gr-48116.webp</Image5>
 <Description><![CDATA[<section><p><strong>Voonka Collagen Beauty Plus Karpuz &#199;ilek Aromal&#305; 300 gr</strong>, Tip I ve Tip III hidrolize kolajen ile C vitamini, hyaluronik asit, &#231;inko, biotin ve di&#287;er vitamin-mineralleri bir arada sunan, karpuz-&#231;ilek aromal&#305; toz formda bir takviye edici g&#305;dad&#305;r. Kolajen takviyesini g&#252;nl&#252;k rutinine eklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Voonka Collagen Beauty Plus &#214;zellikleri</h2><ul><li>Her &#246;l&#231;ekte (10 gr) 10.000 mg hidrolize kolajen (Tip I ve III) bulunur.</li><li>Her &#246;l&#231;ekte 300 mg C vitamini ve 100 mg hyaluronik asit bulunur.</li><li>Her &#246;l&#231;ekte 10 mg &#231;inko, 6 mg E vitamini ve 2500 &#181;g biotin bulunur.</li><li>B5 vitamini (3 mg), B6 vitamini (0,7 mg), bak&#305;r (2000 &#181;g) ve selenyum (55 &#181;g) i&#231;erir.</li><li>Karpuz ve &#231;ilek aromal&#305;d&#305;r; tatland&#305;r&#305;c&#305; olarak sukraloz i&#231;erir, ilave &#351;eker i&#231;ermez.</li><li>300 gr toz formda, kapakl&#305; kavanozda sunulur.</li><li>Suda kolay kar&#305;&#351;an toz yap&#305;s&#305; sayesinde pratik haz&#305;rlan&#305;r.</li><li>Yeti&#351;kinler i&#231;in g&#252;nde 1 &#246;l&#231;ek olarak kullan&#305;ma uygundur.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinlerin takviye edici g&#305;da olarak g&#252;nde 1 defa 1 &#246;l&#231;ek (10 gr) tozu 250 ml suda kar&#305;&#351;t&#305;rarak kullanmas&#305; tavsiye edilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru bir yerde saklay&#305;n. Hamileler, emziren anneler, bir hastal&#305;&#287;&#305; olanlar veya ila&#231; kullananlar kullanmadan &#246;nce doktora dan&#305;&#351;mal&#305;d&#305;r. Takviye edici g&#305;dalar dengeli ve &#231;e&#351;itli beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz.</p><p>Kolajen takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -87214,6 +87180,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-multi-90-tablet-47831.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-multi-90-tablet-47993.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-multi-90-tablet-47994.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-collagen-multi-90-tablet-48120.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Voonka Collagen Multi 90 Tablet</strong>, hidrolize kolajen (Tip I, II ve III), hyaluronik asit, resveratrol ve hidrolize elastin i&#231;eren, C vitamini, biotin, &#231;inko, bak&#305;r ve selenyum ile desteklenmi&#351; takviye edici g&#305;dad&#305;r. Cilt, sa&#231; ve t&#305;rnak i&#231;in kolajen takviyesi arayan 11 ya&#351; ve &#252;zeri bireyler i&#231;in uygundur.</p><h2>Collagen Multi &#214;zellikleri</h2><ul><li>Bir tablette 966,667 mg hidrolize kolajen Tip I ve III bulunur.</li><li>Bir tablette 33,333 mg hidrolize kolajen Tip II ve 33,333 mg hyaluronik asit yer al&#305;r.</li><li>Tablet ba&#351;&#305;na 100 mg C vitamini ve 333,333 mcg biotin i&#231;erir.</li><li>Hidrolize elastin ve resveratrol (tablet ba&#351;&#305;na 3,333 mg) i&#231;erir.</li><li>&#199;inko, bak&#305;r ve selenyum mineralleriyle zenginle&#351;tirilmi&#351;tir.</li><li>G&#252;nl&#252;k 3 tabletle 2900 mg Tip I ve III kolajen sa&#287;lar.</li><li>Kutuda 90 tablet bulunur; g&#252;nde 3 tablet ile 30 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li><li>T&#252;rkiye'de Kampotu &#304;la&#231; G&#305;da taraf&#305;ndan &#252;retilir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri yeti&#351;kinler g&#252;nde 3 defa 1 tablet t&#252;ketebilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r. Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Hamilelik, emzirme d&#246;nemi, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktora dan&#305;&#351;&#305;n. 25 &#176;C alt&#305;nda serin ve kuru yerde, &#305;s&#305;, &#305;&#351;&#305;k ve nemden uzakta saklay&#305;n. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde muhafaza edin.</p><p>Voonka kolajen takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -87274,6 +87241,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-max-basen-citrate-30-sase-47836.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-max-basen-citrate-30-sase-47998.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-max-basen-citrate-30-sase-47999.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/voonka-max-basen-citrate-30-sase-48124.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Voonka Max Basen Citrate 30 Sa&#351;e</strong>, magnezyum, kalsiyum, potasyum, &#231;inko ve D vitamini i&#231;eren, suda &#231;&#246;z&#252;lerek t&#252;ketilen limon aromal&#305; sa&#351;e formunda takviye edici g&#305;dad&#305;r. Mineral ve D vitamini ihtiyac&#305;n&#305; g&#252;nl&#252;k beslenmesiyle desteklemek isteyen yeti&#351;kinler i&#231;in uygundur.</p><h2>Max Basen Citrate &#214;zellikleri</h2><ul><li>G&#252;nl&#252;k 2 sa&#351;ede 600 mg potasyum ve 260 mg kalsiyum sa&#287;lar.</li><li>2 sa&#351;ede 250 mg magnezyum ve 5 mg &#231;inko i&#231;erir.</li><li>2 sa&#351;ede 20 &#181;g (800 IU) D vitamini i&#231;erir.</li><li>Magnezyum, potasyum ve &#231;inko sitrat formlar&#305;nda, kalsiyum laktat formunda yer al&#305;r.</li><li>Kutuda her biri 5,1 g olan 30 adet sa&#351;e bulunur (net miktar 30 x 5,1 g).</li><li>Limon aromal&#305;d&#305;r; &#351;eker i&#231;ermez, tatland&#305;r&#305;c&#305; (sukraloz, sorbitol) i&#231;erir.</li><li>Sa&#351;e formu sayesinde su ile haz&#305;rlanmas&#305; pratiktir.</li><li>T&#252;rkiye'de Kampotu &#304;la&#231; G&#305;da taraf&#305;ndan &#252;retilir.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinler g&#252;nde 2 defa 1'er sa&#351;eyi 200 ml maden suyu veya 200 ml su ile kar&#305;&#351;t&#305;rarak t&#252;ketebilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k porsiyon a&#351;&#305;lmamal&#305;d&#305;r. Takviye edici g&#305;dalar dengeli ve &#231;e&#351;itli beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz. Hamilelik, emzirme d&#246;nemi, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktora dan&#305;&#351;&#305;n. Serin ve kuru yerde, 25 &#176;C alt&#305;nda ve &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n.</p><p>Voonka takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
@@ -87393,6 +87361,7 @@
 <Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/suda-probiotic-digestobiotic-60-kapsul-47847.jpg</Image2>
 <Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/suda-probiotic-digestobiotic-60-kapsul-48009.jpg</Image3>
 <Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/suda-probiotic-digestobiotic-60-kapsul-48010.jpg</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/suda-probiotic-digestobiotic-60-kapsul-48132.jpg</Image5>
 <Description><![CDATA[<section><p><strong>Suda Probiotic Digestobiotic 60 Kaps&#252;l</strong>, 10 milyar probiyotik k&#252;lt&#252;r&#252;n&#252; ZyMate Max multi enzim kompleksi, bitkisel bile&#351;enler (zerde&#231;al, karahindiba k&#246;k&#252; ve rezene) ve prebiyotik liflerle ayn&#305; kaps&#252;lde sunan takviye edici g&#305;dad&#305;r. G&#252;nde tek kaps&#252;lle kullan&#305;lan bitkisel kaps&#252;l formundad&#305;r ve kutuda 60 kaps&#252;l bulunur.</p><h2>Suda Probiotic Digestobiotic &#214;zellikleri</h2><ul><li>Kaps&#252;l ba&#351;&#305;na 10 milyar CFU probiyotik; be&#351; su&#351;: S. cerevisiae, B. coagulans, L. acidophilus, L. plantarum ve B. animalis subsp. lactis</li><li>250 mg ZyMate Max multi enzim kompleksi: amilaz, proteaz, lipaz, glukoamilaz, papain, bromelain, laktaz, sel&#252;laz ve alfa galaktosidaz</li><li>50 mg zerde&#231;al ekstrakt&#305; (%95 kurkuminoid)</li><li>25 mg karahindiba k&#246;k&#252; ve 15 mg rezene meyvesi</li><li>50 mg prebiyotik: in&#252;lin ve fruktooligosakkarit (FOS)</li><li>Bitkisel (veggie) kaps&#252;l; g&#252;nde tek kaps&#252;l</li><li>60 kaps&#252;l, 60 g&#252;nl&#252;k kullan&#305;m; net 50,88 g</li><li>T&#252;rkiye'de &#252;retilmi&#351;tir</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Yeti&#351;kinlerin g&#252;nde 1 bitkisel kaps&#252;l&#252; yemekle birlikte, bir bardak su ile t&#252;ketmesi tavsiye edilir.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dalar normal beslenmenin yerine ge&#231;mez; ila&#231; de&#287;ildir. Tavsiye edilen g&#252;nl&#252;k t&#252;ketim miktar&#305;n&#305; a&#351;may&#305;n&#305;z. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, oda s&#305;cakl&#305;&#287;&#305;nda, serin ve kuru ortamda saklay&#305;n&#305;z; do&#287;rudan g&#252;ne&#351; &#305;&#351;&#305;&#287;&#305;na maruz b&#305;rakmay&#305;n&#305;z. Hamilelik ve emzirme d&#246;neminde ya da d&#252;zenli ila&#231; kullan&#305;l&#305;yorsa t&#252;ketmeden &#246;nce hekime dan&#305;&#351;&#305;n&#305;z. &#304;lk kullan&#305;mdan sonra buzdolab&#305;nda muhafaza ediniz. S&#252;t, soya, yumurta, kereviz, gluten ve hardal i&#231;eren &#252;r&#252;nlerin i&#351;lendi&#287;i tesiste &#252;retilmi&#351;tir.</p><p>Suda Probiotic Digestobiotic 60 Kaps&#252;l'&#252; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
