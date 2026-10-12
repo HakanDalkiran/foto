@@ -13368,7 +13368,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2026-11-01</Miad>
 <Price>381.56</Price>
 <Price2>492.93</Price2>
@@ -18209,7 +18209,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2026-11-01</Miad>
 <Price>679.06</Price>
 <Price2>815.85</Price2>
@@ -60723,9 +60723,9 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-06-01</Miad>
-<Price>1126.16</Price>
+<Price>1126.15</Price>
 <Price2>1377.67</Price2>
 <Price3>1377.67</Price3>
 <Price4>1494.40</Price4>
@@ -60733,7 +60733,7 @@
 <Price6>1439.67</Price6>
 <Price7>1968.74</Price7>
 <Price8>1866.27</Price8>
-<Price9>1439.67</Price9>
+<Price9>1439.66</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EWVD</HepsiburadaSku>
 <SaticiStokKodu>3337875777797</SaticiStokKodu>
@@ -72197,7 +72197,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>277</Stock>
+<Stock>276</Stock>
 <Miad>2027-10-01</Miad>
 <Price>14.88</Price>
 <Price2>53.10</Price2>
@@ -75886,7 +75886,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2029-01-01</Miad>
 <Price>458.91</Price>
 <Price2>561.83</Price2>
@@ -77781,7 +77781,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yağlı & Akneli Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>18</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>369.66</Price>
 <Price2>478.79</Price2>
@@ -82717,7 +82717,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Gazlı Bez & Kompres]]></subCategory>
 <Tax>10</Tax>
-<Stock>23</Stock>
+<Stock>21</Stock>
 <Miad>2031-07-01</Miad>
 <Price>161.41</Price>
 <Price2>224.53</Price2>
@@ -85756,17 +85756,17 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>50</Stock>
+<Stock>46</Stock>
 <Miad>2028-02-01</Miad>
-<Price>951.92</Price>
-<Price2>1130.68</Price2>
-<Price3>1130.68</Price3>
-<Price4>1202.25</Price4>
-<Price5>1192.28</Price5>
-<Price6>1166.72</Price6>
-<Price7>1527.35</Price7>
-<Price8>1459.93</Price8>
-<Price9>1166.72</Price9>
+<Price>947.67</Price>
+<Price2>1125.78</Price2>
+<Price3>1125.78</Price3>
+<Price4>1196.91</Price4>
+<Price5>1186.96</Price5>
+<Price6>1161.54</Price6>
+<Price7>1521.26</Price7>
+<Price8>1454.00</Price8>
+<Price9>1161.54</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699745032579</HepsiburadaSku>
 <SaticiStokKodu>8699745032579</SaticiStokKodu>
@@ -85785,7 +85785,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Temizleyici]]></subCategory>
 <Tax>10</Tax>
-<Stock>112</Stock>
+<Stock>111</Stock>
 <Miad>2027-09-01</Miad>
 <Price>503.11</Price>
 <Price2>624.27</Price2>
@@ -86313,7 +86313,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad>2029-06-01</Miad>
 <Price>636.65</Price>
 <Price2>766.91</Price2>
