@@ -9838,7 +9838,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>14</Stock>
 <Miad></Miad>
 <Price>109.56</Price>
 <Price2>169.73</Price2>
@@ -37769,7 +37769,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>17</Stock>
 <Miad>2028-04-01</Miad>
 <Price>296.56</Price>
 <Price2>374.51</Price2>
@@ -63255,7 +63255,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>145</Stock>
+<Stock>142</Stock>
 <Miad>2028-01-01</Miad>
 <Price>476.00</Price>
 <Price2>581.55</Price2>
@@ -78571,7 +78571,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>84</Stock>
+<Stock>82</Stock>
 <Miad>2027-09-01</Miad>
 <Price>496.31</Price>
 <Price2>604.98</Price2>
