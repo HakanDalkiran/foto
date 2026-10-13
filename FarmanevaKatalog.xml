@@ -2247,6 +2247,59 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00060]]></Product_code>
+<Barcode>8682408684000</Barcode>
+<Name><![CDATA[Argivit Classic Şurup 150 ml]]></Name>
+<Brand><![CDATA[Argivit]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
+<Tax>1</Tax>
+<Stock>0</Stock>
+<Miad>2027-03-01</Miad>
+<Price>250.00</Price>
+<Price2>320.78</Price2>
+<Price3>320.78</Price3>
+<Price4>320.42</Price4>
+<Price5>313.12</Price5>
+<Price6>310.95</Price6>
+<Price7>520.29</Price7>
+<Price8>481.24</Price8>
+<Price9>310.95</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQLOB0</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00060</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/argivit-classic-surup-150-ml-7854.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/argivit-classic-surup-150-ml-7855.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/argivit-classic-surup-150-ml-7856.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Argivit Classic Şurup 150 ml</strong>, L-arginin ve fosfatidilserini geniş bir vitamin-mineral kompleksiyle bir araya getiren, şurup formunda bir takviye edici gıdadır. Özellikle okul ve gelişim çağındaki çocukların günlük desteğine yönelik tasarlanmıştır.</p>
+<h2>Argivit Classic Şurup 150 ml Özellikleri</h2>
+<ul>
+<li>L-arginin ve fosfatidilserin içerir.</li>
+<li>C, A, D, B6 ve B12 vitaminlerini içerir.</li>
+<li>Çinko, selenyum ve folik asit ile zenginleştirilmiştir.</li>
+<li>Ginkgo biloba gibi içeriklerle desteklenmiştir.</li>
+<li>Şurup formuyla çocukların kolayca tüketmesine uygundur.</li>
+<li>Okul ve gelişim çağına yönelik geliştirilmiştir.</li>
+<li>Ölçek ile kolay dozlanır.</li>
+<li>150 ml ambalajda sunulur.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>4-10 yaş için günde 1 ölçek (5 ml), 11 yaş ve üzeri için günde 2 ölçek (10 ml) alınması tavsiye edilir. Kullanmadan önce çalkalayın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdalar ilaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik, emzirme dönemi, bir rahatsızlığınız varsa veya düzenli ilaç kullanıyorsanız hekiminize danışın. Çocukların ulaşamayacağı yerde, serin ve kuru ortamda saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Argivit Classic şurup nedir?</h3>
+<p>L-arginin ve fosfatidilserini vitamin-mineral kompleksiyle birleştiren, şurup formunda bir takviye edici gıdadır. Okul ve gelişim çağındaki çocuklara yöneliktir.</p>
+<h3>Argivit Classic şurubun içinde neler var?</h3>
+<p>L-arginin, fosfatidilserin, C, A, D, B6, B12 vitaminleri, çinko, selenyum ve folik asit içerir. Ginkgo biloba gibi içeriklerle desteklenmiştir.</p>
+<h3>Argivit Classic şurup nasıl kullanılır?</h3>
+<p>4-10 yaş için günde 1 ölçek (5 ml), 11 yaş ve üzeri için günde 2 ölçek (10 ml) alınması tavsiye edilir. Kullanmadan önce çalkalanmalıdır.</p>
+<p>Çocuğunun günlük desteğini şurup formunda arayan ebeveynler Argivit Classic Şurup'u Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00064]]></Product_code>
 <Barcode>8680618036695</Barcode>
 <Name><![CDATA[Argivit Focus Şurup 150 ml]]></Name>
@@ -51245,7 +51298,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad>2028-05-01</Miad>
 <Price>1058.16</Price>
 <Price2>1253.26</Price2>
@@ -84572,7 +84625,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>95</Stock>
+<Stock>94</Stock>
 <Miad>2026-11-01</Miad>
 <Price>1957.46</Price>
 <Price2>2290.90</Price2>
