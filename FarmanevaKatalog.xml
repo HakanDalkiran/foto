@@ -15469,7 +15469,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>118.15</Price>
 <Price2>179.94</Price2>
@@ -25380,7 +25380,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Ateş Ölçer]]></category>
 <Tax>10</Tax>
-<Stock>12</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>33.91</Price>
 <Price2>75.37</Price2>
@@ -41414,17 +41414,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>659.93</Price>
-<Price2>793.77</Price2>
-<Price3>793.77</Price3>
-<Price4>835.42</Price4>
-<Price5>826.56</Price5>
-<Price6>810.73</Price6>
-<Price7>1108.43</Price7>
-<Price8>1052.81</Price8>
-<Price9>810.73</Price9>
+<Stock>64</Stock>
+<Miad>2027-11-01</Miad>
+<Price>350.20</Price>
+<Price2>436.40</Price2>
+<Price3>436.40</Price3>
+<Price4>446.31</Price4>
+<Price5>438.63</Price5>
+<Price6>433.12</Price6>
+<Price7>664.05</Price7>
+<Price8>620.95</Price8>
+<Price9>433.12</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8680133002090</HepsiburadaSku>
 <SaticiStokKodu>8680133002090</SaticiStokKodu>
