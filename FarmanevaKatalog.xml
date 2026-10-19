@@ -382,47 +382,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00010]]></Product_code>
-<Barcode>300652510026</Barcode>
-<Name><![CDATA[Systane Hydration Göz Damlası 10 ml]]></Name>
-<Brand><![CDATA[Alcon]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Göz Bakımı]]></category>
-<subCategory><![CDATA[Göz Damlası]]></subCategory>
-<Tax>10</Tax>
-<Stock>4</Stock>
-<Miad>2027-08-01</Miad>
-<Price>394.40</Price>
-<Price2>480.10</Price2>
-<Price3>480.10</Price3>
-<Price4>523.79</Price4>
-<Price5>498.52</Price5>
-<Price6>510.11</Price6>
-<Price7>726.39</Price7>
-<Price8>682.69</Price8>
-<Price9>510.11</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>300652510026</HepsiburadaSku>
-<SaticiStokKodu>300652510026</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/alcon-systane-hydration-goz-damlasi-10-ml-7738.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Systane Hydration G&#246;z Damlas&#305; 10 ml</strong>, kuru g&#246;ze ba&#287;l&#305; yanma, batma, kuruluk ve tahri&#351; hissinin giderilmesine yard&#305;mc&#305; olan yo&#287;un nemlendirici g&#246;z damlas&#305;d&#305;r. HP-Guar ve sodyum hiyal&#252;ronat i&#231;eren form&#252;l&#252; g&#246;z y&#252;zeyinde nemlendirici bir tabaka olu&#351;turmaya yard&#305;mc&#305; olur.</p>
-<h2>&#220;r&#252;n &#214;zellikleri</h2>
-<ul>
-<li>Polietilen glikol 400 ve propilen glikol i&#231;eren kayganla&#351;t&#305;r&#305;c&#305; form&#252;le sahiptir.</li>
-<li>HP-Guar ve sodyum hiyal&#252;ronat i&#231;erir.</li>
-<li>Koruyucu i&#231;ermeyen &#231;oklu doz formundad&#305;r.</li>
-<li>Kontakt lens kullan&#305;c&#305;lar&#305;n&#305;n bak&#305;m rutinine uygundur.</li>
-<li>10 ml &#351;i&#351;ede sunulur.</li>
-<li>Dengeli beslenmeyi tamamlay&#305;c&#305; olarak kullan&#305;labilir.</li></ul>
-<h2>Kullan&#305;m &#350;ekli</h2>
-<p>Elleri y&#305;kad&#305;ktan sonra ba&#351;&#305;n&#305;z&#305; geriye e&#287;in ve alt g&#246;z kapa&#287;&#305;n&#305; hafif&#231;e a&#351;a&#287;&#305; &#231;ekin. &#304;htiya&#231; duyulan g&#246;ze 1-2 damla uygulay&#305;n ve birka&#231; kez g&#246;z k&#305;rp&#305;n. Damlal&#305;k ucunu g&#246;ze, parma&#287;a veya herhangi bir y&#252;zeye de&#287;dirmeyin.</p>
-<h2>&#214;nemli Bilgilendirme</h2>
-<p>Yaln&#305;zca g&#246;ze damlatmak i&#231;indir. &#220;r&#252;n&#252;n rengi veya g&#246;r&#252;n&#252;m&#252; de&#287;i&#351;irse kullanmay&#305;n. S&#252;rekli rahats&#305;zl&#305;k, g&#246;rme de&#287;i&#351;ikli&#287;i, a&#351;&#305;r&#305; sulanma veya k&#305;zar&#305;kl&#305;k olu&#351;ursa kullan&#305;m&#305; b&#305;rak&#305;p g&#246;z doktoruna dan&#305;&#351;&#305;n. A&#231;&#305;ld&#305;ktan sonraki kullan&#305;m s&#252;resi i&#231;in ambalaj talimat&#305;n&#305; izleyin.</p>
-<p>D&#252;zenli kullan&#305;m planlayanlar i&#231;in Farmaneva'da orijinaliyle haz&#305;r.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00011]]></Product_code>
 <Barcode>3583316027505</Barcode>
 <Name><![CDATA[Alflorex Symbiosys Probiyotik 30 Kapsül]]></Name>
@@ -7841,7 +7800,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>74</Stock>
+<Stock>76</Stock>
 <Miad>2027-03-01</Miad>
 <Price>226.01</Price>
 <Price2>308.10</Price2>
@@ -7894,7 +7853,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>51</Stock>
+<Stock>55</Stock>
 <Miad>2030-05-01</Miad>
 <Price>59.42</Price>
 <Price2>110.16</Price2>
@@ -11954,7 +11913,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>63</Stock>
 <Miad></Miad>
 <Price>360.40</Price>
 <Price2>467.79</Price2>
@@ -13406,7 +13365,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>65</Stock>
 <Miad></Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -23516,7 +23475,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>509.91</Price>
 <Price2>645.43</Price2>
@@ -25895,7 +25854,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>31</Stock>
+<Stock>41</Stock>
 <Miad></Miad>
 <Price>276.16</Price>
 <Price2>358.77</Price2>
@@ -37840,8 +37799,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
-<Miad>2029-04-01</Miad>
+<Stock>8</Stock>
+<Miad>2028-05-01</Miad>
 <Price>475.91</Price>
 <Price2>581.45</Price2>
 <Price3>581.45</Price3>
@@ -38721,7 +38680,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>38</Stock>
+<Stock>34</Stock>
 <Miad>2028-07-01</Miad>
 <Price>586.41</Price>
 <Price2>708.94</Price2>
@@ -38973,7 +38932,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>249</Stock>
+<Stock>253</Stock>
 <Miad>2028-05-01</Miad>
 <Price>269.36</Price>
 <Price2>343.12</Price2>
@@ -39745,7 +39704,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>44</Stock>
+<Stock>45</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -40043,7 +40002,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2027-11-01</Miad>
-<Price>628.91</Price>
+<Price>628.90</Price>
 <Price2>757.98</Price2>
 <Price3>757.98</Price3>
 <Price4>796.45</Price4>
@@ -40051,7 +40010,7 @@
 <Price6>772.91</Price6>
 <Price7>1063.92</Price7>
 <Price8>1009.55</Price8>
-<Price9>772.91</Price9>
+<Price9>772.90</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKX6T</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00917</SaticiStokKodu>
@@ -50760,7 +50719,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Vücut İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2030-02-01</Miad>
 <Price>926.42</Price>
 <Price2>1140.34</Price2>
@@ -51742,8 +51701,8 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
-<Miad>2029-01-01</Miad>
+<Stock>2</Stock>
+<Miad>2027-02-01</Miad>
 <Price>318.66</Price>
 <Price2>418.19</Price2>
 <Price3>418.19</Price3>
@@ -58780,7 +58739,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
-<Stock>17</Stock>
+<Stock>57</Stock>
 <Miad>2028-12-01</Miad>
 <Price>803.16</Price>
 <Price2>975.29</Price2>
@@ -62189,7 +62148,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>17</Stock>
+<Stock>13</Stock>
 <Miad>2028-12-01</Miad>
 <Price>381.56</Price>
 <Price2>482.07</Price2>
@@ -62335,7 +62294,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>71</Stock>
+<Stock>70</Stock>
 <Miad>2028-10-01</Miad>
 <Price>679.06</Price>
 <Price2>830.11</Price2>
@@ -63203,7 +63162,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>14</Stock>
 <Miad>2029-03-01</Miad>
 <Price>873.80</Price>
 <Price2>1040.54</Price2>
@@ -66753,7 +66712,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>54</Stock>
+<Stock>53</Stock>
 <Miad>2028-01-01</Miad>
 <Price>442.00</Price>
 <Price2>564.74</Price2>
@@ -66858,7 +66817,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>45</Stock>
+<Stock>44</Stock>
 <Miad>2028-08-01</Miad>
 <Price>439.78</Price>
 <Price2>562.11</Price2>
@@ -81760,7 +81719,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>82</Stock>
+<Stock>83</Stock>
 <Miad>2028-02-01</Miad>
 <Price>509.06</Price>
 <Price2>619.70</Price2>
@@ -82497,7 +82456,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>11</Stock>
+<Stock>10</Stock>
 <Miad>2028-05-01</Miad>
 <Price>463.16</Price>
 <Price2>589.89</Price2>
@@ -82795,7 +82754,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>3</Stock>
 <Miad>2028-11-01</Miad>
 <Price>524.37</Price>
 <Price2>637.36</Price2>
@@ -84656,7 +84615,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>4</Stock>
 <Miad>2029-06-01</Miad>
 <Price>606.90</Price>
 <Price2>732.59</Price2>
@@ -84904,7 +84863,7 @@
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
 <Stock>1</Stock>
-<Miad>2029-01-01</Miad>
+<Miad>2027-08-01</Miad>
 <Price>472.51</Price>
 <Price2>577.52</Price2>
 <Price3>577.52</Price3>
