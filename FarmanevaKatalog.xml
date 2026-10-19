@@ -20238,9 +20238,9 @@
 <Stock>50</Stock>
 <Miad>2028-04-01</Miad>
 <Price>1542.24</Price>
-<Price2>1811.81</Price2>
-<Price3>1811.81</Price3>
-<Price4>1943.88</Price4>
+<Price2>1950.00</Price2>
+<Price3>1950.00</Price3>
+<Price4>1943.85</Price4>
 <Price5>1931.65</Price5>
 <Price6>1886.43</Price6>
 <Price7>2374.30</Price7>
@@ -77806,7 +77806,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Kepek Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>993.57</Price>
 <Price2>1220.13</Price2>
