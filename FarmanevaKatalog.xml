@@ -33301,7 +33301,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>46</Stock>
+<Stock>48</Stock>
 <Miad>2027-04-01</Miad>
 <Price>267.50</Price>
 <Price2>340.98</Price2>
@@ -51868,7 +51868,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>42</Stock>
+<Stock>39</Stock>
 <Miad>2029-01-01</Miad>
 <Price>348.41</Price>
 <Price2>443.29</Price2>
@@ -66679,15 +66679,15 @@
 <Tax>20</Tax>
 <Stock>53</Stock>
 <Miad>2028-01-01</Miad>
-<Price>469.96</Price>
-<Price2>597.97</Price2>
-<Price3>597.97</Price3>
-<Price4>628.25</Price4>
-<Price5>617.98</Price5>
-<Price6>605.24</Price6>
-<Price7>943.43</Price7>
-<Price8>878.01</Price8>
-<Price9>605.24</Price9>
+<Price>442.00</Price>
+<Price2>564.74</Price2>
+<Price3>564.74</Price3>
+<Price4>591.34</Price4>
+<Price5>581.21</Price5>
+<Price6>569.68</Price6>
+<Price7>899.74</Price7>
+<Price8>835.90</Price8>
+<Price9>569.68</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
