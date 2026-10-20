@@ -22979,8 +22979,8 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2029-04-01</Miad>
+<Stock>1</Stock>
+<Miad>2027-07-01</Miad>
 <Price>1916.66</Price>
 <Price2>2316.95</Price2>
 <Price3>2316.95</Price3>
@@ -33301,7 +33301,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>37</Stock>
+<Stock>48</Stock>
 <Miad>2027-04-01</Miad>
 <Price>267.50</Price>
 <Price2>340.98</Price2>
@@ -52861,7 +52861,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-12-01</Miad>
 <Price>449.65</Price>
 <Price2>551.15</Price2>
@@ -63077,7 +63077,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad>2027-08-01</Miad>
 <Price>1062.41</Price>
 <Price2>1258.17</Price2>
@@ -88587,9 +88587,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2027-08-01</Miad>
-<Price>449.56</Price>
+<Price>449.55</Price>
 <Price2>551.04</Price2>
 <Price3>551.04</Price3>
 <Price4>571.13</Price4>
@@ -88597,7 +88597,7 @@
 <Price6>554.25</Price6>
 <Price7>806.61</Price7>
 <Price8>759.48</Price8>
-<Price9>554.25</Price9>
+<Price9>554.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8683229900324</HepsiburadaSku>
 <SaticiStokKodu>8683229900324</SaticiStokKodu>
