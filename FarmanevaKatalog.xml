@@ -1985,7 +1985,7 @@
 <Tax>1</Tax>
 <Stock>0</Stock>
 <Miad>2027-04-01</Miad>
-<Price>824.41</Price>
+<Price>824.40</Price>
 <Price2>983.55</Price2>
 <Price3>983.55</Price3>
 <Price4>1042.06</Price4>
@@ -1993,7 +1993,7 @@
 <Price6>1011.27</Price6>
 <Price7>1344.41</Price7>
 <Price8>1110.17</Price8>
-<Price9>1011.27</Price9>
+<Price9>1011.25</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLPGV</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00053</SaticiStokKodu>
@@ -10858,17 +10858,17 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2028-10-01</Miad>
-<Price>20.00</Price>
-<Price2>63.32</Price2>
-<Price3>63.32</Price3>
-<Price4>34.32</Price4>
-<Price5>26.30</Price5>
-<Price6>33.06</Price6>
-<Price7>233.15</Price7>
-<Price8>121.20</Price8>
-<Price9>33.06</Price9>
+<Price>40.00</Price>
+<Price2>189.99</Price2>
+<Price3>189.99</Price3>
+<Price4>69.00</Price4>
+<Price5>69.00</Price5>
+<Price6>69.00</Price6>
+<Price7>264.40</Price7>
+<Price8>199.00</Price8>
+<Price9>69.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GU3SLD</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00256</SaticiStokKodu>
@@ -38192,36 +38192,6 @@
 </section><p>Takviye edici g&#305;dad&#305;r. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n&#305;z; &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00876]]></Product_code>
-<Barcode>850081345558</Barcode>
-<Name><![CDATA[Ocean Extramag Magnezyum Taurat + P5P 60 Tablet]]></Name>
-<Brand><![CDATA[Ocean]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Mineraller]]></category>
-<subCategory><![CDATA[Magnezyum]]></subCategory>
-<Tax>1</Tax>
-<Stock>4</Stock>
-<Miad>2029-07-01</Miad>
-<Price>320.00</Price>
-<Price2>498.08</Price2>
-<Price3>413.11</Price3>
-<Price4>389.00</Price4>
-<Price5>389.00</Price5>
-<Price6>389.00</Price6>
-<Price7>620.72</Price7>
-<Price8>578.84</Price8>
-<Price9>389.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQLK7A</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00876</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/ocean-extramag-magnezyum-taurat-p5p-60-tablet-9805.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/ocean-extramag-magnezyum-taurat-p5p-60-tablet-9806.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/ocean-extramag-magnezyum-taurat-p5p-60-tablet-9807.webp</Image3>
-<Image4>https://www.farmaneva.com/uploads/urunler/ocean-extramag-magnezyum-taurat-p5p-60-tablet-9808.webp</Image4>
-<Description><![CDATA[<section><p><strong>Ocean Extramag Magnezyum Taurat + P5P 60 Tablet</strong>, magnezyum taurat kaynağından magnezyum ve P5P (piridoksal-5-fosfat) formunda B6 vitamini içeren, kaplı tablet formunda bir takviye edici gıdadır. Günlük magnezyum alımını taurat formuyla desteklemek isteyen yetişkinler için hazırlanmıştır; kutuda 60 tablet bulunur.</p><h2>Özellikler</h2><ul><li>Magnezyum taurat kaynağından magnezyum içerir.</li><li>Günlük 2 tablette 240 mg magnezyum ve 10 mg B6 vitamini sunar.</li><li>B6 vitamini P5P formundadır.</li><li>Magnezyum, yorgunluk ve bitkinliğin azalmasına katkıda bulunur.</li><li>Normal kas fonksiyonuna ve normal sinir sistemi işleyişine katkı sağlar.</li><li>Normal kemik ve dişlerin korunmasına katkıda bulunur.</li><li>Kaplı tablet formunda, 60 tabletlik kutudadır.</li></ul><h2>İçerik</h2><p>Magnezyum (magnezyum taurat kaynağından) ve B6 vitamini (P5P formunda). Günlük 2 tablet kullanımda 240 mg magnezyum ve 10 mg B6 vitamini sağlanır.</p><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için önerilen günlük kullanım 2 tablettir; bir bardak su ile alınır. Kullanım miktarı ve sıklığı için ürün ambalajı üzerindeki talimatı izleyin; önerilen günlük miktarı aşmayın. Kullanıma başlamadan önce ambalaj üzerindeki bilgileri okuyun.</p><h2>Uyarılar</h2><p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal ve dengeli beslenmenin yerine geçmez. Önerilen günlük kullanım miktarını aşmayın. Hamilelik ve emzirme döneminde, bir sağlık sorunu varsa veya düzenli ilaç kullanılıyorsa kullanmadan önce doktora danışın. Çocukların ulaşamayacağı, serin ve kuru bir yerde saklayın. 25 °C altında saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Günlük kaç tablet kullanılır?</strong><br>Mevcut ürün bilgisine göre yetişkinler için günlük 2 tablet önerilir; ambalajdaki talimatı izleyin.</p><p><strong>Kutuda kaç tablet var?</strong><br>Kutuda 60 kaplı tablet bulunur.</p><p><strong>Magnezyum taurat ne anlama gelir?</strong><br>Ürünün magnezyum kaynağı, magnezyumun taurat formudur.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00877]]></Product_code>
 <Barcode>8697595870433</Barcode>
 <Name><![CDATA[Ocean Feminex 30 Tablet]]></Name>
@@ -63111,16 +63081,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>1</Stock>
 <Miad>2029-03-01</Miad>
 <Price>399.00</Price>
 <Price2>619.70</Price2>
-<Price3>619.70</Price3>
-<Price4>645.88</Price4>
-<Price5>637.60</Price5>
-<Price6>626.80</Price6>
-<Price7>891.97</Price7>
-<Price8>842.45</Price8>
+<Price3>575.68</Price3>
+<Price4>479.76</Price4>
+<Price5>479.76</Price5>
+<Price6>479.76</Price6>
+<Price7>2900.00</Price7>
+<Price8>2900.00</Price8>
 <Price9>479.76</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0GHIW</HepsiburadaSku>
@@ -84582,17 +84552,17 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2027-07-01</Miad>
-<Price>379.95</Price>
-<Price2>470.72</Price2>
-<Price3>470.72</Price3>
-<Price4>483.68</Price4>
-<Price5>475.89</Price5>
-<Price6>469.39</Price6>
-<Price7>706.74</Price7>
-<Price8>662.43</Price8>
-<Price9>469.39</Price9>
+<Stock>1</Stock>
+<Miad>2028-06-01</Miad>
+<Price>370.00</Price>
+<Price2>499.92</Price2>
+<Price3>499.92</Price3>
+<Price4>444.99</Price4>
+<Price5>444.99</Price5>
+<Price6>444.99</Price6>
+<Price7>692.46</Price7>
+<Price8>648.55</Price8>
+<Price9>444.99</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000LD8Q9J</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01944</SaticiStokKodu>
