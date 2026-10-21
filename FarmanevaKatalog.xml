@@ -66,7 +66,7 @@
 <Price6>67.12</Price6>
 <Price7>227.77</Price7>
 <Price8>140.69</Price8>
-<Price9>67.12</Price9>
+<Price9>142.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKZ3T</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00002</SaticiStokKodu>
@@ -2787,17 +2787,17 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
-<Miad>2028-09-01</Miad>
-<Price>637.41</Price>
-<Price2>796.93</Price2>
-<Price3>796.93</Price3>
-<Price4>849.27</Price4>
-<Price5>838.17</Price5>
-<Price6>818.17</Price6>
-<Price7>1205.07</Price7>
-<Price8>1130.20</Price8>
-<Price9>818.17</Price9>
+<Stock>1</Stock>
+<Miad>2027-11-01</Miad>
+<Price>300.00</Price>
+<Price2>457.99</Price2>
+<Price3>457.99</Price3>
+<Price4>350.00</Price4>
+<Price5>350.00</Price5>
+<Price6>350.00</Price6>
+<Price7>677.87</Price7>
+<Price8>622.05</Price8>
+<Price9>389.11</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3282770204667</HepsiburadaSku>
 <SaticiStokKodu>3282770204667</SaticiStokKodu>
@@ -7870,7 +7870,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>57</Stock>
+<Stock>56</Stock>
 <Miad>2027-03-01</Miad>
 <Price>620.41</Price>
 <Price2>748.17</Price2>
@@ -10809,53 +10809,6 @@
 <p>Bite kar&#351;&#305; insektisitsiz bir &#231;&#246;z&#252;m arayanlar Dembit Sprey'i Farmaneva'da bulabilir.</p></section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00256]]></Product_code>
-<Barcode>8684663765425</Barcode>
-<Name><![CDATA[Dermastudio Lavanta Yağı Saç Bakım Spreyi 100 ml]]></Name>
-<Brand><![CDATA[Dermastudio]]></Brand>
-<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
-<category><![CDATA[Saç Bakımı]]></category>
-<subCategory><![CDATA[Saç Kremi & Losyon & Sprey]]></subCategory>
-<Tax>20</Tax>
-<Stock>1</Stock>
-<Miad>2028-10-01</Miad>
-<Price>40.00</Price>
-<Price2>189.99</Price2>
-<Price3>189.99</Price3>
-<Price4>69.00</Price4>
-<Price5>69.00</Price5>
-<Price6>69.00</Price6>
-<Price7>264.40</Price7>
-<Price8>199.00</Price8>
-<Price9>69.00</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GU3SLD</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00256</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/dermastudio-lavanta-yagi-sac-bakim-spreyi-100-ml-8421.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Dermastudio Lavanta Ya&#287;&#305; Sa&#231; Bak&#305;m Spreyi 100 ml</strong>, lavanta ya&#287;&#305; i&#231;eri&#287;iyle sa&#231;a bak&#305;m yapmay&#305; ama&#231;layan, sprey formunda bir sa&#231; bak&#305;m &#252;r&#252;n&#252;d&#252;r. G&#252;nl&#252;k sa&#231; bak&#305;m rutinine lavantan&#305;n ho&#351; kokusuyla ferahl&#305;k katmak isteyenlere y&#246;nelik, 100 ml hacimli pratik bir &#252;r&#252;nd&#252;r.</p>
-<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
-<ul>
-<li>Lavanta ya&#287;&#305; i&#231;eri&#287;iyle sa&#231;a bak&#305;m deste&#287;i</li>
-<li>Lavantan&#305;n ho&#351; ve ferahlat&#305;c&#305; kokusu</li>
-<li>Sprey formuyla kolay ve homojen uygulama</li>
-<li>G&#252;nl&#252;k sa&#231; bak&#305;m rutinine eklenebilir</li>
-<li>Sa&#231;lar&#305; ferahlatmaya yard&#305;mc&#305; olur</li>
-<li>Pratik ta&#351;&#305;nabilir ambalaj</li>
-<li>Kolay p&#252;sk&#252;rt&#252;len pompa ba&#351;l&#305;&#287;&#305;</li>
-<li>100 ml hacimli kullan&#305;&#351;l&#305; boyut</li>
-<li>Ekonomik g&#252;nl&#252;k kullan&#305;m</li>
-<li>Dermastudio kalite anlay&#305;&#351;&#305;yla sunulur</li>
-</ul>
-<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
-<p>Sa&#231;a uygun mesafeden p&#252;sk&#252;rt&#252;n ve dilerseniz nazik&#231;e taray&#305;n ya da masaj yap&#305;n. G&#252;nl&#252;k bak&#305;m rutininizde kullanabilirsiniz. Kesin kullan&#305;m bilgisi i&#231;in &#252;r&#252;n ambalaj&#305;ndaki talimatlar&#305; inceleyin.</p>
-<h2>Uyar&#305;lar</h2>
-<p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir; g&#246;z ile temas&#305;ndan ka&#231;&#305;n&#305;n, temas durumunda bol su ile durulay&#305;n. Ciltte tahri&#351; olu&#351;mas&#305; halinde kullan&#305;m&#305; b&#305;rak&#305;n ve &#231;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
-<p>Farmaneva g&#252;vencesiyle sunulan bu &#252;r&#252;n, sa&#231; bak&#305;m rutininize lavanta ferahl&#305;&#287;&#305; katan pratik bir se&#231;enektir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00257]]></Product_code>
 <Barcode>8697916005216</Barcode>
 <Name><![CDATA[Dermokil Leke Karşıtı Güneş Kremi 50 ml]]></Name>
@@ -12586,7 +12539,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>60</Stock>
+<Stock>59</Stock>
 <Miad>2026-11-01</Miad>
 <Price>139.39</Price>
 <Price2>205.18</Price2>
@@ -24278,7 +24231,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>53</Stock>
+<Stock>51</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1147.41</Price>
 <Price2>1356.24</Price2>
@@ -26158,6 +26111,61 @@
 <p><strong>Spreyi saça nasıl uygularım?</strong><br>Çalkaladıktan sonra temiz ve kuru saça yaklaşık 20 cm mesafeden püskürtün; ense ve kulak arkasına özen gösterin.</p>
 <p><strong>Durulamak gerekir mi?</strong><br>Hayır, durulama gerektirmeden kullanılır.</p>
 <p><strong>Ürün kaç ml?</strong><br>100 ml sprey şişe olarak sunulur.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00616]]></Product_code>
+<Barcode>8683930619317</Barcode>
+<Name><![CDATA[Moon Life Cilt Beyazlatma Doğal Sabun 100 gr]]></Name>
+<Brand><![CDATA[Moon Life]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Duş & Banyo Ürünleri]]></category>
+<subCategory><![CDATA[Sabun]]></subCategory>
+<Tax>20</Tax>
+<Stock>2</Stock>
+<Miad></Miad>
+<Price>30.00</Price>
+<Price2>79.75</Price2>
+<Price3>59.00</Price3>
+<Price4>43.00</Price4>
+<Price5>43.00</Price5>
+<Price6>43.00</Price6>
+<Price7>248.78</Price7>
+<Price8>136.27</Price8>
+<Price9>43.00</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKYZE</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00616</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/moonlife-cilt-beyazlatma-dogal-sabun-100-gr-36401.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/moonlife-cilt-beyazlatma-dogal-sabun-100-gr-39358.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/moonlife-cilt-beyazlatma-dogal-sabun-100-gr-39962.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/moonlife-cilt-beyazlatma-dogal-sabun-100-gr-40294.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/moonlife-cilt-beyazlatma-dogal-sabun-100-gr-40564.webp</Image5>
+<Description><![CDATA[<section>
+<p><strong>Moon Life Cilt Beyazlatma Doğal Sabun 100 gr</strong>, cilt tonunu eşitlemeye ve aydınlatmaya yönelik, doğal özlerle hazırlanmış bir bakım sabunudur. Yüz ve vücut temizliğinde daha eşit ve parlak bir görünüm arayanlar için 100 gr kalıp sabun boyunda sunulur.</p>
+<h2>Özellikler</h2>
+<ul>
+<li>Cilt tonunu eşitlemeye ve aydınlatmaya yönelik kalıp sabun</li>
+<li>Doğal özlerle hazırlanmış formül</li>
+<li>Cildi temizlerken bakım desteği sunar</li>
+<li>Yüz ve vücutta kullanılabilir</li>
+<li>Günlük temizlik rutinine kolayca eklenir</li>
+<li>Pratik kalıp sabun formu</li>
+<li>100 gr ambalaj</li>
+<li>Cilt bakım rutinine kolayca eklenir</li>
+<li>Düzenli kullanım için günlük temizlikte tercih edilebilir</li>
+</ul>
+<h2>İçerik</h2>
+<p>Doğal özlerle hazırlandığı belirtilmiştir. Ayrıntılı içerik listesi için ambalaj üzerindeki bilgilere bakınız.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>Islak cilde sabunu köpürtüp nazikçe uygulayın, birkaç saniye bekletip bol suyla durulayın. Gündüz kullanımında güneş koruyucu kullanılması önerilir. Sabunu suyla teması az olan kuru bir yerde muhafaza edin.</p>
+<h2>Uyarılar</h2>
+<p>Yalnızca harici kullanım içindir. Gözle temasından kaçının; temas hâlinde bol suyla durulayın. Tahriş oluşması durumunda kullanımı bırakın. Çocukların erişemeyeceği yerde saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<p><strong>Bu sabun yüzde kullanılır mı?</strong><br>Ürün tanımına göre yüz ve vücutta kullanılabilir.</p>
+<p><strong>Kaç gram?</strong><br>100 gr kalıp sabun olarak sunulur.</p>
+<p><strong>Kullanım sonrası güneş koruyucu gerekir mi?</strong><br>Gündüz kullanımında güneş koruyucu kullanılması önerilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -29192,7 +29200,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>49</Stock>
+<Stock>43</Stock>
 <Miad>2027-06-01</Miad>
 <Price>382.41</Price>
 <Price2>473.56</Price2>
@@ -38447,54 +38455,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00888]]></Product_code>
-<Barcode>850071952919</Barcode>
-<Name><![CDATA[Ocean Hepalex 60 Softjel Kapsül - %50 Daha Fazla]]></Name>
-<Brand><![CDATA[Ocean]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Karaciğer & Antioksidan]]></category>
-<Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2029-04-01</Miad>
-<Price>501.41</Price>
-<Price2>610.87</Price2>
-<Price3>610.87</Price3>
-<Price4>636.27</Price4>
-<Price5>628.02</Price5>
-<Price6>617.47</Price6>
-<Price7>881.00</Price7>
-<Price8>831.78</Price8>
-<Price9>617.47</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQLFGS</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00888</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9850.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9851.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9852.webp</Image3>
-<Image4>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9853.webp</Image4>
-<Description><![CDATA[<section>
-<p><strong>Ocean Hepalex 60 Softjel Kapsül</strong>, deve dikeni (silymarin), enginar ve karahindiba ekstrelerini kolin, alfa lipoik asit ve glutatyon ile birleştiren bir takviye edici gıdadır. Karaciğerine kapsamlı bitkisel destek arayanlar için 60 softjel kapsüllük ambalajda sunulur.</p>
-<h2>Öne Çıkan Özellikler</h2>
-<ul>
-<li>Deve dikeni (silymarin) ekstresi içerir.</li>
-<li>Enginar ve karahindiba ekstreleriyle desteklenmiştir.</li>
-<li>Kolin, karaciğer fonksiyonuna katkı sağlar.</li>
-<li>Alfa lipoik asit ve glutatyon içerir.</li>
-<li>Kolin, normal karaciğer fonksiyonuna katkıda bulunur.</li>
-<li>Yutması kolay softjel kapsül formundadır.</li>
-<li>Yetişkinler için uygundur.</li>
-<li>60 softjel kapsüllük ambalajda sunulur.</li>
-<li>Düzenli kullanıldığında günlük rutinin bir parçası olabilir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Genellikle günde belirtilen sayıda kapsül, tercihen öğünle birlikte bir bardak su ile tüketilir. Kesin doz için ürün ambalajındaki talimatı izleyin; önerilen günlük dozu aşmayın.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Önerilen günlük dozu aşmayın. Hamilelik ve emzirme döneminde, bir sağlık sorununuz varsa veya ilaç kullanıyorsanız hekiminize danışın. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Karaciğerine kapsamlı bitkisel destek arayanlar Ocean Hepalex'i Farmaneva'da bulabilir.</p>
-</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00889]]></Product_code>
 <Barcode>8697595873977</Barcode>
 <Name><![CDATA[Ocean Koenzim Q10 200 mg 30 Kapsül - Eski Ambalaj]]></Name>
@@ -38888,17 +38848,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>292</Stock>
-<Miad>2026-12-01</Miad>
-<Price>293.16</Price>
+<Stock>1</Stock>
+<Miad>2028-12-01</Miad>
+<Price>250.00</Price>
 <Price2>370.58</Price2>
-<Price3>370.58</Price3>
-<Price4>374.65</Price4>
-<Price5>367.18</Price5>
-<Price6>363.57</Price6>
-<Price7>582.22</Price7>
-<Price8>541.41</Price8>
-<Price9>363.57</Price9>
+<Price3>329.99</Price3>
+<Price4>315.00</Price4>
+<Price5>315.00</Price5>
+<Price6>315.00</Price6>
+<Price7>520.29</Price7>
+<Price8>499.00</Price8>
+<Price9>315.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLFHA</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00897</SaticiStokKodu>
@@ -39423,7 +39383,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>207</Stock>
+<Stock>205</Stock>
 <Miad>2027-10-01</Miad>
 <Price>183.60</Price>
 <Price2>244.17</Price2>
@@ -50722,7 +50682,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad>2027-02-01</Miad>
 <Price>573.66</Price>
 <Price2>694.23</Price2>
@@ -62827,52 +62787,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV01455]]></Product_code>
-<Barcode>8680133000492</Barcode>
-<Name><![CDATA[Nemolix Plus 30 Tablet]]></Name>
-<Brand><![CDATA[Nemolix]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
-<Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2029-03-01</Miad>
-<Price>399.00</Price>
-<Price2>619.70</Price2>
-<Price3>575.68</Price3>
-<Price4>479.76</Price4>
-<Price5>479.76</Price5>
-<Price6>479.76</Price6>
-<Price7>2900.00</Price7>
-<Price8>2900.00</Price8>
-<Price9>479.76</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000H0GHIW</HepsiburadaSku>
-<SaticiStokKodu>8680133000492</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/nemolix-plus-30-tablet-16888.png</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/8680133000492-1_0ce17.jpg</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/8680133000492-2_iig1z.jpg</Image3>
-<Description><![CDATA[<section>
-<p><strong>Nemolix Plus 30 Tablet</strong>, yumurta kabuğu zarı, Boswellia serrata özütü, hidrolize edilmemiş Tip II kolajen ve zerdeçal özütü içeren bir takviye edici gıdadır. Bu bileşenleri tek üründe almak isteyen yetişkinler için hazırlanmıştır. 30 tabletlik ambalajıyla bir aylık kullanıma uygundur</p>
-<h2>Nemolix Plus 30 Tablet Özellikleri</h2>
-<ul>
-<li>30 tabletlik ambalajda sunulur.</li>
-<li>Yumurta kabuğu zarı içerir.</li>
-<li>Boswellia serrata özütü içerir.</li>
-<li>Hidrolize edilmemiş Tip II kolajen içerir.</li>
-<li>Zerdeçal özütü içerir.</li>
-<li>Dört bileşeni tek tablette bir araya getirir.</li>
-<li>Tablet formu sayesinde kolayca tüketilir.</li>
-<li>Bir aylık kullanıma yetecek miktardadır.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Günde 1 tablet, tercihen yemekle birlikte bir bardak su ile alınır. Ambalaj üzerindeki kullanım talimatına uyun; farklı bir kullanım için hekiminize ya da eczacınıza danışın.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Yumurtaya alerjisi olanlar kullanmamalıdır. Kan sulandırıcı kullananlar, hamileler ve emzirenler hekime danışmadan kullanmamalıdır. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Bu dört bileşeni bir arada arayanlar Nemolix Plus'ı Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV01456]]></Product_code>
 <Barcode>4005808745241</Barcode>
 <Name><![CDATA[Nivea BB Krem Hepsi Bir Arada Nemlendirici Açık Ton 50 ml]]></Name>
@@ -67703,7 +67617,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>200</Stock>
+<Stock>199</Stock>
 <Miad>2027-02-01</Miad>
 <Price>1002.07</Price>
 <Price2>1188.54</Price2>
@@ -75585,7 +75499,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>8</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>82.45</Price>
 <Price2>137.52</Price2>
