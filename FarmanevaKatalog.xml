@@ -2552,7 +2552,7 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>87</Stock>
+<Stock>3</Stock>
 <Miad>2027-10-01</Miad>
 <Price>465.71</Price>
 <Price2>580.51</Price2>
@@ -66022,15 +66022,15 @@
 <Tax>20</Tax>
 <Stock>44</Stock>
 <Miad>2028-08-01</Miad>
-<Price>439.27</Price>
-<Price2>561.50</Price2>
-<Price3>561.50</Price3>
-<Price4>587.74</Price4>
-<Price5>577.62</Price5>
-<Price6>566.21</Price6>
-<Price7>895.48</Price7>
-<Price8>831.79</Price8>
-<Price9>566.21</Price9>
+<Price>439.10</Price>
+<Price2>561.30</Price2>
+<Price3>561.30</Price3>
+<Price4>587.51</Price4>
+<Price5>577.40</Price5>
+<Price6>566.00</Price6>
+<Price7>895.21</Price7>
+<Price8>831.54</Price8>
+<Price9>566.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EBAG</HepsiburadaSku>
 <SaticiStokKodu>850069595845</SaticiStokKodu>
