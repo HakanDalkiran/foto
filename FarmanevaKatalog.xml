@@ -7499,7 +7499,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>20</Tax>
-<Stock>185</Stock>
+<Stock>182</Stock>
 <Miad></Miad>
 <Price>764.91</Price>
 <Price2>948.43</Price2>
@@ -30702,7 +30702,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>153</Stock>
+<Stock>152</Stock>
 <Miad>2027-11-01</Miad>
 <Price>90.95</Price>
 <Price2>147.62</Price2>
@@ -39446,7 +39446,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>197</Stock>
+<Stock>195</Stock>
 <Miad>2029-05-01</Miad>
 <Price>171.70</Price>
 <Price2>230.44</Price2>
@@ -48373,7 +48373,7 @@
 <category><![CDATA[Ağda & Epilasyon]]></category>
 <subCategory><![CDATA[Tüy Dökücü Krem]]></subCategory>
 <Tax>20</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>58.65</Price>
 <Price2>109.24</Price2>
@@ -51428,7 +51428,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Burun Bakımı]]></subCategory>
 <Tax>10</Tax>
-<Stock>22</Stock>
+<Stock>21</Stock>
 <Miad>2029-01-01</Miad>
 <Price>348.41</Price>
 <Price2>443.29</Price2>
@@ -51910,15 +51910,15 @@
 <Tax>20</Tax>
 <Stock>24</Stock>
 <Miad>2029-05-01</Miad>
-<Price>220.91</Price>
-<Price2>302.04</Price2>
-<Price3>302.04</Price3>
-<Price4>299.51</Price4>
-<Price5>290.49</Price5>
-<Price6>288.54</Price6>
-<Price7>554.29</Price7>
-<Price8>488.84</Price8>
-<Price9>288.54</Price9>
+<Price>218.79</Price>
+<Price2>299.52</Price2>
+<Price3>299.52</Price3>
+<Price4>296.71</Price4>
+<Price5>287.70</Price5>
+<Price6>285.85</Price6>
+<Price7>550.98</Price7>
+<Price8>485.65</Price8>
+<Price9>285.85</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699638355655</HepsiburadaSku>
 <SaticiStokKodu>8699638355655</SaticiStokKodu>
@@ -52539,6 +52539,62 @@
 <p><strong>Ne zaman kullanılmalı?</strong><br>Tercihen öğünden 2 saat sonra, 1 bardak suya karıştırılarak alınması tavsiye edilir.</p>
 <p><strong>Hamileler kullanabilir mi?</strong><br>Hamilelik ve emzirme döneminde kullanmadan önce doktorunuza danışmanız gerekir.</p>
 </section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01225]]></Product_code>
+<Barcode>8680133000669</Barcode>
+<Name><![CDATA[Magnimore Plus 60 Tablet]]></Name>
+<Brand><![CDATA[Magnimore]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>12</Stock>
+<Miad>2030-01-01</Miad>
+<Price>505.00</Price>
+<Price2>615.01</Price2>
+<Price3>615.01</Price3>
+<Price4>640.78</Price4>
+<Price5>632.51</Price5>
+<Price6>621.85</Price6>
+<Price7>886.15</Price7>
+<Price8>836.78</Price8>
+<Price9>621.85</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKYYS</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01225</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/tab-ilac-magnimore-plus-60-tablet-10491.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/8680133000669-1_2tlfh.jpg</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/8680133000669-2_ghus0.jpg</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/8680133000669-3_q7spk.jpg</Image4>
+<Description><![CDATA[<section>
+<p><strong>Magnimore Plus 60 Tablet</strong>, magnezyum asetil taurat, bisglisinat ve malat formlarını P5P (B6) ile bir araya getiren, günlük magnezyum desteği sağlayan bir takviye edici gıdadır. Tablet formunu tercih eden yetişkinler için 60 tabletlik ambalajda sunulur.</p>
+<h2>Magnimore Plus Tablet Özellikleri</h2>
+<ul>
+<li>ATA-Mg, bisglisinat ve malat formlarında magnezyum içerir.</li>
+<li>Pridoksal 5-fosfat (P5P/B6) ile zenginleştirilmiştir.</li>
+<li>Magnezyum yorgunluk ve bitkinliğin azalmasına katkıda bulunur.</li>
+<li>Normal kas ve sinir sistemi işleyişine katkı sağlar.</li>
+<li>Günde 1 tabletle pratik kullanım sunar.</li>
+<li>60 tabletlik ambalajı ile yaklaşık iki aylık kullanım sağlar.</li>
+<li>Dengeli beslenmeyi tamamlayıcı olarak değerlendirilebilir.</li></ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>11 yaş ve üzeri yetişkinler için günde 1 tablet, tercihen öğünden 2 saat sonra bir bardak su ile alınması tavsiye edilir.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir. Hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik, emzirme döneminde veya bir rahatsızlığınız varsa kullanmadan önce doktorunuza danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Magnimore Plus ne işe yarar?</h3>
+<p>Magnimore Plus 60 Tablet (barkod 8680133000669), günlük magnezyum alımını tamamlamak için hazırlanmış bir takviye edici gıdadır; ilaç değildir.</p>
+<h3>Magnimore Plus nasıl kullanılır?</h3>
+<p>11 yaş ve üzeri için günde 1 tablet, tercihen öğünden 2 saat sonra bir bardak su ile alınır.</p>
+<h3>Magnimore Plus içeriğinde neler var?</h3>
+<p>Magnezyum asetil taurat, bisglisinat ve malat formları ile P5P (aktif B6 vitamini) içerir.</p>
+<h3>Magnimore Plus'ı kimler kullanmamalı?</h3>
+<p>11 yaş altı çocuklar, bileşenlere hassasiyeti olanlar ve böbrek rahatsızlığı olanlar hekime danışmadan kullanmamalıdır. Hamile ve emzirenler de önce hekime danışmalıdır.</p>
+<h3>Magnimore Plus 60, 90 ve 120 tablet arasındaki fark nedir?</h3>
+<p>Formül aynıdır, yalnız kutudaki tablet sayısı farklıdır. Günde 1 tabletle 60 tablet iki ay, 90 tablet üç ay, 120 tablet dört ay yeter.</p>
+<p>Tablet formunda magnezyum-B6 desteği arayanlar Magnimore Plus'ı Farmaneva'da bulabilir.</p></section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01226]]></Product_code>
@@ -64028,6 +64084,54 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV01486]]></Product_code>
+<Barcode>8681026050631</Barcode>
+<Name><![CDATA[Exeltis Regenesis Max Plus 30 Kapsül]]></Name>
+<Brand><![CDATA[Exeltis]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Kadın Sağlığı]]></category>
+<Tax>10</Tax>
+<Stock>1</Stock>
+<Miad>2027-06-01</Miad>
+<Price>630.00</Price>
+<Price2>796.30</Price2>
+<Price3>772.71</Price3>
+<Price4>817.05</Price4>
+<Price5>807.24</Price5>
+<Price6>790.23</Price6>
+<Price7>1123.41</Price7>
+<Price8>1060.14</Price8>
+<Price9>790.23</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000H0FDA6</HepsiburadaSku>
+<SaticiStokKodu>8681026050631</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/regenesis-max-plus-30-kapsul-38070.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/regenesis-max-plus-30-kapsul-38071.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/regenesis-max-plus-30-kapsul-41556.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/regenesis-max-plus-30-kapsul-41557.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/regenesis-max-plus-30-kapsul-41812.webp</Image5>
+<Description><![CDATA[<section>
+<p><strong>Regenesis Max Plus 30 Kapsül</strong>, hamilelik öncesi dönem, gebelik ve emzirme süreci düşünülerek hazırlanmış bir takviye edici gıdadır. Bu dönemde birden çok takviye kullanmak yerine tek ürün tercih edenler için üretilmiştir. 30 kapsüllük ambalajıyla bir aylık kullanıma uygundur</p>
+<h2>Regenesis Max Plus 30 Kapsül Özellikleri</h2>
+<ul>
+<li>30 kapsüllük ambalajda sunulur.</li>
+<li>10 vitamin ve 6 mineral içerir.</li>
+<li>Omega-3 ile birlikte formüle edilmiştir.</li>
+<li>Folik asit içerir.</li>
+<li>İyot içerir.</li>
+<li>Kokusuz ve tatsız kapsül yapısındadır.</li>
+<li>Günde 1 kapsül kullanım kolaylığı sağlar.</li>
+<li>Bir aylık kullanıma yetecek miktardadır.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Günde 1 kapsül, tercihen yemekle birlikte bir bardak su ile alınır. Bu dönemde kullanılacak takviyeler için mutlaka hekiminize danışın ve onun önerdiği kullanım şeklini uygulayın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde yalnızca hekim önerisiyle kullanın. Balık ürünlerine alerjisi olanlar içeriği kontrol etmelidir. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Gebelik ve emzirme dönemi için tek üründe destek arayanlar Regenesis Max Plus'ı Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV01487]]></Product_code>
 <Barcode>4607152730333-4</Barcode>
 <Name><![CDATA[Rocs Baby 0-3 Yaş Diş Fırçası]]></Name>
@@ -66081,7 +66185,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>44</Stock>
+<Stock>43</Stock>
 <Miad>2028-01-01</Miad>
 <Price>442.00</Price>
 <Price2>564.74</Price2>
@@ -69457,15 +69561,15 @@
 <Tax>20</Tax>
 <Stock>3</Stock>
 <Miad></Miad>
-<Price>1062.41</Price>
-<Price2>1301.92</Price2>
-<Price3>1301.92</Price3>
-<Price4>1410.26</Price4>
-<Price5>1397.03</Price5>
-<Price6>1358.61</Price6>
-<Price7>1869.13</Price7>
-<Price8>1770.26</Price8>
-<Price9>1358.61</Price9>
+<Price>1103.30</Price>
+<Price2>1350.51</Price2>
+<Price3>1350.51</Price3>
+<Price4>1464.23</Price4>
+<Price5>1450.79</Price5>
+<Price6>1410.61</Price6>
+<Price7>1933.03</Price7>
+<Price8>1831.84</Price8>
+<Price9>1410.61</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3337875902830</HepsiburadaSku>
 <SaticiStokKodu>3337875902830</SaticiStokKodu>
@@ -81931,7 +82035,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2028-02-01</Miad>
 <Price>636.56</Price>
 <Price2>766.81</Price2>
@@ -82294,7 +82398,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>71</Stock>
+<Stock>69</Stock>
 <Miad>2029-04-01</Miad>
 <Price>199.66</Price>
 <Price2>276.79</Price2>
@@ -82353,7 +82457,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Cilt & Yara Problem Ürünleri]]></category>
 <Tax>20</Tax>
-<Stock>60</Stock>
+<Stock>58</Stock>
 <Miad>2028-11-01</Miad>
 <Price>279.56</Price>
 <Price2>371.73</Price2>
@@ -84601,7 +84705,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>4</Stock>
 <Miad>2029-03-01</Miad>
 <Price>322.83</Price>
 <Price2>412.07</Price2>
@@ -86506,6 +86610,34 @@
 <Image1>https://www.farmaneva.com/uploads/urunler/8697595873472-0_u0nxk.jpg</Image1>
 <Image2>https://www.farmaneva.com/uploads/urunler/8697595873472-1_ibfhs.jpg</Image2>
 <Description><![CDATA[<section><p><strong>Ocean ExtraMag ThreoG 200 mg 60 Tablet</strong>, Orzax Ocean ExtraMag serisinden; magnezyum L-treonat ve magnezyum bisglisinat ile B6, D3 ve C vitaminlerini i&#231;eren takviye edici g&#305;dad&#305;r.</p><h2>ExtraMag ThreoG &#214;zellikleri</h2><ul><li>Tablet ba&#351;&#305;na 100 mg magnezyum i&#231;erir; 2 tablet 200 mg magnezyuma kar&#351;&#305;l&#305;k gelir.</li><li>Magnezyum; 50 mg'&#305; magnezyum L-treonattan, 50 mg'&#305; magnezyum bisglisinattan gelen elementel magnezyumdur.</li><li>Tablet ba&#351;&#305;na 60 mg C vitamini, 5 mg B6 vitamini ve 10 &#181;g D3 vitamini bulunur.</li><li>Kutuda 60 tablet yer al&#305;r; g&#252;nde 1-2 tabletle 30 ila 60 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li><li>Kolay yutulabilen tablet formundad&#305;r.</li><li>Gluten, &#351;eker ve laktoz i&#231;ermez.</li><li>&#220;r&#252;n T&#252;rkiye'de &#252;retilmi&#351;tir; kutu &#252;zerinde i&#351;letme kay&#305;t ve takviye edici g&#305;da onay bilgileri bulunur.</li><li>&#220;retici Orzax't&#305;r (Orzaks &#304;la&#231; ve Kimya San. Tic. A.&#350;.).</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in yemeklerden 2 saat sonra 1 veya 2 tablettir. Tableti bir miktar su ile yutun.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;n&#305; a&#351;may&#305;n. Takviye edici g&#305;dalar normal ve dengeli beslenmenin yerine ge&#231;mez. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305;, serin ve kuru bir yerde saklay&#305;n. &#304;la&#231; de&#287;ildir. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n.</p><p>Ocean ExtraMag ThreoG 200 mg'&#305; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV02027]]></Product_code>
+<Barcode>850084388989</Barcode>
+<Name><![CDATA[Ocean Magnezyum Complex 60 Tablet 2li Paket]]></Name>
+<Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>363</Stock>
+<Miad>2029-09-01</Miad>
+<Price>420.00</Price>
+<Price2>542.22</Price2>
+<Price3>516.94</Price3>
+<Price4>534.00</Price4>
+<Price5>526.05</Price5>
+<Price6>518.21</Price6>
+<Price7>764.20</Price7>
+<Price8>718.27</Price8>
+<Price9>518.21</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>850084388989</HepsiburadaSku>
+<SaticiStokKodu>850084388989</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/850084388989-0_46flg.jpg</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/850084388989-1_lrf8m.jpg</Image2>
+<Description><![CDATA[<section><p><strong>Ocean Magnezyum Complex 60 Tablet 2'li Paket</strong> (2 kutu &#215; 60 tablet), bisglisinat, malat, sitrat ve taurat formlar&#305;nda magnezyum ile B6 vitamini (P5P) i&#231;eren tablet formunda bir takviye edici g&#305;dad&#305;r. Magnezyum ve B6 vitamini ihtiyac&#305;n&#305; g&#252;nl&#252;k beslenmesinde desteklemek isteyen 11 ya&#351; ve &#252;zeri bireyler i&#231;in uygundur.</p><h2>Ocean Magnezyum Complex &#214;zellikleri</h2><ul><li>Her tablette 125 mg magnezyum bulunur.</li><li>Her tablette 5 mg B6 vitamini (P5P) bulunur.</li><li>Magnezyum bisglisinat, malat, sitrat ve taurat olmak &#252;zere d&#246;rt farkl&#305; magnezyum formunu bir arada sunar.</li><li>Magnezyum normal kas fonksiyonuna ve normal sinir sisteminin korunmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum ve B6 vitamini yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum normal enerji olu&#351;um metabolizmas&#305;na ve elektrolit dengesine katk&#305;da bulunur.</li><li>Magnezyum normal kemiklerin korunmas&#305;na katk&#305;da bulunur.</li><li>&#350;i&#351;ede 60 tablet bulunur; tatland&#305;r&#305;c&#305;, gl&#252;ten ve koruyucu i&#231;ermez.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in g&#252;nde 1 veya 2 tablettir. Tabletler bol su ile al&#305;nabilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k miktar a&#351;&#305;lmamal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru bir yerde saklay&#305;n. Hamileler, emziren anneler, bir hastal&#305;&#287;&#305; olanlar veya ila&#231; kullananlar kullanmadan &#246;nce doktora dan&#305;&#351;mal&#305;d&#305;r. Takviye edici g&#305;dalar dengeli ve &#231;e&#351;itli beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz.</p><p>Magnezyum takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV02028]]></Product_code>
