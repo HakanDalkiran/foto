@@ -20732,7 +20732,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Yara Bakımı]]></category>
 <Tax>10</Tax>
-<Stock>58</Stock>
+<Stock>1</Stock>
 <Miad>2030-07-01</Miad>
 <Price>36.46</Price>
 <Price2>78.35</Price2>
@@ -28723,50 +28723,6 @@
 </section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00666]]></Product_code>
-<Barcode>8683873980260</Barcode>
-<Name><![CDATA[Natuwell Omega Vm 30 Tablet]]></Name>
-<Brand><![CDATA[Natuwell]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Omega 3 / Balık Yağı]]></category>
-<Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2026-11-01</Miad>
-<Price>120.00</Price>
-<Price2>170.79</Price2>
-<Price3>170.79</Price3>
-<Price4>157.10</Price4>
-<Price5>150.30</Price5>
-<Price6>152.46</Price6>
-<Price7>328.20</Price7>
-<Price8>288.99</Price8>
-<Price9>152.46</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQLGRB</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00666</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/natuwell-omega-vm-30-tablet-9340.webp</Image1>
-<Description><![CDATA[<section>
-<p><strong>Natuwell Omega Vm 30 Tablet</strong>, omega yağ asitleri ile vitamin ve mineralleri bir arada sunan bir takviye edici gıdadır. Günlük beslenmesini tek üründe desteklemek isteyen yetişkinler için hazırlanmıştır. 30 tabletlik ambalajıyla bir aylık düzenli kullanıma uygundur</p>
-<h2>Natuwell Omega Vm 30 Tablet Özellikleri</h2>
-<ul>
-<li>30 tabletlik ambalajda sunulur.</li>
-<li>Omega yağ asitleri ile vitamin ve mineralleri birlikte içerir.</li>
-<li>Günlük beslenmenin desteklenmesine katkıda bulunur.</li>
-<li>Yetişkinlerin günlük kullanımı için hazırlanmıştır.</li>
-<li>Bir aylık kullanıma yetecek miktarda sunulur.</li>
-<li>Tablet formu sayesinde kolayca tüketilir.</li>
-<li>Çoklu takviye kullanma ihtiyacını tek üründe toplar.</li>
-<li>Günlük rutine kolayca eklenir.</li>
-</ul>
-<h2>Nasıl Kullanılır?</h2>
-<p>Günde 1 tablet, tercihen yemekle birlikte bir bardak su ile alınır. Ambalaj üzerindeki kullanım talimatına uyun; farklı bir kullanım için hekiminize ya da eczacınıza danışın.</p>
-<h2>Uyarılar</h2>
-<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal beslenmenin ve sağlıklı yaşam biçiminin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Hamilelik ve emzirme döneminde ve sürekli ilaç kullananlarda hekime danışılmadan kullanılmamalıdır. Çocukların erişemeyeceği yerde saklayın.</p>
-<p>Omega ile vitamin ve minerali tek üründe arayanlar Natuwell Omega Vm'i Farmaneva'da bulabilir.</p>
-</section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00667]]></Product_code>
 <Barcode>8683873980437</Barcode>
 <Name><![CDATA[Natuwell Sitikolin 30 Kapsül]]></Name>
@@ -34554,6 +34510,52 @@
 <h2>Uyar&#305;lar</h2>
 <p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
 <p>Cilt ve sa&#231; bak&#305;m&#305;n&#305; bir arada arayanlar bu Nuxe setini Farmaneva'da bulabilir.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00801]]></Product_code>
+<Barcode>3264680016080</Barcode>
+<Name><![CDATA[Nuxe Huile Prodigieuse Yüz Vücut Saçlar İçin Çok Amaçlı Kuru Yağ 30 ml]]></Name>
+<Brand><![CDATA[Nuxe]]></Brand>
+<mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
+<category><![CDATA[Vücut Bakımı]]></category>
+<subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
+<Tax>20</Tax>
+<Stock>5</Stock>
+<Miad></Miad>
+<Price>250.00</Price>
+<Price2>563.44</Price2>
+<Price3>444.00</Price3>
+<Price4>444.00</Price4>
+<Price5>444.00</Price5>
+<Price6>444.00</Price6>
+<Price7>599.74</Price7>
+<Price8>546.75</Price8>
+<Price9>444.00</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000HCB34O</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00801</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/nuxe-huile-prodigieuse-yuz-vucut-saclar-icin-cok-amacli-kuru-yag-30-ml-9574.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/nuxe-huile-prodigieuse-yuz-vucut-saclar-icin-cok-amacli-kuru-yag-30-ml-9575.webp</Image2>
+<Description><![CDATA[<section>
+<p><strong>Nuxe Huile Prodigieuse Y&#252;z V&#252;cut Sa&#231;lar &#304;&#231;in &#199;ok Ama&#231;l&#305; Kuru Ya&#287; 30 ml</strong>, yedi bitkisel ya&#287;&#305;n birle&#351;imiyle y&#252;z, v&#252;cut ve sa&#231;&#305; tek ad&#305;mda besleyip g&#252;zelle&#351;tiren Nuxe'&#252;n ikonik &#231;ok ama&#231;l&#305; kuru ya&#287;&#305;d&#305;r. Pratik, ta&#351;&#305;nabilir bir bak&#305;m arayanlar i&#231;in 30 ml boyda sunulur.</p>
+<h2>&#214;ne &#199;&#305;kan &#214;zellikler</h2>
+<ul>
+<li>Tsubaki, argan, makademya gibi 7 bitkisel ya&#287; i&#231;erir.</li>
+<li>Y&#252;z, v&#252;cut ve sa&#231;ta &#231;ok ama&#231;l&#305; kullan&#305;l&#305;r.</li>
+<li>Cildi besler ve uzun s&#252;reli nem sa&#287;lar.</li>
+<li>Ya&#287;l&#305; his b&#305;rakmadan h&#305;zla emilen kuru ya&#287; dokusuna sahiptir.</li>
+<li>Cilde &#305;&#351;&#305;lt&#305; ve yumu&#351;akl&#305;k kazand&#305;r&#305;r.</li>
+<li>Sa&#231;a besleyici ve parlat&#305;c&#305; bak&#305;m sunar.</li>
+<li>Pratik 30 ml boyuyla yan&#305;nda ta&#351;&#305;nabilir.</li>
+<li>&#304;konik Nuxe form&#252;l&#252;n&#252; ta&#351;&#305;r.</li>
+</ul>
+<h2>Nas&#305;l Kullan&#305;l&#305;r?</h2>
+<p>Y&#252;z, v&#252;cut ya da sa&#231;a birka&#231; damla uygulay&#305;p nazik&#231;e yedirin. Banyo sonras&#305; neme uygulamak emilimi kolayla&#351;t&#305;r&#305;r.</p>
+<h2>Uyar&#305;lar</h2>
+<p>Yaln&#305;zca harici kullan&#305;m i&#231;indir. G&#246;zle temas&#305;ndan ka&#231;&#305;n&#305;n; temas h&#226;linde bol suyla durulay&#305;n. Tahri&#351; olu&#351;mas&#305; durumunda kullan&#305;m&#305; b&#305;rak&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p>
+<p>&#199;ok ama&#231;l&#305; bir kuru ya&#287;&#305; pratik boyda isteyenler Nuxe Huile Prodigieuse 30 ml'yi Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -41406,6 +41408,56 @@
 <p><strong>Osende D3 K2 damla ne zaman alınır?</strong><br>Yağ içeren bir öğünün ardından alınması önerilir.</p>
 <p><strong>Damla nasıl alınır?</strong><br>Ambalajda belirtilen sayıda damla doğrudan ağıza veya bir kaşığa damlatılır.</p>
 <p><strong>Kimler için uygundur?</strong><br>Ürün bilgisine göre yetişkinler için uygundur.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00956]]></Product_code>
+<Barcode>8682225516270</Barcode>
+<Name><![CDATA[Osteocare 30 Tablet]]></Name>
+<Brand><![CDATA[Osteocare]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Eklem & Kemik Sağlığı]]></category>
+<Tax>1</Tax>
+<Stock>2</Stock>
+<Miad>2030-04-01</Miad>
+<Price>280.00</Price>
+<Price2>458.76</Price2>
+<Price3>339.49</Price3>
+<Price4>362.98</Price4>
+<Price5>377.99</Price5>
+<Price6>377.99</Price6>
+<Price7>592.03</Price7>
+<Price8>599.00</Price8>
+<Price9>377.99</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKRQ1</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00956</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/osteocare-30-tablet-10005.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/osteocare-30-tablet-10006.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/osteocare-30-tablet-10007.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Osteocare 30 Tablet</strong>, kalsiyum, magnezyum, çinko ve D vitamini içeren, yetişkinlere yönelik bir takviye edici gıdadır. 30 tabletlik ambalajda sunulur.</p>
+<h2>Osteocare 30 Tablet Özellikleri</h2>
+<ul>
+<li>Kalsiyum, magnezyum, çinko ve D vitamini içeren dengeli bir formüle sahiptir.</li>
+<li>Bakır, bor ve selenyum gibi ek eser elementlerle desteklenmiş bir içeriğe sahiptir.</li>
+<li>Günlük kullanıma uygun tablet formundadır.</li>
+<li>Yetişkinlerde günde 2 tablet suyla birlikte kullanılır.</li>
+<li>30 tabletlik pratik ambalajda sunulur.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Yetişkinlerde genellikle günde 2 tablet suyla birlikte alınması önerilir. Kesin doz ve kullanım süresi için ürün ambalajındaki yönergeleri ve kullanım kılavuzunu dikkate alın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdalar ilaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Hamilelik, emzirme dönemi veya düzenli ilaç kullanımında hekiminize danışın. Çocukların ulaşamayacağı yerde, serin ve kuru ortamda saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Osteocare 30 tablet nedir, içinde neler var?</h3>
+<p>Kalsiyum, magnezyum, çinko ve D vitamini içeren takviye edici gıdadır.</p>
+<h3>Osteocare günde kaç tablet kullanılır?</h3>
+<p>Yetişkinlerde genellikle günde 2 tablet suyla birlikte alınması önerilir. Kesin doz için ambalajdaki yönergeleri izleyin.</p>
+<h3>Osteocare hangi eser elementleri içerir?</h3>
+<p>Kalsiyum, magnezyum, çinko ve D vitamini ile birlikte bakır, bor ve selenyum gibi ek eser elementler içerir.</p>
+<p>Kalsiyum, magnezyum ve D vitamini içeren bir takviye arayanlar Osteocare'i Farmaneva'da bulabilir.</p>
 </section>]]></Description>
 </Product>
 <Product>
@@ -52593,7 +52645,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2030-01-01</Miad>
 <Price>505.00</Price>
 <Price2>615.01</Price2>
@@ -53245,6 +53297,37 @@
 <p>Kutuda her biri 0,4 gram olan 30 tek doz flakon bulunur. Flakon açılıp alt göz kapağı hafifçe aşağı çekilerek göz ile kapak arasına 1 damla uygulanır; açılan flakon tekrar kullanılmaz.</p>
 <p>Koruyucusuz tek doz göz jeli arayanlar Thealoz Duo Gel'i Farmaneva'da bulabilir.</p>
 </section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01240]]></Product_code>
+<Barcode>3662042004193</Barcode>
+<Name><![CDATA[Thea Thealoz Duo Göz Damlası 10 ml]]></Name>
+<Brand><![CDATA[Thea]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Göz Bakımı]]></category>
+<subCategory><![CDATA[Göz Damlası]]></subCategory>
+<Tax>10</Tax>
+<Stock>15</Stock>
+<Miad>2028-05-01</Miad>
+<Price>420.00</Price>
+<Price2>570.57</Price2>
+<Price3>548.99</Price3>
+<Price4>488.65</Price4>
+<Price5>502.99</Price5>
+<Price6>502.99</Price6>
+<Price7>809.97</Price7>
+<Price8>756.68</Price8>
+<Price9>502.99</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>3662042004193</HepsiburadaSku>
+<SaticiStokKodu>3662042004193</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/thealoz-duo-goz-damlasi-10-ml-37625.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/thealoz-duo-goz-damlasi-10-ml-42729.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/thealoz-duo-goz-damlasi-10-ml-43525.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/thealoz-duo-goz-damlasi-10-ml-43847.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/thealoz-duo-goz-damlasi-10-ml-44078.webp</Image5>
+<Description><![CDATA[<section><p><strong>Thea Thealoz Duo Göz Damlası 10 ml</strong>, %3 trehaloz ve %0,15 sodyum hiyalüronat içeren, koruyucu madde içermeyen bir oftalmik çözeltidir. Kuru ve gergin hisseden gözlere nemlendirici destek arayan yetişkinler için hazırlanmıştır. Ürün 10 ml'lik şişede sunulur.</p><h2>Özellikler</h2><ul><li>%3 trehaloz içeren formül</li><li>%0,15 sodyum hiyalüronat ile gözü nemlendirmeye yönelik içerik</li><li>Koruyucu madde içermez</li><li>Gözyaşı filmini destekleyen ikili içerik</li><li>Kontakt lenslerle uyumludur</li><li>10 ml'lik pratik şişe</li><li>Gün içinde ihtiyaca göre kullanım</li></ul><h2>İçerik</h2><p>Trehaloz (%3) ve sodyum hiyalüronat (%0,15). Koruyucu madde içermez. Tam bileşim için ürün ambalajındaki etiketi ve kullanım kılavuzunu inceleyin.</p><h2>Nasıl Kullanılır?</h2><p>Uygulamadan önce ellerinizi iyice yıkayın ve şişeyi çalkalayın. İhtiyaca göre günde 1 veya 2 damla her göze damlatılır. Ambalajdaki ve kullanım kılavuzundaki talimatlara uyun.</p><h2>Uyarılar</h2><p>Yalnızca göze uygulama içindir. Damlalık ucunun göze veya başka bir yüzeye temas etmemesine dikkat edin. Şişeyi açtıktan sonra ambalajda belirtilen süre içinde kullanın. Bileşenlerine hassasiyeti olanlar kullanmamalıdır. Gözde kalıcı kızarıklık, ağrı veya görme değişikliği olursa kullanımı bırakıp bir göz hekimine danışın. Çocukların erişemeyeceği yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Thealoz Duo göz damlası ne için kullanılır?</strong><br>Kuru ve gergin hisseden gözleri nemlendirmeye yönelik, koruyucu madde içermeyen bir göz damlasıdır.</p><p><strong>Thealoz Duo içeriğinde neler var?</strong><br>%3 trehaloz ve %0,15 sodyum hiyalüronat içerir; koruyucu madde içermez.</p><p><strong>Thealoz Duo nasıl kullanılır?</strong><br>Eller yıkanır, şişe çalkalanır ve ihtiyaca göre her göze günde 1-2 damla damlatılır.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01241]]></Product_code>
