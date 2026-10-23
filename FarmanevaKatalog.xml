@@ -33417,7 +33417,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>50</Stock>
 <Miad>2027-10-01</Miad>
 <Price>550.00</Price>
 <Price2>802.12</Price2>
@@ -38599,9 +38599,9 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>50</Stock>
 <Miad>2028-04-01</Miad>
-<Price>208.16</Price>
+<Price>100.00</Price>
 <Price2>272.51</Price2>
 <Price3>272.51</Price3>
 <Price4>267.86</Price4>
@@ -38931,9 +38931,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>24</Stock>
+<Stock>50</Stock>
 <Miad>2029-07-01</Miad>
-<Price>365.41</Price>
+<Price>300.00</Price>
 <Price2>453.95</Price2>
 <Price3>453.95</Price3>
 <Price4>465.41</Price4>
@@ -39588,7 +39588,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>100</Stock>
 <Miad>2028-04-01</Miad>
 <Price>850.00</Price>
 <Price2>1149.31</Price2>
@@ -51735,9 +51735,9 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>100</Stock>
 <Miad>2030-07-01</Miad>
-<Price>314.07</Price>
+<Price>250.00</Price>
 <Price2>412.74</Price2>
 <Price3>412.74</Price3>
 <Price4>422.48</Price4>
@@ -52331,7 +52331,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>55</Stock>
+<Stock>100</Stock>
 <Miad>2030-02-01</Miad>
 <Price>752.16</Price>
 <Price2>900.19</Price2>
@@ -84545,6 +84545,34 @@
 <Description><![CDATA[<section><p><strong>Wellcare Gaspass Plus 20 Tablet</strong>, simetikon ve aktif kömürü iki katmanlı tek tablette bir araya getiren, CE işaretli bir tıbbi cihazdır. 14 yaş üzeri bireyler için tablet formunda hazırlanmıştır. Kutuda 20 tablet bulunur.</p><h2>Özellikler</h2><ul><li>Her tablette 50 mg simetikon ve 300 mg aktif kömür bulunur.</li><li>İki katmanlı (bilayer) tablet teknolojisiyle üretilmiştir.</li><li>Tabletin yaklaşık yarısı 15 dakika içinde midede çözünür.</li><li>Tabletin tamamı 1 saat içinde bağırsakta dağılır.</li><li>Simetikon gaz kabarcıklarının yüzey gerilimini azaltarak dağılmasına yardımcı olur; aktif kömür bağırsaktaki gazın tutulmasına yardımcı olur.</li></ul><h2>İçerik</h2><p>Her tablette 50 mg simetikon ve 300 mg aktif kömür yer alır. Ürün CE 0426 işaretli tıbbi cihazdır; takviye edici gıda değildir.</p><h2>Nasıl Kullanılır?</h2><p>14 yaş üzeri bireyler için tercihen ana öğünlerden sonra alınması önerilir. Günde en fazla 4 tablet kullanılabilir. Tabletler bir bardak su ile yutulmalıdır.</p><h2>Uyarılar</h2><p>Mide veya bağırsakta lezyon, bağırsak tıkanıklığı ya da bileşenlerden herhangi birine karşı aşırı duyarlılık durumunda kullanmayın. Aktif kömür diğer ilaçların emilimini etkileyebileceğinden düzenli ilaç kullanıyorsanız, hamilelik ve emzirme döneminde kullanmadan önce hekiminize danışın. Şikayetleriniz devam ederse hekime başvurun. Günlük en fazla doz aşılmamalıdır. Çocukların ulaşamayacağı yerde, serin ve kuru ortamda saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Gaspass Plus kaç yaşından itibaren kullanılır?</strong><br>14 yaş üzeri bireyler için önerilir.</p><p><strong>Günde en fazla kaç tablet alınır?</strong><br>Günde en fazla 4 tablet kullanılabilir; tercihen ana öğünlerden sonra, bir bardak su ile yutulur.</p><p><strong>Simetikon ve aktif kömür ne işe yarar?</strong><br>Simetikon gaz kabarcıklarının yüzey gerilimini azaltarak dağılmasına, aktif kömür ise bağırsaktaki gazın tutulmasına yardımcı olur.</p></section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV01963]]></Product_code>
+<Barcode>8699680010304</Barcode>
+<Name><![CDATA[Wellcare Magnezyum + Vitamin B6 120 Tablet]]></Name>
+<Brand><![CDATA[Wellcare]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>30</Stock>
+<Miad>2030-08-01</Miad>
+<Price>255.00</Price>
+<Price2>757.00</Price2>
+<Price3>757.00</Price3>
+<Price4>795.38</Price4>
+<Price5>786.64</Price5>
+<Price6>771.88</Price6>
+<Price7>1062.70</Price7>
+<Price8>1008.37</Price8>
+<Price9>771.88</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>8699680010304</HepsiburadaSku>
+<SaticiStokKodu>8699680010304</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/8699680010304-0_365j9.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/8699680010304-1_fms2s.webp</Image2>
+<Description><![CDATA[<section><p><strong>Wellcare Magnezyum + Vitamin B6 120 Tablet</strong>, magnezyum sitrat, magnezyum malat ve magnezyum bisglisinat olmak &#252;zere &#252;&#231; farkl&#305; magnezyum tuzunu B6 vitamini ile bir araya getiren, tablet formunda bir takviye edici g&#305;dad&#305;r. 11 ya&#351; ve &#252;zeri ki&#351;ilerin g&#252;nl&#252;k magnezyum ve B6 vitamini al&#305;m&#305;n&#305; desteklemek amac&#305;yla haz&#305;rlanm&#305;&#351;t&#305;r.</p><h2>Wellcare Magnezyum + Vitamin B6 &#214;zellikleri</h2><ul><li>Bir tablette 200 mg elementel magnezyum bulunur; bu miktar beslenme referans de&#287;erinin y&#252;zde 53,33'&#252;ne kar&#351;&#305;l&#305;k gelir.</li><li>Magnezyumun 100 mg'&#305; magnezyum sitrattan, 50 mg'&#305; magnezyum malattan, 50 mg'&#305; magnezyum bisglisinattan gelir.</li><li>Bir tablette 10 mg B6 vitamini (piridoksin) bulunur (BRD'nin y&#252;zde 714,3'&#252;).</li><li>Magnezyum yorgunlu&#287;un ve bitkinli&#287;in azalmas&#305;na, normal kas fonksiyonuna ve normal kemiklerin korunmas&#305;na katk&#305;da bulunur.</li><li>B6 vitamini yorgunlu&#287;un ve bitkinli&#287;in azalmas&#305;na ve ba&#287;&#305;&#351;&#305;kl&#305;k sisteminin normal fonksiyonuna katk&#305;da bulunur.</li><li>Renklendirici, koruyucu ve gluten i&#231;ermez.</li><li>Ambalaj bilgisine g&#246;re veganlar i&#231;in uygundur.</li><li>Ambalajda 120 tablet bulunur; g&#252;nde 1 tablet kullan&#305;mda 120 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>11 ya&#351; ve &#252;zeri ki&#351;ilerde g&#252;nde 1 tablet al&#305;nmas&#305; &#246;nerilir. Tavsiye edilen g&#252;nl&#252;k al&#305;m dozu a&#351;&#305;lmamal&#305;d&#305;r.</p><h2>Uyar&#305;lar</h2><p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir, hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. Hamilelik ve emzirme d&#246;nemi ile hastal&#305;k veya ila&#231; kullan&#305;lmas&#305; durumlar&#305;nda doktorunuza dan&#305;&#351;&#305;n&#305;z. Kesilmi&#351; veya a&#231;&#305;lm&#305;&#351; ambalajlar&#305; sat&#305;n almay&#305;n&#305;z. 25&#176;C'nin alt&#305;ndaki oda s&#305;cakl&#305;&#287;&#305;nda, serin ve kuru ortamda, &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p><p>Wellcare Magnezyum + Vitamin B6 120 Tablet &#252;r&#252;n&#252;n&#252; Farmaneva'da bulabilir.</p></section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV01964]]></Product_code>
 <Barcode>8699680190013</Barcode>
 <Name><![CDATA[Wellcare Omega 3 Balık Yağı 1200 mg 30 Kapsül]]></Name>
@@ -86403,6 +86431,34 @@
 <Description><![CDATA[<section><p><strong>Ocean ExtraMag ThreoG 200 mg 60 Tablet</strong>, Orzax Ocean ExtraMag serisinden; magnezyum L-treonat ve magnezyum bisglisinat ile B6, D3 ve C vitaminlerini i&#231;eren takviye edici g&#305;dad&#305;r.</p><h2>ExtraMag ThreoG &#214;zellikleri</h2><ul><li>Tablet ba&#351;&#305;na 100 mg magnezyum i&#231;erir; 2 tablet 200 mg magnezyuma kar&#351;&#305;l&#305;k gelir.</li><li>Magnezyum; 50 mg'&#305; magnezyum L-treonattan, 50 mg'&#305; magnezyum bisglisinattan gelen elementel magnezyumdur.</li><li>Tablet ba&#351;&#305;na 60 mg C vitamini, 5 mg B6 vitamini ve 10 &#181;g D3 vitamini bulunur.</li><li>Kutuda 60 tablet yer al&#305;r; g&#252;nde 1-2 tabletle 30 ila 60 g&#252;nl&#252;k kullan&#305;m sa&#287;lar.</li><li>Kolay yutulabilen tablet formundad&#305;r.</li><li>Gluten, &#351;eker ve laktoz i&#231;ermez.</li><li>&#220;r&#252;n T&#252;rkiye'de &#252;retilmi&#351;tir; kutu &#252;zerinde i&#351;letme kay&#305;t ve takviye edici g&#305;da onay bilgileri bulunur.</li><li>&#220;retici Orzax't&#305;r (Orzaks &#304;la&#231; ve Kimya San. Tic. A.&#350;.).</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri yeti&#351;kinler i&#231;in yemeklerden 2 saat sonra 1 veya 2 tablettir. Tableti bir miktar su ile yutun.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;n&#305; a&#351;may&#305;n. Takviye edici g&#305;dalar normal ve dengeli beslenmenin yerine ge&#231;mez. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305;, serin ve kuru bir yerde saklay&#305;n. &#304;la&#231; de&#287;ildir. Hamilelik ve emzirme d&#246;neminde, hastal&#305;k veya ila&#231; kullan&#305;m&#305; durumunda doktorunuza dan&#305;&#351;&#305;n.</p><p>Ocean ExtraMag ThreoG 200 mg'&#305; Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV02027]]></Product_code>
+<Barcode>850084388989</Barcode>
+<Name><![CDATA[Ocean Magnezyum Complex 60 Tablet 2li Paket]]></Name>
+<Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>10</Stock>
+<Miad>2029-09-01</Miad>
+<Price>300.00</Price>
+<Price2>516.94</Price2>
+<Price3>516.94</Price3>
+<Price4>534.00</Price4>
+<Price5>526.05</Price5>
+<Price6>518.21</Price6>
+<Price7>764.20</Price7>
+<Price8>718.27</Price8>
+<Price9>518.21</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>850084388989</HepsiburadaSku>
+<SaticiStokKodu>850084388989</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/850084388989-0_46flg.jpg</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/850084388989-1_lrf8m.jpg</Image2>
+<Description><![CDATA[<section><p><strong>Ocean Magnezyum Complex 60 Tablet 2'li Paket</strong> (2 kutu &#215; 60 tablet), bisglisinat, malat, sitrat ve taurat formlar&#305;nda magnezyum ile B6 vitamini (P5P) i&#231;eren tablet formunda bir takviye edici g&#305;dad&#305;r. Magnezyum ve B6 vitamini ihtiyac&#305;n&#305; g&#252;nl&#252;k beslenmesinde desteklemek isteyen 11 ya&#351; ve &#252;zeri bireyler i&#231;in uygundur.</p><h2>Ocean Magnezyum Complex &#214;zellikleri</h2><ul><li>Her tablette 125 mg magnezyum bulunur.</li><li>Her tablette 5 mg B6 vitamini (P5P) bulunur.</li><li>Magnezyum bisglisinat, malat, sitrat ve taurat olmak &#252;zere d&#246;rt farkl&#305; magnezyum formunu bir arada sunar.</li><li>Magnezyum normal kas fonksiyonuna ve normal sinir sisteminin korunmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum ve B6 vitamini yorgunluk ve bitkinli&#287;in azalmas&#305;na katk&#305;da bulunur.</li><li>Magnezyum normal enerji olu&#351;um metabolizmas&#305;na ve elektrolit dengesine katk&#305;da bulunur.</li><li>Magnezyum normal kemiklerin korunmas&#305;na katk&#305;da bulunur.</li><li>&#350;i&#351;ede 60 tablet bulunur; tatland&#305;r&#305;c&#305;, gl&#252;ten ve koruyucu i&#231;ermez.</li></ul><h2>Nas&#305;l Kullan&#305;l&#305;r?</h2><p>Tavsiye edilen g&#252;nl&#252;k al&#305;m miktar&#305;, 11 ya&#351; ve &#252;zeri bireyler i&#231;in g&#252;nde 1 veya 2 tablettir. Tabletler bol su ile al&#305;nabilir.</p><h2>Uyar&#305;lar</h2><p>Tavsiye edilen g&#252;nl&#252;k miktar a&#351;&#305;lmamal&#305;d&#305;r. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde, serin ve kuru bir yerde saklay&#305;n. Hamileler, emziren anneler, bir hastal&#305;&#287;&#305; olanlar veya ila&#231; kullananlar kullanmadan &#246;nce doktora dan&#305;&#351;mal&#305;d&#305;r. Takviye edici g&#305;dalar dengeli ve &#231;e&#351;itli beslenmenin yerine ge&#231;mez. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lmaz.</p><p>Magnezyum takviyelerini Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV02028]]></Product_code>
 <Barcode>8681571356622</Barcode>
 <Name><![CDATA[Suda Collagen Fxone Aromasız 12 gr x 30 Saşe]]></Name>
@@ -86526,7 +86582,7 @@
 <Tax>1</Tax>
 <Stock>24</Stock>
 <Miad>2029-08-01</Miad>
-<Price>363.71</Price>
+<Price>255.00</Price>
 <Price2>451.99</Price2>
 <Price3>451.99</Price3>
 <Price4>463.28</Price4>
