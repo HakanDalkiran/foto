@@ -15267,7 +15267,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Macunu]]></subCategory>
 <Tax>10</Tax>
-<Stock>14</Stock>
+<Stock>8</Stock>
 <Miad>2027-01-01</Miad>
 <Price>180.12</Price>
 <Price2>246.41</Price2>
@@ -37998,7 +37998,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2027-09-01</Miad>
 <Price>400.00</Price>
 <Price2>493.86</Price2>
@@ -38464,7 +38464,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>147</Stock>
+<Stock>145</Stock>
 <Miad>2027-06-01</Miad>
 <Price>568.56</Price>
 <Price2>688.35</Price2>
@@ -62743,8 +62743,8 @@
 <Stock>379</Stock>
 <Miad>2029-03-01</Miad>
 <Price>232.00</Price>
-<Price2>300.62</Price2>
-<Price3>300.62</Price3>
+<Price2>300.02</Price2>
+<Price3>300.02</Price3>
 <Price4>297.81</Price4>
 <Price5>290.58</Price5>
 <Price6>289.01</Price6>
@@ -75288,7 +75288,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>9</Stock>
 <Miad>2029-01-01</Miad>
 <Price>458.91</Price>
 <Price2>561.83</Price2>
@@ -77685,9 +77685,9 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
-<Miad>2027-03-01</Miad>
-<Price>237.91</Price>
+<Stock>0</Stock>
+<Miad>2029-03-01</Miad>
+<Price>237.90</Price>
 <Price2>306.83</Price2>
 <Price3>306.83</Price3>
 <Price4>305.23</Price4>
@@ -77695,7 +77695,7 @@
 <Price6>296.21</Price6>
 <Price7>502.95</Price7>
 <Price8>453.39</Price8>
-<Price9>296.21</Price9>
+<Price9>296.20</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IR99XE</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01805</SaticiStokKodu>
