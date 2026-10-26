@@ -38177,6 +38177,54 @@
 </section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV00888]]></Product_code>
+<Barcode>850071952919</Barcode>
+<Name><![CDATA[Ocean Hepalex 60 Softjel Kapsül - %50 Daha Fazla]]></Name>
+<Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Karaciğer & Antioksidan]]></category>
+<Tax>1</Tax>
+<Stock>41</Stock>
+<Miad>2029-06-01</Miad>
+<Price>475.00</Price>
+<Price2>580.40</Price2>
+<Price3>580.40</Price3>
+<Price4>603.09</Price4>
+<Price5>594.94</Price5>
+<Price6>585.27</Price6>
+<Price7>843.11</Price7>
+<Price8>794.96</Price8>
+<Price9>585.27</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQLFGS</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00888</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9850.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9851.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9852.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/ocean-hepalex-60-softjel-kapsul-50-daha-fazla-9853.webp</Image4>
+<Description><![CDATA[<section>
+<p><strong>Ocean Hepalex 60 Softjel Kapsül</strong>, deve dikeni (silymarin), enginar ve karahindiba ekstrelerini kolin, alfa lipoik asit ve glutatyon ile birleştiren bir takviye edici gıdadır. Karaciğerine kapsamlı bitkisel destek arayanlar için 60 softjel kapsüllük ambalajda sunulur.</p>
+<h2>Öne Çıkan Özellikler</h2>
+<ul>
+<li>Deve dikeni (silymarin) ekstresi içerir.</li>
+<li>Enginar ve karahindiba ekstreleriyle desteklenmiştir.</li>
+<li>Kolin, karaciğer fonksiyonuna katkı sağlar.</li>
+<li>Alfa lipoik asit ve glutatyon içerir.</li>
+<li>Kolin, normal karaciğer fonksiyonuna katkıda bulunur.</li>
+<li>Yutması kolay softjel kapsül formundadır.</li>
+<li>Yetişkinler için uygundur.</li>
+<li>60 softjel kapsüllük ambalajda sunulur.</li>
+<li>Düzenli kullanıldığında günlük rutinin bir parçası olabilir.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Genellikle günde belirtilen sayıda kapsül, tercihen öğünle birlikte bir bardak su ile tüketilir. Kesin doz için ürün ambalajındaki talimatı izleyin; önerilen günlük dozu aşmayın.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılamaz. Önerilen günlük dozu aşmayın. Hamilelik ve emzirme döneminde, bir sağlık sorununuz varsa veya ilaç kullanıyorsanız hekiminize danışın. Çocukların erişemeyeceği yerde saklayın.</p>
+<p>Karaciğerine kapsamlı bitkisel destek arayanlar Ocean Hepalex'i Farmaneva'da bulabilir.</p>
+</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV00889]]></Product_code>
 <Barcode>8697595873977</Barcode>
 <Name><![CDATA[Ocean Koenzim Q10 200 mg 30 Kapsül - Eski Ambalaj]]></Name>
@@ -38341,17 +38389,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>17</Stock>
+<Stock>16</Stock>
 <Miad>2028-04-01</Miad>
-<Price>150.00</Price>
-<Price2>205.40</Price2>
-<Price3>205.40</Price3>
-<Price4>194.79</Price4>
-<Price5>187.87</Price5>
-<Price6>189.03</Price6>
-<Price7>376.82</Price7>
-<Price8>330.82</Price8>
-<Price9>189.03</Price9>
+<Price>208.16</Price>
+<Price2>272.51</Price2>
+<Price3>272.51</Price3>
+<Price4>267.86</Price4>
+<Price5>260.72</Price5>
+<Price6>259.94</Price6>
+<Price7>460.27</Price7>
+<Price8>411.91</Price8>
+<Price9>259.94</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKOI1</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00892</SaticiStokKodu>
@@ -52171,7 +52219,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2030-01-01</Miad>
 <Price>505.00</Price>
 <Price2>615.01</Price2>
@@ -65847,15 +65895,15 @@
 <Tax>20</Tax>
 <Stock>41</Stock>
 <Miad>2028-08-01</Miad>
-<Price>437.66</Price>
-<Price2>559.59</Price2>
-<Price3>559.59</Price3>
-<Price4>585.61</Price4>
-<Price5>575.50</Price5>
-<Price6>564.17</Price6>
-<Price7>892.96</Price7>
-<Price8>829.37</Price8>
-<Price9>564.17</Price9>
+<Price>437.50</Price>
+<Price2>559.40</Price2>
+<Price3>559.40</Price3>
+<Price4>585.40</Price4>
+<Price5>575.29</Price5>
+<Price6>563.96</Price6>
+<Price7>892.71</Price7>
+<Price8>829.13</Price8>
+<Price9>563.96</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EBAG</HepsiburadaSku>
 <SaticiStokKodu>850069595845</SaticiStokKodu>
@@ -77734,7 +77782,7 @@
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
 <Stock>0</Stock>
-<Miad>2029-03-01</Miad>
+<Miad>2027-03-01</Miad>
 <Price>237.90</Price>
 <Price2>306.83</Price2>
 <Price3>306.83</Price3>
