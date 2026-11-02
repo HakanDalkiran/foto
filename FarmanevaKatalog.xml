@@ -2112,17 +2112,17 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>1923.64</Price>
-<Price2>2251.88</Price2>
-<Price3>2251.88</Price3>
-<Price4>2423.04</Price4>
-<Price5>2409.36</Price5>
-<Price6>2351.43</Price6>
-<Price7>2921.50</Price7>
-<Price8>2437.26</Price8>
-<Price9>2351.43</Price9>
+<Stock>36</Stock>
+<Miad>2026-12-01</Miad>
+<Price>976.57</Price>
+<Price2>1159.12</Price2>
+<Price3>1159.12</Price3>
+<Price4>1233.22</Price4>
+<Price5>1223.15</Price5>
+<Price6>1196.78</Price6>
+<Price7>1562.72</Price7>
+<Price8>1293.87</Price8>
+<Price9>1196.78</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQM8N3</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00056</SaticiStokKodu>
@@ -29063,7 +29063,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2026-12-01</Miad>
 <Price>416.41</Price>
 <Price2>512.79</Price2>
@@ -37104,7 +37104,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Karaciğer & Antioksidan]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>2028-05-01</Miad>
 <Price>454.75</Price>
 <Price2>557.03</Price2>
@@ -37530,7 +37530,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>12</Stock>
 <Miad>2027-02-01</Miad>
 <Price>303.45</Price>
 <Price2>382.46</Price2>
@@ -37843,6 +37843,37 @@
 <Image3>https://www.farmaneva.com/uploads/urunler/ocean-gummies-hsn-60-adet-9832.webp</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/ocean-gummies-hsn-60-adet-9833.webp</Image4>
 <Description><![CDATA[<section><p><strong>Ocean Gummies HSN 60 Adet</strong>, saç, cilt ve tırnak (HSN) bakımına yönelik içerikleri çiğnenebilir gummy formunda sunan bir takviye edici gıdadır. Saç, cilt ve tırnaklarına yönelik pratik bir takviye arayan yetişkinler için 60 adetlik ambalajda sunulur.</p><h2>Özellikler</h2><ul><li>Saç, cilt ve tırnak (HSN) odaklı takviye edici gıdadır.</li><li>Çiğnenebilir gummy formundadır.</li><li>Biotin ve çinko gibi bileşenlerle desteklenir.</li><li>Su gerektirmeden tüketilebilir.</li><li>Yetişkinler için uygundur.</li><li>60 adetlik ambalajda sunulur.</li></ul><h2>İçerik</h2><p>Biotin ve çinko gibi bileşenler içerir. Miktarlar ve tam bileşen listesi için ürün ambalajındaki içerik bilgisine bakın.</p><h2>Nasıl Kullanılır?</h2><p>Çiğnenebilir gummy formundadır; çiğneyerek tüketilir. Kullanım miktarı ve sıklığı için ürün ambalajı üzerindeki talimatı izleyin; önerilen günlük miktarı aşmayın. Kullanıma başlamadan önce ambalaj üzerindeki bilgileri okuyun.</p><h2>Uyarılar</h2><p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal ve dengeli beslenmenin yerine geçmez. Önerilen günlük kullanım miktarını aşmayın. Hamilelik ve emzirme döneminde, bir sağlık sorunu varsa veya düzenli ilaç kullanılıyorsa kullanmadan önce doktora danışın. Çocukların ulaşamayacağı, serin ve kuru bir yerde saklayın.</p><h2>Sık Sorulan Sorular</h2><p><strong>HSN ne demek?</strong><br>Saç, cilt ve tırnak ifadesinin kısaltmasıdır.</p><p><strong>Kutuda kaç adet var?</strong><br>60 adet çiğnenebilir gummy bulunur.</p><p><strong>Biotin içerir mi?</strong><br>Mevcut ürün bilgisine göre biotin ve çinko gibi bileşenler içerir.</p></section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00884]]></Product_code>
+<Barcode>8697595874103</Barcode>
+<Name><![CDATA[Ocean Gummies Iron Extra 17 mg 60 Adet Çiğnenebilir Jel]]></Name>
+<Brand><![CDATA[Ocean]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Demir]]></subCategory>
+<Tax>1</Tax>
+<Stock>1</Stock>
+<Miad>2027-09-01</Miad>
+<Price>551.56</Price>
+<Price2>668.73</Price2>
+<Price3>668.73</Price3>
+<Price4>699.28</Price4>
+<Price5>690.83</Price5>
+<Price6>678.61</Price6>
+<Price7>952.95</Price7>
+<Price8>901.70</Price8>
+<Price9>678.61</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKZTU</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00884</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-gummies-iron-extra-17-mg-60-cignenebilir-jel-36994.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-gummies-iron-extra-17-mg-60-cignenebilir-jel-36995.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-gummies-iron-extra-17-mg-60-cignenebilir-jel-36996.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-gummies-iron-extra-17-mg-60-cignenebilir-jel-36997.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/ocean-gummies-iron-extra-17-mg-60-cignenebilir-jel-39637.webp</Image5>
+<Description><![CDATA[<section><p><strong>Ocean Gummies Iron Extra 17 mg 60 Adet Çiğnenebilir Jel</strong>, her gummy'de 17 mg demir sunan çiğnenebilir jel formunda bir üründür.</p><ul><li>Gummy başına 17 mg demir.</li><li>Çiğnenebilir jel formundadır, su gerektirmez.</li><li>Kutuda 60 adet çiğnenebilir jel bulunur.</li><li>Tam içindekiler listesi ambalaj etiketinde yer alır.</li><li>Ocean markasıdır.</li></ul><p>Takviye edici gıdadır. Normal beslenmenin yerine geçmez.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00885]]></Product_code>
@@ -38318,7 +38349,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>133</Stock>
+<Stock>137</Stock>
 <Miad>2027-06-01</Miad>
 <Price>568.56</Price>
 <Price2>688.35</Price2>
@@ -45374,6 +45405,58 @@
 <h3>15 tablet kaç güne yeter?</h3>
 <p>Günde 1 tablet kullanımda 15 günlük kullanım sağlar.</p>
 <p>Günlük bağışıklık desteğini pratik bir içecekle almak isteyenler Redoxon 3'lü Etki'yi Farmaneva'da bulabilir.</p></section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01065]]></Product_code>
+<Barcode>8699546020454</Barcode>
+<Name><![CDATA[Redoxon 3lü Etki 30 Efervesan Tablet]]></Name>
+<Brand><![CDATA[Redoxon]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Vitaminler]]></category>
+<subCategory><![CDATA[Multivitamin]]></subCategory>
+<Tax>1</Tax>
+<Stock>2</Stock>
+<Miad>2028-03-01</Miad>
+<Price>455.18</Price>
+<Price2>557.53</Price2>
+<Price3>557.53</Price3>
+<Price4>578.19</Price4>
+<Price5>570.11</Price5>
+<Price6>561.11</Price6>
+<Price7>814.67</Price7>
+<Price8>767.32</Price8>
+<Price9>561.11</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>8699546020454</HepsiburadaSku>
+<SaticiStokKodu>8699546020454</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-37374.webp</Image1>
+<Image2>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-37375.webp</Image2>
+<Image3>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-37376.webp</Image3>
+<Image4>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-39819.webp</Image4>
+<Image5>http://cdn1.xmlbankasi.com/p1/kekwflcbqgrv/image/data/resimler/redoxon-3-lu-etki-30-efervesan-tablet-39820.webp</Image5>
+<Description><![CDATA[<section>
+<p><strong>Redoxon 3'lü Etki 30 Efervesan Tablet</strong>, C vitamini, D vitamini ve çinkoyu tek tablette bir araya getiren, suda eriyen efervesan formda bir takviye edici gıdadır. Günlük vitamin ve mineral desteğini pratik, portakal aromalı bir içecek olarak almak isteyen 11 yaş ve üzeri kullanıcılar için hazırlanmıştır. 30 tabletlik kutu, günde 1 tablet kullanımla yaklaşık bir aylık kullanım sağlar.</p>
+<h2>Özellikler</h2>
+<ul>
+<li>Her tablette 1000 mg C vitamini, D vitamini ve çinko içerir.</li>
+<li>C vitamini, D vitamini ve çinko bağışıklık sisteminin normal işleyişine katkıda bulunur.</li>
+<li>Suda hızlıca eriyen efervesan formdadır.</li>
+<li>Portakal aromalıdır.</li>
+<li>11 yaş ve üzeri için uygundur.</li>
+<li>30 tabletlik ambalajdadır.</li>
+</ul>
+<h2>İçerik</h2>
+<p>Ürün C vitamini (tablet başına 1000 mg), D vitamini ve çinko içerir. Efervesan tablet sodyum içerir. Diğer bileşenlerin ve miktarların tamamı ambalajdaki besin öğesi tablosunda yer alır.</p>
+<h2>Nasıl Kullanılır?</h2>
+<p>11 yaş ve üzeri için günde 1 efervesan tableti 1 bardak (200 ml) suda eritip, tercihen tok karnına için.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Tavsiye edilen günlük porsiyonu aşmayın. Hamilelik, emzirme döneminde veya bir rahatsızlığınız varsa kullanmadan önce doktorunuza danışın. Çocukların erişemeyeceği yerde saklayın. Tuz kısıtlaması olanlar kullanmadan önce hekime danışmalıdır; 11 yaş altı çocuklar ve bileşenlerinden birine hassasiyeti olanlar kullanmamalıdır.</p>
+<h2>Sık Sorulan Sorular</h2>
+<p><strong>Redoxon 3'lü Etki 30 efervesan tablet nedir?</strong><br>C vitamini, D vitamini ve çinkoyu tek tablette sunan, suda eriyen portakal aromalı bir takviye edici gıdadır; ilaç değildir.</p>
+<p><strong>Nasıl kullanılır?</strong><br>11 yaş ve üzeri için günde 1 tablet, 1 bardak (200 ml) suda eritilip tercihen tok karnına içilir.</p>
+<p><strong>30 tablet kaç gün kullanılır?</strong><br>Günde 1 tablet kullanımda yaklaşık bir aylık kullanım sağlar. Çocuklar için ayrıca çiğnenebilir Redoxon Kids bulunur.</p>
+</section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01066]]></Product_code>
@@ -74049,7 +74132,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Vücut İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>495.93</Price>
 <Price2>628.82</Price2>
@@ -75913,7 +75996,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>10</Stock>
+<Stock>7</Stock>
 <Miad></Miad>
 <Price>413.86</Price>
 <Price2>519.86</Price2>
@@ -87425,7 +87508,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>12</Stock>
 <Miad>2029-09-01</Miad>
 <Price>637.41</Price>
 <Price2>767.79</Price2>
