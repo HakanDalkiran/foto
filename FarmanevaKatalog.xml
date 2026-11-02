@@ -70703,9 +70703,9 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Dökülme Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>278.71</Price>
+<Price>278.70</Price>
 <Price2>370.72</Price2>
 <Price3>370.72</Price3>
 <Price4>375.81</Price4>
@@ -70713,7 +70713,7 @@
 <Price6>362.04</Price6>
 <Price7>644.60</Price7>
 <Price8>589.98</Price8>
-<Price9>362.04</Price9>
+<Price9>362.03</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IR9LHY</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01667</SaticiStokKodu>
@@ -83891,7 +83891,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>31</Stock>
+<Stock>30</Stock>
 <Miad>2029-06-01</Miad>
 <Price>338.21</Price>
 <Price2>422.56</Price2>
