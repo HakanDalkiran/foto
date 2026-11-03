@@ -302,8 +302,8 @@
 <Stock>4</Stock>
 <Miad>2027-08-01</Miad>
 <Price>414.71</Price>
-<Price2>520.85</Price2>
-<Price3>520.85</Price3>
+<Price2>520.87</Price2>
+<Price3>520.87</Price3>
 <Price4>540.25</Price4>
 <Price5>531.38</Price5>
 <Price6>522.52</Price6>
@@ -24637,7 +24637,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>37</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>36.46</Price>
 <Price2>82.88</Price2>
@@ -59876,8 +59876,8 @@
 <Stock>360</Stock>
 <Miad>2029-03-01</Miad>
 <Price>254.91</Price>
-<Price2>326.45</Price2>
-<Price3>326.45</Price3>
+<Price2>327.05</Price2>
+<Price3>327.05</Price3>
 <Price4>326.59</Price4>
 <Price5>319.27</Price5>
 <Price6>316.94</Price6>
