@@ -10188,7 +10188,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>98</Stock>
+<Stock>93</Stock>
 <Miad></Miad>
 <Price>399.41</Price>
 <Price2>514.14</Price2>
@@ -11926,7 +11926,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>26</Stock>
+<Stock>24</Stock>
 <Miad></Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -27130,7 +27130,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>102</Stock>
+<Stock>100</Stock>
 <Miad>2027-11-01</Miad>
 <Price>98.52</Price>
 <Price2>156.62</Price2>
@@ -48838,7 +48838,7 @@
 <category><![CDATA[Sporcu Ürünleri]]></category>
 <subCategory><![CDATA[Sporculara Özel Jel ve Kremler]]></subCategory>
 <Tax>10</Tax>
-<Stock>52</Stock>
+<Stock>50</Stock>
 <Miad>2031-01-01</Miad>
 <Price>81.60</Price>
 <Price2>131.16</Price2>
@@ -70485,7 +70485,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tens Cihazı Aksesuarları]]></category>
 <Tax>10</Tax>
-<Stock>283</Stock>
+<Stock>282</Stock>
 <Miad>2027-11-01</Miad>
 <Price>55.17</Price>
 <Price2>100.24</Price2>
