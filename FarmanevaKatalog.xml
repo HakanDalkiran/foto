@@ -914,8 +914,8 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Gazlı Bez & Kompres]]></subCategory>
 <Tax>10</Tax>
-<Stock>10</Stock>
-<Miad>2031-05-01</Miad>
+<Stock>36</Stock>
+<Miad>2030-06-01</Miad>
 <Price>58.57</Price>
 <Price2>104.22</Price2>
 <Price3>104.22</Price3>
@@ -1869,7 +1869,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>7</Stock>
+<Stock>5</Stock>
 <Miad>2027-06-01</Miad>
 <Price>467.41</Price>
 <Price2>571.64</Price2>
@@ -8070,7 +8070,7 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Protez Bakım]]></subCategory>
 <Tax>10</Tax>
-<Stock>374</Stock>
+<Stock>371</Stock>
 <Miad>2028-04-01</Miad>
 <Price>148.66</Price>
 <Price2>209.61</Price2>
@@ -10219,7 +10219,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>78</Stock>
+<Stock>76</Stock>
 <Miad></Miad>
 <Price>388.36</Price>
 <Price2>501.01</Price2>
@@ -18160,7 +18160,7 @@
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>20</Tax>
 <Stock>3</Stock>
-<Miad>2027-03-01</Miad>
+<Miad></Miad>
 <Price>35.61</Price>
 <Price2>81.87</Price2>
 <Price3>81.87</Price3>
@@ -20228,7 +20228,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>22</Stock>
+<Stock>23</Stock>
 <Miad>2029-05-01</Miad>
 <Price>823.56</Price>
 <Price2>1018.12</Price2>
@@ -22992,7 +22992,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>58</Stock>
+<Stock>57</Stock>
 <Miad>2029-12-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -23329,7 +23329,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tansiyon Aleti]]></category>
 <Tax>10</Tax>
-<Stock>34</Stock>
+<Stock>33</Stock>
 <Miad></Miad>
 <Price>594.06</Price>
 <Price2>730.67</Price2>
@@ -27599,7 +27599,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>79</Stock>
+<Stock>77</Stock>
 <Miad>2029-09-01</Miad>
 <Price>1691.41</Price>
 <Price2>1983.92</Price2>
@@ -28100,7 +28100,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>64</Stock>
+<Stock>62</Stock>
 <Miad>2029-08-01</Miad>
 <Price>590.66</Price>
 <Price2>713.85</Price2>
@@ -36260,7 +36260,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>2028-02-01</Miad>
 <Price>403.66</Price>
 <Price2>498.08</Price2>
@@ -37001,7 +37001,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>16</Stock>
+<Stock>15</Stock>
 <Miad>2028-02-01</Miad>
 <Price>279.56</Price>
 <Price2>354.89</Price2>
@@ -39057,7 +39057,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>20</Stock>
 <Miad>2028-07-01</Miad>
 <Price>195.41</Price>
 <Price2>257.80</Price2>
@@ -41557,7 +41557,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad></Miad>
 <Price>296.56</Price>
 <Price2>391.93</Price2>
@@ -41778,7 +41778,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>27</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>275.40</Price>
 <Price2>366.79</Price2>
@@ -42790,7 +42790,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Parfüm]]></subCategory>
 <Tax>20</Tax>
-<Stock>13</Stock>
+<Stock>11</Stock>
 <Miad></Miad>
 <Price>271.06</Price>
 <Price2>361.63</Price2>
@@ -48228,9 +48228,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-03-01</Miad>
-<Price>917.92</Price>
+<Price>917.91</Price>
 <Price2>1091.45</Price2>
 <Price3>1091.45</Price3>
 <Price4>1159.54</Price4>
@@ -48238,7 +48238,7 @@
 <Price6>1125.27</Price6>
 <Price7>1478.57</Price7>
 <Price8>1412.52</Price8>
-<Price9>1125.27</Price9>
+<Price9>1125.26</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>033984020573</HepsiburadaSku>
 <SaticiStokKodu>033984020573</SaticiStokKodu>
@@ -49590,7 +49590,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>54</Stock>
+<Stock>53</Stock>
 <Miad>2030-02-01</Miad>
 <Price>752.16</Price>
 <Price2>900.19</Price2>
@@ -49907,7 +49907,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>107</Stock>
+<Stock>105</Stock>
 <Miad>2028-01-01</Miad>
 <Price>760.66</Price>
 <Price2>910.00</Price2>
@@ -53238,7 +53238,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <Tax>10</Tax>
-<Stock>19</Stock>
+<Stock>17</Stock>
 <Miad></Miad>
 <Price>339.06</Price>
 <Price2>432.35</Price2>
@@ -62761,7 +62761,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>258</Stock>
+<Stock>260</Stock>
 <Miad>2028-01-01</Miad>
 <Price>442.00</Price>
 <Price2>564.74</Price2>
@@ -64435,7 +64435,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>1</Stock>
 <Miad>2029-02-01</Miad>
 <Price>628.83</Price>
 <Price2>757.89</Price2>
@@ -68621,7 +68621,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>46</Stock>
 <Miad>2028-08-01</Miad>
 <Price>1086.30</Price>
 <Price2>1285.73</Price2>
@@ -74260,7 +74260,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>26</Stock>
+<Stock>24</Stock>
 <Miad>2027-01-01</Miad>
 <Price>151.30</Price>
 <Price2>206.90</Price2>
@@ -76760,7 +76760,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>32</Stock>
+<Stock>33</Stock>
 <Miad>2029-03-01</Miad>
 <Price>773.50</Price>
 <Price2>958.64</Price2>
@@ -78195,7 +78195,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Pişik Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>94</Stock>
+<Stock>92</Stock>
 <Miad>2029-06-01</Miad>
 <Price>178.41</Price>
 <Price2>244.95</Price2>
@@ -78388,7 +78388,30 @@
 <Image2>https://www.farmaneva.com/uploads/urunler/8699546370603-1_ylzhf.webp</Image2>
 <Image3>https://www.farmaneva.com/uploads/urunler/8699546370603-2_4qn6e.webp</Image3>
 <Image4>https://www.farmaneva.com/uploads/urunler/8699546370603-3_l0scv.webp</Image4>
-<Description><![CDATA[<section> <p><strong>Bepanthol Tattoo D&#246;vme Bak&#305;m Kremi 50 gr</strong>, d&#246;vme sonras&#305; cildin ihtiya&#231; duydu&#287;u nemi kazand&#305;rmak ve esnekli&#287;ini korumak i&#231;in geli&#351;tirilmi&#351;, Provitamin B5 (dekspantenol) i&#231;eren yo&#287;un bak&#305;m kremidir. Yeni d&#246;vme yapt&#305;ran veya mevcut d&#246;vmesinin canl&#305;l&#305;&#287;&#305;n&#305; korumak isteyenler i&#231;in tasarlanm&#305;&#351;t&#305;r.</p> <h2>Bepanthol Tattoo D&#246;vme Bak&#305;m Kremi &#214;zellikleri</h2> <ul> <li>50 gr t&#252;p formunda sunulur.</li> <li>Provitamin B5 (dekspantenol) i&#231;erir.</li> <li>Yo&#287;un ama h&#305;zl&#305; emilen dokuya sahiptir, ya&#287;l&#305; his b&#305;rakmaz.</li> <li>D&#246;vmeli b&#246;lgede cildin do&#287;al bariyerini desteklemeye yard&#305;mc&#305; olur.</li> <li>Cildi yumu&#351;ak, p&#252;r&#252;zs&#252;z ve esnek tutmaya yard&#305;mc&#305; olur.</li> <li>Parf&#252;m i&#231;ermez, dermatolojik olarak test edilmi&#351;tir.</li> <li>D&#252;zenli kullan&#305;mda d&#246;vmeli b&#246;lgenin bak&#305;ml&#305; g&#246;r&#252;nmesine katk&#305; sa&#287;lar.</li> <li>G&#252;nl&#252;k bak&#305;m rutinine kolayca eklenir.</li> </ul> <h2>Nas&#305;l Kullan&#305;l&#305;r?</h2> <p>Temiz ve kuru d&#246;vmeli cilt &#252;zerine ince bir tabaka h&#226;linde s&#252;r&#252;l&#252;r. &#304;htiya&#231; duyulduk&#231;a, g&#252;nde birka&#231; kez tekrarlanabilir.</p> <h2>Uyar&#305;lar</h2> <p>Yaln&#305;zca haricen kullan&#305;m i&#231;indir. Yeni yap&#305;lm&#305;&#351; d&#246;vmede k&#305;zar&#305;kl&#305;k, tahri&#351; veya alerjik reaksiyon g&#246;r&#252;l&#252;rse kullan&#305;m&#305; b&#305;rak&#305;p hekiminize dan&#305;&#351;&#305;n. &#199;ocuklar&#305;n eri&#351;emeyece&#287;i yerde saklay&#305;n.</p> <p>D&#246;vmeli b&#246;lgesinin bak&#305;m&#305;n&#305; yapmak isteyenler Bepanthol Tattoo D&#246;vme Bak&#305;m Kremi'ni Farmaneva'da bulabilir.</p> </section>]]></Description>
+<Description><![CDATA[<p><strong>Bepanthol Tattoo D&ouml;vme Bakım Kremi 50 gr</strong>, d&ouml;vme sonrası cildin ihtiya&ccedil; duyduğu nemi kazandırmak ve esnekliğini korumak i&ccedil;in geliştirilmiş, Provitamin B5 (dekspantenol) i&ccedil;eren yoğun bakım kremidir. Yeni d&ouml;vme yaptıran veya mevcut d&ouml;vmesinin canlılığını korumak isteyenler i&ccedil;in tasarlanmıştır.</p>
+
+<h2>Bepanthol Tattoo D&ouml;vme Bakım Kremi &Ouml;zellikleri</h2>
+
+<ul>
+	<li>50 gr t&uuml;p formunda sunulur.</li>
+	<li>Provitamin B5 (dekspantenol) i&ccedil;erir.</li>
+	<li>Yoğun ama hızlı emilen dokuya sahiptir, yağlı his bırakmaz.</li>
+	<li>D&ouml;vmeli b&ouml;lgede cildin doğal bariyerini desteklemeye yardımcı olur.</li>
+	<li>Cildi yumuşak, p&uuml;r&uuml;zs&uuml;z ve esnek tutmaya yardımcı olur.</li>
+	<li>Parf&uuml;m i&ccedil;ermez, dermatolojik olarak test edilmiştir.</li>
+	<li>D&uuml;zenli kullanımda d&ouml;vmeli b&ouml;lgenin bakımlı g&ouml;r&uuml;nmesine katkı sağlar.</li>
+	<li>G&uuml;nl&uuml;k bakım rutinine kolayca eklenir.</li>
+</ul>
+
+<h2>Nasıl Kullanılır?</h2>
+
+<p>Temiz ve kuru d&ouml;vmeli cilt &uuml;zerine ince bir tabaka h&acirc;linde s&uuml;r&uuml;l&uuml;r. İhtiya&ccedil; duyulduk&ccedil;a, g&uuml;nde birka&ccedil; kez tekrarlanabilir.</p>
+
+<h2>Uyarılar</h2>
+
+<p>Yalnızca haricen kullanım i&ccedil;indir. Yeni yapılmış d&ouml;vmede kızarıklık, tahriş veya alerjik reaksiyon g&ouml;r&uuml;l&uuml;rse kullanımı bırakıp hekiminize danışın. &Ccedil;ocukların erişemeyeceği yerde saklayın.</p>
+
+<p>D&ouml;vmeli b&ouml;lgesinin bakımını yapmak isteyenler Bepanthol Tattoo D&ouml;vme Bakım Kremi&#39;ni Farmaneva&#39;da bulabilir.</p>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01900]]></Product_code>
@@ -78747,7 +78770,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>7</Stock>
 <Miad>2028-06-01</Miad>
 <Price>382.49</Price>
 <Price2>483.16</Price2>
@@ -79173,7 +79196,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2029-07-01</Miad>
 <Price>348.41</Price>
 <Price2>434.33</Price2>
@@ -79690,7 +79713,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>81</Stock>
+<Stock>79</Stock>
 <Miad>2029-08-01</Miad>
 <Price>266.81</Price>
 <Price2>340.18</Price2>
@@ -80230,7 +80253,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>11</Stock>
 <Miad>2029-02-01</Miad>
 <Price>462.31</Price>
 <Price2>565.75</Price2>
@@ -80401,7 +80424,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>2028-06-01</Miad>
 <Price>899.22</Price>
 <Price2>1069.87</Price2>
@@ -81838,7 +81861,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Cinsel Sağlık Ürünleri]]></category>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>44</Stock>
 <Miad>2029-03-01</Miad>
 <Price>157.16</Price>
 <Price2>226.29</Price2>
@@ -82230,7 +82253,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>98</Stock>
+<Stock>95</Stock>
 <Miad>2029-09-01</Miad>
 <Price>378.25</Price>
 <Price2>468.76</Price2>
@@ -82288,7 +82311,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>46</Stock>
 <Miad>2029-04-01</Miad>
 <Price>552.41</Price>
 <Price2>669.71</Price2>
@@ -83517,7 +83540,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>71</Stock>
+<Stock>70</Stock>
 <Miad>2029-09-01</Miad>
 <Price>348.41</Price>
 <Price2>434.33</Price2>
@@ -84417,7 +84440,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>120</Stock>
+<Stock>116</Stock>
 <Miad>2029-09-01</Miad>
 <Price>420.66</Price>
 <Price2>517.70</Price2>
@@ -84473,7 +84496,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>19</Stock>
+<Stock>18</Stock>
 <Miad>2029-08-01</Miad>
 <Price>764.15</Price>
 <Price2>914.03</Price2>
@@ -84861,7 +84884,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
 <Tax>1</Tax>
-<Stock>166</Stock>
+<Stock>164</Stock>
 <Miad>2028-01-01</Miad>
 <Price>190.31</Price>
 <Price2>251.91</Price2>
