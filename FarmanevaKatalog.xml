@@ -10187,7 +10187,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>88</Stock>
+<Stock>86</Stock>
 <Miad></Miad>
 <Price>399.41</Price>
 <Price2>514.14</Price2>
@@ -10218,7 +10218,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>61</Stock>
+<Stock>60</Stock>
 <Miad></Miad>
 <Price>399.41</Price>
 <Price2>514.14</Price2>
@@ -10762,7 +10762,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
-<Stock>111</Stock>
+<Stock>110</Stock>
 <Miad></Miad>
 <Price>482.71</Price>
 <Price2>613.12</Price2>
@@ -53591,7 +53591,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>68</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>1274.07</Price>
 <Price2>1526.19</Price2>
@@ -56487,7 +56487,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Tonik]]></subCategory>
 <Tax>20</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2028-04-01</Miad>
 <Price>424.06</Price>
 <Price2>543.43</Price2>
@@ -56653,15 +56653,15 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad>2028-09-01</Miad>
-<Price>573.75</Price>
-<Price2>721.29</Price2>
-<Price3>721.29</Price3>
-<Price4>765.25</Price4>
-<Price5>754.46</Price5>
-<Price6>737.22</Price6>
-<Price7>1105.60</Price7>
-<Price8>1034.32</Price8>
-<Price9>737.22</Price9>
+<Price>594.06</Price>
+<Price2>745.42</Price2>
+<Price3>745.42</Price3>
+<Price4>792.05</Price4>
+<Price5>781.16</Price5>
+<Price6>763.05</Price6>
+<Price7>1137.34</Price7>
+<Price8>1064.91</Price8>
+<Price9>763.05</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0DXK5</HepsiburadaSku>
 <SaticiStokKodu>850069595807</SaticiStokKodu>
@@ -56964,7 +56964,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>161</Stock>
+<Stock>160</Stock>
 <Miad>2028-08-01</Miad>
 <Price>433.50</Price>
 <Price2>554.64</Price2>
@@ -59778,7 +59778,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Cilt Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad>2028-04-01</Miad>
 <Price>2037.45</Price>
 <Price2>2460.48</Price2>
