@@ -8297,15 +8297,15 @@
 <Tax>20</Tax>
 <Stock>8</Stock>
 <Miad></Miad>
-<Price>232.73</Price>
-<Price2>316.09</Price2>
-<Price3>316.09</Price3>
-<Price4>315.11</Price4>
-<Price5>306.03</Price5>
-<Price6>303.57</Price6>
-<Price7>572.76</Price7>
-<Price8>520.74</Price8>
-<Price9>303.57</Price9>
+<Price>242.16</Price>
+<Price2>327.29</Price2>
+<Price3>327.29</Price3>
+<Price4>327.56</Price4>
+<Price5>318.43</Price5>
+<Price6>315.56</Price6>
+<Price7>587.49</Price7>
+<Price8>534.94</Price8>
+<Price9>315.56</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLA7Y</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00224</SaticiStokKodu>
@@ -10218,7 +10218,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>67</Stock>
+<Stock>68</Stock>
 <Miad></Miad>
 <Price>388.36</Price>
 <Price2>501.01</Price2>
@@ -17201,9 +17201,9 @@
 <category><![CDATA[Organik & Doğal]]></category>
 <subCategory><![CDATA[Doğal Ürünler]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2028-01-01</Miad>
-<Price>169.91</Price>
+<Price>169.90</Price>
 <Price2>241.44</Price2>
 <Price3>241.44</Price3>
 <Price4>232.19</Price4>
@@ -17211,7 +17211,7 @@
 <Price6>223.69</Price6>
 <Price7>474.60</Price7>
 <Price8>412.03</Price8>
-<Price9>223.69</Price9>
+<Price9>223.68</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8681511095000</HepsiburadaSku>
 <SaticiStokKodu>8681511095000</SaticiStokKodu>
@@ -22371,7 +22371,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Nebulizatör]]></category>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>679.06</Price>
 <Price2>830.11</Price2>
@@ -36292,7 +36292,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>28</Stock>
+<Stock>24</Stock>
 <Miad>2028-07-01</Miad>
 <Price>195.41</Price>
 <Price2>257.80</Price2>
@@ -56831,7 +56831,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>253</Stock>
+<Stock>254</Stock>
 <Miad>2028-01-01</Miad>
 <Price>469.96</Price>
 <Price2>597.97</Price2>
