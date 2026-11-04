@@ -10218,7 +10218,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>68</Stock>
+<Stock>67</Stock>
 <Miad></Miad>
 <Price>388.36</Price>
 <Price2>501.01</Price2>
@@ -22371,7 +22371,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Nebulizatör]]></category>
 <Tax>10</Tax>
-<Stock>6</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>679.06</Price>
 <Price2>830.11</Price2>
@@ -27101,7 +27101,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>124</Stock>
+<Stock>120</Stock>
 <Miad>2027-11-01</Miad>
 <Price>90.95</Price>
 <Price2>147.62</Price2>
@@ -35000,7 +35000,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>106</Stock>
+<Stock>105</Stock>
 <Miad>2028-12-01</Miad>
 <Price>1388.90</Price>
 <Price2>1634.88</Price2>
@@ -56831,17 +56831,17 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>254</Stock>
+<Stock>253</Stock>
 <Miad>2028-01-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>469.96</Price>
+<Price2>597.97</Price2>
+<Price3>597.97</Price3>
+<Price4>628.25</Price4>
+<Price5>617.98</Price5>
+<Price6>605.24</Price6>
+<Price7>943.43</Price7>
+<Price8>878.01</Price8>
+<Price9>605.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -62826,7 +62826,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>645.91</Price>
 <Price2>807.03</Price2>
@@ -73577,7 +73577,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>86</Stock>
+<Stock>85</Stock>
 <Miad>2029-08-01</Miad>
 <Price>498.01</Price>
 <Price2>606.95</Price2>
