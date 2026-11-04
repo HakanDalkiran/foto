@@ -10606,7 +10606,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>56</Stock>
+<Stock>52</Stock>
 <Miad></Miad>
 <Price>360.40</Price>
 <Price2>467.79</Price2>
@@ -23143,7 +23143,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tens Cihazı Aksesuarları]]></category>
 <Tax>10</Tax>
-<Stock>57</Stock>
+<Stock>56</Stock>
 <Miad></Miad>
 <Price>1274.15</Price>
 <Price2>1526.28</Price2>
@@ -73746,7 +73746,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
-<Stock>47</Stock>
+<Stock>46</Stock>
 <Miad>2029-01-01</Miad>
 <Price>244.71</Price>
 <Price2>314.68</Price2>
