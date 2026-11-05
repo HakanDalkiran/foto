@@ -76500,8 +76500,8 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Nazal Aspiratör]]></category>
 <Tax>10</Tax>
-<Stock>35</Stock>
-<Miad>2026-12-01</Miad>
+<Stock>31</Stock>
+<Miad>2030-04-01</Miad>
 <Price>100.22</Price>
 <Price2>152.94</Price2>
 <Price3>152.94</Price3>
@@ -76699,7 +76699,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>228.56</Price>
 <Price2>311.13</Price2>
@@ -76726,7 +76726,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>10</Stock>
 <Miad></Miad>
 <Price>206.47</Price>
 <Price2>284.88</Price2>
@@ -77342,15 +77342,15 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>635.71</Price>
-<Price2>794.91</Price2>
-<Price3>794.91</Price3>
-<Price4>847.03</Price4>
-<Price5>835.93</Price5>
-<Price6>816.01</Price6>
-<Price7>1202.42</Price7>
-<Price8>1127.64</Price8>
-<Price9>816.01</Price9>
+<Price>636.65</Price>
+<Price2>796.03</Price2>
+<Price3>796.03</Price3>
+<Price4>848.27</Price4>
+<Price5>837.17</Price5>
+<Price6>817.20</Price6>
+<Price7>1203.88</Price7>
+<Price8>1129.05</Price8>
+<Price9>817.20</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3600523456253</HepsiburadaSku>
 <SaticiStokKodu>3600523456253</SaticiStokKodu>
@@ -77370,15 +77370,15 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>628.06</Price>
-<Price2>785.82</Price2>
-<Price3>785.82</Price3>
-<Price4>836.93</Price4>
-<Price5>825.87</Price5>
-<Price6>806.28</Price6>
-<Price7>1190.46</Price7>
-<Price8>1116.11</Price8>
-<Price9>806.28</Price9>
+<Price>636.56</Price>
+<Price2>795.92</Price2>
+<Price3>795.92</Price3>
+<Price4>848.15</Price4>
+<Price5>837.05</Price5>
+<Price6>817.09</Price6>
+<Price7>1203.74</Price7>
+<Price8>1128.92</Price8>
+<Price9>817.09</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3600522480082</HepsiburadaSku>
 <SaticiStokKodu>3600522480082</SaticiStokKodu>
@@ -77427,15 +77427,15 @@
 <Tax>20</Tax>
 <Stock>2</Stock>
 <Miad></Miad>
-<Price>603.41</Price>
-<Price2>756.53</Price2>
-<Price3>756.53</Price3>
-<Price4>804.40</Price4>
-<Price5>793.46</Price5>
-<Price6>774.94</Price6>
-<Price7>1151.95</Price7>
-<Price8>1078.99</Price8>
-<Price9>774.94</Price9>
+<Price>644.21</Price>
+<Price2>805.01</Price2>
+<Price3>805.01</Price3>
+<Price4>858.25</Price4>
+<Price5>847.11</Price5>
+<Price6>826.82</Price6>
+<Price7>1215.70</Price7>
+<Price8>1140.44</Price8>
+<Price9>826.82</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3600522365044</HepsiburadaSku>
 <SaticiStokKodu>3600522365044</SaticiStokKodu>
@@ -77481,7 +77481,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>261</Stock>
 <Miad>2029-07-01</Miad>
 <Price>365.41</Price>
 <Price2>453.95</Price2>
@@ -77592,7 +77592,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>2030-09-01</Miad>
 <Price>488.66</Price>
 <Price2>620.19</Price2>
@@ -77620,7 +77620,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>2030-10-01</Miad>
 <Price>488.66</Price>
 <Price2>620.19</Price2>
@@ -77648,7 +77648,7 @@
 <mainCategory><![CDATA[Anne & Bebek]]></mainCategory>
 <category><![CDATA[Bebek Bakımı]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>8</Stock>
 <Miad>2030-10-01</Miad>
 <Price>488.66</Price>
 <Price2>620.19</Price2>
@@ -77787,7 +77787,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1168.75</Price>
 <Price2>1428.28</Price2>
