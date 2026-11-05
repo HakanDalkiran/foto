@@ -10187,7 +10187,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>86</Stock>
+<Stock>85</Stock>
 <Miad></Miad>
 <Price>399.41</Price>
 <Price2>514.14</Price2>
@@ -14885,7 +14885,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>101.92</Price>
 <Price2>160.66</Price2>
@@ -75595,9 +75595,9 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Saç Serumu]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>197.97</Price>
+<Price>197.96</Price>
 <Price2>274.78</Price2>
 <Price3>274.78</Price3>
 <Price4>269.23</Price4>
@@ -75605,7 +75605,7 @@
 <Price6>259.37</Price6>
 <Price7>518.45</Price7>
 <Price8>454.29</Price8>
-<Price9>259.37</Price9>
+<Price9>259.36</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000OP17GW</HepsiburadaSku>
 <SaticiStokKodu>FRMNV02096</SaticiStokKodu>
