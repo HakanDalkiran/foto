@@ -1,1 +1,1 @@
-https://obtaining-holes-hockey-landscape.trycloudflare.com
+https://api.trycloudflare.com
