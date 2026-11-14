@@ -22002,7 +22002,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
 <Price>284.75</Price>
 <Price2>377.90</Price2>
@@ -28878,7 +28878,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>145</Stock>
+<Stock>146</Stock>
 <Miad>2027-04-01</Miad>
 <Price>291.46</Price>
 <Price2>368.62</Price2>
@@ -35839,7 +35839,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>34</Stock>
+<Stock>35</Stock>
 <Miad>2027-11-01</Miad>
 <Price>350.20</Price>
 <Price2>436.40</Price2>
@@ -61620,9 +61620,9 @@
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
-<Price>144.40</Price>
+<Price>144.41</Price>
 <Price2>211.14</Price2>
 <Price3>211.14</Price3>
 <Price4>198.53</Price4>
@@ -61630,7 +61630,7 @@
 <Price6>191.26</Price6>
 <Price7>434.76</Price7>
 <Price8>373.63</Price8>
-<Price9>191.25</Price9>
+<Price9>191.26</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IRC7TT</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01686</SaticiStokKodu>
@@ -64034,7 +64034,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>3</Stock>
 <Miad>2029-04-01</Miad>
 <Price>692.66</Price>
 <Price2>831.54</Price2>
@@ -66151,7 +66151,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>57</Stock>
+<Stock>61</Stock>
 <Miad>2027-09-01</Miad>
 <Price>496.31</Price>
 <Price2>604.98</Price2>
@@ -73211,7 +73211,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>12</Stock>
 <Miad>2029-03-01</Miad>
 <Price>184.11</Price>
 <Price2>244.76</Price2>
