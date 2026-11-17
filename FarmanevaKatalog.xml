@@ -13959,17 +13959,17 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>2</Stock>
 <Miad></Miad>
-<Price>244.90</Price>
-<Price2>330.55</Price2>
-<Price3>330.55</Price3>
-<Price4>331.18</Price4>
-<Price5>322.03</Price5>
-<Price6>319.05</Price6>
-<Price7>591.78</Price7>
-<Price8>539.07</Price8>
-<Price9>319.05</Price9>
+<Price>243.01</Price>
+<Price2>328.30</Price2>
+<Price3>328.30</Price3>
+<Price4>328.68</Price4>
+<Price5>319.55</Price5>
+<Price6>316.65</Price6>
+<Price7>588.82</Price7>
+<Price8>536.22</Price8>
+<Price9>316.65</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL8YP</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00389</SaticiStokKodu>
@@ -72880,7 +72880,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>13</Stock>
+<Stock>10</Stock>
 <Miad>2027-07-01</Miad>
 <Price>339.91</Price>
 <Price2>424.53</Price2>
