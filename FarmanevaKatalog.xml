@@ -32923,7 +32923,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[C Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>143</Stock>
+<Stock>142</Stock>
 <Miad>2029-02-01</Miad>
 <Price>178.41</Price>
 <Price2>238.18</Price2>
@@ -33041,7 +33041,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>158</Stock>
+<Stock>154</Stock>
 <Miad>2029-05-01</Miad>
 <Price>171.70</Price>
 <Price2>230.44</Price2>
@@ -54006,15 +54006,15 @@
 <Tax>20</Tax>
 <Stock>230</Stock>
 <Miad>2028-01-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>469.96</Price>
+<Price2>597.97</Price2>
+<Price3>597.97</Price3>
+<Price4>628.25</Price4>
+<Price5>617.98</Price5>
+<Price6>605.24</Price6>
+<Price7>943.43</Price7>
+<Price8>878.01</Price8>
+<Price9>605.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -54062,15 +54062,15 @@
 <Tax>20</Tax>
 <Stock>149</Stock>
 <Miad>2028-08-01</Miad>
-<Price>433.50</Price>
-<Price2>554.64</Price2>
-<Price3>554.64</Price3>
-<Price4>580.12</Price4>
-<Price5>570.03</Price5>
-<Price6>558.88</Price6>
-<Price7>886.46</Price7>
-<Price8>823.10</Price8>
-<Price9>558.88</Price9>
+<Price>531.00</Price>
+<Price2>670.49</Price2>
+<Price3>670.49</Price3>
+<Price4>708.82</Price4>
+<Price5>698.24</Price5>
+<Price6>682.86</Price6>
+<Price7>1038.81</Price7>
+<Price8>969.94</Price8>
+<Price9>682.86</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0EBAG</HepsiburadaSku>
 <SaticiStokKodu>850069595845</SaticiStokKodu>
@@ -66360,7 +66360,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>49</Stock>
+<Stock>45</Stock>
 <Miad>2029-04-01</Miad>
 <Price>199.66</Price>
 <Price2>276.79</Price2>
@@ -72382,7 +72382,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>93</Stock>
+<Stock>92</Stock>
 <Miad>2029-09-01</Miad>
 <Price>568.56</Price>
 <Price2>688.35</Price2>
