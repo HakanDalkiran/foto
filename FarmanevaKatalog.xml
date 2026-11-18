@@ -17544,17 +17544,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-12-01</Miad>
-<Price>246.00</Price>
-<Price2>316.17</Price2>
-<Price3>316.17</Price3>
-<Price4>315.40</Price4>
-<Price5>308.11</Price5>
-<Price6>306.08</Price6>
-<Price7>514.56</Price7>
-<Price8>464.67</Price8>
-<Price9>306.08</Price9>
+<Price>338.30</Price>
+<Price2>422.67</Price2>
+<Price3>422.67</Price3>
+<Price4>431.36</Price4>
+<Price5>423.72</Price5>
+<Price6>418.61</Price6>
+<Price7>646.98</Price7>
+<Price8>604.35</Price8>
+<Price9>418.61</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLAV6</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00487</SaticiStokKodu>
