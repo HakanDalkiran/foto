@@ -7564,17 +7564,17 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-03-01</Miad>
-<Price>126.65</Price>
-<Price2>178.46</Price2>
-<Price3>178.46</Price3>
-<Price4>165.46</Price4>
-<Price5>158.63</Price5>
-<Price6>160.57</Price6>
-<Price7>337.74</Price7>
-<Price8>298.26</Price8>
-<Price9>160.57</Price9>
+<Stock>314</Stock>
+<Miad>2028-01-01</Miad>
+<Price>165.66</Price>
+<Price2>223.47</Price2>
+<Price3>223.47</Price3>
+<Price4>214.47</Price4>
+<Price5>207.49</Price5>
+<Price6>208.13</Price6>
+<Price7>399.29</Price7>
+<Price8>352.65</Price8>
+<Price9>208.13</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8699293110576</HepsiburadaSku>
 <SaticiStokKodu>8699293110576</SaticiStokKodu>
@@ -16713,7 +16713,7 @@
 <category><![CDATA[Anne Bakımı]]></category>
 <subCategory><![CDATA[Göğüs Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>3</Stock>
 <Miad>2026-12-01</Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -31750,7 +31750,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>23</Stock>
+<Stock>22</Stock>
 <Miad>2028-01-01</Miad>
 <Price>565.16</Price>
 <Price2>684.42</Price2>
@@ -64903,7 +64903,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>2</Stock>
+<Stock>0</Stock>
 <Miad>2029-07-01</Miad>
 <Price>781.91</Price>
 <Price2>934.52</Price2>
