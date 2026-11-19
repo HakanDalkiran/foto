@@ -16713,7 +16713,7 @@
 <category><![CDATA[Anne Bakımı]]></category>
 <subCategory><![CDATA[Göğüs Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>4</Stock>
 <Miad>2026-12-01</Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -41415,7 +41415,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>5</Stock>
 <Miad>2027-03-01</Miad>
 <Price>175.01</Price>
 <Price2>247.50</Price2>
@@ -44496,17 +44496,17 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2028-05-01</Miad>
-<Price>419.99</Price>
-<Price2>527.03</Price2>
-<Price3>527.03</Price3>
-<Price4>547.04</Price4>
-<Price5>538.15</Price5>
-<Price6>529.08</Price6>
-<Price7>809.96</Price7>
-<Price8>756.66</Price8>
-<Price9>529.08</Price9>
+<Stock>374</Stock>
+<Miad>2026-12-01</Miad>
+<Price>474.21</Price>
+<Price2>590.46</Price2>
+<Price3>590.46</Price3>
+<Price4>616.75</Price4>
+<Price5>607.62</Price5>
+<Price6>596.51</Price6>
+<Price7>890.89</Price7>
+<Price8>835.01</Price8>
+<Price9>596.51</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>3662042004193</HepsiburadaSku>
 <SaticiStokKodu>3662042004193</SaticiStokKodu>
@@ -63398,7 +63398,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>51</Stock>
+<Stock>56</Stock>
 <Miad>2027-09-01</Miad>
 <Price>496.31</Price>
 <Price2>604.98</Price2>
@@ -68139,7 +68139,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>33</Stock>
+<Stock>34</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1957.46</Price>
 <Price2>2290.90</Price2>
@@ -70431,7 +70431,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>11</Stock>
 <Miad>2029-03-01</Miad>
 <Price>184.11</Price>
 <Price2>244.76</Price2>
@@ -82635,7 +82635,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>465</Stock>
+<Stock>466</Stock>
 <Miad>2027-10-01</Miad>
 <Price>641.66</Price>
 <Price2>772.69</Price2>
@@ -82662,7 +82662,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Genel Takviye Edici Gıda]]></category>
 <Tax>1</Tax>
-<Stock>32</Stock>
+<Stock>33</Stock>
 <Miad>2030-06-01</Miad>
 <Price>254.06</Price>
 <Price2>325.47</Price2>
