@@ -16713,7 +16713,7 @@
 <category><![CDATA[Anne Bakımı]]></category>
 <subCategory><![CDATA[Göğüs Bakımı]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2026-12-01</Miad>
 <Price>297.41</Price>
 <Price2>392.94</Price2>
@@ -41879,7 +41879,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>288</Stock>
+<Stock>287</Stock>
 <Miad>2026-12-01</Miad>
 <Price>382.41</Price>
 <Price2>473.56</Price2>
@@ -63389,7 +63389,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>41</Stock>
+<Stock>39</Stock>
 <Miad>2027-09-01</Miad>
 <Price>496.31</Price>
 <Price2>604.98</Price2>
