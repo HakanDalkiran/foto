@@ -27543,9 +27543,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad></Miad>
-<Price>454.90</Price>
+<Stock>50</Stock>
+<Miad>2027-02-01</Miad>
+<Price>300.00</Price>
 <Price2>557.20</Price2>
 <Price3>557.20</Price3>
 <Price4>577.84</Price4>
@@ -27553,7 +27553,7 @@
 <Price6>560.76</Price6>
 <Price7>814.27</Price7>
 <Price8>766.93</Price8>
-<Price9>560.76</Price9>
+<Price9>900.00</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>8697796000790</HepsiburadaSku>
 <SaticiStokKodu>8697796000790</SaticiStokKodu>
