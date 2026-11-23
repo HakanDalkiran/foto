@@ -5481,17 +5481,17 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
-<Price>355.21</Price>
-<Price2>461.62</Price2>
-<Price3>461.62</Price3>
-<Price4>476.78</Price4>
-<Price5>467.09</Price5>
-<Price6>459.32</Price6>
-<Price7>764.13</Price7>
-<Price8>705.20</Price8>
-<Price9>459.32</Price9>
+<Price>352.66</Price>
+<Price2>458.59</Price2>
+<Price3>458.59</Price3>
+<Price4>473.42</Price4>
+<Price5>463.73</Price5>
+<Price6>456.08</Price6>
+<Price7>760.15</Price7>
+<Price8>701.36</Price8>
+<Price9>456.08</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQL8VD</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00159</SaticiStokKodu>
@@ -27706,7 +27706,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>132</Stock>
+<Stock>133</Stock>
 <Miad>2027-04-01</Miad>
 <Price>291.46</Price>
 <Price2>368.62</Price2>
@@ -66285,7 +66285,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[El Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>50</Stock>
+<Stock>32</Stock>
 <Miad>2027-06-01</Miad>
 <Price>391.85</Price>
 <Price2>505.15</Price2>
@@ -71646,7 +71646,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <Tax>10</Tax>
-<Stock>4</Stock>
+<Stock>0</Stock>
 <Miad>2031-01-01</Miad>
 <Price>762.45</Price>
 <Price2>927.66</Price2>
