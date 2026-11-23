@@ -20978,7 +20978,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>410</Stock>
+<Stock>409</Stock>
 <Miad>2030-03-01</Miad>
 <Price>1149.97</Price>
 <Price2>1359.20</Price2>
@@ -22307,7 +22307,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>42</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>38.92</Price>
 <Price2>85.80</Price2>
@@ -51697,8 +51697,8 @@
 <Stock>236</Stock>
 <Miad>2029-03-01</Miad>
 <Price>266.90</Price>
-<Price2>340.28</Price2>
-<Price3>340.28</Price3>
+<Price2>340.88</Price2>
+<Price3>340.88</Price3>
 <Price4>341.65</Price4>
 <Price5>334.29</Price5>
 <Price6>331.56</Price6>
