@@ -1,0 +1,30 @@
+name: xml-bekci
+# Dis nobetci (Otomasyon, Mudur onayi 23.11.2026): Pages'teki FarmanevaKatalog.xml Last-Modified >= 45 dk ise
+# calisma BASARISIZ olur -> GitHub hesap mailine "Run failed" bildirimi gider. Gizli anahtar kullanmaz.
+# Geri alma: bu dosyayi sil (ya da Actions > xml-bekci > Disable workflow).
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+    inputs:
+      esik:
+        description: "esik (dakika)"
+        default: "45"
+permissions: {}
+jobs:
+  kontrol:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Pages XML yasi
+        run: |
+          ESIK=${{ github.event.inputs.esik || '45' }}
+          LM=$(curl -sI -m 60 --retry 3 https://hakandalkiran.github.io/foto/FarmanevaKatalog.xml | grep -i '^last-modified:' | cut -d' ' -f2- | tr -d '\r')
+          [ -n "$LM" ] || { echo "::error::Last-Modified okunamadi"; exit 1; }
+          YAS=$(( ( $(date -u +%s) - $(date -u -d "$LM" +%s) ) / 60 ))
+          echo "Last-Modified: $LM  yas: $YAS dk  esik: $ESIK dk"
+          if [ "$YAS" -ge "$ESIK" ]; then
+            # ilk 45 dk her calisma mail; sonra 6 saatte bir hatirlatma
+            if [ "$GITHUB_EVENT_NAME" = "schedule" ] && [ $(( (YAS - ESIK) % 360 )) -ge 45 ]; then echo "alarm zaten verildi, sessiz"; exit 0; fi
+            echo "::error::FarmanevaKatalog.xml $YAS dk eski (isci PC / github_yayin?)"; exit 1
+          fi
