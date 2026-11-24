@@ -28664,7 +28664,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Cilt Bakım Yağları]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>1189.07</Price>
 <Price2>1452.42</Price2>
@@ -32359,7 +32359,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Koenzim Q10]]></category>
 <Tax>1</Tax>
-<Stock>56</Stock>
+<Stock>55</Stock>
 <Miad>2027-06-01</Miad>
 <Price>568.56</Price>
 <Price2>688.35</Price2>
@@ -48811,7 +48811,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Sabun]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>260.95</Price>
 <Price2>349.62</Price2>
@@ -66745,17 +66745,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>4</Stock>
 <Miad>2026-12-01</Miad>
-<Price>560.91</Price>
-<Price2>679.52</Price2>
-<Price3>679.52</Price3>
-<Price4>711.02</Price4>
-<Price5>702.54</Price5>
-<Price6>690.01</Price6>
-<Price7>966.36</Price7>
-<Price8>914.74</Price8>
-<Price9>690.01</Price9>
+<Price>594.91</Price>
+<Price2>718.75</Price2>
+<Price3>718.75</Price3>
+<Price4>753.74</Price4>
+<Price5>745.12</Price5>
+<Price6>731.46</Price6>
+<Price7>1015.14</Price7>
+<Price8>962.15</Price8>
+<Price9>731.46</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>33984018358</HepsiburadaSku>
 <SaticiStokKodu>33984018358</SaticiStokKodu>
