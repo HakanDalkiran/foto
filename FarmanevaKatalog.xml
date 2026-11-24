@@ -1485,7 +1485,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>9</Stock>
 <Miad>2027-09-01</Miad>
 <Price>823.56</Price>
 <Price2>982.57</Price2>
@@ -1808,16 +1808,16 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>10</Stock>
 <Miad>2027-10-01</Miad>
-<Price>423.30</Price>
+<Price>345.00</Price>
 <Price2>520.74</Price2>
 <Price3>520.74</Price3>
 <Price4>538.14</Price4>
 <Price5>530.18</Price5>
 <Price6>522.24</Price6>
-<Price7>768.93</Price7>
-<Price8>722.87</Price8>
+<Price7>699.00</Price7>
+<Price8>699.00</Price8>
 <Price9>522.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKZ70</HepsiburadaSku>
@@ -1905,7 +1905,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>9</Stock>
 <Miad>2027-03-01</Miad>
 <Price>296.56</Price>
 <Price2>374.51</Price2>
@@ -2068,6 +2068,61 @@
 <p>Takviye edici g&#305;dad&#305;r; ila&#231; de&#287;ildir. Hastal&#305;klar&#305;n &#246;nlenmesi veya tedavisi amac&#305;yla kullan&#305;lamaz. Tavsiye edilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n&#305;z. &#199;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z. Hamilelik ve emzirme d&#246;neminde ya da d&#252;zenli ila&#231; kullan&#305;m&#305; durumunda mutlaka doktorunuza dan&#305;&#351;&#305;n&#305;z.</p>
 <p>Armin Resverol &#350;urup'u Farmaneva g&#252;vencesiyle sipari&#351; edebilirsiniz.</p>
 </section><p>Takviye edici g&#305;dad&#305;r. &#304;la&#231; de&#287;ildir; hastal&#305;klar&#305;n &#246;nlenmesi veya tedavi edilmesi amac&#305;yla kullan&#305;lmaz. Normal beslenmenin yerine ge&#231;mez. &#214;nerilen g&#252;nl&#252;k porsiyonu a&#351;may&#305;n&#305;z; &#231;ocuklar&#305;n ula&#351;amayaca&#287;&#305; yerde saklay&#305;n&#305;z.</p>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00071]]></Product_code>
+<Barcode>8699856710083</Barcode>
+<Name><![CDATA[Artelac Advanced Göz Damlası 0,5 ml x 30 Adet]]></Name>
+<Brand><![CDATA[Artelac]]></Brand>
+<mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
+<category><![CDATA[Göz Bakımı]]></category>
+<subCategory><![CDATA[Göz Damlası]]></subCategory>
+<Tax>10</Tax>
+<Stock>7</Stock>
+<Miad>2028-02-01</Miad>
+<Price>370.00</Price>
+<Price2>571.00</Price2>
+<Price3>570.00</Price3>
+<Price4>571.00</Price4>
+<Price5>571.00</Price5>
+<Price6>571.00</Price6>
+<Price7>792.06</Price7>
+<Price8>739.34</Price8>
+<Price9>571.00</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>8699856710083</HepsiburadaSku>
+<SaticiStokKodu>8699856710083</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/artelac-advanced-goz-damlasi-0-5-ml-x-30-adet-7885.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/8699856710083-1_urbfe.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/8699856710083-2_859vs.webp</Image3>
+<Description><![CDATA[<section>
+<p><strong>Artelac Advanced Göz Damlası 0,5 ml x 30 Adet</strong>, %0,2 hyaluronik asit içeren, kuru ve yorgun gözleri nemlendirmeye yardımcı bir göz damlasıdır. Tek kullanımlık flakonlarda sunulan koruyucu içermeyen formülü hassas gözler ve kontakt lens kullanıcıları için uygundur.</p>
+<h2>Artelac Advanced Göz Damlası 0,5 ml x 30 Adet Özellikleri</h2>
+<ul>
+<li>%0,2 hyaluronik asit içerir.</li>
+<li>Göz yüzeyinde uzun süreli nemlendirme desteği sağlar.</li>
+<li>Koruyucu madde içermeyen formülü hassas gözlere uygundur.</li>
+<li>Kuruluk, yanma ve batma hissini hafifletmeye yardımcı olur.</li>
+<li>Kontakt lens kullanıcıları için uygundur.</li>
+<li>Ekran kullanımı, klima ve rüzgar gibi etkenlere bağlı göz kuruluğunda destek sunar.</li>
+<li>0,5 ml'lik 30 adet tek kullanımlık flakon içerir.</li>
+<li>Tek doz flakonlar hijyenik kullanım sağlar ve çantada kolayca taşınır.</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Flakonu açtıktan sonra başınızı hafifçe geriye eğin, alt göz kapağınızı nazikçe aşağı çekin ve göze bir damla damlatın. İhtiyaç duyuldukça gün içinde tekrarlanabilir; ayrıntılı kullanım bilgisi için ambalaj talimatını inceleyin.</p>
+<p>Göz kuruluğunun olası nedenlerini <a href="https://www.farmaneva.com/goz-kurulugu-neden-olur">göz kuruluğu neden olur</a> yazımızda derledik.</p>
+<h2>Uyarılar</h2>
+<p>Flakon ucunu göze veya başka bir yüzeye temas ettirmeyin. Açılan flakonu kullanımdan sonra atın, tekrar kullanmayın. Gözde tahriş veya alerjik reaksiyon gelişirse kullanımı bırakın ve hekiminize danışın. Çocukların ulaşamayacağı yerde saklayın.</p>
+<h2>Sık Sorulan Sorular</h2>
+<h3>Artelac Advanced göz damlası ne içerir?</h3>
+<p>Artelac Advanced %0,2 hyaluronik asit içerir ve koruyucu madde içermeyen bir formüle sahiptir.</p>
+<h3>Artelac göz damlası kontakt lens ile kullanılır mı?</h3>
+<p>Ürün kontakt lens kullanıcıları için uygundur. Ayrıntılı kullanım bilgisi için ambalaj talimatını inceleyin.</p>
+<h3>Artelac Advanced göz damlası nasıl kullanılır?</h3>
+<p>Başınızı hafifçe geriye eğip alt göz kapağınızı nazikçe aşağı çekerek göze bir damla damlatın. Açılan flakonu kullanımdan sonra atın, tekrar kullanmayın.</p>
+<p>Kuru göz şikâyetleri için hijyenik, tek dozluk bir göz damlası arayanlar Artelac Advanced'i Farmaneva'da bulabilir.</p>
+</section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV00072]]></Product_code>
@@ -13088,7 +13143,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>21</Stock>
+<Stock>20</Stock>
 <Miad></Miad>
 <Price>140.16</Price>
 <Price2>206.09</Price2>
@@ -19525,7 +19580,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>20</Stock>
+<Stock>16</Stock>
 <Miad>2029-07-01</Miad>
 <Price>874.57</Price>
 <Price2>1078.73</Price2>
@@ -24742,36 +24797,6 @@
 <Description><![CDATA[<section><p><strong>NBT Life Duosvit Vmo 30 Duokapsül</strong>, vitamin, mineral ve omega yağ asitlerini duo kapsül formunda bir arada sunan bir takviye edici gıdadır. Normal beslenmeye ek olarak kullanılmak üzere hazırlanmıştır; bileşenlerin porsiyon başına miktarları ambalaj etiketinde yer alır.</p><h2>Öne Çıkan Özellikler</h2><ul><li>Vitaminler, mineraller ve omega yağ asitleri tek üründe</li><li>Duo kapsül formundadır</li><li>Kutuda 30 duo kapsül bulunur</li><li>Bileşen miktarları ambalaj etiketinde yer alır</li><li>Nbt Life markasıdır</li><li>Bileşen miktarları ve tam içerik listesi ambalaj etiketinde yer alır</li></ul><h2>Nasıl Kullanılır?</h2><p>Günlük kullanım miktarı ve kullanım zamanı için ambalaj üzerindeki talimatı izleyin. Kapsülü bir bardak su ile, çiğnemeden yutun. Kullanım şekli ya da süresi hakkında sorunuz varsa eczacınıza veya hekiminize danışın.</p><h2>Uyarılar</h2><p>Önerilen günlük kullanım miktarını aşmayın. Hamilelik, emzirme dönemi ya da düzenli ilaç kullanımında kullanmadan önce hekiminize danışın. İçerikteki maddelerden birine hassasiyetiniz varsa kullanmayın. Çocukların ulaşamayacağı, serin ve kuru bir yerde saklayın. Takviye edici gıdadır; normal beslenmenin yerine geçmez.</p><p>NBT Life Duosvit Vmo 30 Duokapsül ürününü Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
-<Product_code><![CDATA[FRMNV00684]]></Product_code>
-<Barcode>8680645530968</Barcode>
-<Name><![CDATA[NBT Life Endofer 30 Kapsül]]></Name>
-<Brand><![CDATA[Nbt Life]]></Brand>
-<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
-<category><![CDATA[Mineraller]]></category>
-<subCategory><![CDATA[Demir]]></subCategory>
-<Tax>1</Tax>
-<Stock>89</Stock>
-<Miad>2028-01-01</Miad>
-<Price>519.35</Price>
-<Price2>631.57</Price2>
-<Price3>631.57</Price3>
-<Price4>658.81</Price4>
-<Price5>650.49</Price5>
-<Price6>639.34</Price6>
-<Price7>906.74</Price7>
-<Price8>856.79</Price8>
-<Price9>639.34</Price9>
-<CurrencyType>TRL</CurrencyType>
-<HepsiburadaSku>HBCV0000GQL10L</HepsiburadaSku>
-<SaticiStokKodu>FRMNV00684</SaticiStokKodu>
-<Origin><![CDATA[TR]]></Origin>
-<Image1>https://www.farmaneva.com/uploads/urunler/8680645530968-0_jyq48.webp</Image1>
-<Image2>https://www.farmaneva.com/uploads/urunler/8680645530968-1_i5dgc.webp</Image2>
-<Image3>https://www.farmaneva.com/uploads/urunler/8680645530968-2_mdzip.webp</Image3>
-<Image4>https://www.farmaneva.com/uploads/urunler/8680645530968-3_rzb97.webp</Image4>
-<Description><![CDATA[<section><p><strong>NBT Life Endofer 30 Kapsül</strong>, demir ve C vitamini içeren, kapsül formunda bir takviye edici gıdadır. Her kapsülde ferrik pirofosfat formunda 17 mg demir ve 100 mg C vitamini bulunur; NBT İlaç tarafından üretilen ürün günde tek kapsül kullanım için hazırlanmıştır.</p><h2>Öne Çıkan Özellikler</h2><ul><li>Her kapsülde ferrik pirofosfat formunda 17 mg demir bulunur</li><li>Her kapsülde L-askorbik asit formunda 100 mg C vitamini bulunur</li><li>DRcaps teknolojisiyle üretilmiş bitkisel (HPMC) kapsül yapısındadır</li><li>Günde tek kapsül kullanım için hazırlanmıştır</li><li>Kutuda 30 kapsül bulunur</li><li>11 yaş ve üzeri bireyler için uygundur</li></ul><h2>Nasıl Kullanılır?</h2><p>11 yaş ve üzeri bireyler günde 1 kapsülü, tercihen yemekten 2 saat önce bir bardak su ile alabilir. Kutu üzerinde belirtilen günlük kullanım miktarı aşılmamalıdır.</p><h2>Uyarılar</h2><p>Önerilen günlük kullanım miktarını aşmayın. Hamilelik, emzirme dönemi ya da düzenli ilaç kullanımında kullanmadan önce hekiminize danışın. İçerikteki maddelerden birine hassasiyetiniz varsa kullanmayın. Çocukların ulaşamayacağı, serin ve kuru bir yerde saklayın. Takviye edici gıdadır; normal beslenmenin yerine geçmez. 25 °C altında saklayın; tavsiye edilen tüketim tarihinden önce tüketin.</p><p>NBT Life Endofer 30 Kapsül ürününü Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
-</Product>
-<Product>
 <Product_code><![CDATA[FRMNV00686]]></Product_code>
 <Barcode>8680645530852</Barcode>
 <Name><![CDATA[NBT Life Enzymlife Gold 60 Kapsül]]></Name>
@@ -25661,7 +25686,7 @@
 <category><![CDATA[Dudak Bakımı]]></category>
 <subCategory><![CDATA[Dudak Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>85</Stock>
+<Stock>79</Stock>
 <Miad>2027-11-01</Miad>
 <Price>103.70</Price>
 <Price2>162.77</Price2>
@@ -31374,7 +31399,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Ananas Ekstresi (Bromelain)]]></subCategory>
 <Tax>1</Tax>
-<Stock>217</Stock>
+<Stock>219</Stock>
 <Miad>2028-12-01</Miad>
 <Price>291.46</Price>
 <Price2>368.62</Price2>
@@ -32998,6 +33023,64 @@
 <h2>Sık Sorulan Sorular</h2>
 <p><strong>Ocuvite Complete günde kaç kapsül alınır?</strong><br>Günde 2 kapsül, yemeklerle birlikte ve su ile alınması önerilir.</p>
 <p><strong>İçinde lutein ve zeaksantin var mı?</strong><br>Evet, 2 kapsüllük porsiyonda 10 mg lutein ve 2 mg zeaksantin içerir.</p>
+<p><strong>Kutuda kaç kapsül var?</strong><br>60 kapsül bulunur.</p>
+</section>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV00919]]></Product_code>
+<Barcode>8681738150018</Barcode>
+<Name><![CDATA[Ocuvite Max 60 Kapsül]]></Name>
+<Brand><![CDATA[Ocuvite]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Göz Sağlığı]]></category>
+<Tax>1</Tax>
+<Stock>14</Stock>
+<Miad>2028-04-01</Miad>
+<Price>915.00</Price>
+<Price2>1149.31</Price2>
+<Price3>1090.00</Price3>
+<Price4>1222.54</Price4>
+<Price5>1212.51</Price5>
+<Price6>1186.41</Price6>
+<Price7>1550.52</Price7>
+<Price8>1482.45</Price8>
+<Price9>1186.41</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKYYQ</HepsiburadaSku>
+<SaticiStokKodu>FRMNV00919</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/ocuvite-max-60-kapsul-42179.webp</Image1>
+<Description><![CDATA[<section>
+<p><strong>Ocuvite Max 60 Kapsül</strong>Omega-3, lutein, zeaksantin ve bitki ekstrelerini bir arada arayan yetişkinler için hazırlanmıştır ve 60 kapsüllük ambalajda sunulur.</p>
+<h2>Özellikler</h2>
+<ul>
+<li>2 kapsüllük porsiyonda 742 mg omega-3</li>
+<li>584 mg DHA</li>
+<li>10 mg lutein ve 2 mg zeaksantin</li>
+<li>30 mg maquiberry ekstresi</li>
+<li>20 mg zerdeçal ekstresi</li>
+<li>180 mg C vitamini ve 30 mg E vitamini</li>
+<li>15 mg çinko</li>
+<li>Zenginleştirilmiş içeriğe rağmen kolay yutulan kapsül</li>
+</ul>
+<h2>İçerik</h2>
+<ul>
+<li>Omega-3 (DHA dahil)</li>
+<li>Lutein</li>
+<li>Zeaksantin</li>
+<li>Maquiberry ekstresi</li>
+<li>Zerdeçal ekstresi</li>
+<li>C vitamini</li>
+<li>E vitamini</li>
+<li>Çinko</li>
+</ul>
+<h2>Nasıl Kullanılır?</h2>
+<p>Yetişkinler için günde 2 kapsül, yemeklerle birlikte veya tek başına su ile alınması önerilir. Ürün ambalajındaki kılavuzu esas alınız.</p>
+<h2>Uyarılar</h2>
+<p>Takviye edici gıdadır; ilaç değildir, hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Normal ve dengeli beslenmenin yerine geçmez. Önerilen günlük dozu aşmayın. Hamilelik, emzirme döneminde veya düzenli ilaç kullanıyorsanız hekiminize danışın. Balık ürünlerine alerjisi olanlar içeriği kontrol etmelidir. Çocukların erişemeyeceği yerde, serin ve kuru bir ortamda saklayın. </p>
+<h2>Sık Sorulan Sorular</h2>
+<p><strong>Ocuvite Max günde kaç kapsül alınır?</strong><br>Yetişkinler için günde 2 kapsül önerilir.</p>
+<p><strong>Bitkisel ekstre içerir mi?</strong><br>Evet, 2 kapsüllük porsiyonda 30 mg maquiberry ve 20 mg zerdeçal ekstresi içerir.</p>
 <p><strong>Kutuda kaç kapsül var?</strong><br>60 kapsül bulunur.</p>
 </section>]]></Description>
 </Product>
@@ -38023,7 +38106,7 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>12</Stock>
+<Stock>8</Stock>
 <Miad></Miad>
 <Price>198.81</Price>
 <Price2>275.78</Price2>
@@ -43820,6 +43903,36 @@
 <Description><![CDATA[<section><p><strong>Magnimore Plus 30 Saşe</strong>, magnezyum asetil taurat, magnezyum bisglisinat ve magnezyum malat formlarını P5P (B6) ile bir araya getiren, saşe formunda pratik bir magnezyum takviyesidir. Suya karıştırarak kullanımı tercih eden yetişkinler için tasarlanmıştır. 30 saşelik ambalajı günde 1 saşe kullanımla bir aylık kullanıma uygundur.</p><h2>Öne Çıkan Özellikler</h2><ul><li>Saşe formunda, suya karıştırılarak tüketilen magnezyum takviyesi.</li><li>Üç farklı magnezyum formu (ATA-Mg, bisglisinat, malat) bir arada.</li><li>Pridoksal 5-fosfat (P5P/B6) ile zenginleştirilmiştir.</li><li>30 saşelik ambalaj.</li></ul><h2>İçerik</h2><ul><li>Magnezyum asetil taurat (ATA-Mg)</li><li>Magnezyum bisglisinat</li><li>Magnezyum malat</li><li>Pridoksal 5-fosfat (P5P / aktif B6 vitamini)</li></ul><h2>Nasıl Kullanılır?</h2><p>11 yaş ve üzeri yetişkinler için günde 1 saşe, tercihen öğünden 2 saat sonra 1 bardak suya karıştırılarak alınması tavsiye edilir.</p><h2>Uyarılar</h2><p>Takviye edici gıdadır; normal beslenmenin yerine geçmez. Normal ve dengeli beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayın. Çocukların erişemeyeceği yerde, serin ve kuru ortamda saklayın. Hamilelik, emzirme döneminde veya bir rahatsızlığınız varsa kullanmadan önce doktorunuza danışın.</p><h2>Sık Sorulan Sorular</h2><p><strong>Magnimore Plus saşe kaç günlük?</strong><br>30 saşelik ambalajda günde 1 saşe kullanıldığında bir aylık kullanıma uygundur.</p><p><strong>Ne zaman kullanılmalı?</strong><br>Tercihen öğünden 2 saat sonra, 1 bardak suya karıştırılarak alınması tavsiye edilir.</p><p><strong>Hamileler kullanabilir mi?</strong><br>Hamilelik ve emzirme döneminde kullanmadan önce doktorunuza danışmanız gerekir.</p><p>Magnimore Plus 30 Saşe ürününü Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
+<Product_code><![CDATA[FRMNV01225]]></Product_code>
+<Barcode>8680133000669</Barcode>
+<Name><![CDATA[Magnimore Plus 60 Tablet]]></Name>
+<Brand><![CDATA[Magnimore]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Mineraller]]></category>
+<subCategory><![CDATA[Magnezyum]]></subCategory>
+<Tax>1</Tax>
+<Stock>17</Stock>
+<Miad>2030-01-01</Miad>
+<Price>535.00</Price>
+<Price2>712.97</Price2>
+<Price3>698.00</Price3>
+<Price4>649.00</Price4>
+<Price5>649.00</Price5>
+<Price6>649.00</Price6>
+<Price7>830.00</Price7>
+<Price8>830.00</Price8>
+<Price9>647.99</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQKYYS</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01225</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/tab-ilac-magnimore-plus-60-tablet-10491.webp</Image1>
+<Image2>https://www.farmaneva.com/uploads/urunler/8680133000669-1_2tlfh.webp</Image2>
+<Image3>https://www.farmaneva.com/uploads/urunler/8680133000669-2_ghus0.webp</Image3>
+<Image4>https://www.farmaneva.com/uploads/urunler/8680133000669-3_q7spk.webp</Image4>
+<Description><![CDATA[<section> <p><strong>Magnimore Plus 60 Tablet</strong>, magnezyum N-asetil taurinat (ATA-Mg), bisglisinat ve malat formlarını bir arada sunan, tablet formunda bir takviye edici gıdadır. Üç farklı magnezyum kaynağı tek tablette bulunur; tablet başına her formdan 35 mg magnezyum gelir. Günlük rutininizde magnezyum desteği arayanlar için pratik bir seçenektir.</p> <h2>Öne Çıkan Özellikler</h2> <ul> <li>ATA-Mg (magnezyum N-asetil taurinat) formunda 35 mg magnezyum</li> <li>Bisglisinat formunda 35 mg magnezyum</li> <li>Malat formunda 35 mg magnezyum</li> <li>Tablet başına toplam 105 mg magnezyum</li> <li>Günde 1 veya 2 tablet kullanım önerisi</li> <li>60 tabletlik ambalaj</li> <li>11 yaş ve üzeri için uygundur</li> </ul> <h2>Nasıl Kullanılır?</h2> <p>11 yaş ve üzeri bireyler için günde 1 veya 2 tablet, sabah ve akşam öğünlerinden sonra, bir bardak su ile alınması önerilir. Ambalajdaki kullanım talimatını esas alın.</p> <h2>Uyarılar</h2> <p>Önerilen günlük kullanım miktarını aşmayın. Hamilelik, emzirme dönemi ya da düzenli ilaç kullanımında kullanmadan önce hekiminize danışın. İçerikteki maddelerden birine hassasiyetiniz varsa kullanmayın. Çocukların ulaşamayacağı, serin ve kuru bir yerde saklayın. Takviye edici gıdadır; normal beslenmenin yerine geçmez.</p> <h2>Sık Sorulan Sorular</h2> <h3>Günde kaç tablet alınır?</h3> <p>Günde 1 veya 2 tablet, öğünlerden sonra alınması önerilir.</p> <h3>Kaç tablet içerir?</h3> <p>Kutuda 60 tablet bulunur.</p> <p>Magnimore Plus 60 Tablet ürününü Farmaneva'da bulabilirsiniz.</p> </section>]]></Description>
+</Product>
+<Product>
 <Product_code><![CDATA[FRMNV01226]]></Product_code>
 <Barcode>8680133002861</Barcode>
 <Name><![CDATA[Magnimore Plus 90 Tablet]]></Name>
@@ -47841,7 +47954,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
-<Stock>49</Stock>
+<Stock>48</Stock>
 <Miad>2028-12-01</Miad>
 <Price>776.90</Price>
 <Price2>944.56</Price2>
@@ -50104,7 +50217,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Kuru & Atopik Ciltler İçin Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>0</Stock>
 <Miad>2029-04-01</Miad>
 <Price>977.42</Price>
 <Price2>1200.94</Price2>
@@ -50732,7 +50845,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Demir]]></subCategory>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad>2028-04-01</Miad>
 <Price>535.41</Price>
 <Price2>650.10</Price2>
@@ -51303,7 +51416,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>61</Stock>
+<Stock>60</Stock>
 <Miad>2028-01-01</Miad>
 <Price>476.00</Price>
 <Price2>581.55</Price2>
@@ -53681,15 +53794,15 @@
 <Tax>20</Tax>
 <Stock>206</Stock>
 <Miad>2028-01-01</Miad>
-<Price>442.00</Price>
-<Price2>564.74</Price2>
-<Price3>564.74</Price3>
-<Price4>591.34</Price4>
-<Price5>581.21</Price5>
-<Price6>569.68</Price6>
-<Price7>899.74</Price7>
-<Price8>835.90</Price8>
-<Price9>569.68</Price9>
+<Price>469.96</Price>
+<Price2>597.97</Price2>
+<Price3>597.97</Price3>
+<Price4>628.25</Price4>
+<Price5>617.98</Price5>
+<Price6>605.24</Price6>
+<Price7>943.43</Price7>
+<Price8>878.01</Price8>
+<Price9>605.24</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000H0G3FF</HepsiburadaSku>
 <SaticiStokKodu>850071952025</SaticiStokKodu>
@@ -54693,7 +54806,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>4</Stock>
 <Miad>2029-08-01</Miad>
 <Price>449.56</Price>
 <Price2>551.04</Price2>
@@ -65600,7 +65713,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>55</Stock>
+<Stock>53</Stock>
 <Miad>2030-12-01</Miad>
 <Price>97.33</Price>
 <Price2>149.56</Price2>
@@ -66746,16 +66859,16 @@
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>1</Tax>
 <Stock>4</Stock>
-<Miad>2026-12-01</Miad>
-<Price>594.91</Price>
-<Price2>718.75</Price2>
-<Price3>718.75</Price3>
-<Price4>753.74</Price4>
-<Price5>745.12</Price5>
-<Price6>731.46</Price6>
-<Price7>1015.14</Price7>
-<Price8>962.15</Price8>
-<Price9>731.46</Price9>
+<Miad>2029-03-01</Miad>
+<Price>586.25</Price>
+<Price2>708.76</Price2>
+<Price3>708.76</Price3>
+<Price4>742.86</Price4>
+<Price5>734.28</Price5>
+<Price6>720.90</Price6>
+<Price7>1002.72</Price7>
+<Price8>950.07</Price8>
+<Price9>720.90</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>33984018358</HepsiburadaSku>
 <SaticiStokKodu>33984018358</SaticiStokKodu>
@@ -67403,7 +67516,7 @@
 <category><![CDATA[Burun Bakımı]]></category>
 <subCategory><![CDATA[Burun Spreyi]]></subCategory>
 <Tax>10</Tax>
-<Stock>122</Stock>
+<Stock>126</Stock>
 <Miad>2029-03-01</Miad>
 <Price>436.81</Price>
 <Price2>546.71</Price2>
@@ -69556,7 +69669,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>166</Stock>
+<Stock>164</Stock>
 <Miad>2029-09-01</Miad>
 <Price>441.91</Price>
 <Price2>542.22</Price2>
@@ -69923,7 +70036,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>2</Stock>
 <Miad>2027-09-01</Miad>
 <Price>390.06</Price>
 <Price2>482.39</Price2>
@@ -73500,7 +73613,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>94</Stock>
+<Stock>90</Stock>
 <Miad>2029-07-01</Miad>
 <Price>395.16</Price>
 <Price2>488.27</Price2>
