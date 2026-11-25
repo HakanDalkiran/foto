@@ -26397,7 +26397,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>24</Stock>
+<Stock>18</Stock>
 <Miad></Miad>
 <Price>154.28</Price>
 <Price2>222.87</Price2>
@@ -53593,7 +53593,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Yüz Temizleme]]></subCategory>
 <Tax>20</Tax>
-<Stock>204</Stock>
+<Stock>203</Stock>
 <Miad>2028-01-01</Miad>
 <Price>442.00</Price>
 <Price2>564.74</Price2>
@@ -67548,7 +67548,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>3</Stock>
+<Stock>2</Stock>
 <Miad>2029-08-01</Miad>
 <Price>741.96</Price>
 <Price2>888.42</Price2>
