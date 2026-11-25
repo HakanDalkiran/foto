@@ -6616,7 +6616,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>20</Stock>
+<Stock>19</Stock>
 <Miad>2028-01-01</Miad>
 <Price>627.21</Price>
 <Price2>756.02</Price2>
@@ -38675,11 +38675,11 @@
 <category><![CDATA[Göz Bakımı]]></category>
 <subCategory><![CDATA[Göz Damlası]]></subCategory>
 <Tax>10</Tax>
-<Stock>5</Stock>
+<Stock>10</Stock>
 <Miad>2028-10-01</Miad>
 <Price>443.61</Price>
-<Price2>554.66</Price2>
-<Price3>554.66</Price3>
+<Price2>584.00</Price2>
+<Price3>584.00</Price3>
 <Price4>577.41</Price4>
 <Price5>568.41</Price5>
 <Price6>558.46</Price6>
