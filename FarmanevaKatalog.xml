@@ -1920,7 +1920,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>72.17</Price>
 <Price2>125.31</Price2>
@@ -6980,7 +6980,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>7</Stock>
+<Stock>5</Stock>
 <Miad></Miad>
 <Price>845.66</Price>
 <Price2>1044.38</Price2>
@@ -15821,7 +15821,7 @@
 <category><![CDATA[Şeker Ölçüm Cihazları]]></category>
 <subCategory><![CDATA[Şeker Ölçüm Çubukları]]></subCategory>
 <Tax>10</Tax>
-<Stock>76</Stock>
+<Stock>75</Stock>
 <Miad></Miad>
 <Price>365.41</Price>
 <Price2>463.18</Price2>
@@ -43741,7 +43741,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Enerji & Yorgunluk]]></category>
 <Tax>1</Tax>
-<Stock>58</Stock>
+<Stock>55</Stock>
 <Miad>2028-01-01</Miad>
 <Price>760.66</Price>
 <Price2>910.00</Price2>
@@ -67098,7 +67098,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>4</Stock>
+<Stock>2</Stock>
 <Miad>2027-10-01</Miad>
 <Price>150.37</Price>
 <Price2>205.83</Price2>
@@ -69306,7 +69306,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>151</Stock>
+<Stock>150</Stock>
 <Miad>2029-09-01</Miad>
 <Price>441.91</Price>
 <Price2>542.22</Price2>
@@ -81976,7 +81976,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>636.23</Price>
 <Price2>795.53</Price2>
