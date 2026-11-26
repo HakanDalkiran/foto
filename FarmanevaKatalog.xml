@@ -1821,7 +1821,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Çocuklar İçin Besin Takviyesi]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad>2027-03-01</Miad>
 <Price>296.56</Price>
 <Price2>374.51</Price2>
@@ -1920,7 +1920,7 @@
 <category><![CDATA[Vücut Bakımı]]></category>
 <subCategory><![CDATA[Vücut Nemlendirici]]></subCategory>
 <Tax>20</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad></Miad>
 <Price>72.17</Price>
 <Price2>125.31</Price2>
@@ -9978,7 +9978,7 @@
 <category><![CDATA[Yüz Bakımı]]></category>
 <subCategory><![CDATA[Maske & Peeling]]></subCategory>
 <Tax>20</Tax>
-<Stock>28</Stock>
+<Stock>26</Stock>
 <Miad></Miad>
 <Price>360.40</Price>
 <Price2>467.79</Price2>
@@ -11207,7 +11207,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>303</Stock>
+<Stock>304</Stock>
 <Miad></Miad>
 <Price>305.91</Price>
 <Price2>403.04</Price2>
@@ -11342,7 +11342,7 @@
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
 <Tax>20</Tax>
-<Stock>177</Stock>
+<Stock>182</Stock>
 <Miad></Miad>
 <Price>463.16</Price>
 <Price2>589.89</Price2>
@@ -16182,7 +16182,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>15</Stock>
+<Stock>13</Stock>
 <Miad>2028-02-01</Miad>
 <Price>406.30</Price>
 <Price2>501.13</Price2>
@@ -20767,7 +20767,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>49</Stock>
+<Stock>50</Stock>
 <Miad>2029-12-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -39381,7 +39381,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>8</Stock>
+<Stock>10</Stock>
 <Miad>2028-06-01</Miad>
 <Price>917.92</Price>
 <Price2>1109.54</Price2>
@@ -43639,7 +43639,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>44</Stock>
+<Stock>48</Stock>
 <Miad>2030-05-01</Miad>
 <Price>959.57</Price>
 <Price2>1139.51</Price2>
@@ -43945,6 +43945,34 @@
 <p>Takviye edici gıdadır, ilaç değildir; hastalıkların önlenmesi veya tedavisi amacıyla kullanılmaz. Önerilen günlük porsiyonu aşmayın, dengeli beslenmenin yerini tutmaz. Hamilelik, emzirme döneminde, bir rahatsızlığınız varsa veya ilaç kullanıyorsanız doktorunuza danışın.</p>
 <p>Farmaneva güvencesiyle sunulur.</p>
 </section><p>Takviye edici gıdadır. İlaç değildir; hastalıkların önlenmesi veya tedavi edilmesi amacıyla kullanılmaz. Normal beslenmenin yerine geçmez. Önerilen günlük porsiyonu aşmayınız; çocukların ulaşamayacağı yerde saklayınız.</p>]]></Description>
+</Product>
+<Product>
+<Product_code><![CDATA[FRMNV01237]]></Product_code>
+<Barcode>3662042005282</Barcode>
+<Name><![CDATA[Thea Resvega 60 Kapsül]]></Name>
+<Brand><![CDATA[Thea]]></Brand>
+<mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
+<category><![CDATA[Göz Sağlığı]]></category>
+<Tax>1</Tax>
+<Stock>15</Stock>
+<Miad>2027-04-01</Miad>
+<Price>770.00</Price>
+<Price2>1067.91</Price2>
+<Price3>1017.00</Price3>
+<Price4>1028.47</Price4>
+<Price5>1028.47</Price5>
+<Price6>1028.47</Price6>
+<Price7>1250.00</Price7>
+<Price8>1250.00</Price8>
+<Price9>1028.47</Price9>
+<CurrencyType>TRL</CurrencyType>
+<HepsiburadaSku>HBCV0000GQL43H</HepsiburadaSku>
+<SaticiStokKodu>FRMNV01237</SaticiStokKodu>
+<Origin><![CDATA[TR]]></Origin>
+<Image1>https://www.farmaneva.com/uploads/urunler/thea-resvega-60-kapsul-10505.webp</Image1>
+<Description><![CDATA[<section><p><strong>Thea Resvega 60 Kapsül</strong>, resveratrol, lutein, zeaksantin, omega-3 yağ asitleri, vitamin ve mineralleri bir araya getiren bir takviye edici gıdadır. Göze yönelik bileşenleri günlük beslenmesinde tek üründe almak isteyen yetişkinler için hazırlanmıştır.</p><h2>Öne Çıkan Özellikler</h2><ul><li>60 kapsüllük ambalaj</li><li>Lutein, zeaksantin ve resveratrol içeren formül</li><li>DHA ve EPA içeren omega-3 yağ asitleri</li><li>C ve E vitaminleri ile çinko ve bakır mineralleri</li><li>Günde 2 kapsül kullanımda bir aylık miktar</li></ul><h2>Nasıl Kullanılır?</h2><p>Yetişkinler için günde 2 kapsül, tercihen yemekle birlikte bir bardak su ile alınması tavsiye edilir. Miktarlar ve tam içerik listesi için ürün ambalajındaki etiketi inceleyin.</p>
+<p>Günlük kullanım düzenini <a href="https://www.farmaneva.com/resvega-nasil-kullanilir">Resvega nasıl kullanılır</a> yazımızda bulabilirsiniz.</p>
+<h2>Uyarılar</h2><p>Önerilen günlük kullanım miktarını aşmayın. Hamilelik, emzirme dönemi ya da düzenli ilaç kullanımında kullanmadan önce hekiminize danışın. İçerikteki maddelerden birine hassasiyetiniz varsa kullanmayın. Çocukların ulaşamayacağı, serin ve kuru bir yerde saklayın. Takviye edici gıdadır; normal beslenmenin yerine geçmez.</p><p>Thea Resvega 60 Kapsül ürününü Farmaneva'da bulabilirsiniz.</p></section>]]></Description>
 </Product>
 <Product>
 <Product_code><![CDATA[FRMNV01238]]></Product_code>
@@ -44751,7 +44779,7 @@
 <subCategory><![CDATA[Göz Nemlendirici]]></subCategory>
 <Tax>20</Tax>
 <Stock>2</Stock>
-<Miad>2027-02-01</Miad>
+<Miad>2027-12-01</Miad>
 <Price>1485.80</Price>
 <Price2>1805.00</Price2>
 <Price3>1805.00</Price3>
@@ -47599,7 +47627,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Beyin, Hafıza, Uyku & Stres]]></category>
 <Tax>10</Tax>
-<Stock>69</Stock>
+<Stock>71</Stock>
 <Miad>2028-09-01</Miad>
 <Price>1274.07</Price>
 <Price2>1526.19</Price2>
@@ -50211,7 +50239,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>10</Tax>
-<Stock>61</Stock>
+<Stock>62</Stock>
 <Miad>2028-06-01</Miad>
 <Price>1019.92</Price>
 <Price2>1228.87</Price2>
@@ -50321,7 +50349,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
-<Stock>62</Stock>
+<Stock>63</Stock>
 <Miad></Miad>
 <Price>1274.07</Price>
 <Price2>1526.19</Price2>
@@ -57696,7 +57724,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>6</Stock>
+<Stock>0</Stock>
 <Miad>2028-08-01</Miad>
 <Price>1086.30</Price>
 <Price2>1285.73</Price2>
@@ -59448,7 +59476,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Yüz Makyajı (BB & CC)]]></subCategory>
 <Tax>20</Tax>
-<Stock>1</Stock>
+<Stock>0</Stock>
 <Miad></Miad>
 <Price>498.86</Price>
 <Price2>632.31</Price2>
@@ -66145,7 +66173,7 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tens Cihazı Aksesuarları]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
+<Stock>275</Stock>
 <Miad>2027-11-01</Miad>
 <Price>55.17</Price>
 <Price2>100.24</Price2>
@@ -66341,7 +66369,7 @@
 <category><![CDATA[Bebek Bakımı]]></category>
 <subCategory><![CDATA[Bebek Şampuanı]]></subCategory>
 <Tax>20</Tax>
-<Stock>57</Stock>
+<Stock>55</Stock>
 <Miad>2029-10-01</Miad>
 <Price>292.40</Price>
 <Price2>386.99</Price2>
@@ -67104,7 +67132,7 @@
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
 <Stock>2</Stock>
-<Miad>2027-06-01</Miad>
+<Miad>2027-10-01</Miad>
 <Price>150.37</Price>
 <Price2>205.83</Price2>
 <Price3>205.83</Price3>
@@ -67275,7 +67303,7 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[D Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>9</Stock>
 <Miad>2028-06-01</Miad>
 <Price>240.46</Price>
 <Price2>309.78</Price2>
@@ -67473,7 +67501,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Omega 3 / Balık Yağı]]></category>
 <Tax>1</Tax>
-<Stock>170</Stock>
+<Stock>171</Stock>
 <Miad>2028-07-01</Miad>
 <Price>373.91</Price>
 <Price2>463.76</Price2>
@@ -68082,7 +68110,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Göz Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>5</Stock>
+<Stock>6</Stock>
 <Miad>2029-08-01</Miad>
 <Price>574.17</Price>
 <Price2>694.82</Price2>
@@ -70641,7 +70669,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>12</Stock>
+<Stock>13</Stock>
 <Miad>2028-11-01</Miad>
 <Price>1351.41</Price>
 <Price2>1591.62</Price2>
@@ -72668,7 +72696,7 @@
 <category><![CDATA[Makyaj]]></category>
 <subCategory><![CDATA[Dudak Makyajı]]></subCategory>
 <Tax>20</Tax>
-<Stock>2</Stock>
+<Stock>1</Stock>
 <Miad></Miad>
 <Price>535.41</Price>
 <Price2>675.73</Price2>
@@ -80022,7 +80050,7 @@
 <Product_code><![CDATA[CC21-7350121256712]]></Product_code>
 <Barcode>7350121256712</Barcode>
 <Name><![CDATA[TePe Arayüz Fırçası Blister Turuncu 0,45 mm 6lı (T181)]]></Name>
-<Brand><![CDATA[TePe]]></Brand>
+<Brand><![CDATA[Tepe]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
@@ -84091,7 +84119,7 @@
 <category><![CDATA[Duş & Banyo Ürünleri]]></category>
 <subCategory><![CDATA[Duş Jeli]]></subCategory>
 <Tax>20</Tax>
-<Stock>36</Stock>
+<Stock>37</Stock>
 <Miad>2029-09-01</Miad>
 <Price>148.66</Price>
 <Price2>216.19</Price2>
@@ -85905,7 +85933,7 @@
 <Product_code><![CDATA[YI50-5010622005012]]></Product_code>
 <Barcode>YI-5010622005012</Barcode>
 <Name><![CDATA[Oral-B Mumsuz Diş İpi Essential Floss 50 m 50 Adet]]></Name>
-<Brand><![CDATA[Oral-B]]></Brand>
+<Brand><![CDATA[Oral B]]></Brand>
 <mainCategory><![CDATA[Kişisel Bakım]]></mainCategory>
 <category><![CDATA[Ağız & Diş Bakımı]]></category>
 <subCategory><![CDATA[Diş Fırçası]]></subCategory>
@@ -87125,7 +87153,7 @@
 <Product_code><![CDATA[YI20-8680434325751]]></Product_code>
 <Barcode>YI-8680434325751</Barcode>
 <Name><![CDATA[Artımed WL-601 Alından Temassız Ateş Ölçer 20 Adet]]></Name>
-<Brand><![CDATA[Artımed]]></Brand>
+<Brand><![CDATA[Artimed]]></Brand>
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Ateş Ölçer]]></category>
 <Tax>10</Tax>
@@ -88595,7 +88623,7 @@
 <Product_code><![CDATA[YI20-8682241211739]]></Product_code>
 <Barcode>YI-8682241211739</Barcode>
 <Name><![CDATA[Clear Motion Yatak Koruyucu 90x180 cm 30’lu 20 Adet]]></Name>
-<Brand><![CDATA[Clear Motion]]></Brand>
+<Brand><![CDATA[Clearmotion]]></Brand>
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Hasta Bezi]]></category>
 <subCategory><![CDATA[Hasta Altı Bezi]]></subCategory>
@@ -92230,7 +92258,7 @@
 <Product_code><![CDATA[YI30-8683684780400]]></Product_code>
 <Barcode>YI-8683684780400</Barcode>
 <Name><![CDATA[Sowell Plus Gunes Kremi SPF50+ 75 ml - Serum Hediyeli 30 Adet]]></Name>
-<Brand><![CDATA[Sowell]]></Brand>
+<Brand><![CDATA[So Well]]></Brand>
 <mainCategory><![CDATA[Cilt Bakımı]]></mainCategory>
 <category><![CDATA[Güneş Bakımı]]></category>
 <subCategory><![CDATA[Yüz İçin Güneş Kremi]]></subCategory>
@@ -97298,7 +97326,7 @@
 <Product_code><![CDATA[YI20-8699284270562]]></Product_code>
 <Barcode>YI-8699284270562</Barcode>
 <Name><![CDATA[Baybay Night Melisa İçeren Bitkisel Damla 50 ml 20 Adet]]></Name>
-<Brand><![CDATA[BayBay]]></Brand>
+<Brand><![CDATA[Baybay]]></Brand>
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Bitkisel Takviyeler]]></subCategory>
@@ -99204,7 +99232,7 @@
 <Product_code><![CDATA[YI50-I5108538]]></Product_code>
 <Barcode>YI-I5108538</Barcode>
 <Name><![CDATA[Artımed Damlalık Kapaklı 12 Adet - 50 Paket]]></Name>
-<Brand><![CDATA[Artımed]]></Brand>
+<Brand><![CDATA[Artimed]]></Brand>
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
@@ -99231,7 +99259,7 @@
 <Product_code><![CDATA[YI100-I5108558]]></Product_code>
 <Barcode>YI-I5108558</Barcode>
 <Name><![CDATA[Artımed Sürgü 100 Adet]]></Name>
-<Brand><![CDATA[Artımed]]></Brand>
+<Brand><![CDATA[Artimed]]></Brand>
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Tıbbi Cihaz & İlk Yardım]]></category>
 <Tax>10</Tax>
