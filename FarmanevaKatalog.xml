@@ -7806,7 +7806,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>10</Stock>
+<Stock>11</Stock>
 <Miad>2029-01-01</Miad>
 <Price>695.30</Price>
 <Price2>834.58</Price2>
@@ -8673,17 +8673,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-03-01</Miad>
-<Price>973.17</Price>
-<Price2>1155.20</Price2>
-<Price3>1155.20</Price3>
-<Price4>1228.95</Price4>
-<Price5>1218.89</Price5>
-<Price6>1192.63</Price6>
-<Price7>1557.84</Price7>
-<Price8>1489.56</Price8>
-<Price9>1192.63</Price9>
+<Stock>20</Stock>
+<Miad>2027-03-01</Miad>
+<Price>1083.66</Price>
+<Price2>1282.68</Price2>
+<Price3>1282.68</Price3>
+<Price4>1367.76</Price4>
+<Price5>1357.28</Price5>
+<Price6>1327.34</Price6>
+<Price7>1716.36</Price7>
+<Price8>1643.62</Price8>
+<Price9>1327.34</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000MG10KC</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00244</SaticiStokKodu>
@@ -11869,7 +11869,7 @@
 <category><![CDATA[Saç Bakımı]]></category>
 <subCategory><![CDATA[Dökülme Önleyici Şampuan]]></subCategory>
 <Tax>20</Tax>
-<Stock>3</Stock>
+<Stock>4</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1253.66</Price>
 <Price2>1529.17</Price2>
@@ -12553,17 +12553,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Efervesan Tablet]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-01-01</Miad>
-<Price>254.06</Price>
-<Price2>325.47</Price2>
-<Price3>325.47</Price3>
-<Price4>325.52</Price4>
-<Price5>318.21</Price5>
-<Price6>315.90</Price6>
-<Price7>526.12</Price7>
-<Price8>475.91</Price8>
-<Price9>315.90</Price9>
+<Stock>16</Stock>
+<Miad>2027-02-01</Miad>
+<Price>314.41</Price>
+<Price2>395.10</Price2>
+<Price3>395.10</Price3>
+<Price4>401.34</Price4>
+<Price5>393.80</Price5>
+<Price6>389.48</Price6>
+<Price7>612.70</Price7>
+<Price8>571.04</Price8>
+<Price9>389.48</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKRPM</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00352</SaticiStokKodu>
@@ -17569,17 +17569,17 @@
 <mainCategory><![CDATA[Medikal Ürünler]]></mainCategory>
 <category><![CDATA[Göz Pedi & Göz Bandı]]></category>
 <Tax>10</Tax>
-<Stock>0</Stock>
-<Miad>2027-07-01</Miad>
-<Price>346.90</Price>
-<Price2>441.52</Price2>
-<Price3>441.52</Price3>
-<Price4>453.07</Price4>
-<Price5>444.49</Price5>
-<Price6>438.20</Price6>
-<Price7>700.87</Price7>
-<Price8>651.04</Price8>
-<Price9>438.20</Price9>
+<Stock>124</Stock>
+<Miad>2027-02-01</Miad>
+<Price>407.91</Price>
+<Price2>512.90</Price2>
+<Price3>512.90</Price3>
+<Price4>531.51</Price4>
+<Price5>522.67</Price5>
+<Price6>514.06</Price6>
+<Price7>791.93</Price7>
+<Price8>739.21</Price8>
+<Price9>514.06</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLK6E</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00493</SaticiStokKodu>
@@ -24823,7 +24823,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Sindirim & Enzim]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>1</Stock>
 <Miad>2026-12-01</Miad>
 <Price>1691.41</Price>
 <Price2>1983.92</Price2>
@@ -31291,17 +31291,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[B Vitamini]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>13</Stock>
 <Miad>2028-10-01</Miad>
-<Price>292.40</Price>
-<Price2>369.71</Price2>
-<Price3>369.71</Price3>
-<Price4>373.69</Price4>
-<Price5>366.23</Price5>
-<Price6>362.65</Price6>
-<Price7>581.13</Price7>
-<Price8>540.35</Price8>
-<Price9>362.65</Price9>
+<Price>488.66</Price>
+<Price2>596.16</Price2>
+<Price3>596.16</Price3>
+<Price4>620.25</Price4>
+<Price5>612.05</Price5>
+<Price6>601.92</Price6>
+<Price7>862.70</Price7>
+<Price8>814.00</Price8>
+<Price9>601.92</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKRLK</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00864</SaticiStokKodu>
@@ -31891,9 +31891,9 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Saç, Cilt ve Tırnak]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>26</Stock>
 <Miad>2027-06-01</Miad>
-<Price>491.29</Price>
+<Price>491.30</Price>
 <Price2>599.20</Price2>
 <Price3>599.20</Price3>
 <Price4>623.57</Price4>
@@ -31901,7 +31901,7 @@
 <Price6>605.14</Price6>
 <Price7>866.49</Price7>
 <Price8>817.68</Price8>
-<Price9>605.13</Price9>
+<Price9>605.14</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQLABW</HepsiburadaSku>
 <SaticiStokKodu>FRMNV00883</SaticiStokKodu>
@@ -33903,8 +33903,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Mineraller]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2029-06-01</Miad>
+<Stock>9</Stock>
+<Miad>2028-02-01</Miad>
 <Price>298.35</Price>
 <Price2>376.57</Price2>
 <Price3>376.57</Price3>
@@ -34449,7 +34449,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>71</Stock>
+<Stock>72</Stock>
 <Miad>2028-10-01</Miad>
 <Price>66.72</Price>
 <Price2>109.31</Price2>
@@ -38006,17 +38006,17 @@
 <category><![CDATA[Deodorant & Parfüm]]></category>
 <subCategory><![CDATA[Kolonya]]></subCategory>
 <Tax>20</Tax>
-<Stock>0</Stock>
+<Stock>44</Stock>
 <Miad></Miad>
-<Price>103.62</Price>
-<Price2>162.68</Price2>
-<Price3>162.68</Price3>
-<Price4>144.69</Price4>
-<Price5>136.26</Price5>
-<Price6>139.39</Price6>
-<Price7>371.03</Price7>
-<Price8>312.20</Price8>
-<Price9>139.39</Price9>
+<Price>118.92</Price>
+<Price2>180.86</Price2>
+<Price3>180.86</Price3>
+<Price4>164.89</Price4>
+<Price5>156.37</Price5>
+<Price6>158.85</Price6>
+<Price7>394.93</Price7>
+<Price8>335.24</Price8>
+<Price9>158.85</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000GQKYIS</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01056</SaticiStokKodu>
@@ -60502,17 +60502,17 @@
 <category><![CDATA[Vitaminler]]></category>
 <subCategory><![CDATA[Multivitamin]]></subCategory>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>12</Stock>
 <Miad>2027-07-01</Miad>
-<Price>380.80</Price>
-<Price2>471.71</Price2>
-<Price3>471.71</Price3>
-<Price4>484.75</Price4>
-<Price5>476.95</Price5>
-<Price6>470.42</Price6>
-<Price7>707.96</Price7>
-<Price8>663.61</Price8>
-<Price9>470.42</Price9>
+<Price>449.56</Price>
+<Price2>551.04</Price2>
+<Price3>551.04</Price3>
+<Price4>571.13</Price4>
+<Price5>563.07</Price5>
+<Price6>554.25</Price6>
+<Price7>806.61</Price7>
+<Price8>759.48</Price8>
+<Price9>554.25</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV0000IR9PGF</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01750</SaticiStokKodu>
@@ -60798,7 +60798,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Eklem & Kemik Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>49</Stock>
+<Stock>50</Stock>
 <Miad>2028-05-01</Miad>
 <Price>670.65</Price>
 <Price2>806.14</Price2>
@@ -64615,17 +64615,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kadın Sağlığı]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
+<Stock>22</Stock>
 <Miad>2026-12-01</Miad>
-<Price>534.56</Price>
-<Price2>649.12</Price2>
-<Price3>649.12</Price3>
-<Price4>677.92</Price4>
-<Price5>669.54</Price5>
-<Price6>657.88</Price6>
-<Price7>928.56</Price7>
-<Price8>878.00</Price8>
-<Price9>657.88</Price9>
+<Price>611.91</Price>
+<Price2>738.37</Price2>
+<Price3>738.37</Price3>
+<Price4>775.09</Price4>
+<Price5>766.42</Price5>
+<Price6>752.19</Price6>
+<Price7>1039.53</Price7>
+<Price8>985.85</Price8>
+<Price9>752.19</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV00000OCXAR</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01866</SaticiStokKodu>
