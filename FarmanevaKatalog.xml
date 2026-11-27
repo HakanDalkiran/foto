@@ -57728,8 +57728,8 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Kolajen]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2028-08-01</Miad>
+<Stock>1</Stock>
+<Miad>2027-05-01</Miad>
 <Price>1086.30</Price>
 <Price2>1285.73</Price2>
 <Price3>1285.73</Price3>
@@ -62581,7 +62581,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>29</Stock>
+<Stock>30</Stock>
 <Miad>2027-09-01</Miad>
 <Price>496.31</Price>
 <Price2>604.98</Price2>
