@@ -27550,7 +27550,7 @@
 <category><![CDATA[Mineraller]]></category>
 <subCategory><![CDATA[Magnezyum]]></subCategory>
 <Tax>1</Tax>
-<Stock>121</Stock>
+<Stock>122</Stock>
 <Miad>2027-04-01</Miad>
 <Price>291.46</Price>
 <Price2>368.62</Price2>
@@ -34532,7 +34532,7 @@
 <category><![CDATA[Bitkisel Ürünler]]></category>
 <subCategory><![CDATA[Pastiller]]></subCategory>
 <Tax>1</Tax>
-<Stock>72</Stock>
+<Stock>71</Stock>
 <Miad>2028-10-01</Miad>
 <Price>66.72</Price>
 <Price2>109.31</Price2>
@@ -39216,7 +39216,7 @@
 <category><![CDATA[Yara Bakımı]]></category>
 <subCategory><![CDATA[Gazlı Bez & Kompres]]></subCategory>
 <Tax>10</Tax>
-<Stock>64</Stock>
+<Stock>69</Stock>
 <Miad>2027-02-01</Miad>
 <Price>127.42</Price>
 <Price2>184.76</Price2>
@@ -39831,7 +39831,7 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Probiyotik]]></category>
 <Tax>1</Tax>
-<Stock>1</Stock>
+<Stock>10</Stock>
 <Miad>2027-02-01</Miad>
 <Price>89.17</Price>
 <Price2>135.21</Price2>
@@ -62737,7 +62737,7 @@
 <category><![CDATA[Beslenme]]></category>
 <subCategory><![CDATA[Bebek Maması]]></subCategory>
 <Tax>1</Tax>
-<Stock>8</Stock>
+<Stock>19</Stock>
 <Miad>2027-09-01</Miad>
 <Price>496.31</Price>
 <Price2>604.98</Price2>
@@ -64375,17 +64375,17 @@
 <mainCategory><![CDATA[Vitamin & Takviye]]></mainCategory>
 <category><![CDATA[Bağışıklık Sistemi Güçlendiriciler]]></category>
 <Tax>1</Tax>
-<Stock>0</Stock>
-<Miad>2026-09-01</Miad>
-<Price>398.90</Price>
-<Price2>492.59</Price2>
-<Price3>492.59</Price3>
-<Price4>507.49</Price4>
-<Price5>499.62</Price5>
-<Price6>492.49</Price6>
-<Price7>733.92</Price7>
-<Price8>688.85</Price8>
-<Price9>492.49</Price9>
+<Stock>61</Stock>
+<Miad>2026-12-01</Miad>
+<Price>322.91</Price>
+<Price2>404.91</Price2>
+<Price3>404.91</Price3>
+<Price4>412.02</Price4>
+<Price5>404.44</Price5>
+<Price6>399.84</Price6>
+<Price7>624.90</Price7>
+<Price8>582.89</Price8>
+<Price9>399.84</Price9>
 <CurrencyType>TRL</CurrencyType>
 <HepsiburadaSku>HBCV000077BSQS</HepsiburadaSku>
 <SaticiStokKodu>FRMNV01854</SaticiStokKodu>
